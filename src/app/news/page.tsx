@@ -4,6 +4,7 @@ import NewsCard from '@/components/NewsCard';
 import { NewsCategoryLabel } from '@/types';
 import type { NewsCategory } from '@/types';
 import AdSlot from '@/components/AdSlot';
+import AffiliateTextCta from '@/components/AffiliateTextCta';
 
 export const metadata: Metadata = {
   title: 'ニュース一覧 | 暗号資産の最新ニュース',
@@ -96,6 +97,8 @@ export default async function NewsPage({ searchParams }: Props) {
           </a>
         </div>
       </div>
+
+      <AffiliateTextCta className="mb-6" compact />
 
       {/* ニュースグリッド */}
       {filtered.length > 0 ? (

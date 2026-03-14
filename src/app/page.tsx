@@ -9,6 +9,7 @@ import MatrixChart from '@/components/MatrixChart';
 import SocialBuzzPanel from '@/components/SocialBuzzPanel';
 import TrendWords from '@/components/TrendWords';
 import AdSlot from '@/components/AdSlot';
+import AffiliateTextCta from '@/components/AffiliateTextCta';
 
 export const metadata: Metadata = {
   title: 'ホーム | いま市場で話題になっている通貨がわかる',
@@ -97,6 +98,8 @@ export default async function HomePage() {
 
       {/* ========== 広告 (ヒーロー下) ========== */}
       <AdSlot size="leaderboard" className="mb-10" />
+
+      <AffiliateTextCta className="mb-10" />
 
       {/* ========== SNS話題量ランキング + Hypeスコア ========== */}
       {social && (

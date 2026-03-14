@@ -6,6 +6,7 @@ import { COIN_SLUG_MAP } from '@/lib/coins';
 import NewsCard from '@/components/NewsCard';
 import TrendChart from '@/components/TrendChart';
 import AdSlot from '@/components/AdSlot';
+import AffiliateTextCta from '@/components/AffiliateTextCta';
 import CoinImage from '@/components/CoinImage';
 import { formatJPY, formatChange, changeColor, surgeBadgeColor, shortNumber } from '@/lib/format';
 import { NewsCategoryLabel, NewsCategoryColor } from '@/types';
@@ -215,6 +216,8 @@ export default async function CoinDetailPage({ params }: Props) {
 
           {/* 広告スロット */}
           <AdSlot size="rectangle" />
+
+          <AffiliateTextCta compact />
 
           {/* 類似通貨 */}
           {similarCoins.length > 0 && (

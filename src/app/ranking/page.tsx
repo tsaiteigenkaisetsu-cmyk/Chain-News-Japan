@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { loadRankings, loadCoinSummaries } from '@/lib/data';
 import RankingTable from '@/components/RankingTable';
 import AdSlot from '@/components/AdSlot';
+import AffiliateTextCta from '@/components/AffiliateTextCta';
 
 export const metadata: Metadata = {
   title: 'ランキング | 急上昇・価格変動・ニュース増加率',
@@ -22,6 +23,8 @@ export default async function RankingPage() {
       </div>
 
       <AdSlot size="leaderboard" className="mb-8" />
+
+  <AffiliateTextCta className="mb-8" compact />
 
       {/* ランキンググリッド */}
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 mb-8">
