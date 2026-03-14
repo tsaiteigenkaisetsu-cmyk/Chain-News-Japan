@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T15:53:58.164Z",
+  "updated_at": "2026-03-14T17:02:28.452Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 61,
+      "news_count_24h": 59,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -90,25 +90,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 60,
+      "count": 61,
       "category": "価格"
     },
     {
@@ -200,18 +200,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 19,
+      "word": "PREDICTION",
+      "count": 18,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 19,
+      "word": "MILLION",
+      "count": 17,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 18,
+      "count": 17,
       "category": "ETF"
     },
     {
@@ -220,18 +220,18 @@
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "PREDICTS",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 12,
       "category": "相場"
     },
     {
       "word": "HOW",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "PREDICTS",
-      "count": 12,
+      "count": 11,
       "category": null
     },
     {
@@ -245,8 +245,28 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
+      "word": "GOLD",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 10,
       "category": null
     },
     {
@@ -260,12 +280,7 @@
       "category": null
     },
     {
-      "word": "SHIBA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "INU",
+      "word": "BLACKROCK",
       "count": 10,
       "category": null
     },
@@ -275,27 +290,17 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 10,
       "category": null
     },
     {
-      "word": "MINERS",
+      "word": "WHY",
       "count": 9,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "MINERS",
       "count": 9,
       "category": null
     },
@@ -310,34 +315,29 @@
       "category": null
     },
     {
+      "word": "SHIBA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "INU",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "NETWORK",
       "count": 9,
       "category": null
     },
     {
-      "word": "STAKED",
+      "word": "LAUNCHES",
       "count": 9,
-      "category": "ステーキング"
-    },
-    {
-      "word": "STOCKS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "TAX",
-      "count": 8,
       "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 604
+    "news_analyzed": 685
   }
 }
