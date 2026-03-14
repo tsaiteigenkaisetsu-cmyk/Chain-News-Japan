@@ -3,6 +3,7 @@ import { ImageResponse } from 'next/og';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 export const alt = 'Chain News Japan — Crypto Market Attention Dashboard';
+export const runtime = 'edge';
 
 const TAGS = [
   { label: 'Trending Ranking', color: '#D4A24C', border: 'rgba(212,162,76,0.45)' },
