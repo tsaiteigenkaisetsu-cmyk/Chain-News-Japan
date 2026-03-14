@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T22:58:52.571Z",
+  "updated_at": "2026-03-14T23:56:17.674Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -18,23 +18,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -225,6 +225,11 @@
       "category": "相場"
     },
     {
+      "word": "NEXT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 11,
       "category": null
@@ -250,18 +255,13 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "WHY",
       "count": 10,
       "category": null
     },
     {
       "word": "FOUNDATION",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 9,
       "category": null
     },
     {
@@ -281,11 +281,6 @@
     },
     {
       "word": "STABLECOINS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 9,
       "category": null
     },
@@ -315,6 +310,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "SURGE",
       "count": 8,
       "category": null
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 700
+    "news_analyzed": 675
   }
 }
