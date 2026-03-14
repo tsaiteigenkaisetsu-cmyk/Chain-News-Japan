@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T19:18:57.128Z",
+  "updated_at": "2026-03-14T19:56:08.141Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
+      "news_count_24h": 62,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 15,
+      "count": 14,
       "category": null
     },
     {
@@ -222,6 +222,11 @@
     {
       "word": "PREDICTS",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 12,
       "category": null
     },
     {
@@ -240,11 +245,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SURGE",
       "count": 11,
       "category": null
@@ -256,6 +256,11 @@
     },
     {
       "word": "FOUNDATION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STABLECOINS",
       "count": 10,
       "category": null
     },
@@ -280,6 +285,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "NETWORK",
       "count": 9,
       "category": null
@@ -291,11 +301,6 @@
     },
     {
       "word": "OIL",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STABLECOINS",
       "count": 9,
       "category": null
     },
@@ -328,16 +333,11 @@
       "word": "BILLION",
       "count": 8,
       "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 8,
-      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 685
+    "news_analyzed": 638
   }
 }
