@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T17:02:28.452Z",
+  "updated_at": "2026-03-14T17:58:04.397Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 59,
+      "news_count_24h": 60,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 24,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 61,
+      "count": 59,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 21,
+      "count": 22,
       "category": "相場"
     },
     {
@@ -200,19 +200,19 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "MILLION",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 17,
+      "count": 16,
       "category": "ETF"
+    },
+    {
+      "word": "PREDICTION",
+      "count": 15,
+      "category": null
     },
     {
       "word": "IRAN",
@@ -230,23 +230,28 @@
       "category": "相場"
     },
     {
+      "word": "SURGE",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "HOW",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STABLECOINS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "COIN",
       "count": 11,
       "category": null
     },
     {
       "word": "GOLD",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "ANALYST",
+      "count": 10,
       "category": null
     },
     {
@@ -265,7 +270,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "STABLECOINS",
       "count": 10,
       "category": null
     },
@@ -275,42 +280,12 @@
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WAR",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "MINERS",
       "count": 9,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
       "count": 9,
       "category": null
     },
@@ -325,19 +300,44 @@
       "category": null
     },
     {
+      "word": "COIN",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "NETWORK",
       "count": 9,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "BLACKROCK",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "ABOVE",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DESPITE",
+      "count": 8,
       "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 685
+    "news_analyzed": 619
   }
 }
