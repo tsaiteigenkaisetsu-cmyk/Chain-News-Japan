@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: '24時間で話題量が急上昇した通貨ランキング、価格急騰・急落ランキング、ニュース増加率ランキングを一覧表示。',
 };
 
-export const revalidate = 900;
+export const revalidate = 600;
 
 export default async function RankingPage() {
   const [rankings, coins] = await Promise.all([loadRankings(), loadCoinSummaries()]);

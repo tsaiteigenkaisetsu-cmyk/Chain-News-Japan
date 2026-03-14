@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: '全通貨の話題量を色で視覚化したヒートマップと、価格×話題量の4象限マトリクスを表示。',
 };
 
-export const revalidate = 900;
+export const revalidate = 600;
 
 export default async function HeatmapPage() {
   const coins = await loadCoinSummaries();

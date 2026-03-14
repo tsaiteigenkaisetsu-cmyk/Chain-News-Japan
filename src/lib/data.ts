@@ -1,33 +1,25 @@
 /**
  * データ読み込みユーティリティ
- * - サーバー側: data/ ディレクトリのJSONを読み込む
- * - クライアント側: /api/ エンドポイントを叩く
+ * - data/ 配下の JSON をビルド成果物に含めて参照する
+ * - Vercel のランタイムで fs 読み込みに依存しない
  */
 import type { NewsItem, PriceSnapshot, TopicTrend, RankingEntry, CoinSummary } from '@/types';
 import { COIN_MASTER } from './coins';
 import { aggregateTopicTrends, buildSurgeRanking, buildGrowthRanking, classifyMatrix } from './scoring';
+import newsData from '../../data/news.json';
+import pricesData from '../../data/prices.json';
+import fetchMetaData from '../../data/fetch-meta.json';
 
-const DATA_DIR = process.env.DATA_DIR ?? './data';
-
-/** JSONファイルを安全に読み込む（存在しない場合はデフォルト値を返す） */
-async function readJson<T>(filename: string, fallback: T): Promise<T> {
-  try {
-    const { readFile } = await import('fs/promises');
-    const path = await import('path');
-    const fullPath = path.join(process.cwd(), DATA_DIR, filename);
-    const raw = await readFile(fullPath, 'utf-8');
-    return JSON.parse(raw) as T;
-  } catch {
-    return fallback;
-  }
+function cloneJson<T>(value: T): T {
+  return JSON.parse(JSON.stringify(value)) as T;
 }
 
 export async function loadNews(): Promise<NewsItem[]> {
-  return readJson<NewsItem[]>('news.json', []);
+  return cloneJson(newsData as NewsItem[]);
 }
 
 export async function loadPrices(): Promise<PriceSnapshot[]> {
-  return readJson<PriceSnapshot[]>('prices.json', []);
+  return cloneJson(pricesData as PriceSnapshot[]);
 }
 
 /** 全コインサマリーを組み立てる */
@@ -98,7 +90,7 @@ export async function loadStats() {
   // ソース数はフェッチメタから取得、なければ sources.json から
   let sourceCount = 30;
   try {
-    const meta = await readJson<{ source_stats?: Record<string, unknown> }>('fetch-meta.json', {});
+    const meta = cloneJson(fetchMetaData as { source_stats?: Record<string, unknown> });
     if (meta.source_stats) {
       sourceCount = Object.keys(meta.source_stats).length;
     }

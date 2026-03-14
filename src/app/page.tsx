@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'ホーム | いま市場で話題になっている通貨がわかる',
 };
 
-export const revalidate = 900; // 15分ごとに再生成
+export const revalidate = 600; // 10分ごとに再生成
 
 export default async function HomePage() {
   const [coins, news, rankings, stats, social] = await Promise.all([

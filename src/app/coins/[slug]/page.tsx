@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-export const revalidate = 900;
+export const revalidate = 600;
 
 export default async function CoinDetailPage({ params }: Props) {
   const coinMeta = COIN_SLUG_MAP.get(params.slug);

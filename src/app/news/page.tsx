@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   description: '国内外の暗号資産ニュースを通貨別・カテゴリ別・時間別にフィルタして閲覧できます。',
 };
 
-export const revalidate = 900;
+export const revalidate = 600;
 
 const CATEGORIES = Object.keys(NewsCategoryLabel) as NewsCategory[];
 
@@ -41,7 +41,7 @@ export default async function NewsPage({ searchParams }: Props) {
       <div className="mb-8">
         <h1 className="text-2xl font-bold text-text-primary mb-2">📰 ニュース一覧</h1>
         <p className="text-text-secondary text-sm">
-          全{news.length}件 · 30分ごとに自動更新
+          全{news.length}件 · 10分ごとに自動更新
         </p>
       </div>
 

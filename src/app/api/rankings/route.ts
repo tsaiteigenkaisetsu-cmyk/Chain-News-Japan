@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import { loadRankings } from '@/lib/data';
 
-export const revalidate = 900;
+export const revalidate = 600;
 
 export async function GET() {
   try {
