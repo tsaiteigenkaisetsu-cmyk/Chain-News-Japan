@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T21:53:32.874Z",
+  "updated_at": "2026-03-14T22:58:52.571Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 61,
+      "news_count_24h": 59,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 57,
+      "count": 55,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 24,
       "category": "相場"
     },
     {
@@ -211,11 +211,6 @@
     },
     {
       "word": "PREDICTION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "PREDICTS",
       "count": 13,
       "category": null
     },
@@ -225,19 +220,24 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "RALLY",
       "count": 12,
+      "category": "相場"
+    },
+    {
+      "word": "ANALYST",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 11,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 12,
+      "count": 11,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 12,
-      "category": "相場"
     },
     {
       "word": "HOW",
@@ -245,13 +245,8 @@
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
-      "count": 10,
+      "word": "PREDICTS",
+      "count": 11,
       "category": null
     },
     {
@@ -266,6 +261,11 @@
     },
     {
       "word": "WHY",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
       "count": 9,
       "category": null
     },
@@ -295,27 +295,7 @@
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "NETWORK",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "MINERS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "INU",
       "count": 9,
       "category": null
     },
@@ -325,12 +305,32 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 9,
+      "word": "BREAKOUT",
+      "count": 8,
       "category": null
     },
     {
-      "word": "BREAKOUT",
+      "word": "BILLION",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DESPITE",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 8,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 647
+    "news_analyzed": 700
   }
 }
