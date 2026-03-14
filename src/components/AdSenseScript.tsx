@@ -11,10 +11,11 @@ export default function AdSenseScript() {
 
   return (
     <Script
+      id="adsense-verification"
       async
       crossOrigin="anonymous"
       src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
-      strategy="afterInteractive"
+      strategy="beforeInteractive"
     />
   );
 }
