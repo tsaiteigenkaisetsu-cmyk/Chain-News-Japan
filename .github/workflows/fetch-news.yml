@@ -41,5 +41,11 @@ jobs:
           git push
 
       - name: Vercel 再デプロイをトリガー（任意）
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
-        run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$VERCEL_DEPLOY_HOOK" ]; then
+            curl -X POST "$VERCEL_DEPLOY_HOOK"
+          else
+            echo "VERCEL_DEPLOY_HOOK is not set; skipping redeploy trigger."
+          fi
