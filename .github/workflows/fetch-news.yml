@@ -1,0 +1,48 @@
+name: ニュース自動収集
+
+on:
+  schedule:
+    # 30分ごとに実行（UTC）
+    - cron: '*/30 * * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: data ディレクトリ作成
+        run: mkdir -p data
+
+      - name: 既存 news.json を復元（キャッシュ）
+        id: cache-news
+        uses: actions/cache@v4
+        with:
+          path: data/news.json
+          key: news-${{ github.run_id }}
+          restore-keys: news-
+
+      - name: ニュースを取得
+        run: node scripts/fetch-news.mjs
+
+      - name: 変更をコミット & プッシュ
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "chore: ニュース更新 $(date '+%Y-%m-%d %H:%M JST' --date='9 hours')"
+          git push
+
+      - name: Vercel 再デプロイをトリガー（任意）
+        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
+        run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"

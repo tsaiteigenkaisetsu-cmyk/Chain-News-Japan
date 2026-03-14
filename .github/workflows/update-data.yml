@@ -1,0 +1,57 @@
+name: Update news & prices
+
+on:
+  schedule:
+    # 10分ごと（注: GitHub Actionsは最短5分間隔）
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # dataディレクトリの変更をコミットするためfetch-depth=1でOK
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      - name: Fetch news from all sources
+        run: node scripts/fetch-news.mjs
+        continue-on-error: false
+
+      - name: Update coin prices
+        run: node scripts/update-prices.mjs
+        continue-on-error: true  # 価格API失敗でもニュースはコミットする
+
+      - name: Collect social & trend data
+        run: node scripts/fetch-social.mjs
+        continue-on-error: true  # Reddit API 失敗でも他データはコミットする
+
+      - name: Commit data changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/prices.json data/fetch-meta.json data/social.json || true
+          # 変更がある場合のみコミット
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            NEWS_COUNT=$(node -e "const d=require('./data/news.json');console.log(d.length)" 2>/dev/null || echo "?")
+            git commit -m "chore: update data [${NEWS_COUNT} news] $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

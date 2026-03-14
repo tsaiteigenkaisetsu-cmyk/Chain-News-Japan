@@ -1,0 +1,39 @@
+name: 価格データ更新
+
+on:
+  schedule:
+    # 15分ごとに実行（UTC）
+    - cron: '*/15 * * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: data ディレクトリ作成
+        run: mkdir -p data
+
+      - name: 価格データを取得
+        run: node scripts/update-prices.mjs
+        env:
+          # CoinGecko Pro API キー (任意 - 無料版でも動作)
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+
+      - name: 変更をコミット & プッシュ
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add data/prices.json
+          git diff --staged --quiet || git commit -m "chore: 価格データ更新 $(date '+%Y-%m-%d %H:%M JST' --date='9 hours')"
+          git push
