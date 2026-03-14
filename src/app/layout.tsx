@@ -3,6 +3,7 @@ import { Noto_Sans_JP, Inter } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import AdSenseScript from '@/components/AdSenseScript';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
 
 const noto = Noto_Sans_JP({
@@ -50,6 +51,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ja" className={`${noto.variable} ${inter.variable}`}>
       <body className="bg-bg-primary text-text-primary font-sans antialiased min-h-screen">
+        <AdSenseScript />
         <GoogleAnalytics />
         <Header />
         <main className="min-h-screen">{children}</main>

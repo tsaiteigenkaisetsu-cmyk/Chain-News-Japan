@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import LegalPageLayout from '@/components/LegalPageLayout';
 
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://chain-news-japan.vercel.app';
+
 export const metadata: Metadata = {
   title: 'プライバシーポリシー',
   description: 'Chain News Japan の個人情報保護方針、Cookie、広告配信、アクセス解析に関する説明。',
@@ -15,7 +17,7 @@ export default function PrivacyPage() {
       <section>
         <h2>1. 事業者情報</h2>
         <p>サイト名: Chain News Japan</p>
-        <p>サイトURL: 未定（仮）</p>
+        <p>サイトURL: {siteUrl}</p>
         <p>サイト内容: 暗号資産ニュースを自動収集し、話題量やランキングを可視化する情報サイト</p>
       </section>
 
