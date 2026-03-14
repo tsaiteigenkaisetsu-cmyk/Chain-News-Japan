@@ -9,6 +9,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/'],
       },
     ],
-    sitemap: 'https://crypto-pulse-japan.vercel.app/sitemap.xml',
+    sitemap: 'https://chain-news-japan.vercel.app/sitemap.xml',
   };
 }

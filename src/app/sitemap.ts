@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 import { COIN_MASTER } from '@/lib/coins';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://crypto-pulse-japan.vercel.app';
+  const baseUrl = 'https://chain-news-japan.vercel.app';
 
   const staticPages = [
     { url: baseUrl,              changeFrequency: 'hourly' as const,  priority: 1.0 },
