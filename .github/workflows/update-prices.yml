@@ -1,9 +1,6 @@
 name: 価格データ更新
 
 on:
-  schedule:
-    # 15分ごとに実行（UTC）
-    - cron: '*/15 * * * *'
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
