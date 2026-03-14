@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next';
 
 export default function robots(): MetadataRoute.Robots {
+  const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? 'https://chain-news-japan.vercel.app').replace(/\/$/, '');
+
   return {
     rules: [
       {
@@ -9,6 +11,6 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/api/'],
       },
     ],
-    sitemap: 'https://chain-news-japan.vercel.app/sitemap.xml',
+    sitemap: `${siteUrl}/sitemap.xml`,
   };
 }
