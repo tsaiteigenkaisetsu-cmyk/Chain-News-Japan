@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T14:01:39.801Z",
+  "updated_at": "2026-03-15T15:03:04.027Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -63,14 +63,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -81,25 +81,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 43,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 25,
       "category": "相場"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MILLION",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
@@ -210,32 +210,27 @@
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 12,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
+      "word": "ANALYST",
       "count": 12,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "HOW",
       "count": 11,
-      "category": "ETF"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 10,
       "category": null
     },
     {
-      "word": "HOW",
+      "word": "TRUMP",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 10,
       "category": null
     },
@@ -245,8 +240,13 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "ETF",
       "count": 10,
+      "category": "ETF"
+    },
+    {
+      "word": "IRAN",
+      "count": 9,
       "category": null
     },
     {
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "BORIS",
       "count": 8,
       "category": null
@@ -300,12 +295,27 @@
       "category": null
     },
     {
+      "word": "SHIBA",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BREAKOUT",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 7,
       "category": null
     },
     {
       "word": "VOLUME",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "SURGE",
       "count": 7,
       "category": null
     },
@@ -323,21 +333,11 @@
       "word": "STABLECOINS",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 6,
-      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 724
+    "news_analyzed": 780
   }
 }
