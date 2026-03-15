@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14T23:56:17.674Z",
+  "updated_at": "2026-03-15T05:46:13.228Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 59,
+      "news_count_24h": 49,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,25 +16,25 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -43,16 +43,16 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 55,
+      "count": 54,
       "category": "価格"
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "ETF",
-      "count": 16,
+      "count": 17,
       "category": "ETF"
     },
     {
       "word": "TRUMP",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 13,
+      "word": "NEXT",
+      "count": 14,
       "category": null
     },
     {
@@ -220,22 +220,27 @@
       "category": null
     },
     {
+      "word": "ANALYST",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "HOW",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 12,
       "category": "相場"
     },
     {
-      "word": "NEXT",
+      "word": "FOUNDATION",
       "count": 11,
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
+      "word": "PREDICTION",
       "count": 11,
       "category": null
     },
@@ -245,13 +250,23 @@
       "category": null
     },
     {
-      "word": "HOW",
+      "word": "PREDICTS",
       "count": 11,
       "category": null
     },
     {
-      "word": "PREDICTS",
-      "count": 11,
+      "word": "WAR",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "TARGET",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
+      "count": 10,
       "category": null
     },
     {
@@ -260,22 +275,17 @@
       "category": null
     },
     {
-      "word": "FOUNDATION",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
+      "word": "DATA",
       "count": 9,
       "category": null
     },
     {
-      "word": "TARGET",
+      "word": "STRATEGY",
       "count": 9,
       "category": null
     },
     {
-      "word": "ABOVE",
+      "word": "SOLANA",
       "count": 9,
       "category": null
     },
@@ -285,32 +295,22 @@
       "category": null
     },
     {
-      "word": "WAR",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "NETWORK",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "BLACKROCK",
       "count": 9,
       "category": null
     },
     {
-      "word": "BREAKOUT",
+      "word": "PONZI",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
       "count": 8,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 8,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "DESPITE",
+      "word": "STABLECOIN",
       "count": 8,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "MINERS",
       "count": 8,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 675
+    "news_analyzed": 733
   }
 }
