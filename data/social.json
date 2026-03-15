@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T15:57:51.315Z",
+  "updated_at": "2026-03-15T17:03:03.262Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 49,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -63,14 +63,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -106,16 +106,16 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
@@ -186,21 +186,16 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 40,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 27,
       "category": "相場"
     },
     {
       "word": "FOUNDATION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 14,
       "category": null
     },
@@ -210,14 +205,14 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "NEXT",
       "count": 13,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "MILLION",
       "count": 12,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "ANALYST",
@@ -225,17 +220,17 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 10,
+      "word": "WHY",
+      "count": 11,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 11,
+      "category": "相場"
     },
     {
       "word": "PREDICTION",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 10,
       "category": null
     },
@@ -245,24 +240,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
-    },
-    {
-      "word": "TRUMP",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "PONZI",
       "count": 9,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "ETF",
       "count": 9,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "PREDICTS",
@@ -270,7 +255,22 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "JOHNSON",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "KEY",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 8,
       "category": null
     },
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "TARGET",
       "count": 8,
       "category": null
@@ -297,6 +302,11 @@
     {
       "word": "SOLANA",
       "count": 8,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
+      "count": 7,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "JOHNSON",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "BILLION",
+      "word": "70K",
       "count": 6,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 755
+    "news_analyzed": 795
   }
 }
