@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T21:56:01.721Z",
+  "updated_at": "2026-03-15T23:01:24.037Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
+      "news_count_24h": 40,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 27,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 23,
       "category": "相場"
     },
     {
@@ -202,11 +202,6 @@
     {
       "word": "NEXT",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 12,
       "category": null
     },
     {
@@ -225,8 +220,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "WHY",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 9,
       "category": null
     },
     {
@@ -235,9 +235,9 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 9,
-      "category": "ETF"
+      "word": "RIPPLE",
+      "count": 8,
+      "category": null
     },
     {
       "word": "DEAL",
@@ -245,12 +245,7 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "WAR",
+      "word": "PREDICTION",
       "count": 8,
       "category": null
     },
@@ -265,11 +260,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 8,
-      "category": "相場"
-    },
-    {
       "word": "PONZI",
       "count": 8,
       "category": null
@@ -280,9 +270,9 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "ETF",
       "count": 8,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "HIT",
@@ -290,12 +280,22 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "CLARITY",
       "count": 7,
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "ACT",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "WAR",
       "count": 7,
       "category": null
     },
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 820
+    "news_analyzed": 775
   }
 }
