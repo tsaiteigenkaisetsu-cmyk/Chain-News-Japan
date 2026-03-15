@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T23:01:24.037Z",
+  "updated_at": "2026-03-15T23:58:47.654Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 27,
+      "count": 24,
       "category": "価格"
     },
     {
@@ -200,18 +200,13 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "FOUNDATION",
       "count": 13,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "FOUNDATION",
-      "count": 12,
+      "word": "NEXT",
+      "count": 13,
       "category": null
     },
     {
@@ -221,6 +216,11 @@
     },
     {
       "word": "WHY",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "HOW",
       "count": 11,
       "category": null
     },
@@ -235,22 +235,12 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "BITMINE",
       "count": 8,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 8,
       "category": null
     },
@@ -270,9 +260,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 8,
-      "category": "ETF"
+      "word": "SELLS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 7,
+      "category": null
     },
     {
       "word": "HIT",
@@ -290,32 +285,12 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WAR",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "INU",
       "count": 7,
       "category": null
     },
     {
-      "word": "BUYING",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "70K",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "BITMINE",
       "count": 7,
       "category": null
     },
@@ -333,11 +308,36 @@
       "word": "BORIS",
       "count": 7,
       "category": null
+    },
+    {
+      "word": "TARGET",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 7,
+      "category": "ETF"
+    },
+    {
+      "word": "WHAT",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "EXEC",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 6,
+      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 775
+    "news_analyzed": 831
   }
 }
