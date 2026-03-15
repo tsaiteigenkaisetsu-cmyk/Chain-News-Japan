@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T19:43:50.205Z",
+  "updated_at": "2026-03-15T20:57:41.638Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,14 +81,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 13,
+      "count": 14,
       "category": null
     },
     {
@@ -205,7 +205,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "FOUNDATION",
       "count": 12,
       "category": null
     },
@@ -220,23 +220,18 @@
       "category": null
     },
     {
-      "word": "FOUNDATION",
+      "word": "PREDICTION",
       "count": 11,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 10,
-      "category": "相場"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 10,
+      "word": "WHY",
+      "count": 11,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 10,
+      "word": "DETAILS",
+      "count": 9,
       "category": null
     },
     {
@@ -250,6 +245,26 @@
       "category": "ETF"
     },
     {
+      "word": "DEAL",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "SHIBA",
       "count": 8,
       "category": null
@@ -260,12 +275,17 @@
       "category": null
     },
     {
-      "word": "DETAILS",
+      "word": "RALLY",
+      "count": 8,
+      "category": "相場"
+    },
+    {
+      "word": "BORIS",
       "count": 8,
       "category": null
     },
     {
-      "word": "BORIS",
+      "word": "DATA",
       "count": 8,
       "category": null
     },
@@ -295,12 +315,7 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WAR",
+      "word": "BITMINE",
       "count": 7,
       "category": null
     },
@@ -318,26 +333,11 @@
       "word": "TARGET",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 6,
-      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 811
+    "news_analyzed": 786
   }
 }
