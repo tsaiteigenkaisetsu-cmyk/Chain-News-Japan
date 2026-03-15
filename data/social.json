@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T09:51:55.584Z",
+  "updated_at": "2026-03-15T11:02:24.831Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 5
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,18 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 51,
       "category": "価格"
     },
     {
       "word": "MARKET",
       "count": 23,
       "category": "相場"
-    },
-    {
-      "word": "MILLION",
-      "count": 15,
-      "category": null
     },
     {
       "word": "TRUMP",
@@ -210,22 +205,27 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "MILLION",
       "count": 14,
-      "category": "ETF"
-    },
-    {
-      "word": "IRAN",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "FOUNDATION",
-      "count": 12,
       "category": null
     },
     {
       "word": "ANALYST",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
+    },
+    {
+      "word": "IRAN",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "FOUNDATION",
       "count": 12,
       "category": null
     },
@@ -240,22 +240,22 @@
       "category": "相場"
     },
     {
+      "word": "NETWORK",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "PREDICTS",
       "count": 11,
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WAR",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "NETWORK",
       "count": 10,
       "category": null
     },
@@ -270,17 +270,17 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TARGET",
+      "word": "PONZI",
       "count": 9,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WAR",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "TARGET",
       "count": 9,
       "category": null
     },
@@ -290,7 +290,12 @@
       "category": null
     },
     {
-      "word": "PONZI",
+      "word": "STOCKS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "BORIS",
       "count": 8,
       "category": null
     },
@@ -315,17 +320,7 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "DUBAI",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SINCE",
+      "word": "JOHNSON",
       "count": 7,
       "category": null
     },
@@ -333,11 +328,16 @@
       "word": "KEY",
       "count": 7,
       "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 7,
+      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 747
+    "news_analyzed": 705
   }
 }
