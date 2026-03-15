@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T17:03:03.262Z",
+  "updated_at": "2026-03-15T17:59:44.601Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 48,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -45,14 +45,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 41,
       "category": "価格"
     },
     {
@@ -195,18 +195,18 @@
       "category": "相場"
     },
     {
-      "word": "FOUNDATION",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "HOW",
-      "count": 13,
+      "count": 14,
       "category": null
     },
     {
       "word": "NEXT",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 12,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 11,
       "category": "相場"
+    },
+    {
+      "word": "FOUNDATION",
+      "count": 11,
+      "category": null
     },
     {
       "word": "PREDICTION",
@@ -237,6 +237,11 @@
     {
       "word": "DATA",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 9,
       "category": null
     },
     {
@@ -250,22 +255,12 @@
       "category": "ETF"
     },
     {
-      "word": "PREDICTS",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 9,
       "category": null
     },
     {
       "word": "JOHNSON",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "KEY",
       "count": 8,
       "category": null
     },
@@ -285,11 +280,6 @@
       "category": null
     },
     {
-      "word": "NETWORK",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 8,
       "category": null
@@ -302,6 +292,11 @@
     {
       "word": "SOLANA",
       "count": 8,
+      "category": null
+    },
+    {
+      "word": "70K",
+      "count": 7,
       "category": null
     },
     {
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "70K",
+      "word": "NETWORK",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 6,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 795
+    "news_analyzed": 750
   }
 }
