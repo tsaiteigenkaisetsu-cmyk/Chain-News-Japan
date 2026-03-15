@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T11:54:26.182Z",
+  "updated_at": "2026-03-15T14:01:39.801Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 44,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,26 +186,26 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 44,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 26,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
+      "word": "FOUNDATION",
       "count": 15,
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 13,
+      "word": "MILLION",
+      "count": 14,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "NEXT",
       "count": 13,
       "category": null
     },
@@ -215,33 +215,28 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 12,
-      "category": "ETF"
-    },
-    {
       "word": "RALLY",
       "count": 12,
       "category": "相場"
     },
     {
-      "word": "NETWORK",
-      "count": 11,
+      "word": "TRUMP",
+      "count": 12,
       "category": null
     },
     {
-      "word": "FOUNDATION",
+      "word": "ETF",
       "count": 11,
+      "category": "ETF"
+    },
+    {
+      "word": "PREDICTION",
+      "count": 10,
       "category": null
     },
     {
       "word": "HOW",
-      "count": 11,
+      "count": 10,
       "category": null
     },
     {
@@ -250,13 +245,8 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "IRAN",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "SURGE",
-      "count": 9,
       "category": null
     },
     {
@@ -265,7 +255,12 @@
       "category": null
     },
     {
-      "word": "WAR",
+      "word": "NETWORK",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 9,
       "category": null
     },
@@ -280,23 +275,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STABLECOINS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "PREDICTS",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "DETAILS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 8,
       "category": null
     },
     {
@@ -310,17 +300,12 @@
       "category": null
     },
     {
-      "word": "COIN",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "VOLUME",
+      "word": "WHAT",
       "count": 7,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "VOLUME",
       "count": 7,
       "category": null
     },
@@ -333,11 +318,26 @@
       "word": "KEY",
       "count": 7,
       "category": null
+    },
+    {
+      "word": "STABLECOINS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 6,
+      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 780
+    "news_analyzed": 724
   }
 }
