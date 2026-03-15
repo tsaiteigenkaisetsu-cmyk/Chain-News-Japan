@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T11:02:24.831Z",
+  "updated_at": "2026-03-15T11:54:26.182Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 46,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 51,
+      "count": 50,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 24,
       "category": "相場"
     },
     {
@@ -201,23 +201,18 @@
     },
     {
       "word": "NEXT",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
       "word": "ANALYST",
-      "count": 13,
+      "count": 12,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 13,
-      "category": "ETF"
     },
     {
       "word": "IRAN",
@@ -225,14 +220,9 @@
       "category": null
     },
     {
-      "word": "FOUNDATION",
+      "word": "ETF",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "HOW",
-      "count": 12,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "RALLY",
@@ -245,7 +235,12 @@
       "category": null
     },
     {
-      "word": "PREDICTS",
+      "word": "FOUNDATION",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "HOW",
       "count": 11,
       "category": null
     },
@@ -260,13 +255,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 10,
+      "word": "SURGE",
+      "count": 9,
       "category": null
     },
     {
@@ -285,12 +275,27 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "STABLECOINS",
       "count": 9,
       "category": null
     },
     {
       "word": "STOCKS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PREDICTS",
       "count": 9,
       "category": null
     },
@@ -305,18 +310,18 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "SURGE",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "COIN",
       "count": 8,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 7,
       "category": null
     },
     {
@@ -328,16 +333,11 @@
       "word": "KEY",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 7,
-      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 705
+    "news_analyzed": 780
   }
 }
