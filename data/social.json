@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T05:46:13.228Z",
+  "updated_at": "2026-03-15T07:55:50.178Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 48,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -191,17 +191,17 @@
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 23,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 19,
+      "count": 17,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 17,
+      "count": 15,
       "category": "ETF"
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "FOUNDATION",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 12,
       "category": null
@@ -233,21 +238,6 @@
       "word": "RALLY",
       "count": 12,
       "category": "相場"
-    },
-    {
-      "word": "FOUNDATION",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 11,
-      "category": null
     },
     {
       "word": "PREDICTS",
@@ -275,6 +265,16 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 9,
       "category": null
@@ -291,11 +291,6 @@
     },
     {
       "word": "STABLECOINS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
       "count": 9,
       "category": null
     },
@@ -320,17 +315,22 @@
       "category": null
     },
     {
-      "word": "VOLUME",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 8,
       "category": null
     },
     {
-      "word": "MINERS",
+      "word": "COIN",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "BLACKROCK",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "GOLD",
       "count": 8,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 733
+    "news_analyzed": 691
   }
 }
