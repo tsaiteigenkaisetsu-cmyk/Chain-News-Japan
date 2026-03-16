@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-15T23:58:47.654Z",
+  "updated_at": "2026-03-16T06:07:24.820Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 50,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -36,25 +36,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 24,
+      "count": 27,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 22,
       "category": "相場"
     },
     {
@@ -210,22 +210,17 @@
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 11,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 11,
+      "word": "ANALYST",
+      "count": 10,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "DEAL",
       "count": 9,
       "category": null
     },
@@ -235,17 +230,22 @@
       "category": null
     },
     {
+      "word": "70K",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "BITMINE",
       "count": 8,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STRATEGY",
       "count": 8,
       "category": null
     },
     {
-      "word": "SHIBA",
+      "word": "HOW",
       "count": 8,
       "category": null
     },
@@ -255,8 +255,28 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 8,
+      "word": "ABOVE",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "OTC",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "EXEC",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
+      "count": 7,
       "category": null
     },
     {
@@ -265,42 +285,7 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "INU",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "70K",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "JOHNSON",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "BREAKOUT",
       "count": 7,
       "category": null
     },
@@ -315,22 +300,37 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 7,
-      "category": "ETF"
-    },
-    {
-      "word": "WHAT",
+      "word": "BULLS",
       "count": 6,
       "category": null
     },
     {
-      "word": "EXEC",
+      "word": "HOLDS",
       "count": 6,
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "BREAKOUT",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "71K",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "AAVE",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "JUMPS",
       "count": 6,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 831
+    "news_analyzed": 835
   }
 }
