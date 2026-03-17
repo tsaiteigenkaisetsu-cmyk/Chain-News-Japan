@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T05:16:19.028Z",
+  "updated_at": "2026-03-17T08:04:11.717Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 124,
+      "news_count_24h": 125,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 44,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 54,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
@@ -200,32 +200,32 @@
       "category": "相場"
     },
     {
+      "word": "STRATEGY",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 18,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 16,
+      "count": 17,
       "category": "ETF"
     },
     {
       "word": "RALLY",
-      "count": 15,
+      "count": 16,
       "category": "相場"
     },
     {
-      "word": "BITMINE",
-      "count": 13,
-      "category": null
+      "word": "SEC",
+      "count": 16,
+      "category": "規制"
     },
     {
-      "word": "FOUNDATION",
+      "word": "PUSH",
       "count": 13,
       "category": null
     },
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "BULLISH",
+      "word": "BITMINE",
       "count": 12,
       "category": null
     },
     {
-      "word": "PUSH",
+      "word": "BULLISH",
       "count": 12,
       "category": null
     },
@@ -275,19 +275,9 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "WAR",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 11,
-      "category": "規制"
     },
     {
       "word": "JUMPS",
@@ -295,8 +285,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 11,
+      "word": "DEMAND",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SURGES",
+      "count": 10,
       "category": null
     },
     {
@@ -315,22 +310,27 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "AAVE",
       "count": 10,
       "category": null
     },
     {
-      "word": "BULLS",
+      "word": "DEAL",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SURGE",
       "count": 9,
       "category": null
     },
     {
-      "word": "SURGES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "SOUTH",
       "count": 9,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1191
+    "news_analyzed": 1300
   }
 }
