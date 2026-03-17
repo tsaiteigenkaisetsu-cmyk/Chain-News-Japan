@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T18:09:22.273Z",
+  "updated_at": "2026-03-17T20:04:50.187Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 120,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 28,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -36,16 +36,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -63,43 +63,43 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 75,
+      "count": 80,
       "category": "価格"
     },
     {
@@ -196,18 +196,23 @@
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 35,
       "category": "相場"
     },
     {
       "word": "STRATEGY",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 23,
+      "count": 25,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 23,
+      "category": "相場"
     },
     {
       "word": "WEEK",
@@ -220,33 +225,43 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 21,
-      "category": "相場"
-    },
-    {
       "word": "ETF",
-      "count": 19,
+      "count": 20,
       "category": "ETF"
     },
     {
-      "word": "MARKETS",
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 17,
-      "category": "規制"
-    },
-    {
-      "word": "LAUNCH",
+      "word": "SURGES",
       "count": 16,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 15,
+      "word": "TOKEN",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "LAUNCH",
+      "count": 16,
       "category": null
     },
     {
@@ -255,32 +270,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "FIRM",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "INU",
       "count": 15,
       "category": null
     },
@@ -295,7 +285,37 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "KOREA",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "RIPPLE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "INU",
       "count": 14,
       "category": null
     },
@@ -310,27 +330,7 @@
       "category": null
     },
     {
-      "word": "SURGES",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "BUY",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "SURGE",
+      "word": "EXPANDS",
       "count": 13,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1448
+    "news_analyzed": 1552
   }
 }
