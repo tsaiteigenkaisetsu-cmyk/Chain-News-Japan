@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T22:02:10.487Z",
+  "updated_at": "2026-03-17T23:50:06.228Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 117,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 32,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 4
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -99,14 +99,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -215,14 +215,19 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 24,
+      "category": "規制"
+    },
+    {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
       "word": "WEEK",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
     },
     {
       "word": "STABLECOIN",
@@ -230,9 +235,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 21,
-      "category": "ETF"
+      "word": "MARKETS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LAUNCH",
+      "count": 18,
+      "category": null
     },
     {
       "word": "WHAT",
@@ -240,22 +250,27 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PREDICTION",
       "count": 18,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TOKEN",
       "count": 17,
       "category": null
     },
     {
-      "word": "SURGES",
+      "word": "BULLISH",
       "count": 16,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "AGAIN",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SURGES",
       "count": 16,
       "category": null
     },
@@ -265,8 +280,13 @@
       "category": null
     },
     {
-      "word": "LAUNCH",
-      "count": 16,
+      "word": "SHIBA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "INU",
+      "count": 15,
       "category": null
     },
     {
@@ -285,8 +305,8 @@
       "category": null
     },
     {
-      "word": "BULLISH",
-      "count": 15,
+      "word": "DOWN",
+      "count": 14,
       "category": null
     },
     {
@@ -300,22 +320,7 @@
       "category": null
     },
     {
-      "word": "AGAIN",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "KOREA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "INU",
       "count": 14,
       "category": null
     },
@@ -328,16 +333,11 @@
       "word": "SOUTH",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "BULLS",
-      "count": 13,
-      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1516
+    "news_analyzed": 1603
   }
 }
