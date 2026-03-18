@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T23:50:06.228Z",
+  "updated_at": "2026-03-18T05:21:04.980Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 108,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -99,25 +99,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -191,13 +191,18 @@
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 42,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 36,
+      "count": 37,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 30,
+      "category": "規制"
     },
     {
       "word": "STRATEGY",
@@ -205,19 +210,14 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 26,
-      "category": "相場"
-    },
-    {
       "word": "BILLION",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 24,
-      "category": "規制"
+      "word": "RALLY",
+      "count": 25,
+      "category": "相場"
     },
     {
       "word": "ETF",
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "KEY",
       "count": 19,
       "category": null
     },
     {
-      "word": "LAUNCH",
-      "count": 18,
+      "word": "MARKETS",
+      "count": 19,
       "category": null
     },
     {
@@ -255,7 +255,12 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "SURGES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "LAUNCH",
       "count": 17,
       "category": null
     },
@@ -265,18 +270,13 @@
       "category": null
     },
     {
-      "word": "AGAIN",
-      "count": 16,
+      "word": "RIPPLE",
+      "count": 15,
       "category": null
     },
     {
-      "word": "SURGES",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 16,
+      "word": "ASSETS",
+      "count": 15,
       "category": null
     },
     {
@@ -290,18 +290,33 @@
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "AGAIN",
       "count": 15,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "TRADING",
       "count": 15,
       "category": null
     },
     {
-      "word": "FIRM",
-      "count": 15,
+      "word": "SURGE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "EXPANDS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BREAKOUT",
+      "count": 14,
       "category": null
     },
     {
@@ -310,27 +325,12 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "SECURITIES",
       "count": 14,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "KOREA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "SOUTH",
+      "word": "TOKEN",
       "count": 14,
       "category": null
     }
@@ -338,6 +338,6 @@
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1603
+    "news_analyzed": 1582
   }
 }
