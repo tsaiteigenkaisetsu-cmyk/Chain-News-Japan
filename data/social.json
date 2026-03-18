@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T18:40:41.760Z",
+  "updated_at": "2026-03-18T20:05:16.542Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 107,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 30,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 79,
+      "count": 75,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 50,
       "category": "相場"
     },
     {
       "word": "SEC",
-      "count": 46,
+      "count": 44,
       "category": "規制"
     },
     {
@@ -205,42 +205,47 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 26,
+      "category": "相場"
+    },
+    {
       "word": "KEY",
       "count": 26,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 25,
-      "category": "相場"
-    },
-    {
-      "word": "WHAT",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "FED",
       "count": 23,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 22,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "LAUNCHES",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 20,
       "category": null
     },
@@ -250,27 +255,22 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 19,
-      "category": "ETF"
-    },
-    {
       "word": "AMID",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "FOMC",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DOWN",
       "count": 17,
       "category": null
     },
@@ -290,19 +290,14 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "EXPANDS",
       "count": 16,
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "ETF",
       "count": 16,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "ASSETS",
@@ -311,11 +306,6 @@
     },
     {
       "word": "SECURITIES",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
       "count": 15,
       "category": null
     },
@@ -333,11 +323,21 @@
       "word": "HITS",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "POLYMARKET",
+      "count": 14,
+      "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1847
+    "news_analyzed": 1916
   }
 }
