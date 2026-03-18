@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T20:05:16.542Z",
+  "updated_at": "2026-03-18T21:53:46.647Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 108,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 35,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -70,18 +70,18 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "chainlink",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,18 +186,28 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 75,
+      "count": 78,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 51,
       "category": "相場"
     },
     {
       "word": "SEC",
-      "count": 44,
+      "count": 50,
       "category": "規制"
+    },
+    {
+      "word": "MILLION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 28,
+      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -205,18 +215,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 27,
+      "word": "BILLION",
+      "count": 25,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 26,
-      "category": "相場"
+      "word": "KEY",
+      "count": 25,
+      "category": null
     },
     {
-      "word": "KEY",
-      "count": 26,
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
@@ -225,18 +235,13 @@
       "category": null
     },
     {
-      "word": "FED",
+      "word": "RALLY",
       "count": 23,
-      "category": null
+      "category": "相場"
     },
     {
-      "word": "BILLION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 22,
+      "word": "WHAT",
+      "count": 21,
       "category": null
     },
     {
@@ -245,7 +250,12 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "SECURITIES",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 20,
       "category": null
     },
@@ -255,17 +265,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FOMC",
+      "word": "RIPPLE",
       "count": 18,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "FOMC",
       "count": 18,
       "category": null
     },
@@ -275,13 +280,18 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 17,
+      "word": "INFLATION",
+      "count": 16,
       "category": null
     },
     {
-      "word": "LAUNCH",
-      "count": 17,
+      "word": "PREDICTION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
+      "count": 16,
       "category": null
     },
     {
@@ -296,8 +306,23 @@
     },
     {
       "word": "ETF",
-      "count": 16,
+      "count": 15,
       "category": "ETF"
+    },
+    {
+      "word": "HOLDS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 15,
+      "category": null
     },
     {
       "word": "ASSETS",
@@ -305,39 +330,14 @@
       "category": null
     },
     {
-      "word": "SECURITIES",
+      "word": "TOKEN",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "PAYMENTS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "BULL",
-      "count": 15,
-      "category": "相場"
-    },
-    {
-      "word": "HITS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "POLYMARKET",
-      "count": 14,
       "category": null
     }
   ],
   "stats": {
     "reddit_success": 0,
     "reddit_failed": 20,
-    "news_analyzed": 1916
+    "news_analyzed": 1903
   }
 }
