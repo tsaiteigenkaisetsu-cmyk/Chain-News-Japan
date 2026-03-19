@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T07:54:51.022Z",
+  "updated_at": "2026-03-19T10:09:49.365Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 121,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 29,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -34,27 +34,27 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 69,
       "category": "価格"
+    },
+    {
+      "word": "SEC",
+      "count": 55,
+      "category": "規制"
     },
     {
       "word": "MARKET",
@@ -195,48 +200,38 @@
       "category": "相場"
     },
     {
-      "word": "SEC",
-      "count": 54,
-      "category": "規制"
-    },
-    {
       "word": "MILLION",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "FED",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 26,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 27,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "KEY",
       "count": 24,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 22,
+      "word": "KEY",
+      "count": 23,
       "category": null
     },
     {
@@ -250,17 +245,22 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "RALLY",
+      "count": 21,
+      "category": "相場"
+    },
+    {
+      "word": "AMID",
       "count": 21,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "RIPPLE",
       "count": 20,
-      "category": "相場"
+      "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "WHAT",
       "count": 20,
       "category": null
     },
@@ -270,23 +270,28 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 18,
+      "word": "WHY",
+      "count": 19,
       "category": null
     },
     {
       "word": "FOMC",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HOLDS",
       "count": 18,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 17,
+      "word": "TRADERS",
+      "count": 18,
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 17,
+      "word": "TOKENIZED",
+      "count": 18,
       "category": null
     },
     {
@@ -295,23 +300,23 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
+      "word": "TOP",
       "count": 16,
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 16,
+      "word": "ANALYST",
+      "count": 15,
       "category": null
     },
     {
       "word": "BREAKOUT",
-      "count": 16,
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 15,
       "category": null
     },
     {
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "DEFI",
-      "count": 15,
-      "category": "DeFi"
-    },
-    {
-      "word": "HITS",
+      "word": "TOKEN",
       "count": 15,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "INFLATION",
       "count": 15,
       "category": null
     }
