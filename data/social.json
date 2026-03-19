@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T17:58:38.720Z",
+  "updated_at": "2026-03-19T19:58:14.809Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 120,
+      "news_count_24h": 124,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 33,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 38,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -191,41 +191,36 @@
     },
     {
       "word": "SEC",
-      "count": 57,
+      "count": 56,
       "category": "規制"
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 52,
       "category": "相場"
     },
     {
       "word": "FED",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "SECURITIES",
-      "count": 23,
+      "count": 35,
       "category": null
     },
     {
       "word": "TOP",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 22,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TRADING",
       "count": 22,
       "category": null
     },
@@ -235,18 +230,28 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
+      "word": "BILLION",
+      "count": 22,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "SECURITIES",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 21,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 20,
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 19,
       "category": null
     },
     {
@@ -260,13 +265,23 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "KEY",
       "count": 19,
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 19,
+      "word": "GOLD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 18,
       "category": null
     },
     {
@@ -275,24 +290,19 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "PREDICTION",
       "count": 17,
       "category": null
     },
     {
-      "word": "ASSETS",
-      "count": 17,
+      "word": "TOKEN",
+      "count": 16,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 17,
+      "count": 16,
       "category": "相場"
-    },
-    {
-      "word": "WHY",
-      "count": 17,
-      "category": null
     },
     {
       "word": "HYPERLIQUID",
@@ -305,19 +315,14 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "ASSETS",
       "count": 16,
       "category": null
     },
     {
-      "word": "MOST",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 16,
-      "category": null
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
     },
     {
       "word": "ANALYST",
@@ -326,11 +331,6 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
       "count": 15,
       "category": null
     }
