@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T07:53:11.706Z",
+  "updated_at": "2026-03-20T10:04:49.928Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 104,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,25 +16,25 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 29,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 33,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "SEC",
-      "count": 43,
+      "count": 38,
       "category": "規制"
     },
     {
@@ -211,11 +211,6 @@
     },
     {
       "word": "GOLD",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
@@ -230,22 +225,27 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "MARKETS",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TOP",
       "count": 22,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TOP",
       "count": 21,
       "category": null
     },
@@ -260,18 +260,18 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "TOKEN",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
       "word": "ANALYST",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
@@ -280,22 +280,12 @@
       "category": "DeFi"
     },
     {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
-    },
-    {
-      "word": "NASDAQ",
+      "word": "HYPERLIQUID",
       "count": 16,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 16,
-      "category": "相場"
-    },
-    {
-      "word": "TREASURY",
+      "word": "NASDAQ",
       "count": 16,
       "category": null
     },
@@ -305,14 +295,24 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "HOLDS",
       "count": 16,
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 16,
+      "word": "BILL",
+      "count": 15,
       "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 15,
+      "category": "相場"
     },
     {
       "word": "FOMC",
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "RATES",
       "count": 14,
       "category": null
     }
