@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T19:52:29.525Z",
+  "updated_at": "2026-03-20T21:03:47.549Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 91,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -34,27 +34,27 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tether",
@@ -200,57 +200,42 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 34,
-      "category": "規制"
-    },
-    {
       "word": "GOLD",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 30,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 28,
+      "category": "規制"
+    },
+    {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
+      "word": "ANALYST",
+      "count": 22,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 22,
-      "category": "ETF"
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
       "word": "TOP",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "PREDICTION",
       "count": 18,
       "category": null
     },
@@ -260,12 +245,22 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "TOKENIZED",
       "count": 18,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "TREASURY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 18,
       "category": null
     },
@@ -275,62 +270,67 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 17,
       "category": null
     },
     {
-      "word": "NASDAQ",
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "SIGNALS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 15,
+      "word": "MARKETS",
+      "count": 17,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
       "word": "DEFI",
-      "count": 14,
+      "count": 15,
       "category": "DeFi"
     },
     {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WHALE",
-      "count": 14,
+      "count": 15,
       "category": "相場"
     },
     {
+      "word": "TOKEN",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "HITS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "NASDAQ",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "KEY",
       "count": 14,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "AMID",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "YIELD",
       "count": 14,
       "category": null
     }
