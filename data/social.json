@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-21T21:50:07.853Z",
+  "updated_at": "2026-03-21T22:55:04.023Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
-      "hype_score": 15,
+      "news_count_24h": 53,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 44,
+      "news_count_24h": 15,
+      "hype_score": 47,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 160,
+      "hype_score": 200,
       "buzz_rank": 4
     },
     {
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 63,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 32,
+      "count": 30,
       "category": "相場"
     },
     {
@@ -210,29 +210,24 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 20,
+      "word": "ANALYST",
+      "count": 19,
       "category": null
     },
     {
       "word": "GOLD",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 19,
+      "word": "BILLION",
+      "count": 18,
       "category": null
     },
     {
       "word": "WHAT",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 16,
-      "category": "規制"
     },
     {
       "word": "STOCK",
@@ -245,9 +240,9 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "SEC",
       "count": 14,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "AMID",
@@ -270,7 +265,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "SOLANA",
       "count": 13,
       "category": null
     },
@@ -290,12 +285,7 @@
       "category": "相場"
     },
     {
-      "word": "GEMINI",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "KALSHI",
+      "word": "COINBASE",
       "count": 12,
       "category": null
     },
@@ -305,23 +295,28 @@
       "category": null
     },
     {
-      "word": "SHIFT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "70K",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SIGNALS",
       "count": 11,
       "category": null
     },
     {
-      "word": "BOTTOM",
+      "word": "GEMINI",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "KALSHI",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SHIFT",
+      "count": 10,
       "category": null
     },
     {
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "HYPERLIQUID",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 10,
       "category": null
     }
