@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T09:58:28.060Z",
+  "updated_at": "2026-03-21T10:57:50.852Z",
   "reddit_enabled": false,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 83,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 84,
+      "count": 81,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 38,
       "category": "相場"
     },
     {
       "word": "GOLD",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -215,19 +215,14 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "WHAT",
       "count": 20,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 18,
-      "category": "規制"
+      "word": "WHY",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TOP",
@@ -245,6 +240,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 17,
+      "category": "規制"
+    },
+    {
       "word": "COINBASE",
       "count": 17,
       "category": null
@@ -255,8 +255,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 17,
+      "word": "STOCK",
+      "count": 16,
       "category": null
     },
     {
@@ -280,16 +280,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "SIGNALS",
       "count": 15,
       "category": null
@@ -300,17 +290,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 14,
+      "word": "OIL",
+      "count": 15,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "RISK",
+      "word": "KEY",
       "count": 14,
       "category": null
     },
@@ -332,6 +317,21 @@
     {
       "word": "TOKEN",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 13,
       "category": null
     }
   ],
