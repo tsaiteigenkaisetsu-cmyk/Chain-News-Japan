@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T15:52:36.077Z",
+  "updated_at": "2026-03-21T17:00:09.139Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
+      "news_count_24h": 55,
       "hype_score": 0,
       "buzz_rank": 1
     },
@@ -23,18 +23,18 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,18 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 64,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 37,
       "category": "相場"
-    },
-    {
-      "word": "MILLION",
-      "count": 27,
-      "category": null
     },
     {
       "word": "ETF",
@@ -205,13 +200,8 @@
       "category": "ETF"
     },
     {
-      "word": "GOLD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 23,
+      "word": "MILLION",
+      "count": 25,
       "category": null
     },
     {
@@ -220,17 +210,27 @@
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 19,
+      "word": "GOLD",
+      "count": 23,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "WHY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "ANALYST",
       "count": 18,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 16,
       "category": null
     },
@@ -265,17 +265,12 @@
       "category": "規制"
     },
     {
-      "word": "HITS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WHALE",
       "count": 13,
       "category": "相場"
     },
     {
-      "word": "70K",
+      "word": "HITS",
       "count": 13,
       "category": null
     },
@@ -287,11 +282,6 @@
     {
       "word": "KALSHI",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 12,
       "category": null
     },
     {
@@ -310,16 +300,6 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BOTTOM",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 12,
       "category": null
@@ -330,8 +310,28 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 12,
+      "word": "RISK",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "70K",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "LEDGER",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 11,
       "category": null
     }
   ],
