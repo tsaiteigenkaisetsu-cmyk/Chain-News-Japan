@@ -2,8 +2,8 @@ name: Update news & prices
 
 on:
   schedule:
-    # 10分ごと（注: GitHub Actionsは最短5分間隔）
-    - cron: '*/10 * * * *'
+    # 10分ごと。00分起点は GitHub Actions の混雑帯に当たりやすいため少しずらす
+    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch: # 手動実行も可能
 
 concurrency:
