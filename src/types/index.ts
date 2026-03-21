@@ -113,7 +113,7 @@ export interface CoinSocialData {
   reddit_posts_24h: number;
   reddit_engagement_24h: number;   // upvotes + comments の合計
   news_count_24h: number;
-  hype_score: number;              // reddit_engagement / (news_count * 10)
+  hype_score: number;              // 利用可能な Reddit 指標 / news_count
   buzz_rank: number;               // 複合スコアによるランキング
 }
 

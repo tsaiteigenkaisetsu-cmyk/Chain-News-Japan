@@ -149,6 +149,12 @@ function getReusablePreviousSnapshot(previousSnapshot, coinId) {
   return previousSnapshot.coins.find(coin => coin.coin_id === coinId) ?? null;
 }
 
+function getRedditSignalValue(reddit) {
+  if ((reddit?.engagement ?? 0) > 0) return reddit.engagement;
+  if ((reddit?.post_count ?? 0) > 0) return reddit.post_count;
+  return 0;
+}
+
 async function loadPreviousSocialSnapshot() {
   if (!existsSync(SOCIAL_FILE)) return null;
 
@@ -438,11 +444,12 @@ async function main() {
   const coinSocialData = COINS.map(coin => {
     const reddit     = redditData[coin.id] ?? { post_count: 0, engagement: 0 };
     const news_count = newsCounts[coin.id]?.news_24h ?? 0;
+    const reddit_signal = getRedditSignalValue(reddit);
 
-    // Hype Score = Reddit エンゲージメント ÷ ニュース数
-    // 例: engagement=5000, news=3 → Hype=1666（SNS過熱）
-    const hype_score = reddit.engagement > 0
-      ? Math.round(reddit.engagement / Math.max(news_count, 1))
+    // Hype Score = 利用可能な Reddit 指標 ÷ ニュース数
+    // engagement が取れない場合は投稿件数ベースで継続表示する
+    const hype_score = reddit_signal > 0
+      ? Math.round((reddit_signal * (reddit.engagement > 0 ? 1 : 100)) / Math.max(news_count, 1))
       : 0;
 
     return {

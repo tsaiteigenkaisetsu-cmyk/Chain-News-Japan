@@ -15,12 +15,16 @@ function formatEngagement(n: number): string {
   return String(n);
 }
 
+function getRedditMetricValue(item: SocialSnapshot['coins'][number]): number {
+  return item.reddit_engagement_24h > 0 ? item.reddit_engagement_24h : item.reddit_posts_24h;
+}
+
 export default function SocialBuzzPanel({ social }: Props) {
   const coinMap = new Map(COIN_MASTER.map(c => [c.id, c]));
   const isRedditFallback = (social.stats.reddit_json_success ?? 0) === 0 && (social.stats.reddit_rss_success ?? 0) > 0;
   const hasCachedReddit = (social.stats.reddit_reused_previous ?? 0) > 0;
   const getRedditMetric = (item: SocialSnapshot['coins'][number]) => {
-    return item.reddit_engagement_24h > 0 ? item.reddit_engagement_24h : item.reddit_posts_24h;
+    return getRedditMetricValue(item);
   };
   const formatRedditMetric = (item: SocialSnapshot['coins'][number]) => {
     if (item.reddit_engagement_24h > 0) {
@@ -41,7 +45,7 @@ export default function SocialBuzzPanel({ social }: Props) {
 
   // Hype Score TOP5（Reddit 過熱気味な銘柄）
   const hypeTop = [...social.coins]
-    .filter(c => c.hype_score > 0 && c.reddit_engagement_24h > 50)
+    .filter(c => c.hype_score > 0 && getRedditMetricValue(c) > 0)
     .sort((a, b) => b.hype_score - a.hype_score)
     .slice(0, 5);
 
@@ -198,7 +202,9 @@ export default function SocialBuzzPanel({ social }: Props) {
                   <div className="flex-1 min-w-0">
                     <div className="text-sm font-mono font-bold text-text-primary">{coin.symbol}</div>
                     <div className="text-xs text-text-muted truncate">
-                      Reddit {formatEngagement(item.reddit_engagement_24h)} / ニュース{item.news_count_24h}件
+                      {item.reddit_engagement_24h > 0
+                        ? `Reddit ${formatEngagement(item.reddit_engagement_24h)} / ニュース${item.news_count_24h}件`
+                        : `Reddit ${item.reddit_posts_24h}件 / ニュース${item.news_count_24h}件`}
                     </div>
                   </div>
                   <div className="text-right flex-shrink-0">
