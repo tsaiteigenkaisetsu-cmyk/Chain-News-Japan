@@ -17,13 +17,24 @@ function formatEngagement(n: number): string {
 
 export default function SocialBuzzPanel({ social }: Props) {
   const coinMap = new Map(COIN_MASTER.map(c => [c.id, c]));
+  const isRedditFallback = (social.stats.reddit_json_success ?? 0) === 0 && (social.stats.reddit_rss_success ?? 0) > 0;
+  const hasCachedReddit = (social.stats.reddit_reused_previous ?? 0) > 0;
+  const getRedditMetric = (item: SocialSnapshot['coins'][number]) => {
+    return item.reddit_engagement_24h > 0 ? item.reddit_engagement_24h : item.reddit_posts_24h;
+  };
+  const formatRedditMetric = (item: SocialSnapshot['coins'][number]) => {
+    if (item.reddit_engagement_24h > 0) {
+      return formatEngagement(item.reddit_engagement_24h);
+    }
+    return `${item.reddit_posts_24h}件`;
+  };
 
   // 複合スコア = Reddit エンゲージメント + ニュース数×50 でソート
   const buzzRanking = [...social.coins]
-    .filter(c => c.reddit_engagement_24h > 0 || c.news_count_24h > 0)
+    .filter(c => getRedditMetric(c) > 0 || c.news_count_24h > 0)
     .sort((a, b) => {
-      const sa = a.reddit_engagement_24h + a.news_count_24h * 50;
-      const sb = b.reddit_engagement_24h + b.news_count_24h * 50;
+      const sa = getRedditMetric(a) + a.news_count_24h * 50;
+      const sb = getRedditMetric(b) + b.news_count_24h * 50;
       return sb - sa;
     })
     .slice(0, 8);
@@ -34,7 +45,7 @@ export default function SocialBuzzPanel({ social }: Props) {
     .sort((a, b) => b.hype_score - a.hype_score)
     .slice(0, 5);
 
-  const maxEngagement = Math.max(...buzzRanking.map(c => c.reddit_engagement_24h), 1);
+  const maxEngagement = Math.max(...buzzRanking.map(c => getRedditMetric(c)), 1);
   const maxNews       = Math.max(...buzzRanking.map(c => c.news_count_24h), 1);
 
   return (
@@ -47,7 +58,7 @@ export default function SocialBuzzPanel({ social }: Props) {
             📡 SNS話題量ランキング
           </h3>
           <span className="text-xs text-text-muted">
-            Reddit r/CryptoCurrency · 24h
+            {isRedditFallback ? 'Reddit 投稿件数フォールバック · 24h' : 'Reddit 反応量 · 24h'}
           </span>
         </div>
 
@@ -55,7 +66,8 @@ export default function SocialBuzzPanel({ social }: Props) {
           {buzzRanking.map((item, idx) => {
             const coin = coinMap.get(item.coin_id);
             if (!coin) return null;
-            const ePct = (item.reddit_engagement_24h / maxEngagement) * 100;
+            const redditMetric = getRedditMetric(item);
+            const ePct = (redditMetric / maxEngagement) * 100;
             const nPct = (item.news_count_24h / maxNews) * 100;
 
             return (
@@ -98,7 +110,7 @@ export default function SocialBuzzPanel({ social }: Props) {
                         />
                       </div>
                       <span className="text-xs font-mono text-brand-accent w-12 text-right flex-shrink-0">
-                        {formatEngagement(item.reddit_engagement_24h)}
+                        {formatRedditMetric(item)}
                       </span>
                     </div>
                     <div className="flex items-center gap-2">
@@ -126,11 +138,23 @@ export default function SocialBuzzPanel({ social }: Props) {
           </p>
         )}
 
+        {social.reddit_enabled && isRedditFallback && (
+          <p className="text-xs text-text-muted mt-3 pt-3 border-t border-white/5">
+            ※ Reddit の反応量取得が不安定なため、現在は投稿件数ベースで補完しています。
+          </p>
+        )}
+
+        {social.reddit_enabled && !isRedditFallback && hasCachedReddit && (
+          <p className="text-xs text-text-muted mt-3 pt-3 border-t border-white/5">
+            ※ 一部の銘柄は直近の取得成功値を補完表示しています。
+          </p>
+        )}
+
         {/* 凡例 */}
         <div className="flex items-center gap-4 mt-3 text-xs text-text-muted border-t border-white/5 pt-3">
           <div className="flex items-center gap-1.5">
             <div className="w-2.5 h-2.5 rounded-full bg-brand-accent" />
-            <span>Reddit エンゲージメント</span>
+            <span>{isRedditFallback ? 'Reddit 投稿件数' : 'Reddit エンゲージメント'}</span>
           </div>
           <div className="flex items-center gap-1.5">
             <div className="w-2.5 h-2.5 rounded-full bg-brand-warning" />

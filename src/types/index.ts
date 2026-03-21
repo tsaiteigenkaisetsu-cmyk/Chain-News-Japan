@@ -132,6 +132,10 @@ export interface SocialSnapshot {
     reddit_success: number;
     reddit_failed: number;
     news_analyzed: number;
+    reddit_json_success?: number;
+    reddit_rss_success?: number;
+    reddit_reused_previous?: number;
+    reddit_mode?: 'json' | 'rss' | 'cached' | 'mixed' | 'unavailable';
   };
 }
 

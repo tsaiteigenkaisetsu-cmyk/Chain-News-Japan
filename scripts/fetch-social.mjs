@@ -48,7 +48,41 @@ const COINS = [
 
 const FETCH_TIMEOUT_MS  = 10000;
 const REQUEST_DELAY_MS  = 2300;   // Reddit レート制限への配慮（約26req/min 以下）
-const USER_AGENT        = 'ChainNewsJapan/1.0 Social Monitor (+https://example.com)';
+const USER_AGENT        = 'ChainNewsJapan/1.0 Social Monitor (+https://chain-news-japan-webappjp.vercel.app)';
+const PREVIOUS_TTL_MS   = 48 * 60 * 60 * 1000;
+
+const ALLOWED_SUBREDDITS = new Set([
+  'cryptocurrency',
+  'bitcoin',
+  'bitcoincash',
+  'ethereum',
+  'ethfinance',
+  'ethtrader',
+  'ethstaker',
+  'solana',
+  'ripple',
+  'xrp',
+  'dogecoin',
+  'cardano',
+  'avalanche',
+  'avax',
+  'shibarmy',
+  'polkadot',
+  'chainlink',
+  'uniswap',
+  'litecoin',
+  'nearprotocol',
+  '0xpolygon',
+  'maticnetwork',
+  'binance',
+  'bnbchainofficial',
+  'tronix',
+  'tether',
+  'usdc',
+  'cryptomarkets',
+  'defi',
+  'cryptotechnology',
+]);
 
 // =====================================================================
 // ユーティリティ
@@ -61,10 +95,75 @@ function formatElapsed(ms) {
   return (ms / 1000).toFixed(1) + 's';
 }
 
+function decodeHtml(value) {
+  return value
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&#x27;/g, "'");
+}
+
+function normalizeText(value) {
+  return decodeHtml(String(value ?? ''))
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function getCoinKeywords(coin) {
+  const parts = [coin.symbol, coin.name_en, coin.reddit_q]
+    .flatMap(value => String(value ?? '').split(/\s+/))
+    .map(part => normalizeText(part))
+    .filter(Boolean);
+
+  return [...new Set(parts)].filter(part => part.length >= 3 || part === coin.symbol.toLowerCase());
+}
+
+function isAllowedSubreddit(subreddit) {
+  return ALLOWED_SUBREDDITS.has(String(subreddit ?? '').toLowerCase());
+}
+
+function matchesCoinKeywords(coin, ...chunks) {
+  const text = normalizeText(chunks.join(' '));
+  if (!text) return false;
+
+  return getCoinKeywords(coin).some(keyword => {
+    if (keyword.length <= 3) {
+      return text.split(' ').includes(keyword);
+    }
+    return text.includes(keyword);
+  });
+}
+
+function getReusablePreviousSnapshot(previousSnapshot, coinId) {
+  if (!previousSnapshot?.reddit_enabled) return null;
+
+  const updatedAt = new Date(previousSnapshot.updated_at).getTime();
+  if (!Number.isFinite(updatedAt) || Date.now() - updatedAt > PREVIOUS_TTL_MS) {
+    return null;
+  }
+
+  return previousSnapshot.coins.find(coin => coin.coin_id === coinId) ?? null;
+}
+
+async function loadPreviousSocialSnapshot() {
+  if (!existsSync(SOCIAL_FILE)) return null;
+
+  try {
+    const raw = await readFile(SOCIAL_FILE, 'utf-8');
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
 // =====================================================================
 // Reddit Public JSON API
 // =====================================================================
-async function fetchRedditData(coin) {
+async function fetchRedditJsonData(coin) {
   const q   = encodeURIComponent(coin.reddit_q);
   // subreddit 制限なし: site-wide 検索でより多くの投稿を捕捉する
   const url = `https://www.reddit.com/search.json?q=${q}&sort=top&t=day&limit=100`;
@@ -88,18 +187,20 @@ async function fetchRedditData(coin) {
     }
 
     const data = await res.json();
-    const posts = data?.data?.children ?? [];
+    const posts = (data?.data?.children ?? [])
+      .map(item => item?.data)
+      .filter(post => post && isAllowedSubreddit(post.subreddit) && matchesCoinKeywords(coin, post.title, post.selftext, post.subreddit));
 
     if (posts.length === 0) {
-      return { post_count: 0, engagement: 0 };
+      return { post_count: 0, engagement: 0, source: 'json' };
     }
 
     // エンゲージメント = upvotes + コメント数（相対的な話題量指標）
     const engagement = posts.reduce((sum, p) => {
-      return sum + Math.max(0, p.data?.score ?? 0) + (p.data?.num_comments ?? 0);
+      return sum + Math.max(0, p?.score ?? 0) + (p?.num_comments ?? 0);
     }, 0);
 
-    return { post_count: posts.length, engagement };
+    return { post_count: posts.length, engagement, source: 'json' };
   } catch (err) {
     if (err?.name !== 'TimeoutError') {
       console.warn(`  ⚠ [Reddit] ${coin.symbol} エラー: ${err?.message ?? err}`);
@@ -108,6 +209,59 @@ async function fetchRedditData(coin) {
     }
     return null;
   }
+}
+
+async function fetchRedditRssData(coin) {
+  const q = encodeURIComponent(coin.reddit_q);
+  const url = `https://www.reddit.com/search.rss?q=${q}&sort=top&t=day`;
+
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': USER_AGENT,
+        'Accept': 'application/atom+xml, application/xml, text/xml;q=0.9, */*;q=0.8',
+      },
+      signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+    });
+
+    if (!res.ok) {
+      console.warn(`  ⚠ [Reddit RSS] HTTP ${res.status}: ${coin.symbol}`);
+      return null;
+    }
+
+    const xml = await res.text();
+    const entries = xml.match(/<entry\b[\s\S]*?<\/entry>/g) ?? [];
+
+    const posts = entries.filter(entry => {
+      const idMatch = entry.match(/<id>([^<]+)<\/id>/);
+      if (!idMatch?.[1]?.includes('t3_')) return false;
+
+      const categoryMatch = entry.match(/<category[^>]*term="([^"]+)"/i);
+      if (!isAllowedSubreddit(categoryMatch?.[1] ?? '')) return false;
+
+      const titleMatch = entry.match(/<title>([\s\S]*?)<\/title>/i);
+      const contentMatch = entry.match(/<content[^>]*>([\s\S]*?)<\/content>/i);
+      return matchesCoinKeywords(coin, titleMatch?.[1] ?? '', contentMatch?.[1] ?? '', categoryMatch?.[1] ?? '');
+    });
+
+    return { post_count: posts.length, engagement: 0, source: 'rss' };
+  } catch (err) {
+    if (err?.name !== 'TimeoutError') {
+      console.warn(`  ⚠ [Reddit RSS] ${coin.symbol} エラー: ${err?.message ?? err}`);
+    } else {
+      console.warn(`  ⚠ [Reddit RSS] ${coin.symbol} タイムアウト`);
+    }
+    return null;
+  }
+}
+
+async function fetchRedditData(coin) {
+  const jsonResult = await fetchRedditJsonData(coin);
+  if (jsonResult !== null) {
+    return jsonResult;
+  }
+
+  return fetchRedditRssData(coin);
 }
 
 // =====================================================================
@@ -237,6 +391,8 @@ async function main() {
     console.warn('[WARN] data/news.json が見つかりません。空で続行します。');
   }
 
+  const previousSnapshot = await loadPreviousSocialSnapshot();
+
   // ニュース件数集計
   const newsCounts = buildNewsCounts(news);
 
@@ -245,6 +401,9 @@ async function main() {
   const redditData    = {};
   let redditSuccess   = 0;
   let redditFailed    = 0;
+  let redditJsonSuccess = 0;
+  let redditRssSuccess = 0;
+  let redditReusedPrevious = 0;
 
   for (let i = 0; i < COINS.length; i++) {
     const coin = COINS[i];
@@ -254,10 +413,24 @@ async function main() {
     if (result !== null) {
       redditData[coin.id] = result;
       redditSuccess++;
-      process.stdout.write(`  ✓ ${coin.symbol.padEnd(5)}: posts=${String(result.post_count).padStart(3)}, engagement=${String(result.engagement).padStart(6)}\n`);
+      if (result.source === 'json') redditJsonSuccess++;
+      if (result.source === 'rss') redditRssSuccess++;
+      process.stdout.write(`  ✓ ${coin.symbol.padEnd(5)}: posts=${String(result.post_count).padStart(3)}, engagement=${String(result.engagement).padStart(6)} [${result.source}]\n`);
     } else {
-      redditData[coin.id] = { post_count: 0, engagement: 0 };
-      redditFailed++;
+      const previous = getReusablePreviousSnapshot(previousSnapshot, coin.id);
+      if (previous) {
+        redditData[coin.id] = {
+          post_count: previous.reddit_posts_24h,
+          engagement: previous.reddit_engagement_24h,
+          source: 'cached',
+        };
+        redditSuccess++;
+        redditReusedPrevious++;
+        process.stdout.write(`  ✓ ${coin.symbol.padEnd(5)}: posts=${String(previous.reddit_posts_24h).padStart(3)}, engagement=${String(previous.reddit_engagement_24h).padStart(6)} [cached]\n`);
+      } else {
+        redditData[coin.id] = { post_count: 0, engagement: 0, source: 'none' };
+        redditFailed++;
+      }
     }
   }
 
@@ -305,6 +478,15 @@ async function main() {
       reddit_success: redditSuccess,
       reddit_failed:  redditFailed,
       news_analyzed:  news.length,
+      reddit_json_success: redditJsonSuccess,
+      reddit_rss_success: redditRssSuccess,
+      reddit_reused_previous: redditReusedPrevious,
+      reddit_mode:
+        redditJsonSuccess > 0 && (redditRssSuccess > 0 || redditReusedPrevious > 0) ? 'mixed' :
+        redditJsonSuccess > 0 ? 'json' :
+        redditRssSuccess > 0 ? 'rss' :
+        redditReusedPrevious > 0 ? 'cached' :
+        'unavailable',
     },
   };
 
