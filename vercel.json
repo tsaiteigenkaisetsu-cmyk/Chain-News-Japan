@@ -3,6 +3,12 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
   "framework": "nextjs",
+  "crons": [
+    {
+      "path": "/api/cron/update-data",
+      "schedule": "7,17,27,37,47,57 * * * *"
+    }
+  ],
   "headers": [
     {
       "source": "/api/(.*)",

@@ -123,3 +123,25 @@ npm run generate-x-posts
 - 夜 20:35 JST
 
 X API は使わず、GitHub Actions が下書きだけを更新します。投稿自体は手動で行います。
+
+## 安定した10分更新
+
+GitHub Actions の schedule は混雑時に遅延しやすいため、10分更新の主系は Vercel Cron から GitHub Actions の `workflow_dispatch` を起動する構成にできます。
+
+追加済み:
+
+- [vercel.json](vercel.json): Vercel Cron を 07/17/27/37/47/57 分に設定
+- [src/app/api/cron/update-data/route.ts](src/app/api/cron/update-data/route.ts): GitHub Actions `update-data.yml` を起動する API ルート
+
+Vercel に必要な環境変数:
+
+- `CRON_SECRET`
+- `GITHUB_ACTIONS_DISPATCH_TOKEN`
+- `GITHUB_REPO_OWNER` 省略可。既定値: `tsaiteigenkaisetsu-cmyk`
+- `GITHUB_REPO_NAME` 省略可。既定値: `Chain-News-Japan`
+- `GITHUB_UPDATE_DATA_WORKFLOW` 省略可。既定値: `update-data.yml`
+- `GITHUB_UPDATE_DATA_REF` 省略可。既定値: `main`
+
+`GITHUB_ACTIONS_DISPATCH_TOKEN` には、対象リポジトリで Actions workflow を起動できる GitHub token を設定します。
+
+この設定が入ると、Vercel 側が 10分ごとに GitHub の更新 workflow を叩くため、GitHub Actions の schedule 単独運用より安定します。
