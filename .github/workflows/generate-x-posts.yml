@@ -1,0 +1,55 @@
+name: Generate X post drafts
+
+on:
+  schedule:
+    # 朝 08:35 JST
+    - cron: '35 23 * * *'
+    # 昼 12:35 JST
+    - cron: '35 3 * * *'
+    # 夜 20:35 JST
+    - cron: '35 11 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: generate-x-posts
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci --prefer-offline
+
+      - name: Generate X post drafts
+        env:
+          NEXT_PUBLIC_SITE_URL: https://chain-news-japan-webappjp.vercel.app
+        run: npm run generate-x-posts
+
+      - name: Commit generated draft
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/x-posts.md
+          if git diff --cached --quiet; then
+            echo "No X draft changes to commit"
+          else
+            git commit -m "chore: refresh X post drafts $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

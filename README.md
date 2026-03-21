@@ -97,3 +97,29 @@ vercel
 
 `scripts/summarize.mjs` を作成し、OpenAI API等で `summary_ja` フィールドを埋めます。
 コスト抑制のため重要度スコア 0.7 以上の記事のみを対象にします。
+
+## X 手動投稿フロー
+
+X API を使わず、投稿文だけを生成して手動で貼る運用ができます。
+
+```bash
+npm run generate-x-posts
+```
+
+実行すると [data/x-posts.md](data/x-posts.md) に朝・昼・夜の3本分の下書きが出力されます。
+
+- 朝: 直近24時間の注目通貨
+- 昼: 強いテーマと注目通貨
+- 夜: Hypeスコア上位のまとめ
+
+まずはこの下書きをそのまま X に貼り、反応が取れた投稿パターンを後で自動化するのが安全です。
+
+### 下書きの自動更新
+
+[.github/workflows/generate-x-posts.yml](.github/workflows/generate-x-posts.yml) で朝・昼・夜の3回、[data/x-posts.md](data/x-posts.md) を自動更新できます。
+
+- 朝 08:35 JST
+- 昼 12:35 JST
+- 夜 20:35 JST
+
+X API は使わず、GitHub Actions が下書きだけを更新します。投稿自体は手動で行います。

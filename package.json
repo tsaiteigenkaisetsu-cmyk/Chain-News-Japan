@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "next lint",
     "fetch-news": "node scripts/fetch-news.mjs",
-    "update-prices": "node scripts/update-prices.mjs"
+    "update-prices": "node scripts/update-prices.mjs",
+    "generate-x-posts": "node scripts/generate-x-posts.mjs"
   },
   "keywords": [],
   "author": "",
