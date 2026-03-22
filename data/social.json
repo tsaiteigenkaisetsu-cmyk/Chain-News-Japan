@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T22:21:30.696Z",
+  "updated_at": "2026-03-22T22:31:29.954Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 20,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 2
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 28,
+      "count": 29,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "ETF",
-      "count": 14,
+      "count": 12,
       "category": "ETF"
     },
     {
@@ -210,22 +210,27 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 11,
+      "category": "規制"
+    },
+    {
+      "word": "MILLION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 10,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 10,
-      "category": "規制"
-    },
-    {
-      "word": "MILLION",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BILLION",
+      "word": "SHIBA",
       "count": 9,
       "category": null
     },
@@ -245,18 +250,13 @@
       "category": null
     },
     {
-      "word": "SHIBA",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "DESPITE",
+      "word": "INU",
       "count": 8,
       "category": null
     },
     {
       "word": "RIPPLE",
-      "count": 7,
+      "count": 8,
       "category": null
     },
     {
@@ -285,17 +285,17 @@
       "category": null
     },
     {
-      "word": "INU",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "IRAN",
       "count": 7,
       "category": null
     },
     {
       "word": "WAR",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "DESPITE",
       "count": 7,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "GRAYSCALE",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "GOLD",
       "count": 6,
       "category": null
     },
     {
       "word": "SIGNALS",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "HERES",
       "count": 6,
       "category": null
     }
