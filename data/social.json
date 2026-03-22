@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T20:59:26.159Z",
+  "updated_at": "2026-03-22T21:02:22.098Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
-      "word": "WHY",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 28,
       "category": "価格"
+    },
+    {
+      "word": "WHY",
+      "count": 27,
+      "category": null
     },
     {
       "word": "MARKET",
@@ -201,7 +201,7 @@
     },
     {
       "word": "ETF",
-      "count": 15,
+      "count": 14,
       "category": "ETF"
     },
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "SIGNAL",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "ANALYST",
       "count": 8,
       "category": null
@@ -275,11 +270,6 @@
       "category": null
     },
     {
-      "word": "HERES",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "INU",
       "count": 7,
       "category": null
@@ -291,11 +281,6 @@
     },
     {
       "word": "WAR",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "BUY",
       "count": 7,
       "category": null
     },
@@ -320,18 +305,33 @@
       "category": null
     },
     {
-      "word": "DROPS",
+      "word": "FALLS",
       "count": 7,
       "category": null
     },
     {
-      "word": "FALLS",
+      "word": "SIGNAL",
       "count": 7,
       "category": null
     },
     {
       "word": "CLARITY",
       "count": 7,
+      "category": null
+    },
+    {
+      "word": "WHALES",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "HERES",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "BULLISH",
+      "count": 6,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
