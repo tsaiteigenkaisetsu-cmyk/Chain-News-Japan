@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-22T11:11:26.288Z",
+  "updated_at": "2026-03-22T11:21:27.173Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 46,
-      "hype_score": 17,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 80,
+      "hype_score": 60,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 9
     },
     {
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 11,
       "category": null
@@ -273,6 +268,11 @@
       "word": "WHALE",
       "count": 11,
       "category": "相場"
+    },
+    {
+      "word": "STOCK",
+      "count": 11,
+      "category": null
     },
     {
       "word": "KEY",
