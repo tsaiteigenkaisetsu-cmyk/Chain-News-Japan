@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T08:21:38.623Z",
+  "updated_at": "2026-03-22T08:31:25.144Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 47,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 50,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
-      "buzz_rank": 3
+      "news_count_24h": 13,
+      "hype_score": 15,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -190,14 +190,14 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 29,
+      "category": "相場"
+    },
+    {
       "word": "WHY",
       "count": 28,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 28,
-      "category": "相場"
     },
     {
       "word": "ETF",
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "SIGNALS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "KALSHI",
       "count": 12,
       "category": null
@@ -266,11 +271,6 @@
     },
     {
       "word": "SOLANA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SIGNALS",
       "count": 11,
       "category": null
     },
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "REPORT",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 10,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "SHIBA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
       "count": 9,
       "category": null
     }
