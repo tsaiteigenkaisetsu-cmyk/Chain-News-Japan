@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T16:41:28.984Z",
+  "updated_at": "2026-03-22T16:51:33.623Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 18,
+      "news_count_24h": 46,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 38,
       "category": "価格"
     },
     {
       "word": "WHY",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "DROP",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "SHIBA",
       "count": 7,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "LEDGER",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 7,
       "category": null
     }
