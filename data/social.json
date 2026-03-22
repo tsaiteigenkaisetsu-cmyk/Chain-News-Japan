@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T16:01:47.367Z",
+  "updated_at": "2026-03-22T16:11:32.202Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,35 +7,35 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
+      "news_count_24h": 45,
       "hype_score": 16,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 71,
       "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 50,
+      "hype_score": 63,
       "buzz_rank": 3
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
-      "hype_score": 0,
-      "buzz_rank": 16
+      "news_count_24h": 1,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "matic-network",
@@ -126,15 +126,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 8
     },
     {
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 19
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
+    },
+    {
+      "word": "WHY",
+      "count": 28,
+      "category": null
     },
     {
       "word": "MARKET",
       "count": 28,
       "category": "相場"
-    },
-    {
-      "word": "WHY",
-      "count": 27,
-      "category": null
     },
     {
       "word": "ETF",
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "HOW",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 12,
       "category": null
@@ -222,11 +227,6 @@
     {
       "word": "AMID",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "HOW",
-      "count": 11,
       "category": null
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "BELOW",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "FALLS",
       "count": 8,
       "category": null
@@ -305,6 +310,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "WHALE",
       "count": 7,
       "category": "相場"
@@ -321,16 +331,6 @@
     },
     {
       "word": "LEDGER",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DROPS",
       "count": 7,
       "category": null
     }
