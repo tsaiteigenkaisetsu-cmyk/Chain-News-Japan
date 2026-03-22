@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-22T14:41:27.520Z",
+  "updated_at": "2026-03-22T14:51:23.759Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 46,
-      "hype_score": 13,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 71,
+      "hype_score": 86,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 71,
+      "hype_score": 43,
       "buzz_rank": 4
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -211,12 +211,7 @@
     },
     {
       "word": "MILLION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 13,
+      "count": 15,
       "category": null
     },
     {
@@ -225,18 +220,28 @@
       "category": null
     },
     {
-      "word": "LEDGER",
-      "count": 11,
+      "word": "BILLION",
+      "count": 12,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "AMID",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "LEDGER",
       "count": 11,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 10,
       "category": null
     },
     {
@@ -251,11 +256,6 @@
     },
     {
       "word": "FALLS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 10,
       "category": null
     },
@@ -280,12 +280,12 @@
       "category": null
     },
     {
-      "word": "DEMAND",
+      "word": "NEXT",
       "count": 9,
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "DEMAND",
       "count": 9,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "SHIBA",
       "count": 7,
       "category": null
     },
     {
-      "word": "CRITICAL",
+      "word": "MARKETS",
       "count": 7,
       "category": null
     }
