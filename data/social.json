@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T15:01:54.796Z",
+  "updated_at": "2026-03-22T15:11:25.076Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 47,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,27 +16,27 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
-      "buzz_rank": 4
+      "news_count_24h": 7,
+      "hype_score": 86,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 7,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 3
+      "hype_score": 71,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 27,
+      "count": 29,
       "category": "相場"
     },
     {
@@ -205,13 +205,18 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
+      "word": "WHAT",
       "count": 15,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 15,
+      "word": "AMID",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 13,
       "category": null
     },
     {
@@ -225,22 +230,17 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 11,
       "category": null
     },
     {
       "word": "REPORT",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "LEDGER",
       "count": 10,
       "category": null
     },
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "DEMAND",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 9,
       "category": "規制"
@@ -296,6 +291,11 @@
     },
     {
       "word": "NEXT",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DEMAND",
       "count": 8,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SHIBA",
+      "word": "WHALE",
       "count": 7,
-      "category": null
+      "category": "相場"
     },
     {
-      "word": "CRITICAL",
+      "word": "GOLD",
       "count": 7,
       "category": null
     }
