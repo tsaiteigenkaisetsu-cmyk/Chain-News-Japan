@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T17:11:32.729Z",
+  "updated_at": "2026-03-22T17:21:21.591Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 18,
+      "news_count_24h": 41,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 125,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "HOW",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 12,
       "category": null
@@ -220,17 +225,7 @@
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 10,
       "category": null
     },
@@ -241,6 +236,11 @@
     },
     {
       "word": "DEMAND",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 9,
       "category": null
     },
@@ -258,6 +258,11 @@
       "word": "GRAYSCALE",
       "count": 9,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 8,
+      "category": "規制"
     },
     {
       "word": "BELOW",
@@ -290,17 +295,17 @@
       "category": null
     },
     {
+      "word": "SHIBA",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 7,
       "category": null
     },
     {
       "word": "DROP",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 7,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "RIPPLE",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DROPS",
       "count": 7,
       "category": null
     }
