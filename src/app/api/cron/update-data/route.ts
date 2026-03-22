@@ -14,8 +14,8 @@ function isAuthorized(request: Request): boolean {
   const authHeader = request.headers.get('authorization');
   if (authHeader === `Bearer ${secret}`) return true;
 
-  const { searchParams } = new URL(request.url);
-  return searchParams.get('secret') === secret;
+  const url = new URL(request.url);
+  return url.searchParams.get('secret') === secret;
 }
 
 export async function GET(request: Request) {
@@ -31,9 +31,13 @@ export async function GET(request: Request) {
     );
   }
 
+  const { searchParams } = new URL(request.url);
   const owner = process.env.GITHUB_REPO_OWNER ?? DEFAULT_OWNER;
   const repo = process.env.GITHUB_REPO_NAME ?? DEFAULT_REPO;
-  const workflow = process.env.GITHUB_UPDATE_DATA_WORKFLOW ?? DEFAULT_WORKFLOW;
+  // クエリパラメータ workflow= で上書き可能（英数字・ハイフン・アンダースコア・ドットのみ許可）
+  const workflowParam = searchParams.get('workflow');
+  const safeWorkflow = workflowParam && /^[\w.-]+\.yml$/.test(workflowParam) ? workflowParam : null;
+  const workflow = safeWorkflow ?? process.env.GITHUB_UPDATE_DATA_WORKFLOW ?? DEFAULT_WORKFLOW;
   const ref = process.env.GITHUB_UPDATE_DATA_REF ?? DEFAULT_REF;
 
   const response = await fetch(
