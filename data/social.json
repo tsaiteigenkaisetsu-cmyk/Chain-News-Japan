@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T17:41:26.359Z",
+  "updated_at": "2026-03-22T17:51:20.600Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 20,
+      "news_count_24h": 42,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 86,
+      "news_count_24h": 6,
+      "hype_score": 100,
       "buzz_rank": 4
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
+      "hype_score": 125,
       "buzz_rank": 6
     },
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -108,16 +108,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -206,7 +206,12 @@
     },
     {
       "word": "MILLION",
-      "count": 14,
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 12,
       "category": null
     },
     {
@@ -222,11 +227,6 @@
     {
       "word": "AMID",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 10,
       "category": null
     },
     {
@@ -265,6 +265,16 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DESPITE",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "BELOW",
       "count": 8,
       "category": null
@@ -295,6 +305,21 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BUY",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 7,
       "category": null
@@ -306,31 +331,6 @@
     },
     {
       "word": "ACT",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WHALE",
-      "count": 7,
-      "category": "相場"
-    },
-    {
-      "word": "GOLD",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 7,
       "category": null
     }
