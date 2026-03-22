@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T18:31:31.228Z",
+  "updated_at": "2026-03-22T18:41:29.340Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 20,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 35,
       "category": "価格"
     },
     {
@@ -210,24 +210,19 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "AMID",
       "count": 12,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 12,
+      "word": "MILLION",
+      "count": 11,
       "category": null
     },
     {
       "word": "SEC",
       "count": 10,
       "category": "規制"
-    },
-    {
-      "word": "SOLANA",
-      "count": 10,
-      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -241,6 +236,11 @@
     },
     {
       "word": "DEMAND",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 9,
       "category": null
     },
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "INU",
       "count": 7,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "DATA",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 7,
       "category": null
     }
