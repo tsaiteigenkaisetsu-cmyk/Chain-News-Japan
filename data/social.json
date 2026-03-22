@@ -1,51 +1,51 @@
 {
-  "updated_at": "2026-03-22T16:21:32.012Z",
+  "updated_at": "2026-03-22T16:31:37.310Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 45,
-      "hype_score": 16,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
-      "buzz_rank": 3
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
-      "buzz_rank": 6
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 5
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 10
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 25,
       "category": "相場"
     },
     {
@@ -207,11 +207,6 @@
     {
       "word": "MILLION",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
-      "count": 13,
       "category": null
     },
     {
@@ -230,6 +225,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 10,
       "category": null
@@ -245,17 +245,12 @@
       "category": null
     },
     {
+      "word": "ANALYST",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "REPORT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "LEVEL",
       "count": 9,
       "category": null
     },
@@ -305,11 +300,6 @@
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 7,
       "category": null
@@ -331,6 +321,16 @@
     },
     {
       "word": "LEDGER",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "DROPS",
       "count": 7,
       "category": null
     }
