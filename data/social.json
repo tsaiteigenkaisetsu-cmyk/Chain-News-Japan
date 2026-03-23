@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T09:41:22.463Z",
+  "updated_at": "2026-03-23T09:51:24.367Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 13,
+      "news_count_24h": 57,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 75,
+      "hype_score": 67,
       "buzz_rank": 4
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 15
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 36,
       "category": "価格"
+    },
+    {
+      "word": "WHY",
+      "count": 25,
+      "category": null
     },
     {
       "word": "MARKET",
       "count": 21,
       "category": "相場"
-    },
-    {
-      "word": "WHY",
-      "count": 21,
-      "category": null
     },
     {
       "word": "ETF",
@@ -207,6 +207,11 @@
     {
       "word": "MILLION",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 12,
       "category": null
     },
     {
@@ -222,11 +227,6 @@
     {
       "word": "HOW",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 10,
       "category": null
     },
     {
@@ -260,7 +260,17 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "USR",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DROP",
       "count": 8,
       "category": null
     },
@@ -290,6 +300,11 @@
       "category": null
     },
     {
+      "word": "BUY",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 8,
       "category": null
@@ -310,27 +325,12 @@
       "category": null
     },
     {
+      "word": "GOLD",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "SOLANA",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "BUY",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "INU",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RETAIL",
       "count": 7,
       "category": null
     }
