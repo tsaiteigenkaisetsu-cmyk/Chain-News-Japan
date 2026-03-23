@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T18:31:37.349Z",
+  "updated_at": "2026-03-23T18:41:24.087Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 116,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
-      "hype_score": 38,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
-      "buzz_rank": 6
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 15
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 9
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "GOLD",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 15,
       "category": null
@@ -250,13 +255,13 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "WHAT",
       "count": 14,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 14,
+      "word": "DROP",
+      "count": 12,
       "category": null
     },
     {
@@ -270,9 +275,9 @@
       "category": "ETF"
     },
     {
-      "word": "SEC",
-      "count": 12,
-      "category": "規制"
+      "word": "SIGNALS",
+      "count": 11,
+      "category": null
     },
     {
       "word": "BUY",
@@ -290,14 +295,14 @@
       "category": null
     },
     {
-      "word": "DROP",
+      "word": "OIL",
       "count": 11,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "SEC",
       "count": 11,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "NEXT",
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "SIGNALS",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "STRIKES",
       "count": 10,
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "POLYMARKET",
       "count": 9,
       "category": null
     }
