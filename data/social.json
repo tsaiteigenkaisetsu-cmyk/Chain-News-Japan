@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T11:41:23.447Z",
+  "updated_at": "2026-03-23T11:51:32.417Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 76,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 62,
+      "news_count_24h": 14,
+      "hype_score": 57,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 11
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 38,
       "category": "価格"
     },
     {
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 9,
       "category": null
@@ -295,6 +290,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 8,
       "category": null
@@ -306,6 +306,11 @@
     },
     {
       "word": "HOLDS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 8,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "SIGNALS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "BUY",
       "count": 8,
       "category": null
     }
