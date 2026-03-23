@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-23T14:31:38.277Z",
+  "updated_at": "2026-03-23T14:41:29.017Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 97,
-      "hype_score": 8,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 26,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 12,
+      "hype_score": 58,
       "buzz_rank": 4
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -216,6 +216,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 15,
       "category": null
     },
@@ -233,11 +238,6 @@
       "word": "SEC",
       "count": 14,
       "category": "規制"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 13,
-      "category": null
     },
     {
       "word": "GOLD",
@@ -277,6 +277,11 @@
     {
       "word": "STABLECOIN",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 10,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "SIGNALS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 9,
       "category": null
     }
