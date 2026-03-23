@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-23T14:51:36.592Z",
+  "updated_at": "2026-03-23T15:01:49.344Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
-      "hype_score": 7,
+      "news_count_24h": 99,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 50,
+      "news_count_24h": 21,
+      "hype_score": 48,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 67,
+      "hype_score": 58,
       "buzz_rank": 4
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -190,14 +190,14 @@
       "category": "価格"
     },
     {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 22,
       "category": "相場"
+    },
+    {
+      "word": "WHY",
+      "count": 22,
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -230,6 +230,16 @@
       "category": "ETF"
     },
     {
+      "word": "STRATEGY",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "DROPS",
       "count": 14,
       "category": null
@@ -250,13 +260,8 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 12,
+      "word": "SHIBA",
+      "count": 11,
       "category": null
     },
     {
@@ -280,6 +285,11 @@
       "category": null
     },
     {
+      "word": "INU",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BELOW",
       "count": 10,
       "category": null
@@ -295,11 +305,6 @@
       "category": null
     },
     {
-      "word": "SHIBA",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "HOW",
       "count": 10,
       "category": null
@@ -307,6 +312,11 @@
     {
       "word": "RESOLV",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "BUY",
+      "count": 9,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "INU",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "REPORT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SIGNALS",
       "count": 9,
       "category": null
     }
