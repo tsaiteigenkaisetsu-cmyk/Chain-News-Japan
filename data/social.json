@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T22:51:32.371Z",
+  "updated_at": "2026-03-23T23:01:43.695Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 131,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 31,
-      "hype_score": 26,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 50,
       "category": "価格"
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 13,
+      "category": "規制"
+    },
+    {
       "word": "SIGNALS",
       "count": 13,
       "category": null
@@ -272,6 +277,11 @@
     {
       "word": "OIL",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 12,
       "category": null
     },
     {
@@ -290,11 +300,6 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 12,
-      "category": "規制"
-    },
-    {
       "word": "DROP",
       "count": 12,
       "category": null
@@ -305,7 +310,12 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "CEO",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 11,
       "category": null
     },
@@ -322,16 +332,6 @@
     {
       "word": "BUY",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 10,
       "category": null
     }
   ],
