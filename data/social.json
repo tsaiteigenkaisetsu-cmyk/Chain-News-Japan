@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T06:01:51.263Z",
+  "updated_at": "2026-03-23T06:11:25.486Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
+      "news_count_24h": 51,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 26,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 60,
+      "news_count_24h": 9,
+      "hype_score": 67,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 250,
       "buzz_rank": 9
     },
     {
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 34,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 22,
+      "category": "相場"
     },
     {
       "word": "WHY",
@@ -195,14 +200,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 20,
-      "category": "相場"
-    },
-    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
+    },
+    {
+      "word": "MILLION",
+      "count": 12,
+      "category": null
     },
     {
       "word": "SEC",
@@ -220,13 +225,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 11,
+      "word": "AMID",
+      "count": 10,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 10,
+      "word": "BILLION",
+      "count": 9,
       "category": null
     },
     {
@@ -242,6 +247,11 @@
     {
       "word": "TRUMP",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 8,
       "category": null
     },
     {
@@ -280,17 +290,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 7,
       "category": null
     },
