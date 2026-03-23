@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-23T17:11:31.532Z",
+  "updated_at": "2026-03-23T17:21:43.561Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 112,
-      "hype_score": 7,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 48,
+      "count": 47,
       "category": "価格"
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 15,
-      "category": "ETF"
-    },
-    {
       "word": "GOLD",
       "count": 14,
       "category": null
@@ -268,6 +263,11 @@
       "word": "SEC",
       "count": 14,
       "category": "規制"
+    },
+    {
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
     },
     {
       "word": "RESOLV",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "USR",
+      "word": "REPORT",
       "count": 9,
       "category": null
     },
     {
-      "word": "HOLDS",
+      "word": "USR",
       "count": 9,
       "category": null
     }
