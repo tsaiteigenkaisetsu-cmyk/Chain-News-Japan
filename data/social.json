@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T00:41:25.313Z",
+  "updated_at": "2026-03-23T00:51:28.995Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 20,
+      "news_count_24h": 42,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 100,
+      "news_count_24h": 8,
+      "hype_score": 88,
       "buzz_rank": 4
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 44,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 7,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "SHOWS",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "GOLD",
+      "word": "OPTIONS",
       "count": 6,
       "category": null
     }
