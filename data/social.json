@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T19:11:25.434Z",
+  "updated_at": "2026-03-23T19:21:40.271Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 118,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 28,
-      "hype_score": 32,
+      "hype_score": 36,
       "buzz_rank": 2
     },
     {
@@ -186,13 +186,23 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 51,
+      "count": 52,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 29,
       "category": "相場"
+    },
+    {
+      "word": "WHY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 24,
+      "category": null
     },
     {
       "word": "IRAN",
@@ -200,13 +210,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 23,
+      "word": "MARKETS",
+      "count": 21,
       "category": null
     },
     {
@@ -215,13 +220,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 20,
+      "word": "PREDICTION",
+      "count": 19,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 19,
+      "word": "STRATEGY",
+      "count": 17,
       "category": null
     },
     {
@@ -236,11 +241,6 @@
     },
     {
       "word": "DROPS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 16,
       "category": null
     },
@@ -263,6 +263,11 @@
       "word": "ETF",
       "count": 13,
       "category": "ETF"
+    },
+    {
+      "word": "OIL",
+      "count": 12,
+      "category": null
     },
     {
       "word": "AMID",
@@ -295,14 +300,14 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 11,
       "category": "規制"
+    },
+    {
+      "word": "HOW",
+      "count": 10,
+      "category": null
     },
     {
       "word": "NEXT",
@@ -327,11 +332,6 @@
     {
       "word": "STRIKES",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 9,
       "category": null
     }
   ],
