@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T11:01:46.020Z",
+  "updated_at": "2026-03-23T11:11:34.328Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
+      "news_count_24h": 71,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 67,
+      "news_count_24h": 13,
+      "hype_score": 62,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 150,
       "buzz_rank": 10
     },
     {
@@ -206,12 +206,22 @@
     },
     {
       "word": "ETF",
-      "count": 13,
+      "count": 12,
       "category": "ETF"
     },
     {
       "word": "WHAT",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 11,
       "category": null
     },
     {
@@ -225,12 +235,12 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "RESOLV",
       "count": 10,
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "DROP",
       "count": 10,
       "category": null
     },
@@ -242,6 +252,11 @@
     {
       "word": "HOW",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 9,
       "category": null
     },
     {
@@ -260,23 +275,18 @@
       "category": null
     },
     {
-      "word": "DROP",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "RESOLV",
       "count": 9,
       "category": null
     },
     {
       "word": "BELOW",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "HOLDS",
+      "count": 8,
       "category": null
     },
     {
@@ -295,17 +305,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "SIGNALS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 8,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "HOLDS",
+      "word": "WEEK",
       "count": 7,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "SIGNAL",
       "count": 7,
       "category": null
     }
