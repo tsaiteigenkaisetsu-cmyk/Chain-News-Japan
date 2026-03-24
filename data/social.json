@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T08:51:22.414Z",
+  "updated_at": "2026-03-24T09:01:50.868Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
+      "news_count_24h": 133,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 13,
+      "news_count_24h": 37,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 75,
+      "hype_score": 63,
       "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 64,
+      "hype_score": 73,
       "buzz_rank": 5
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 58,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 39,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "WHAT",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "FUND",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 16,
       "category": null
@@ -258,16 +263,6 @@
       "word": "SEC",
       "count": 15,
       "category": "規制"
-    },
-    {
-      "word": "FUND",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 15,
-      "category": null
     },
     {
       "word": "OIL",
@@ -285,8 +280,18 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "HOW",
+      "count": 13,
       "category": null
     },
     {
@@ -305,7 +310,7 @@
       "category": "ETF"
     },
     {
-      "word": "HOW",
+      "word": "NEXT",
       "count": 12,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "DROP",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "BITMINE",
-      "count": 11,
       "category": null
     }
   ],
