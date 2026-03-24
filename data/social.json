@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-03-24T14:11:27.118Z",
+  "updated_at": "2026-03-24T14:21:33.366Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 119,
       "hype_score": 8,
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
-      "hype_score": 18,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 9,
+      "news_count_24h": 24,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 73,
+      "count": 74,
       "category": "価格"
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 27,
       "category": null
@@ -217,11 +222,6 @@
     {
       "word": "MARKETS",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 26,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "FUND",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 19,
+      "word": "FUND",
+      "count": 20,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 13,
       "category": null
@@ -328,11 +333,6 @@
       "word": "BUY",
       "count": 13,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 13,
-      "category": "ETF"
     }
   ],
   "stats": {
