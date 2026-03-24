@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T11:11:27.480Z",
+  "updated_at": "2026-03-24T11:21:34.828Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 125,
+      "news_count_24h": 124,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 17,
       "buzz_rank": 10
     },
     {
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 66,
+      "count": 67,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -235,13 +235,18 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "GOLD",
       "count": 19,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 19,
+      "word": "POLYMARKET",
+      "count": 18,
       "category": null
     },
     {
@@ -255,8 +260,8 @@
       "category": null
     },
     {
-      "word": "POLYMARKET",
-      "count": 17,
+      "word": "TRADING",
+      "count": 16,
       "category": null
     },
     {
@@ -275,13 +280,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "OIL",
       "count": 15,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 15,
+      "word": "DROPS",
+      "count": 14,
       "category": null
     },
     {
@@ -300,14 +305,19 @@
       "category": null
     },
     {
-      "word": "DROPS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
+    },
+    {
+      "word": "DOWN",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 12,
+      "category": "セキュリティ"
     },
     {
       "word": "SHIBA",
@@ -321,16 +331,6 @@
     },
     {
       "word": "SIGNALS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "DROP",
       "count": 12,
       "category": null
     }
