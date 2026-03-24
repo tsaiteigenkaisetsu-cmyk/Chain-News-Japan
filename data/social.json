@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T14:01:40.637Z",
+  "updated_at": "2026-03-24T14:11:27.118Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
-      "hype_score": 9,
+      "news_count_24h": 119,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 57,
+      "hype_score": 64,
       "buzz_rank": 4
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 9,
+      "hype_score": 0,
       "buzz_rank": 6
     },
     {
@@ -200,6 +200,11 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 27,
       "category": null
@@ -211,11 +216,6 @@
     },
     {
       "word": "MARKETS",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 27,
       "category": null
     },
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "CARDANO",
       "count": 13,
       "category": null
@@ -328,11 +333,6 @@
       "word": "ETF",
       "count": 13,
       "category": "ETF"
-    },
-    {
-      "word": "DEFI",
-      "count": 12,
-      "category": "DeFi"
     }
   ],
   "stats": {
