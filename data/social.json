@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T23:02:18.104Z",
+  "updated_at": "2026-03-24T23:04:33.619Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 112,
+      "news_count_24h": 113,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 69,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 0,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 45,
       "category": "相場"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "STRATEGY",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
