@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T20:31:39.257Z",
+  "updated_at": "2026-03-24T20:41:35.734Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
+      "news_count_24h": 45,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 88,
+      "count": 91,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "IRAN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 18,
       "category": null
@@ -290,7 +295,7 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "STOCK",
       "count": 17,
       "category": null
     },
@@ -305,8 +310,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 16,
+      "word": "DOWN",
+      "count": 15,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "DEFI",
       "count": 15,
       "category": "DeFi"
-    },
-    {
-      "word": "SEC",
-      "count": 15,
-      "category": "規制"
     }
   ],
   "stats": {
