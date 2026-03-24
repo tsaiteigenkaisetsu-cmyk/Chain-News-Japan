@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T06:51:27.833Z",
+  "updated_at": "2026-03-24T07:01:53.548Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
-      "hype_score": 9,
+      "news_count_24h": 130,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
-      "hype_score": 15,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 89,
+      "hype_score": 78,
       "buzz_rank": 6
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 23,
       "category": null
@@ -217,11 +222,6 @@
     {
       "word": "STRATEGY",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 22,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
+    },
+    {
       "word": "FUND",
       "count": 15,
       "category": null
@@ -273,11 +278,6 @@
       "word": "WEEK",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 14,
-      "category": "規制"
     },
     {
       "word": "TRADING",
