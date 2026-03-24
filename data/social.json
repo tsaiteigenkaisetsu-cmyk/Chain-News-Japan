@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-24T17:11:27.766Z",
+  "updated_at": "2026-03-24T17:21:43.398Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 118,
-      "hype_score": 7,
+      "news_count_24h": 115,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 53,
+      "news_count_24h": 16,
+      "hype_score": 56,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 100,
+      "news_count_24h": 12,
+      "hype_score": 92,
       "buzz_rank": 5
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -215,12 +215,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 28,
+      "word": "STRATEGY",
+      "count": 27,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "BILLION",
       "count": 27,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 18,
-      "category": "規制"
-    },
-    {
       "word": "AMID",
       "count": 17,
       "category": null
@@ -295,6 +290,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 16,
+      "category": "規制"
+    },
+    {
       "word": "SOLANA",
       "count": 15,
       "category": null
@@ -305,14 +305,14 @@
       "category": null
     },
     {
+      "word": "CARDANO",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 14,
       "category": "DeFi"
-    },
-    {
-      "word": "MOVE",
-      "count": 14,
-      "category": null
     },
     {
       "word": "STOCK",
@@ -330,9 +330,9 @@
       "category": "ETF"
     },
     {
-      "word": "DATA",
+      "word": "INSTITUTIONAL",
       "count": 13,
-      "category": null
+      "category": "機関投資家"
     }
   ],
   "stats": {
