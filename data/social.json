@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T12:31:34.864Z",
+  "updated_at": "2026-03-24T12:41:25.568Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 119,
-      "hype_score": 8,
+      "news_count_24h": 116,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 20,
+      "news_count_24h": 33,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -191,12 +191,17 @@
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 40,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 35,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 26,
       "category": null
     },
     {
@@ -207,11 +212,6 @@
     {
       "word": "IRAN",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 25,
       "category": null
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "FUND",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 19,
       "category": null
@@ -252,11 +257,6 @@
     {
       "word": "GOLD",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 18,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": "ETF"
     },
     {
+      "word": "TOKENIZED",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "BILL",
       "count": 12,
       "category": null
@@ -328,11 +333,6 @@
       "word": "EXPLOIT",
       "count": 12,
       "category": "セキュリティ"
-    },
-    {
-      "word": "KALSHI",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
