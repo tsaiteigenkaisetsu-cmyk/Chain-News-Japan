@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T22:11:30.251Z",
+  "updated_at": "2026-03-24T22:21:25.774Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 60,
       "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 82,
+      "hype_score": 73,
       "buzz_rank": 5
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 16,
       "category": "DeFi"
@@ -326,11 +331,6 @@
     },
     {
       "word": "MOVE",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "CARDANO",
       "count": 15,
       "category": null
     }
