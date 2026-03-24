@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T12:41:25.568Z",
+  "updated_at": "2026-03-24T12:51:28.721Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 117,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 9,
+      "news_count_24h": 24,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 64,
+      "hype_score": 73,
       "buzz_rank": 5
     },
     {
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,22 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 72,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 41,
       "category": "相場"
     },
     {
       "word": "MILLION",
       "count": 37,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 27,
       "category": null
     },
     {
@@ -206,11 +211,6 @@
     },
     {
       "word": "PREDICTION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 26,
       "category": null
     },
