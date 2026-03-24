@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T15:31:30.117Z",
+  "updated_at": "2026-03-24T15:41:33.483Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 63,
+      "news_count_24h": 17,
+      "hype_score": 59,
       "buzz_rank": 4
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -186,13 +186,8 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 80,
+      "count": 82,
       "category": "価格"
-    },
-    {
-      "word": "MILLION",
-      "count": 41,
-      "category": null
     },
     {
       "word": "MARKET",
@@ -200,18 +195,23 @@
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 31,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "IRAN",
       "count": 29,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 28,
+      "word": "MARKETS",
+      "count": 29,
       "category": null
     },
     {
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "WHAT",
       "count": 25,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 24,
+      "word": "TRUMP",
+      "count": 25,
       "category": null
     },
     {
@@ -265,14 +265,14 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 17,
       "category": "規制"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 17,
+      "category": null
     },
     {
       "word": "HOW",
@@ -282,6 +282,11 @@
     {
       "word": "OIL",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 15,
       "category": null
     },
     {
@@ -305,14 +310,14 @@
       "category": null
     },
     {
+      "word": "CARDANO",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 14,
       "category": "ETF"
-    },
-    {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
     },
     {
       "word": "AMID",
@@ -320,17 +325,12 @@
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 13,
+      "category": "DeFi"
+    },
+    {
       "word": "DATA",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "SIGNALS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "BUY",
       "count": 13,
       "category": null
     }
