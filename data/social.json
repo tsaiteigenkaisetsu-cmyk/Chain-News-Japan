@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T13:21:29.841Z",
+  "updated_at": "2026-03-24T13:31:36.497Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 113,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -72,16 +72,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "uniswap",
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 11
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 9
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -280,6 +280,11 @@
       "category": "規制"
     },
     {
+      "word": "DROPS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "HOW",
       "count": 15,
       "category": null
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "DROPS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "BUY",
       "count": 13,
       "category": null
@@ -308,6 +308,11 @@
       "word": "ETF",
       "count": 13,
       "category": "ETF"
+    },
+    {
+      "word": "DEFI",
+      "count": 12,
+      "category": "DeFi"
     },
     {
       "word": "CARDANO",
@@ -326,11 +331,6 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILL",
       "count": 12,
       "category": null
     }
