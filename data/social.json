@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T10:21:25.044Z",
+  "updated_at": "2026-03-25T10:31:24.748Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 115,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 52,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
-      "hype_score": 48,
-      "buzz_rank": 4
+      "hype_score": 43,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 98,
+      "count": 99,
       "category": "価格"
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 41,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 35,
+      "word": "MARKETS",
+      "count": 34,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "BILLION",
       "count": 34,
       "category": null
     },
@@ -240,17 +240,17 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "FUND",
       "count": 24,
       "category": null
     },
     {
       "word": "WHAT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 23,
       "category": null
     },
@@ -285,7 +285,7 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "BIG",
       "count": 18,
       "category": null
     },
@@ -293,11 +293,6 @@
       "word": "LAUNCHES",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -315,9 +310,9 @@
       "category": null
     },
     {
-      "word": "BIG",
+      "word": "RALLY",
       "count": 17,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "DEFI",
@@ -331,6 +326,11 @@
     },
     {
       "word": "CARDANO",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "DOWN",
       "count": 17,
       "category": null
     }
