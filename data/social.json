@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T20:51:41.785Z",
+  "updated_at": "2026-03-25T21:01:41.784Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 118,
+      "news_count_24h": 119,
       "hype_score": 3,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 12,
+      "hype_score": 50,
       "buzz_rank": 6
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 10
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 97,
+      "count": 96,
       "category": "価格"
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "BILLION",
       "count": 34,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 33,
+      "word": "PREDICTION",
+      "count": 34,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "WHY",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
@@ -265,6 +265,21 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "YIELD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ANALYST",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "BIG",
       "count": 20,
       "category": null
@@ -276,21 +291,6 @@
     },
     {
       "word": "CARDANO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "YIELD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 19,
       "category": null
     },
@@ -315,8 +315,13 @@
       "category": null
     },
     {
-      "word": "DOWN",
-      "count": 18,
+      "word": "CEO",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
+      "count": 17,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "FOUR",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 16,
       "category": null
     }
   ],
