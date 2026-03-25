@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T21:51:26.093Z",
+  "updated_at": "2026-03-25T22:01:38.327Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 117,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
-      "hype_score": 48,
+      "hype_score": 43,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 46,
+      "hype_score": 38,
       "buzz_rank": 6
     },
     {
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 67,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 96,
+      "count": 98,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 37,
       "category": "相場"
+    },
+    {
+      "word": "MILLION",
+      "count": 35,
+      "category": null
     },
     {
       "word": "BILLION",
@@ -201,11 +206,6 @@
     },
     {
       "word": "PREDICTION",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 34,
       "category": null
     },
@@ -245,23 +245,18 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "STOCK",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 23,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 22,
       "category": null
     },
     {
@@ -271,6 +266,11 @@
     },
     {
       "word": "STRATEGY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 20,
       "category": null
     },
@@ -285,14 +285,14 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 20,
       "category": "相場"
-    },
-    {
-      "word": "DATA",
-      "count": 19,
-      "category": null
     },
     {
       "word": "NEXT",
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 17,
       "category": null
     },
     {
       "word": "NETWORK",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FOUR",
       "count": 17,
       "category": null
     }
