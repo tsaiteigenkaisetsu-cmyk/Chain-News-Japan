@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T18:51:35.073Z",
+  "updated_at": "2026-03-25T19:01:43.643Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 109,
       "hype_score": 2,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 14,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 93,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 43,
       "category": "相場"
     },
     {
@@ -220,12 +220,12 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 28,
+      "word": "STABLECOIN",
+      "count": 27,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "IRAN",
       "count": 27,
       "category": null
     },
@@ -235,22 +235,17 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 25,
+      "word": "WHAT",
+      "count": 24,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -261,6 +256,11 @@
     },
     {
       "word": "SOLANA",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 24,
       "category": null
     },
