@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T14:11:38.823Z",
+  "updated_at": "2026-03-25T14:21:35.888Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
-      "hype_score": 4,
+      "news_count_24h": 115,
+      "hype_score": 3,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
+      "news_count_24h": 51,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
+      "news_count_24h": 5,
+      "hype_score": 120,
       "buzz_rank": 9
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 11
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 100,
+      "count": 98,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 40,
+      "count": 37,
       "category": null
     },
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "IRAN",
       "count": 31,
       "category": null
@@ -225,8 +220,18 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "FUND",
+      "count": 25,
       "category": null
     },
     {
@@ -241,11 +246,6 @@
     },
     {
       "word": "STRATEGY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "FUND",
       "count": 24,
       "category": null
     },
@@ -310,17 +310,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "CARDANO",
+      "word": "PLATFORM",
       "count": 18,
       "category": null
     },
     {
-      "word": "PLATFORM",
+      "word": "CARDANO",
       "count": 18,
       "category": null
     },
@@ -330,9 +325,14 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 16,
+      "word": "AMID",
+      "count": 18,
       "category": null
+    },
+    {
+      "word": "INSTITUTIONAL",
+      "count": 17,
+      "category": "機関投資家"
     }
   ],
   "stats": {
