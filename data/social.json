@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T05:31:40.589Z",
+  "updated_at": "2026-03-25T05:41:20.969Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 107,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 52,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -186,8 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 93,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 44,
+      "category": "相場"
+    },
+    {
+      "word": "PREDICTION",
+      "count": 43,
+      "category": null
     },
     {
       "word": "MILLION",
@@ -195,22 +205,12 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 43,
-      "category": "相場"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 42,
+      "word": "IRAN",
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 35,
       "category": null
     },
@@ -290,8 +290,18 @@
       "category": null
     },
     {
+      "word": "GOLD",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 17,
       "category": null
     },
     {
@@ -320,19 +330,9 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "RALLY",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 16,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
