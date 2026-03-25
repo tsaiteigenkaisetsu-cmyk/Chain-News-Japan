@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T04:31:33.909Z",
+  "updated_at": "2026-03-25T04:41:29.181Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 107,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 52,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -231,12 +231,17 @@
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -251,11 +256,6 @@
     },
     {
       "word": "TRADING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 23,
       "category": null
     },
