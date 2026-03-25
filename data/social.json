@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T13:01:36.969Z",
+  "updated_at": "2026-03-25T13:11:30.700Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 113,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
+      "news_count_24h": 54,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 86,
+      "news_count_24h": 6,
+      "hype_score": 100,
       "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 78,
+      "news_count_24h": 8,
+      "hype_score": 75,
       "buzz_rank": 6
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -211,22 +211,22 @@
     },
     {
       "word": "MARKETS",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 29,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 23,
       "category": null
@@ -257,11 +262,6 @@
     {
       "word": "WHAT",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 22,
       "category": null
     },
     {
@@ -285,6 +285,16 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
+    },
+    {
+      "word": "TETHER",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "BIG",
       "count": 19,
       "category": null
@@ -301,16 +311,6 @@
     },
     {
       "word": "DOWN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
-    },
-    {
-      "word": "TETHER",
       "count": 18,
       "category": null
     },
