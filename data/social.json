@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T09:01:51.493Z",
+  "updated_at": "2026-03-25T09:11:29.067Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 113,
+      "news_count_24h": 111,
       "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 12,
+      "news_count_24h": 49,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 18
     },
     {
@@ -176,10 +176,10 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 21,
       "category": null
@@ -270,13 +275,13 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "NEXT",
       "count": 20,
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 20,
+      "word": "LAUNCHES",
+      "count": 18,
       "category": null
     },
     {
@@ -296,11 +301,6 @@
     },
     {
       "word": "BIG",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 17,
       "category": null
     },
