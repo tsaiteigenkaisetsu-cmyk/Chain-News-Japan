@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-03-25T02:31:34.600Z",
+  "updated_at": "2026-03-25T02:41:29.151Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 112,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
+      "news_count_24h": 49,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 78,
+      "hype_score": 89,
       "buzz_rank": 6
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 93,
+      "count": 94,
       "category": "価格"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -240,13 +240,18 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 24,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
@@ -255,13 +260,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "POLYMARKET",
       "count": 21,
       "category": null
     },
     {
-      "word": "POLYMARKET",
-      "count": 21,
+      "word": "NEXT",
+      "count": 19,
       "category": null
     },
     {
@@ -281,11 +286,6 @@
     },
     {
       "word": "OIL",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 18,
       "category": null
     },
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "MOVE",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "CIRCLE",
       "count": 16,
       "category": null
@@ -328,11 +333,6 @@
       "word": "DOWN",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 16,
-      "category": "DeFi"
     }
   ],
   "stats": {
