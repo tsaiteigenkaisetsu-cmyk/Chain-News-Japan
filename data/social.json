@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T15:41:29.077Z",
+  "updated_at": "2026-03-26T15:51:37.764Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 33,
       "hype_score": 9,
       "buzz_rank": 2
     },
@@ -25,27 +25,27 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 9,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 33,
+      "hype_score": 39,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 133,
-      "buzz_rank": 9
+      "news_count_24h": 10,
+      "hype_score": 110,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 10,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 42,
       "category": "相場"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 26,
       "category": "ETF"
@@ -227,11 +232,6 @@
     {
       "word": "IRAN",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 25,
       "category": null
     },
     {
@@ -245,22 +245,22 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 22,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "LAUNCHES",
       "count": 21,
       "category": null
     },
     {
       "word": "NETWORK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 21,
       "category": null
     },
@@ -275,23 +275,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
       "count": 20,
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BIG",
-      "count": 19,
+      "word": "MILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -307,6 +297,16 @@
     {
       "word": "ANALYST",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TETHER",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BIG",
+      "count": 18,
       "category": null
     },
     {
