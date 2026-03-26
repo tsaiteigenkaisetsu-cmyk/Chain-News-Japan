@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T21:21:41.770Z",
+  "updated_at": "2026-03-26T21:31:49.016Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 136,
+      "news_count_24h": 137,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 27,
+      "news_count_24h": 28,
+      "hype_score": 25,
       "buzz_rank": 3
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 91,
+      "count": 97,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 46,
       "category": "相場"
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 29,
       "category": null
@@ -220,13 +225,8 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 27,
+      "count": 28,
       "category": "ETF"
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 21,
       "category": null
@@ -280,11 +285,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 19,
       "category": null
@@ -295,18 +295,18 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "FINANCE",
       "count": 19,
       "category": null
     },
     {
-      "word": "FINANCE",
-      "count": 18,
+      "word": "CARDANO",
+      "count": 19,
       "category": null
     },
     {
-      "word": "CARDANO",
-      "count": 18,
+      "word": "GOLD",
+      "count": 19,
       "category": null
     },
     {
@@ -320,12 +320,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "WAR",
       "count": 17,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "MARKETS",
       "count": 17,
       "category": null
     },
