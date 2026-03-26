@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T13:11:28.356Z",
+  "updated_at": "2026-03-26T13:21:34.854Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 128,
+      "news_count_24h": 132,
       "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 35,
-      "hype_score": 9,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -190,28 +190,28 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 42,
+      "category": "相場"
+    },
+    {
       "word": "PREDICTION",
       "count": 41,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
-    },
-    {
       "word": "CIRCLE",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -230,8 +230,13 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -250,8 +255,8 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 24,
+      "word": "CLARITY",
+      "count": 23,
       "category": null
     },
     {
@@ -265,7 +270,7 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "STOCK",
       "count": 22,
       "category": null
     },
@@ -275,13 +280,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "ACT",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -310,8 +310,8 @@
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 19,
+      "word": "FINANCE",
+      "count": 18,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "YIELD",
-      "count": 17,
+      "word": "TETHER",
+      "count": 18,
       "category": null
     },
     {
-      "word": "FINANCE",
+      "word": "YIELD",
       "count": 17,
       "category": null
     }
