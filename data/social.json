@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T18:01:40.595Z",
+  "updated_at": "2026-03-26T18:11:32.219Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 44,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 50,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -77,19 +77,19 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 10,
+      "hype_score": 20,
       "buzz_rank": 8
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -200,18 +200,23 @@
       "category": null
     },
     {
+      "word": "CIRCLE",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 32,
       "category": null
     },
     {
-      "word": "CIRCLE",
+      "word": "PREDICTION",
       "count": 31,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 30,
+      "word": "COINBASE",
+      "count": 28,
       "category": null
     },
     {
@@ -225,22 +230,22 @@
       "category": "ETF"
     },
     {
-      "word": "COINBASE",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 26,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 22,
+      "word": "ANALYST",
+      "count": 21,
       "category": null
     },
     {
       "word": "CLARITY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 21,
       "category": null
     },
@@ -260,6 +265,11 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "RIPPLE",
       "count": 20,
       "category": null
@@ -270,22 +280,17 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
+    },
+    {
       "word": "STOCK",
       "count": 19,
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
-    },
-    {
-      "word": "WHAT",
+      "word": "DATA",
       "count": 18,
       "category": null
     },
@@ -311,11 +316,6 @@
     },
     {
       "word": "GOLD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 17,
       "category": null
     },
