@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T14:21:35.189Z",
+  "updated_at": "2026-03-26T14:31:44.951Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
+      "news_count_24h": 131,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 7,
+      "news_count_24h": 31,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 33,
+      "hype_score": 22,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 100,
+      "count": 99,
       "category": "価格"
     },
     {
@@ -205,12 +205,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 33,
+      "word": "BILLION",
+      "count": 34,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "WHY",
       "count": 33,
       "category": null
     },
@@ -230,11 +230,6 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 25,
       "category": null
@@ -242,6 +237,11 @@
     {
       "word": "TOKENIZED",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 24,
       "category": null
     },
     {
@@ -285,6 +285,16 @@
       "category": null
     },
     {
+      "word": "RIPPLE",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "FINANCE",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 19,
       "category": null
@@ -298,16 +308,6 @@
       "word": "RALLY",
       "count": 19,
       "category": "相場"
-    },
-    {
-      "word": "RIPPLE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FINANCE",
-      "count": 18,
-      "category": null
     },
     {
       "word": "WHAT",
