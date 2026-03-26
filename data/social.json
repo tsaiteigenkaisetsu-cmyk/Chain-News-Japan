@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T16:02:27.140Z",
+  "updated_at": "2026-03-26T16:11:39.314Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 142,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -23,28 +23,28 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 9,
+      "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 39,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 110,
+      "hype_score": 140,
       "buzz_rank": 7
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 62,
+      "news_count_24h": 12,
+      "hype_score": 67,
       "buzz_rank": 5
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -196,17 +196,17 @@
     },
     {
       "word": "CIRCLE",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -216,18 +216,18 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 31,
+      "count": 30,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 27,
+      "category": "ETF"
     },
     {
       "word": "COINBASE",
       "count": 27,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 26,
-      "category": "ETF"
     },
     {
       "word": "IRAN",
@@ -236,16 +236,11 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
+      "word": "NETWORK",
       "count": 22,
       "category": null
     },
@@ -255,7 +250,7 @@
       "category": null
     },
     {
-      "word": "NETWORK",
+      "word": "STOCK",
       "count": 21,
       "category": null
     },
@@ -265,7 +260,7 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "CLARITY",
       "count": 21,
       "category": null
     },
@@ -280,8 +275,18 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "ACT",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "TETHER",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 19,
       "category": null
     },
     {
@@ -290,18 +295,13 @@
       "category": "相場"
     },
     {
-      "word": "FINANCE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ANALYST",
       "count": 19,
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 18,
+      "word": "MARKETS",
+      "count": 19,
       "category": null
     },
     {
@@ -315,12 +315,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "FINANCE",
       "count": 18,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "NEXT",
       "count": 18,
       "category": null
     },
