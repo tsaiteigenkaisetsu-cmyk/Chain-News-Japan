@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T14:41:24.123Z",
+  "updated_at": "2026-03-26T14:51:34.830Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 133,
+      "news_count_24h": 135,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 6,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 17,
+      "hype_score": 22,
       "buzz_rank": 4
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 0,
+      "hype_score": 8,
       "buzz_rank": 6
     },
     {
@@ -191,16 +191,16 @@
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 40,
       "category": "相場"
     },
     {
-      "word": "PREDICTION",
-      "count": 38,
+      "word": "CIRCLE",
+      "count": 37,
       "category": null
     },
     {
-      "word": "CIRCLE",
+      "word": "PREDICTION",
       "count": 37,
       "category": null
     },
@@ -226,7 +226,7 @@
     },
     {
       "word": "ETF",
-      "count": 25,
+      "count": 26,
       "category": "ETF"
     },
     {
@@ -236,11 +236,11 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
@@ -260,12 +260,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "MILLION",
       "count": 22,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "SOLANA",
       "count": 22,
       "category": null
     },
@@ -300,17 +300,7 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 19,
-      "category": "相場"
-    },
-    {
       "word": "TETHER",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 18,
       "category": null
     },
@@ -333,6 +323,16 @@
       "word": "CEO",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "YIELD",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 17,
+      "category": "相場"
     }
   ],
   "stats": {
