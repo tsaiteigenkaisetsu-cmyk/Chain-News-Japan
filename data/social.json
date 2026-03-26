@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T02:01:41.799Z",
+  "updated_at": "2026-03-26T02:11:28.185Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
+      "news_count_24h": 123,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 16,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 167,
+      "hype_score": 200,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 98,
+      "count": 99,
       "category": "価格"
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "PREDICTION",
       "count": 34,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 34,
+      "word": "BILLION",
+      "count": 33,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 21,
       "category": null
@@ -273,11 +278,6 @@
       "word": "RALLY",
       "count": 20,
       "category": "相場"
-    },
-    {
-      "word": "WHAT",
-      "count": 20,
-      "category": null
     },
     {
       "word": "RIPPLE",
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "PLATFORM",
       "count": 18,
       "category": null
@@ -326,6 +321,11 @@
     },
     {
       "word": "CLARITY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FUND",
       "count": 17,
       "category": null
     },
