@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-03-26T02:51:23.777Z",
+  "updated_at": "2026-03-26T03:01:50.315Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 124,
+      "news_count_24h": 126,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 50,
+      "hype_score": 43,
       "buzz_rank": 5
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 8
     },
     {
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 98,
+      "count": 99,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "ANALYST",
       "count": 21,
       "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 21,
+      "word": "WHAT",
+      "count": 20,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CARDANO",
       "count": 18,
       "category": null
@@ -320,17 +315,22 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "MOVE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 17,
+      "category": "ETF"
+    },
+    {
+      "word": "CLARITY",
       "count": 17,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FUND",
       "count": 17,
       "category": null
     }
