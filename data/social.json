@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T17:21:34.815Z",
+  "updated_at": "2026-03-26T17:31:46.537Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 14
     },
     {
@@ -191,18 +191,8 @@
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 43,
       "category": "相場"
-    },
-    {
-      "word": "CIRCLE",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 33,
-      "category": null
     },
     {
       "word": "BILLION",
@@ -210,13 +200,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 31,
+      "word": "WHY",
+      "count": 32,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 29,
+      "word": "CIRCLE",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 31,
       "category": null
     },
     {
@@ -230,23 +225,23 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 26,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "LAUNCHES",
       "count": 22,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 21,
+      "word": "TOKENIZED",
+      "count": 22,
       "category": null
     },
     {
@@ -260,11 +255,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 20,
       "category": null
@@ -272,6 +262,16 @@
     {
       "word": "CLARITY",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 19,
       "category": null
     },
     {
@@ -290,22 +290,12 @@
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 18,
       "category": "相場"
     },
     {
       "word": "WHAT",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "FINANCE",
       "count": 18,
       "category": null
     },
@@ -320,17 +310,27 @@
       "category": null
     },
     {
-      "word": "BIG",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 17,
       "category": null
     },
     {
+      "word": "FINANCE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "BIG",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "BINANCE",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "GOLD",
       "count": 16,
       "category": null
     }
