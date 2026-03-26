@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T17:51:38.691Z",
+  "updated_at": "2026-03-26T18:01:40.595Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 140,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 17,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 118,
+      "hype_score": 109,
       "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 57,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 91,
       "category": "価格"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 21,
       "category": null
@@ -255,18 +260,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
-      "count": 19,
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 20,
       "category": null
     },
     {
@@ -276,11 +276,6 @@
     },
     {
       "word": "ANALYST",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 19,
       "category": null
     },
@@ -301,6 +296,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 18,
       "category": null
     },
