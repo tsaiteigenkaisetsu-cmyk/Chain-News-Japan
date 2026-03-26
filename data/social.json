@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T14:51:34.830Z",
+  "updated_at": "2026-03-26T15:01:52.689Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 135,
+      "news_count_24h": 136,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 11,
+      "news_count_24h": 35,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 120,
-      "buzz_rank": 8
+      "news_count_24h": 9,
+      "hype_score": 133,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 13,
+      "hype_score": 0,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 98,
+      "count": 100,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "BILLION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "COINBASE",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -250,16 +250,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 22,
       "category": null
@@ -267,6 +257,16 @@
     {
       "word": "SOLANA",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 21,
       "category": null
     },
     {
@@ -295,12 +295,17 @@
       "category": null
     },
     {
-      "word": "BIG",
-      "count": 19,
-      "category": null
+      "word": "RALLY",
+      "count": 18,
+      "category": "相場"
     },
     {
       "word": "TETHER",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BIG",
       "count": 18,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "YIELD",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 17,
-      "category": "相場"
     }
   ],
   "stats": {
