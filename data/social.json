@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T10:01:45.903Z",
+  "updated_at": "2026-03-26T10:11:29.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
+      "news_count_24h": 128,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 11,
+      "news_count_24h": 36,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 39,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 150,
+      "news_count_24h": 9,
+      "hype_score": 133,
       "buzz_rank": 8
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 57,
+      "news_count_24h": 15,
+      "hype_score": 53,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 100,
+      "count": 102,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
+    },
+    {
       "word": "BIG",
       "count": 22,
       "category": null
@@ -265,9 +270,9 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "WHAT",
       "count": 21,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "NEXT",
@@ -295,11 +300,6 @@
       "category": "相場"
     },
     {
-      "word": "WHAT",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ANALYST",
       "count": 20,
       "category": null
@@ -307,6 +307,11 @@
     {
       "word": "TETHER",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "CARDANO",
+      "count": 18,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "TAPS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 17,
       "category": null
     }
