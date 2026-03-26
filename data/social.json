@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-26T11:51:35.036Z",
+  "updated_at": "2026-03-26T12:01:48.563Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
-      "hype_score": 7,
+      "news_count_24h": 128,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 57,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 105,
+      "count": 103,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 46,
+      "count": 43,
       "category": "相場"
     },
     {
       "word": "PREDICTION",
-      "count": 43,
+      "count": 40,
       "category": null
     },
     {
@@ -220,18 +220,18 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 30,
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MARKETS",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -241,7 +241,12 @@
     },
     {
       "word": "SOLANA",
-      "count": 26,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 23,
       "category": null
     },
     {
@@ -260,14 +265,9 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "CLARITY",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 21,
-      "category": "相場"
     },
     {
       "word": "NEXT",
@@ -285,9 +285,9 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "RALLY",
       "count": 20,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "RIPPLE",
@@ -295,8 +295,13 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "TRADING",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -310,28 +315,23 @@
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CARDANO",
       "count": 18,
       "category": null
     },
     {
-      "word": "YIELD",
+      "word": "DATA",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "FINANCE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 17,
       "category": null
     }
   ],
