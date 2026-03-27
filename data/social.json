@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T15:51:34.528Z",
+  "updated_at": "2026-03-27T16:01:50.004Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,35 +7,35 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 140,
       "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 39,
-      "hype_score": 15,
-      "buzz_rank": 3
+      "hype_score": 10,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 8,
-      "buzz_rank": 2
+      "news_count_24h": 38,
+      "hype_score": 5,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 40,
+      "hype_score": 30,
       "buzz_rank": 6
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,28 +186,23 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 101,
+      "count": 99,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 43,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
       "word": "WHY",
       "count": 32,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 31,
-      "category": "ETF"
     },
     {
       "word": "COINBASE",
@@ -220,13 +215,18 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
+    },
+    {
       "word": "BILLION",
       "count": 29,
       "category": null
     },
     {
       "word": "WHAT",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "NETWORK",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 22,
+      "word": "BELOW",
+      "count": 21,
       "category": null
     },
     {
@@ -260,17 +260,12 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 20,
+      "word": "TRUMP",
+      "count": 21,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ETFS",
       "count": 20,
       "category": null
     },
@@ -285,21 +280,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "BACKED",
       "count": 19,
       "category": null
@@ -310,17 +290,27 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "FINANCE",
       "count": 18,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DROP",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ETFS",
       "count": 18,
       "category": null
     },
@@ -332,6 +322,16 @@
     {
       "word": "MARA",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 17,
       "category": null
     }
   ],
