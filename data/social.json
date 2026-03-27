@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-27T17:51:36.569Z",
+  "updated_at": "2026-03-27T18:01:41.582Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
-      "hype_score": 9,
+      "news_count_24h": 138,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -25,26 +25,26 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 37,
       "hype_score": 5,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 6
+      "news_count_24h": 13,
+      "hype_score": 15,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 0,
+      "hype_score": 140,
       "buzz_rank": 9
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 99,
+      "count": 98,
       "category": "価格"
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "word": "ETF",
-      "count": 28,
+      "count": 27,
       "category": "ETF"
     },
     {
       "word": "WHAT",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 22,
+      "word": "RIPPLE",
+      "count": 21,
       "category": null
     },
     {
@@ -250,17 +250,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 20,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "TRUMP",
       "count": 19,
       "category": null
     },
@@ -270,17 +265,17 @@
       "category": null
     },
     {
+      "word": "GOLD",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 18,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HOW",
+      "word": "STABLECOIN",
       "count": 18,
       "category": null
     },
@@ -305,6 +300,11 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 17,
       "category": null
@@ -315,7 +315,12 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "TRADING",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "HOW",
       "count": 17,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "WAR",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 17,
       "category": null
     }
