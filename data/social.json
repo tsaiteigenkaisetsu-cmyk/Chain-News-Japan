@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T10:11:23.570Z",
+  "updated_at": "2026-03-27T10:21:23.195Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 144,
+      "news_count_24h": 140,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 9,
+      "news_count_24h": 36,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 36,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 80,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 19,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 90,
+      "count": 91,
       "category": "価格"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 29,
       "category": "ETF"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 28,
-      "category": null
     },
     {
       "word": "IRAN",
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "NETWORK",
+      "word": "RIPPLE",
       "count": 23,
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 22,
+      "word": "NETWORK",
+      "count": 23,
       "category": null
     },
     {
@@ -290,12 +290,17 @@
       "category": null
     },
     {
-      "word": "SIGNALS",
+      "word": "BINANCE",
       "count": 19,
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "STABLECOIN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "SIGNALS",
       "count": 19,
       "category": null
     },
@@ -306,11 +311,6 @@
     },
     {
       "word": "CARDANO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 18,
       "category": null
     },
