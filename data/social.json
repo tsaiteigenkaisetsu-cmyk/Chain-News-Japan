@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T14:39:08.484Z",
+  "updated_at": "2026-03-27T14:41:34.625Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 135,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,27 +16,27 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 16,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 38,
       "hype_score": 5,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 7
+      "news_count_24h": 11,
+      "hype_score": 36,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 73,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 96,
+      "count": 97,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
+    },
+    {
       "word": "WHY",
       "count": 30,
       "category": null
@@ -218,11 +223,6 @@
       "word": "BILLION",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 29,
-      "category": "ETF"
     },
     {
       "word": "WHAT",
@@ -245,13 +245,23 @@
       "category": null
     },
     {
-      "word": "CIRCLE",
-      "count": 23,
+      "word": "TRUMP",
+      "count": 22,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "CIRCLE",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 21,
       "category": null
     },
     {
@@ -261,16 +271,6 @@
     },
     {
       "word": "CLARITY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -295,17 +295,17 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "BELOW",
       "count": 18,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 18,
       "category": null
     },
