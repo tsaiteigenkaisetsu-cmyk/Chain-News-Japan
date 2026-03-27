@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T14:01:52.586Z",
+  "updated_at": "2026-03-27T14:11:38.072Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 135,
+      "news_count_24h": 136,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 39,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -34,18 +34,18 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 10,
+      "hype_score": 40,
       "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 167,
-      "buzz_rank": 8
+      "hype_score": 150,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 11
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 95,
+      "count": 97,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "COINBASE",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 30,
       "category": "ETF"
-    },
-    {
-      "word": "WHY",
-      "count": 29,
-      "category": null
     },
     {
       "word": "WHAT",
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 24,
+      "word": "TRUMP",
+      "count": 23,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "IRAN",
       "count": 23,
       "category": null
     },
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 20,
       "category": null
@@ -275,7 +280,7 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "DROP",
       "count": 19,
       "category": null
     },
@@ -295,16 +300,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "BELOW",
       "count": 18,
       "category": null
@@ -316,6 +311,11 @@
     },
     {
       "word": "MARA",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 18,
       "category": null
     },
