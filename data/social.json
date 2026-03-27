@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T16:31:46.910Z",
+  "updated_at": "2026-03-27T16:41:36.745Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
+      "news_count_24h": 139,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 117,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 175,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 167,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 44,
       "category": "相場"
     },
     {
@@ -200,12 +200,17 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "PREDICTION",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 31,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "COINBASE",
       "count": 31,
       "category": null
     },
@@ -215,13 +220,8 @@
       "category": "ETF"
     },
     {
-      "word": "WHY",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "BILLION",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -265,18 +265,23 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "TRADING",
       "count": 19,
       "category": null
     },
     {
-      "word": "BACKED",
+      "word": "OIL",
       "count": 19,
       "category": null
     },
     {
       "word": "CIRCLE",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 18,
       "category": null
     },
     {
@@ -290,22 +295,17 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "DROP",
       "count": 18,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "ETFS",
       "count": 18,
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "BACKED",
       "count": 18,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "NETWORK",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "GOLD",
       "count": 17,
       "category": null
     },
     {
       "word": "KEY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WAR",
       "count": 17,
       "category": null
     }
