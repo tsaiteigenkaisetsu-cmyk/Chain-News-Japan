@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T07:21:22.773Z",
+  "updated_at": "2026-03-27T07:31:47.710Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 137,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 33,
-      "buzz_rank": 5
+      "hype_score": 42,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 100,
+      "news_count_24h": 6,
+      "hype_score": 117,
       "buzz_rank": 8
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 95,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 48,
+      "count": 47,
       "category": "相場"
     },
     {
       "word": "BILLION",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "COINBASE",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -231,7 +231,12 @@
     },
     {
       "word": "WHAT",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -242,11 +247,6 @@
     {
       "word": "NETWORK",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 22,
       "category": null
     },
     {
@@ -285,13 +285,18 @@
       "category": null
     },
     {
-      "word": "ANALYST",
+      "word": "GOLD",
       "count": 19,
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 19,
+      "word": "BACKED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ANALYST",
+      "count": 18,
       "category": null
     },
     {
@@ -325,14 +330,9 @@
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "DROP",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 17,
-      "category": "相場"
     }
   ],
   "stats": {
