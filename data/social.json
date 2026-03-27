@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T04:51:28.002Z",
+  "updated_at": "2026-03-27T05:01:43.939Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
+      "news_count_24h": 137,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 32,
+      "news_count_24h": 30,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 27,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 93,
       "category": "価格"
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 22,
       "category": null
@@ -251,16 +256,6 @@
     },
     {
       "word": "TRUMP",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 21,
-      "category": "相場"
-    },
-    {
-      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -280,11 +275,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 20,
       "category": null
@@ -295,17 +285,17 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
+    },
+    {
       "word": "FINANCE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "CARDANO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "GOLD",
       "count": 19,
       "category": null
     },
@@ -320,17 +310,27 @@
       "category": null
     },
     {
+      "word": "CARDANO",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "SIGNALS",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "MARA",
       "count": 17,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "KEY",
       "count": 17,
       "category": null
     }
