@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T10:01:51.905Z",
+  "updated_at": "2026-03-27T10:11:23.570Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 143,
+      "news_count_24h": 144,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 73,
+      "news_count_24h": 10,
+      "hype_score": 80,
       "buzz_rank": 7
     },
     {
@@ -99,23 +99,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 12
+      "hype_score": 200,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 13
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 91,
+      "count": 90,
       "category": "価格"
     },
     {
@@ -210,18 +210,18 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
+    },
+    {
       "word": "PREDICTION",
       "count": 28,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 28,
-      "category": "ETF"
-    },
-    {
       "word": "IRAN",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "NETWORK",
       "count": 23,
       "category": null
     },
     {
-      "word": "NETWORK",
-      "count": 23,
+      "word": "RIPPLE",
+      "count": 22,
       "category": null
     },
     {
@@ -257,6 +257,16 @@
     {
       "word": "TRUMP",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 21,
       "category": null
     },
     {
@@ -280,28 +290,18 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SIGNALS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "GOLD",
       "count": 19,
       "category": null
     },
     {
       "word": "BINANCE",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 18,
       "category": null
     },
     {
@@ -325,8 +325,8 @@
       "category": null
     },
     {
-      "word": "WAR",
-      "count": 17,
+      "word": "GOLD",
+      "count": 18,
       "category": null
     },
     {
