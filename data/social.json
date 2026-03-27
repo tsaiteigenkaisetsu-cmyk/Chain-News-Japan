@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T12:31:36.795Z",
+  "updated_at": "2026-03-27T12:41:31.179Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 143,
+      "news_count_24h": 141,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -18,25 +18,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
       "hype_score": 21,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 8,
-      "buzz_rank": 3
+      "news_count_24h": 41,
+      "hype_score": 7,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 100,
-      "buzz_rank": 6
+      "news_count_24h": 10,
+      "hype_score": 90,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
+      "news_count_24h": 20,
+      "hype_score": 15,
       "buzz_rank": 4
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 12
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 91,
+      "count": 93,
       "category": "価格"
     },
     {
@@ -195,12 +195,17 @@
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 32,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "WHY",
       "count": 31,
       "category": null
     },
@@ -215,13 +220,13 @@
       "category": "ETF"
     },
     {
-      "word": "WHY",
-      "count": 30,
+      "word": "PREDICTION",
+      "count": 29,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 28,
+      "word": "WHAT",
+      "count": 26,
       "category": null
     },
     {
@@ -230,13 +235,8 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -251,6 +251,11 @@
     },
     {
       "word": "BINANCE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 21,
       "category": null
     },
@@ -272,11 +277,6 @@
     {
       "word": "TRUMP",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 20,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "CARDANO",
       "count": 17,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "GOLD",
       "count": 17,
       "category": null
     }
