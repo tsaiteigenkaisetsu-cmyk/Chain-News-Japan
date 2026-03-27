@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T06:02:17.311Z",
+  "updated_at": "2026-03-27T06:11:27.731Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 137,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 33,
+      "news_count_24h": 31,
+      "hype_score": 32,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 50,
+      "hype_score": 33,
       "buzz_rank": 10
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 95,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 45,
+      "count": 46,
       "category": "相場"
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
+    },
+    {
       "word": "CIRCLE",
       "count": 29,
       "category": null
@@ -225,13 +230,13 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 28,
-      "category": "ETF"
-    },
-    {
       "word": "WHAT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 23,
       "category": null
     },
     {
@@ -250,6 +255,11 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 22,
       "category": null
@@ -257,16 +267,6 @@
     {
       "word": "CLARITY",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 21,
       "category": null
     },
     {
@@ -287,6 +287,11 @@
     {
       "word": "GOLD",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 18,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "SOLANA",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 17,
       "category": null
     }
