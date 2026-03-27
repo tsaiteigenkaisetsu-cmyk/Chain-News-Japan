@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T14:41:34.625Z",
+  "updated_at": "2026-03-27T14:51:39.527Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 135,
+      "news_count_24h": 136,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -41,11 +41,11 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 150,
-      "buzz_rank": 9
+      "news_count_24h": 7,
+      "hype_score": 143,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -200,8 +200,13 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "COINBASE",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -213,11 +218,6 @@
       "word": "ETF",
       "count": 30,
       "category": "ETF"
-    },
-    {
-      "word": "WHY",
-      "count": 30,
-      "category": null
     },
     {
       "word": "BILLION",
