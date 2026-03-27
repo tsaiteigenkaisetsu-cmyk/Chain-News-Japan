@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T19:51:23.786Z",
+  "updated_at": "2026-03-27T20:01:49.448Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 130,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 14,
+      "news_count_24h": 36,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 40,
       "hype_score": 5,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 21,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 10
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 25,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 97,
+      "count": 96,
       "category": "価格"
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "WHY",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -230,14 +230,14 @@
       "category": null
     },
     {
+      "word": "RIPPLE",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 24,
       "category": "ETF"
-    },
-    {
-      "word": "RIPPLE",
-      "count": 23,
-      "category": null
     },
     {
       "word": "BELOW",
@@ -257,11 +257,6 @@
     {
       "word": "BINANCE",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 18,
       "category": null
     },
     {
@@ -285,22 +280,12 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 17,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 17,
       "category": null
     },
@@ -325,12 +310,27 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "CLARITY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "GOLD",
       "count": 16,
       "category": null
     },
     {
       "word": "CARDANO",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "KEY",
       "count": 16,
       "category": null
     }
