@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T09:31:41.794Z",
+  "updated_at": "2026-03-27T09:41:26.728Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 141,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 35,
+      "news_count_24h": 35,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -36,15 +36,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 40,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 129,
+      "news_count_24h": 8,
+      "hype_score": 113,
       "buzz_rank": 8
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 80,
-      "buzz_rank": 7
+      "news_count_24h": 11,
+      "hype_score": 73,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 90,
+      "count": 91,
       "category": "価格"
     },
     {
@@ -215,6 +215,11 @@
       "category": "ETF"
     },
     {
+      "word": "IRAN",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CIRCLE",
       "count": 27,
       "category": null
@@ -226,11 +231,6 @@
     },
     {
       "word": "MILLION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 26,
       "category": null
     },
@@ -281,6 +281,11 @@
     },
     {
       "word": "ETFS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SIGNALS",
       "count": 19,
       "category": null
     },
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "SIGNALS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "BELOW",
+      "word": "WAR",
       "count": 17,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "BELOW",
       "count": 17,
       "category": null
     }
