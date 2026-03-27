@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T08:21:33.429Z",
+  "updated_at": "2026-03-27T08:31:37.865Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 9,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 33,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 6
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 80,
+      "news_count_24h": 9,
+      "hype_score": 89,
       "buzz_rank": 7
     },
     {
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 93,
+      "count": 92,
       "category": "価格"
     },
     {
       "word": "MARKET",
       "count": 48,
       "category": "相場"
+    },
+    {
+      "word": "BILLION",
+      "count": 32,
+      "category": null
     },
     {
       "word": "COINBASE",
@@ -205,23 +210,18 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 29,
       "category": "ETF"
     },
     {
       "word": "PREDICTION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -300,17 +300,17 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "ANALYST",
       "count": 18,
       "category": null
     },
     {
       "word": "MARA",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 18,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "MARKETS",
       "count": 17,
       "category": null
     },
     {
-      "word": "FINANCE",
+      "word": "KEY",
       "count": 17,
       "category": null
     }
