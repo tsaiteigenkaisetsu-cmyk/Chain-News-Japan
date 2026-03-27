@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-27T16:51:41.534Z",
+  "updated_at": "2026-03-27T17:02:00.715Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
-      "hype_score": 8,
+      "news_count_24h": 139,
+      "hype_score": 0,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
-      "hype_score": 11,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
+      "news_count_24h": 5,
+      "hype_score": 140,
       "buzz_rank": 10
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
+      "news_count_24h": 1,
+      "hype_score": 500,
       "buzz_rank": 13
     },
     {
@@ -196,11 +196,16 @@
     },
     {
       "word": "MILLION",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
       "word": "PREDICTION",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 32,
       "category": null
     },
@@ -210,23 +215,18 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 29,
       "category": "ETF"
     },
     {
-      "word": "BILLION",
+      "word": "WHAT",
       "count": 28,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 27,
+      "word": "BILLION",
+      "count": 28,
       "category": null
     },
     {
@@ -235,12 +235,17 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 23,
+      "word": "MARKETS",
+      "count": 22,
       "category": null
     },
     {
       "word": "BELOW",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 21,
       "category": null
     },
@@ -250,18 +255,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 21,
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 20,
+      "word": "STABLECOIN",
+      "count": 19,
       "category": null
     },
     {
@@ -275,22 +275,12 @@
       "category": null
     },
     {
-      "word": "CIRCLE",
+      "word": "CLARITY",
       "count": 19,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "HOW",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "FINANCE",
       "count": 18,
       "category": null
     },
@@ -310,13 +300,13 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "MARA",
       "count": 18,
       "category": null
     },
     {
-      "word": "MARA",
-      "count": 18,
+      "word": "STRATEGY",
+      "count": 17,
       "category": null
     },
     {
@@ -331,6 +321,16 @@
     },
     {
       "word": "WAR",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
       "count": 17,
       "category": null
     }
