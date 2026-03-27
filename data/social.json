@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T22:51:26.733Z",
+  "updated_at": "2026-03-27T23:01:57.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 131,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
+      "news_count_24h": 42,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 31,
+      "news_count_24h": 15,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 98,
+      "count": 97,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 52,
       "category": "相場"
     },
     {
@@ -305,16 +305,6 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 15,
       "category": null
@@ -325,13 +315,23 @@
       "category": null
     },
     {
-      "word": "CARDANO",
+      "word": "HOW",
       "count": 15,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 15,
+      "word": "GOLD",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 14,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
