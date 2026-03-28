@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T17:31:35.944Z",
+  "updated_at": "2026-03-28T17:41:24.346Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 76,
       "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 41,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 175,
+      "hype_score": 150,
       "buzz_rank": 8
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 40,
       "category": "相場"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 16,
+      "category": "ETF"
+    },
+    {
       "word": "DATA",
       "count": 16,
       "category": null
@@ -268,11 +273,6 @@
       "word": "BINANCE",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 15,
-      "category": "ETF"
     },
     {
       "word": "HIT",
