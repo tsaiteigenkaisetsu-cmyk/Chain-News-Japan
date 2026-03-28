@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T00:21:25.116Z",
+  "updated_at": "2026-03-28T00:32:55.026Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 128,
+      "news_count_24h": 129,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 40,
-      "hype_score": 15,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -122,10 +122,10 @@
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 16
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 54,
       "category": "相場"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "ETF",
-      "count": 24,
+      "count": 25,
       "category": "ETF"
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "FACES",
       "count": 16,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "HITS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "SELL",
       "count": 14,
       "category": null
     }
