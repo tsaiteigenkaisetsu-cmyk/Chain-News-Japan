@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T14:31:35.299Z",
+  "updated_at": "2026-03-28T14:41:28.159Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 88,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 133,
+      "news_count_24h": 5,
+      "hype_score": 180,
       "buzz_rank": 6
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 16
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 72,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 20,
+      "word": "BILLION",
+      "count": 21,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "ETF",
-      "count": 18,
+      "count": 16,
       "category": "ETF"
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 13,
       "category": null
@@ -302,6 +307,11 @@
     {
       "word": "PRESSURE",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "POLYMARKET",
+      "count": 12,
       "category": null
     },
     {
@@ -323,16 +333,6 @@
       "word": "HOW",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 12,
-      "category": "セキュリティ"
     }
   ],
   "stats": {
