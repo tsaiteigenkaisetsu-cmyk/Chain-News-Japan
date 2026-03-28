@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-28T10:01:36.575Z",
+  "updated_at": "2026-03-28T10:11:32.227Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
-      "hype_score": 8,
+      "news_count_24h": 108,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 37,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 45,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -133,16 +133,16 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 88,
+      "count": 87,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 50,
       "category": "相場"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "BILLION",
       "count": 25,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 25,
+      "word": "COINBASE",
+      "count": 24,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
+    },
+    {
       "word": "MARKETS",
       "count": 19,
       "category": null
@@ -253,11 +258,6 @@
       "word": "TRADING",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
     },
     {
       "word": "BACKED",
@@ -282,11 +282,6 @@
     {
       "word": "WAR",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "HOUSE",
-      "count": 15,
       "category": null
     },
     {
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "HOUSE",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 14,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHITE",
+      "word": "CLARITY",
       "count": 13,
       "category": null
     }
