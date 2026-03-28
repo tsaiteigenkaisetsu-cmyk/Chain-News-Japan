@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T00:51:25.322Z",
+  "updated_at": "2026-03-28T01:02:11.637Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 129,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 15,
       "buzz_rank": 3
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 33,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 67,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 100,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 96,
+      "count": 97,
       "category": "価格"
     },
     {
@@ -275,16 +275,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "HOW",
       "count": 16,
       "category": null
@@ -300,7 +290,17 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "WAR",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "DROP",
       "count": 16,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
