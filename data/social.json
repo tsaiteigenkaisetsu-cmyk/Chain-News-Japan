@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T02:51:21.700Z",
+  "updated_at": "2026-03-28T03:01:47.442Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
+      "news_count_24h": 129,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
-      "hype_score": 18,
+      "hype_score": 11,
       "buzz_rank": 3
     },
     {
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 97,
+      "count": 96,
       "category": "価格"
     },
     {
@@ -215,11 +215,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 26,
-      "category": "ETF"
-    },
-    {
       "word": "WHAT",
       "count": 26,
       "category": null
@@ -228,6 +223,11 @@
       "word": "BILLION",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 24,
+      "category": "ETF"
     },
     {
       "word": "TRUMP",
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 16,
       "category": null
@@ -297,6 +292,11 @@
     {
       "word": "DROP",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 15,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "GOLD",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CARDANO",
       "count": 14,
       "category": null
     }
