@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T11:21:26.348Z",
+  "updated_at": "2026-03-29T11:31:34.642Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 20,
       "buzz_rank": 1
     },
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 33,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
-      "buzz_rank": 3
+      "news_count_24h": 16,
+      "hype_score": 13,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 53,
+      "count": 54,
       "category": "価格"
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "MILLION",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 17,
       "category": "ETF"
+    },
+    {
+      "word": "BELOW",
+      "count": 17,
+      "category": null
     },
     {
       "word": "PREDICTION",
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "PRESSURE",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 12,
       "category": null
@@ -265,6 +260,16 @@
       "category": null
     },
     {
+      "word": "MORGAN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "STANLEY",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 11,
       "category": "DeFi"
@@ -276,6 +281,11 @@
     },
     {
       "word": "BILLION",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "PRESSURE",
       "count": 11,
       "category": null
     },
@@ -305,13 +315,13 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 10,
+      "word": "KEY",
+      "count": 9,
       "category": null
     },
     {
-      "word": "STANLEY",
-      "count": 10,
+      "word": "HERES",
+      "count": 9,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "ICE",
       "count": 9,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 8,
       "category": null
     }
   ],
