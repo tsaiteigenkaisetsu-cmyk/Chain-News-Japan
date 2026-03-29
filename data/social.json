@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T05:57:08.711Z",
+  "updated_at": "2026-03-29T06:02:56.781Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 31,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
-      "buzz_rank": 2
+      "news_count_24h": 13,
+      "hype_score": 15,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 33,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 61,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 37,
       "category": "相場"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "ETF",
-      "count": 20,
+      "count": 19,
       "category": "ETF"
     },
     {
@@ -250,12 +250,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 14,
+      "word": "OIL",
+      "count": 13,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "BILLION",
       "count": 13,
       "category": null
     },
@@ -266,11 +266,6 @@
     },
     {
       "word": "HIT",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 12,
       "category": null
     },
@@ -291,6 +286,11 @@
     },
     {
       "word": "HITS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 11,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 16,
+    "reddit_reused_previous": 4,
     "reddit_mode": "rss"
   }
 }
