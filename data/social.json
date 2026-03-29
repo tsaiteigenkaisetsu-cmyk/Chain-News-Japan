@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T20:53:41.583Z",
+  "updated_at": "2026-03-29T21:01:40.375Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 44,
       "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 18,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -32,11 +32,11 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 5
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 29,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 27,
+      "count": 26,
       "category": "相場"
     },
     {
       "word": "WHY",
-      "count": 21,
+      "count": 18,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "MILLION",
-      "count": 10,
+      "count": 11,
       "category": null
     },
     {
@@ -261,11 +261,6 @@
     },
     {
       "word": "TRADING",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 10,
       "category": null
     },
@@ -300,6 +295,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "CLARITY",
       "count": 8,
       "category": null
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "HITS",
       "count": 7,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "FOUNDATION",
       "count": 7,
       "category": null
     }
