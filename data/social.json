@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-29T12:51:30.748Z",
+  "updated_at": "2026-03-29T13:01:49.915Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 20,
+      "news_count_24h": 42,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
-      "buzz_rank": 2
+      "news_count_24h": 16,
+      "hype_score": 31,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
-      "buzz_rank": 3
+      "news_count_24h": 17,
+      "hype_score": 12,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 35,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -225,14 +225,24 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 14,
       "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PRESSURE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 12,
+      "category": "DeFi"
     },
     {
       "word": "DATA",
@@ -241,16 +251,6 @@
     },
     {
       "word": "RIPPLE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 12,
       "category": null
     },
@@ -265,9 +265,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "TRADERS",
       "count": 11,
-      "category": "DeFi"
+      "category": null
     },
     {
       "word": "NEXT",
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "PRESSURE",
+      "word": "MARKETS",
       "count": 11,
       "category": null
     },
@@ -285,13 +285,18 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "HITS",
       "count": 10,
       "category": null
     },
     {
-      "word": "POLYMARKET",
-      "count": 10,
+      "word": "SHIBA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "INU",
+      "count": 9,
       "category": null
     },
     {
@@ -305,17 +310,17 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "HERES",
       "count": 9,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "OIL",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "POLYMARKET",
       "count": 9,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "ACT",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "HERE",
       "count": 8,
       "category": null
     }
