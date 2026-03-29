@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T08:33:14.014Z",
+  "updated_at": "2026-03-29T08:44:22.194Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 23,
+      "news_count_24h": 41,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 59,
+      "count": 58,
       "category": "価格"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "ETF",
-      "count": 19,
+      "count": 18,
       "category": "ETF"
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 10,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "COINBASE",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 9,
       "category": null
     }
   ],
