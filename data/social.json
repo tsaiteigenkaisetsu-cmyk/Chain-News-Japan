@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T19:51:56.126Z",
+  "updated_at": "2026-03-29T20:01:56.657Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 10,
+      "news_count_24h": 43,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 17,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "WHY",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -217,6 +217,11 @@
     {
       "word": "BELOW",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 12,
       "category": null
     },
     {
@@ -245,16 +250,6 @@
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "HERES",
       "count": 10,
       "category": null
@@ -262,6 +257,16 @@
     {
       "word": "NEXT",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 9,
+      "category": "DeFi"
+    },
+    {
+      "word": "MILLION",
+      "count": 9,
       "category": null
     },
     {
@@ -276,11 +281,6 @@
     },
     {
       "word": "ACT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 9,
       "category": null
     },
@@ -305,9 +305,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "RIPPLE",
       "count": 8,
-      "category": "DeFi"
+      "category": null
     },
     {
       "word": "BILLION",
