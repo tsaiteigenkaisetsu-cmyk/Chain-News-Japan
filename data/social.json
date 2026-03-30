@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T05:41:27.620Z",
+  "updated_at": "2026-03-30T05:52:45.460Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
-      "hype_score": 9,
+      "news_count_24h": 59,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -196,7 +196,12 @@
     },
     {
       "word": "WHY",
-      "count": 18,
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 14,
       "category": null
     },
     {
@@ -210,8 +215,8 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 13,
+      "word": "HIT",
+      "count": 12,
       "category": null
     },
     {
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "HERES",
       "count": 11,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "HERES",
-      "count": 10,
       "category": null
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "PRESSURE",
       "count": 8,
       "category": null
@@ -282,11 +287,6 @@
     {
       "word": "TRADING",
       "count": 8,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 7,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "MARKETS",
       "count": 6,
       "category": null
     },
     {
-      "word": "PROPOSES",
+      "word": "ETFS",
       "count": 6,
       "category": null
     }
