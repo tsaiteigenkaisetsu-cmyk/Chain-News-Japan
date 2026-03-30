@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T14:21:34.747Z",
+  "updated_at": "2026-03-30T14:31:53.000Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 85,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 200,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -200,12 +200,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
+      "word": "WHY",
+      "count": 21,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "MILLION",
       "count": 20,
       "category": null
     },
@@ -220,23 +220,28 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 14,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "RISK",
-      "count": 12,
+      "count": 13,
       "category": null
     },
     {
       "word": "FOUNDATION",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 10,
       "category": null
     },
     {
@@ -260,11 +265,6 @@
       "category": "ETF"
     },
     {
-      "word": "TRADING",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "HOW",
       "count": 10,
       "category": null
@@ -275,7 +275,17 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "AAVE",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 9,
       "category": null
     },
@@ -285,11 +295,6 @@
       "category": "DeFi"
     },
     {
-      "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "HERES",
       "count": 9,
       "category": null
@@ -297,6 +302,11 @@
     {
       "word": "INU",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 8,
       "category": null
     },
     {
@@ -321,16 +331,6 @@
     },
     {
       "word": "PRESSURE",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "BELOW",
       "count": 8,
       "category": null
     }
