@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-29T23:51:20.195Z",
+  "updated_at": "2026-03-30T00:04:21.505Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 6,
+      "news_count_24h": 46,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
@@ -190,18 +190,18 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 20,
-      "category": "相場"
-    },
-    {
       "word": "WHY",
       "count": 18,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 18,
+      "category": "相場"
+    },
+    {
       "word": "WHAT",
-      "count": 15,
+      "count": 14,
       "category": null
     },
     {
@@ -215,18 +215,18 @@
       "category": null
     },
     {
-      "word": "SHIBA",
+      "word": "DATA",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
+      "count": 11,
       "category": null
     },
     {
       "word": "INU",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 12,
+      "count": 11,
       "category": null
     },
     {
@@ -245,11 +245,6 @@
       "category": "ETF"
     },
     {
-      "word": "DEFI",
-      "count": 10,
-      "category": "DeFi"
-    },
-    {
       "word": "RIPPLE",
       "count": 10,
       "category": null
@@ -258,6 +253,11 @@
       "word": "HERES",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 9,
+      "category": "DeFi"
     },
     {
       "word": "HOW",
@@ -280,22 +280,17 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 8,
       "category": null
     },
     {
       "word": "PRESSURE",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 8,
       "category": null
     },
@@ -310,17 +305,12 @@
       "category": null
     },
     {
+      "word": "BREAK",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "CEO",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 7,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "ANALYST",
+      "word": "MOVE",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 7,
       "category": null
     }
