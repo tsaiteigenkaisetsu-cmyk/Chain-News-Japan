@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T16:01:50.154Z",
+  "updated_at": "2026-03-30T16:11:42.595Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 94,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 22,
       "buzz_rank": 2
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 150,
+      "hype_score": 125,
       "buzz_rank": 7
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 51,
       "category": "価格"
     },
     {
@@ -230,13 +230,18 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 14,
+      "word": "IRAN",
+      "count": 13,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "HIT",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "SHIBA",
+      "count": 12,
       "category": null
     },
     {
@@ -245,8 +250,8 @@
       "category": "ETF"
     },
     {
-      "word": "OIL",
-      "count": 12,
+      "word": "INU",
+      "count": 11,
       "category": null
     },
     {
@@ -255,12 +260,7 @@
       "category": null
     },
     {
-      "word": "SHIBA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "RISK",
+      "word": "OIL",
       "count": 11,
       "category": null
     },
@@ -270,17 +270,7 @@
       "category": "DeFi"
     },
     {
-      "word": "INU",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WORLD",
+      "word": "RISK",
       "count": 10,
       "category": null
     },
@@ -305,17 +295,17 @@
       "category": null
     },
     {
+      "word": "WORLD",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 9,
       "category": null
     },
     {
       "word": "AAVE",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 9,
       "category": null
     },
@@ -331,6 +321,16 @@
     },
     {
       "word": "SAYLOR",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 8,
       "category": null
     }
