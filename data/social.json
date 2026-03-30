@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T18:06:48.104Z",
+  "updated_at": "2026-03-30T18:11:41.376Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
+      "news_count_24h": 42,
       "hype_score": 17,
       "buzz_rank": 2
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 125,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 10,
       "category": "DeFi"
@@ -281,11 +286,6 @@
     },
     {
       "word": "HOW",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 9,
       "category": null
     },
