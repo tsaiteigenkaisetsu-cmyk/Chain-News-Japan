@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T05:11:35.097Z",
+  "updated_at": "2026-03-30T05:21:59.058Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
+      "news_count_24h": 57,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 11,
       "category": null
@@ -250,9 +255,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "BILLION",
       "count": 9,
-      "category": "DeFi"
+      "category": null
     },
     {
       "word": "HOW",
@@ -265,14 +270,14 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "PRESSURE",
       "count": 8,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 8,
+      "category": "DeFi"
     },
     {
       "word": "RIPPLE",
@@ -281,11 +286,6 @@
     },
     {
       "word": "TRADING",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 8,
       "category": null
     },
