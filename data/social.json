@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T02:21:22.808Z",
+  "updated_at": "2026-03-30T02:32:38.277Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 46,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 6
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 28,
+      "count": 29,
       "category": "価格"
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 10,
+      "category": "ETF"
+    },
+    {
       "word": "RIPPLE",
       "count": 10,
       "category": null
@@ -263,11 +268,6 @@
       "word": "HERES",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 9,
-      "category": "ETF"
     },
     {
       "word": "DEFI",
