@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T09:31:42.249Z",
+  "updated_at": "2026-03-30T09:41:22.558Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 15,
+      "news_count_24h": 25,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 32,
       "category": "価格"
     },
     {
@@ -220,17 +220,22 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 11,
       "category": "ETF"
     },
     {
-      "word": "FOUNDATION",
+      "word": "RIPPLE",
       "count": 10,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "FOUNDATION",
       "count": 10,
       "category": null
     },
@@ -266,11 +271,6 @@
     },
     {
       "word": "NEXT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 9,
       "category": null
     },
