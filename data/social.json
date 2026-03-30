@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T08:11:25.529Z",
+  "updated_at": "2026-03-30T08:21:22.342Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
+      "news_count_24h": 61,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 7
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -196,12 +196,22 @@
     },
     {
       "word": "WHY",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
       "word": "WHAT",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 12,
       "category": null
     },
     {
@@ -212,11 +222,6 @@
     {
       "word": "HIT",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 11,
       "category": null
     },
     {
@@ -236,11 +241,6 @@
     },
     {
       "word": "HERES",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 10,
       "category": null
     },
