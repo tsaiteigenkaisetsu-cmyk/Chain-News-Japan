@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-30T15:01:44.773Z",
+  "updated_at": "2026-03-30T15:11:40.478Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 8,
+      "news_count_24h": 90,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 19,
+      "news_count_24h": 36,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 25,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -36,25 +36,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 200,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 150,
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
-      "buzz_rank": 6
+      "hype_score": 125,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 40,
+      "hype_score": 20,
       "buzz_rank": 5
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -230,6 +230,11 @@
       "category": "ETF"
     },
     {
+      "word": "OIL",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 12,
       "category": null
@@ -241,11 +246,6 @@
     },
     {
       "word": "BUYING",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 11,
       "category": null
     },
@@ -277,6 +277,11 @@
     {
       "word": "CEO",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 9,
       "category": null
     },
     {
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "PRESSURE",
       "count": 8,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "LAYER",
+      "word": "LIQUIDITY",
       "count": 7,
       "category": null
     }
