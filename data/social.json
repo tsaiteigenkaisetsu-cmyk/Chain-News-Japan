@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T21:21:30.607Z",
+  "updated_at": "2026-03-30T21:31:35.176Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
+      "news_count_24h": 129,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 48,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 20,
+      "hype_score": 0,
       "buzz_rank": 9
     },
     {
@@ -190,14 +190,14 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
+    },
+    {
       "word": "WEEK",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 24,
-      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -270,6 +270,11 @@
       "category": "ETF"
     },
     {
+      "word": "SHORT",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BOTTOM",
       "count": 10,
       "category": null
@@ -295,12 +300,12 @@
       "category": null
     },
     {
-      "word": "SHORT",
+      "word": "BITMINE",
       "count": 9,
       "category": null
     },
     {
-      "word": "BITMINE",
+      "word": "TRADERS",
       "count": 9,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "TOKEN",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "LIQUIDITY",
       "count": 9,
       "category": null
     }
