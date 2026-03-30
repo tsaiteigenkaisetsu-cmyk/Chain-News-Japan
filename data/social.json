@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T09:21:58.574Z",
+  "updated_at": "2026-03-30T09:31:42.249Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 61,
+      "news_count_24h": 62,
       "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
-      "hype_score": 19,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 150,
       "buzz_rank": 7
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 30,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "HIT",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
@@ -220,12 +220,17 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "ETF",
       "count": 11,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "FOUNDATION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 10,
       "category": null
     },
@@ -250,11 +255,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
-    },
-    {
       "word": "SHIBA",
       "count": 10,
       "category": null
@@ -262,6 +262,11 @@
     {
       "word": "INU",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 9,
       "category": null
     },
     {
@@ -280,7 +285,17 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "MORGAN",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "STANLEY",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "ANALYST",
       "count": 8,
       "category": null
     },
@@ -300,16 +315,6 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "PRESSURE",
       "count": 7,
       "category": null
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "STANLEY",
-      "count": 7,
+      "word": "LAUNCH",
+      "count": 6,
       "category": null
     }
   ],
