@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T18:41:26.854Z",
+  "updated_at": "2026-03-30T18:51:40.955Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
-      "hype_score": 10,
+      "news_count_24h": 108,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 6
+      "news_count_24h": 4,
+      "hype_score": 150,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 67,
       "buzz_rank": 11
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "RIPPLE",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "FOUNDATION",
       "count": 17,
       "category": null
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 13,
+      "count": 14,
       "category": null
     },
     {
@@ -242,6 +242,11 @@
     {
       "word": "HIT",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "BUYING",
+      "count": 11,
       "category": null
     },
     {
@@ -271,11 +276,6 @@
     },
     {
       "word": "SHIBA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BUYING",
       "count": 10,
       "category": null
     },
