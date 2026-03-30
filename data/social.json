@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T04:38:13.760Z",
+  "updated_at": "2026-03-30T04:42:18.312Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
+      "news_count_24h": 21,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WEEK",
       "count": 12,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 11,
+      "word": "DATA",
+      "count": 12,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 9,
+      "category": "DeFi"
+    },
+    {
       "word": "HOW",
       "count": 9,
       "category": null
@@ -268,11 +273,6 @@
       "word": "HIT",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 8,
-      "category": "DeFi"
     },
     {
       "word": "RIPPLE",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
