@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-30T20:51:35.933Z",
+  "updated_at": "2026-03-30T21:01:56.140Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 121,
-      "hype_score": 9,
+      "news_count_24h": 122,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 5
+      "news_count_24h": 7,
+      "hype_score": 29,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 75,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 55,
+      "count": 53,
       "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
     },
     {
       "word": "WEEK",
       "count": 25,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 24,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -206,7 +206,7 @@
     },
     {
       "word": "WHY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "word": "WHAT",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "LIQUIDITY",
       "count": 9,
       "category": null
@@ -328,6 +323,11 @@
       "word": "ETF",
       "count": 9,
       "category": "ETF"
+    },
+    {
+      "word": "ZONE",
+      "count": 8,
+      "category": null
     },
     {
       "word": "FED",
