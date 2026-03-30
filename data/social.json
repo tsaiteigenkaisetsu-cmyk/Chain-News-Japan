@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T22:11:25.740Z",
+  "updated_at": "2026-03-30T22:21:25.373Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
+      "news_count_24h": 134,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 19,
+      "news_count_24h": 49,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
-      "buzz_rank": 6
+      "news_count_24h": 8,
+      "hype_score": 63,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 33,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 54,
+      "count": 55,
       "category": "価格"
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 10,
+      "category": "ETF"
+    },
+    {
       "word": "SHORT",
       "count": 10,
       "category": null
@@ -293,11 +298,6 @@
       "word": "RISK",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 9,
-      "category": "ETF"
     },
     {
       "word": "APRIL",
