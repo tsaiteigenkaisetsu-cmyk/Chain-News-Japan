@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T18:51:40.955Z",
+  "updated_at": "2026-03-30T19:01:51.187Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 111,
       "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 19,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 150,
+      "hype_score": 125,
       "buzz_rank": 9
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 450,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 900,
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -195,14 +195,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
       "count": 23,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 22,
+      "category": "相場"
     },
     {
       "word": "WHY",
@@ -236,7 +236,7 @@
     },
     {
       "word": "WHAT",
-      "count": 13,
+      "count": 14,
       "category": null
     },
     {
@@ -266,6 +266,11 @@
     },
     {
       "word": "TOKEN",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 10,
       "category": null
     },
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 9,
       "category": null
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "BITMINE",
+      "word": "DATA",
       "count": 8,
       "category": null
     },
     {
-      "word": "APRIL",
+      "word": "BITMINE",
       "count": 8,
       "category": null
     }
