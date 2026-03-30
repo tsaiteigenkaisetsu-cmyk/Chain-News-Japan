@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-03-30T13:11:45.339Z",
+  "updated_at": "2026-03-30T13:22:21.463Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
-      "hype_score": 9,
+      "news_count_24h": 79,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 23,
+      "news_count_24h": 32,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 44,
       "category": "価格"
+    },
+    {
+      "word": "WEEK",
+      "count": 21,
+      "category": null
     },
     {
       "word": "MARKET",
@@ -197,11 +202,6 @@
     {
       "word": "WHY",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 19,
       "category": null
     },
     {
@@ -226,12 +226,17 @@
     },
     {
       "word": "RIPPLE",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
       "word": "FOUNDATION",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 10,
       "category": null
     },
     {
@@ -263,11 +268,6 @@
       "word": "DEFI",
       "count": 9,
       "category": "DeFi"
-    },
-    {
-      "word": "TRADING",
-      "count": 9,
-      "category": null
     },
     {
       "word": "ETF",
