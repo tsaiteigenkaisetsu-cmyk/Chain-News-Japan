@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T00:01:47.534Z",
+  "updated_at": "2026-03-31T00:11:22.647Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 140,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 83,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "KEY",
       "count": 12,
       "category": null
@@ -260,7 +265,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TRADING",
       "count": 11,
       "category": null
     },
@@ -285,11 +290,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 10,
       "category": null
@@ -298,6 +298,11 @@
       "word": "STRATEGY",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 9,
+      "category": "相場"
     },
     {
       "word": "ACT",
@@ -326,11 +331,6 @@
     },
     {
       "word": "PAYMENTS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 9,
       "category": null
     }
