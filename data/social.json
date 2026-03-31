@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T08:51:28.121Z",
+  "updated_at": "2026-03-31T09:01:46.475Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 156,
+      "news_count_24h": 157,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 43,
       "hype_score": 2,
       "buzz_rank": 3
     },
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 63,
+      "count": 62,
       "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 31,
+      "category": null
     },
     {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
-    },
-    {
-      "word": "MILLION",
-      "count": 30,
-      "category": null
     },
     {
       "word": "PREDICTION",
@@ -220,12 +220,12 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 19,
+      "word": "RIPPLE",
+      "count": 20,
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "HIT",
       "count": 19,
       "category": null
     },
@@ -255,13 +255,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "BILLION",
       "count": 13,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 12,
+      "word": "TRADING",
+      "count": 13,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "REAL",
       "count": 10,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "ACT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
       "count": 10,
       "category": null
     }
