@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T09:31:32.195Z",
+  "updated_at": "2026-03-31T09:41:28.815Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 159,
+      "news_count_24h": 160,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 47,
-      "hype_score": 21,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
+      "news_count_24h": 42,
       "hype_score": 2,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 23,
+      "news_count_24h": 14,
+      "hype_score": 21,
       "buzz_rank": 4
     },
     {
@@ -190,14 +190,14 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 32,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
       "count": 32,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
     },
     {
       "word": "PREDICTION",
@@ -206,7 +206,7 @@
     },
     {
       "word": "WEEK",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 11,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "ANALYST",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
       "count": 10,
       "category": null
     }
