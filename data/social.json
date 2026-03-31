@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T03:51:29.138Z",
+  "updated_at": "2026-03-31T04:01:45.804Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 152,
+      "news_count_24h": 151,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 16,
+      "news_count_24h": 48,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 86,
-      "buzz_rank": 8
+      "news_count_24h": 8,
+      "hype_score": 75,
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 70,
+      "hype_score": 60,
       "buzz_rank": 5
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "INVESTORS",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 10,
       "category": "ETF"
@@ -326,11 +331,6 @@
     },
     {
       "word": "AMERICA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "MINING",
       "count": 9,
       "category": null
     }
