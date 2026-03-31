@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T13:51:34.260Z",
+  "updated_at": "2026-03-31T14:01:50.598Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 164,
+      "news_count_24h": 162,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 21,
+      "news_count_24h": 43,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 39,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 50,
+      "news_count_24h": 13,
+      "hype_score": 46,
       "buzz_rank": 6
     },
     {
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 900,
+      "hype_score": 700,
       "buzz_rank": 16
     },
     {
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 67,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 0,
+      "hype_score": 10,
       "buzz_rank": 7
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -236,12 +236,17 @@
     },
     {
       "word": "QUANTUM",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 17,
       "category": null
     },
     {
@@ -255,11 +260,6 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "TRADERS",
       "count": 15,
       "category": null
@@ -267,6 +267,16 @@
     {
       "word": "FOUNDATION",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
+      "count": 13,
       "category": null
     },
     {
@@ -282,11 +292,6 @@
     {
       "word": "BOTTOM",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "GOOGLE",
-      "count": 12,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "CFTC",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "AMERICA",
       "count": 11,
       "category": null
     }
