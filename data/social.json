@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T08:11:31.176Z",
+  "updated_at": "2026-03-31T08:21:31.820Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 159,
+      "news_count_24h": 158,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
+      "news_count_24h": 13,
+      "hype_score": 23,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 10,
+      "hype_score": 40,
       "buzz_rank": 6
     },
     {
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 61,
+      "count": 62,
       "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 30,
+      "category": null
     },
     {
       "word": "MARKET",
@@ -195,18 +200,13 @@
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 29,
+      "word": "PREDICTION",
+      "count": 26,
       "category": null
     },
     {
       "word": "WEEK",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 25,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "HIT",
       "count": 18,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 17,
+      "word": "TRUMP",
+      "count": 18,
       "category": null
     },
     {
