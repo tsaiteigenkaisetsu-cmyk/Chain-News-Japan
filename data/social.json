@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T08:21:31.820Z",
+  "updated_at": "2026-03-31T08:31:36.389Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 158,
+      "news_count_24h": 156,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 20,
+      "news_count_24h": 48,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 63,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -195,13 +200,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
       "word": "PREDICTION",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "HIT",
       "count": 19,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 18,
+      "word": "RIPPLE",
+      "count": 19,
       "category": null
     },
     {
@@ -260,6 +260,16 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "BUYING",
       "count": 12,
       "category": null
@@ -268,6 +278,11 @@
       "word": "ETF",
       "count": 12,
       "category": "ETF"
+    },
+    {
+      "word": "MARKETS",
+      "count": 11,
+      "category": null
     },
     {
       "word": "BITMINE",
@@ -281,11 +296,6 @@
     },
     {
       "word": "DATA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
       "count": 11,
       "category": null
     },
@@ -310,11 +320,6 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "INVESTORS",
       "count": 10,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "RESERVE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 10,
       "category": null
     }
