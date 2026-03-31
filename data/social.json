@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T03:31:35.344Z",
+  "updated_at": "2026-03-31T03:41:24.397Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 149,
+      "news_count_24h": 150,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 60,
+      "hype_score": 70,
       "buzz_rank": 5
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "HYPERLIQUID",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "BILL",
       "count": 9,
       "category": null
@@ -328,11 +333,6 @@
       "word": "MINING",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 9,
-      "category": "相場"
     }
   ],
   "stats": {
