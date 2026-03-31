@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T06:51:29.140Z",
+  "updated_at": "2026-03-31T07:02:01.370Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 1000,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 60,
+      "count": 59,
       "category": "価格"
     },
     {
@@ -195,18 +195,18 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 26,
-      "category": "相場"
-    },
-    {
       "word": "WEEK",
       "count": 26,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
+    },
+    {
       "word": "WHY",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "INVESTORS",
       "count": 10,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "ANALYST",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
       "count": 9,
       "category": null
     }
