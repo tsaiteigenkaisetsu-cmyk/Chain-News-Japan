@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T17:31:51.076Z",
+  "updated_at": "2026-03-31T17:41:30.019Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "AHEAD",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 13,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "KEY",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 12,
       "category": null
     }
