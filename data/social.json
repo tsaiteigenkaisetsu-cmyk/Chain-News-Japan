@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T10:41:29.524Z",
+  "updated_at": "2026-03-31T10:51:28.718Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 22,
+      "news_count_24h": 44,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 41,
       "hype_score": 2,
       "buzz_rank": 3
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 65,
+      "count": 66,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 34,
+      "count": 35,
       "category": "相場"
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 13,
       "category": null
@@ -263,11 +268,6 @@
       "word": "ETF",
       "count": 13,
       "category": "ETF"
-    },
-    {
-      "word": "TRADING",
-      "count": 13,
-      "category": null
     },
     {
       "word": "APRIL",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "AHEAD",
       "count": 10,
       "category": null
     },
     {
-      "word": "WORLD",
+      "word": "CFTC",
       "count": 10,
       "category": null
     }
