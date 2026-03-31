@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T07:11:28.215Z",
+  "updated_at": "2026-03-31T07:21:21.974Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 154,
+      "news_count_24h": 155,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 17,
+      "news_count_24h": 48,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 33,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 59,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 28,
+      "count": 29,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
     },
     {
       "word": "WEEK",
@@ -200,9 +205,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
+      "word": "PREDICTION",
+      "count": 22,
+      "category": null
     },
     {
       "word": "WHY",
@@ -210,13 +215,8 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "IRAN",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -226,6 +226,11 @@
     },
     {
       "word": "TRUMP",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FOUNDATION",
       "count": 17,
       "category": null
     },
@@ -240,11 +245,6 @@
       "category": null
     },
     {
-      "word": "FOUNDATION",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 15,
       "category": null
@@ -252,6 +252,11 @@
     {
       "word": "BOTTOM",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 12,
       "category": null
     },
     {
@@ -276,11 +281,6 @@
     },
     {
       "word": "KEY",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 11,
       "category": null
     },
