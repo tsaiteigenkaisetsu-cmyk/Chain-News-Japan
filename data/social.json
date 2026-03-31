@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T14:31:36.671Z",
+  "updated_at": "2026-03-31T14:41:35.403Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 162,
+      "news_count_24h": 163,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 18,
+      "news_count_24h": 45,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
+      "news_count_24h": 19,
+      "hype_score": 11,
       "buzz_rank": 4
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 10,
+      "hype_score": 0,
       "buzz_rank": 7
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -206,7 +206,12 @@
     },
     {
       "word": "WEEK",
-      "count": 29,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 22,
       "category": null
     },
     {
@@ -227,11 +232,6 @@
     {
       "word": "WHAT",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "QUANTUM",
-      "count": 20,
       "category": null
     },
     {
@@ -266,8 +266,13 @@
     },
     {
       "word": "GOOGLE",
-      "count": 14,
+      "count": 15,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 14,
+      "category": "ETF"
     },
     {
       "word": "FOUNDATION",
@@ -275,14 +280,24 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "BITMINE",
       "count": 13,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "BUYING",
       "count": 13,
-      "category": "ETF"
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
+      "count": 13,
+      "category": null
     },
     {
       "word": "APRIL",
@@ -305,22 +320,7 @@
       "category": null
     },
     {
-      "word": "BUYING",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "AHEAD",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BITMINE",
       "count": 12,
       "category": null
     },
