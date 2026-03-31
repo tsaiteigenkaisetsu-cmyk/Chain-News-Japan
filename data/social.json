@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T14:11:34.716Z",
+  "updated_at": "2026-03-31T14:21:44.860Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 12,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 46,
+      "hype_score": 54,
       "buzz_rank": 6
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "RIPPLE",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 22,
       "category": null
@@ -221,11 +226,6 @@
     },
     {
       "word": "WHAT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 21,
       "category": null
     },
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "BUYING",
       "count": 12,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "MINING",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "USERS",
       "count": 11,
       "category": null
     }
