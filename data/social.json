@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-31T18:02:34.479Z",
+  "updated_at": "2026-03-31T18:11:33.805Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 161,
-      "hype_score": 7,
+      "news_count_24h": 163,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 39,
       "hype_score": 21,
       "buzz_rank": 3
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 16,
+      "hype_score": 11,
       "buzz_rank": 4
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 7,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 80,
       "category": "価格"
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "PREDICTION",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "QUANTUM",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -230,28 +230,33 @@
       "category": null
     },
     {
+      "word": "GOOGLE",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 21,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "GOOGLE",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "TRADERS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "HIT",
       "count": 19,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 17,
       "category": null
     },
     {
@@ -267,11 +272,6 @@
     {
       "word": "TRADING",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 16,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
