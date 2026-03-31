@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T17:51:29.272Z",
+  "updated_at": "2026-03-31T18:02:34.479Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 160,
+      "news_count_24h": 161,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 38,
       "hype_score": 21,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 3,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -108,15 +108,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 6,
+      "news_count_24h": 15,
+      "hype_score": 7,
       "buzz_rank": 5
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 78,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "TRADERS",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
@@ -285,13 +285,18 @@
       "category": "ETF"
     },
     {
-      "word": "STABLECOIN",
+      "word": "BILLION",
       "count": 14,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 14,
+      "word": "THAN",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 13,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "MINING",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
