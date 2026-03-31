@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T19:11:37.437Z",
+  "updated_at": "2026-03-31T19:21:23.590Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 600,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 25,
       "buzz_rank": 10
     },
     {
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 17,
       "category": null
@@ -271,11 +276,6 @@
     },
     {
       "word": "THAN",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 16,
       "category": null
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "MINING",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 13,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "BITMINE",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "USERS",
-      "count": 12,
       "category": null
     }
   ],
