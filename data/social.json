@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T01:01:34.537Z",
+  "updated_at": "2026-03-31T01:11:29.685Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 142,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
-      "buzz_rank": 9
+      "news_count_24h": 7,
+      "hype_score": 86,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 0,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 11,
       "category": null
@@ -290,7 +295,7 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "RESERVE",
       "count": 10,
       "category": null
     },
@@ -305,7 +310,12 @@
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "AMERICA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "MINING",
       "count": 9,
       "category": null
     },
@@ -323,16 +333,6 @@
       "word": "ETF",
       "count": 9,
       "category": "ETF"
-    },
-    {
-      "word": "SHORT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BITMINE",
-      "count": 9,
-      "category": null
     }
   ],
   "stats": {
