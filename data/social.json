@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-01T13:01:43.579Z",
+  "updated_at": "2026-04-01T13:11:39.052Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
-      "hype_score": 7,
+      "news_count_24h": 131,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 16
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 6
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -191,7 +191,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -211,7 +211,12 @@
     },
     {
       "word": "RIPPLE",
-      "count": 28,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
+      "count": 27,
       "category": null
     },
     {
@@ -225,8 +230,8 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 26,
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
@@ -235,12 +240,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "BILLION",
       "count": 22,
       "category": null
     },
@@ -250,12 +250,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 21,
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "MARKETS",
       "count": 21,
       "category": null
     },
@@ -276,12 +276,12 @@
     },
     {
       "word": "PAYMENTS",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "RISK",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "KEY",
       "count": 14,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "HIT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WAR",
       "count": 14,
       "category": null
     }
