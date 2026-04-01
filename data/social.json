@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T05:21:30.877Z",
+  "updated_at": "2026-04-01T05:31:31.949Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 142,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 2,
+      "news_count_24h": 40,
+      "hype_score": 3,
       "buzz_rank": 2
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 15
     },
     {
@@ -216,7 +216,12 @@
     },
     {
       "word": "IRAN",
-      "count": 29,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
+      "count": 24,
       "category": null
     },
     {
@@ -226,11 +231,6 @@
     },
     {
       "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "GOOGLE",
       "count": 23,
       "category": null
     },
@@ -300,11 +300,6 @@
       "category": "ETF"
     },
     {
-      "word": "WAR",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "ACT",
       "count": 14,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BOTTOM",
       "count": 14,
       "category": null
     }
