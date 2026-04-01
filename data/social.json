@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T09:02:12.682Z",
+  "updated_at": "2026-04-01T09:11:31.966Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 40,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 140,
+      "hype_score": 120,
       "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 88,
+      "hype_score": 75,
       "buzz_rank": 6
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 800,
+      "hype_score": 700,
       "buzz_rank": 16
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 79,
+      "count": 82,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "QUANTUM",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 24,
       "category": null
@@ -235,18 +240,13 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 21,
       "category": null
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 18,
       "category": null
@@ -280,8 +285,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "ETF",
       "count": 17,
+      "category": "ETF"
+    },
+    {
+      "word": "HIT",
+      "count": 16,
       "category": null
     },
     {
@@ -295,18 +305,18 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
-    },
-    {
       "word": "MONTH",
       "count": 15,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 15,
+      "word": "SOLANA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 14,
       "category": null
     },
     {
@@ -321,16 +331,6 @@
     },
     {
       "word": "ACT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "MINING",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "BOTTOM",
       "count": 14,
       "category": null
     }
