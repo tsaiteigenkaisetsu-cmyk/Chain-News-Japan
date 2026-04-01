@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T14:01:46.953Z",
+  "updated_at": "2026-04-01T14:11:29.293Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
+      "news_count_24h": 134,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 30,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 77,
       "category": "価格"
     },
     {
@@ -195,14 +195,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 41,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 40,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
     },
     {
       "word": "PREDICTION",
@@ -215,18 +215,18 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
+      "word": "RIPPLE",
       "count": 27,
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 25,
+      "word": "WHY",
+      "count": 27,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 25,
+      "word": "GOOGLE",
+      "count": 27,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 15,
       "category": null
@@ -320,17 +325,12 @@
       "category": "ETF"
     },
     {
-      "word": "KEY",
+      "word": "MINING",
       "count": 14,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WAR",
+      "word": "TREASURY",
       "count": 14,
       "category": null
     }
