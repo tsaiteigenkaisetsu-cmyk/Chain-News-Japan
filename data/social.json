@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-01T13:21:28.083Z",
+  "updated_at": "2026-04-01T13:31:39.159Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
-      "hype_score": 6,
+      "news_count_24h": 132,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 6
     },
     {
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -133,17 +133,17 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 76,
       "category": "価格"
     },
     {
       "word": "QUANTUM",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "IRAN",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "PAYMENTS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "APRIL",
       "count": 20,
       "category": null
@@ -275,24 +280,14 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "DATA",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
     },
     {
       "word": "STOCKS",
@@ -315,8 +310,18 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "ETF",
       "count": 15,
+      "category": "ETF"
+    },
+    {
+      "word": "SOLANA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 14,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "TREASURY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 14,
       "category": null
     }
