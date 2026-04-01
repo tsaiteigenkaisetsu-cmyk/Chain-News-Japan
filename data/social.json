@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T06:02:05.547Z",
+  "updated_at": "2026-04-01T06:11:35.288Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 142,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
-      "hype_score": 26,
+      "hype_score": 24,
       "buzz_rank": 3
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 82,
+      "count": 80,
       "category": "価格"
     },
     {
@@ -196,17 +196,17 @@
     },
     {
       "word": "QUANTUM",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 37,
       "category": "相場"
     },
     {
       "word": "PREDICTION",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -220,22 +220,22 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "GOOGLE",
       "count": 24,
       "category": null
     },
     {
       "word": "WHAT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
       "count": 23,
       "category": null
     },
@@ -280,13 +280,18 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "BILLION",
       "count": 16,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 15,
+      "word": "ETF",
+      "count": 16,
+      "category": "ETF"
+    },
+    {
+      "word": "HIT",
+      "count": 16,
       "category": null
     },
     {
@@ -300,9 +305,9 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 15,
-      "category": "ETF"
+      "word": "CFTC",
+      "count": 14,
+      "category": null
     },
     {
       "word": "WAR",
@@ -326,11 +331,6 @@
     },
     {
       "word": "AHEAD",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "MINING",
       "count": 14,
       "category": null
     }
