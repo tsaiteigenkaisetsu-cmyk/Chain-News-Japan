@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T04:11:41.041Z",
+  "updated_at": "2026-04-02T04:21:32.853Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
-      "hype_score": 6,
+      "news_count_24h": 129,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 21,
+      "news_count_24h": 29,
+      "hype_score": 24,
       "buzz_rank": 4
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 10,
+      "news_count_24h": 32,
+      "hype_score": 9,
       "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 100,
+      "hype_score": 111,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 79,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "IRAN",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -236,7 +236,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 25,
       "category": null
     },
     {
@@ -252,11 +257,6 @@
     {
       "word": "TRADING",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 24,
       "category": null
     },
     {
@@ -300,13 +300,13 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
-    },
-    {
       "word": "RISK",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 15,
       "category": null
     },
     {
@@ -315,12 +315,12 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
-      "count": 14,
-      "category": null
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
     },
     {
-      "word": "BELOW",
+      "word": "SUPPLY",
       "count": 14,
       "category": null
     },
