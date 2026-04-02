@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-02T16:01:59.871Z",
+  "updated_at": "2026-04-02T16:11:39.059Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 117,
-      "hype_score": 6,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 44,
-      "hype_score": 5,
+      "hype_score": 2,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 200,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 250,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 7
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 86,
+      "count": 87,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 44,
       "category": "相場"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -220,12 +220,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 31,
+      "word": "MARKETS",
+      "count": 32,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "WHY",
       "count": 31,
       "category": null
     },
@@ -240,22 +240,22 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 27,
       "category": null
     },
@@ -270,18 +270,23 @@
       "category": null
     },
     {
+      "word": "TRADERS",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "WAR",
       "count": 24,
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 23,
+      "word": "ODDS",
+      "count": 22,
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 23,
+      "word": "LAUNCHES",
+      "count": 21,
       "category": null
     },
     {
@@ -291,11 +296,6 @@
     },
     {
       "word": "DRIFT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 20,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "ANALYST",
+      "word": "COINBASE",
       "count": 16,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "ANALYST",
       "count": 16,
       "category": null
     }
