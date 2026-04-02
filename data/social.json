@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T04:51:33.446Z",
+  "updated_at": "2026-04-02T05:01:51.671Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 111,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
@@ -215,22 +215,17 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 32,
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 31,
+      "word": "RIPPLE",
+      "count": 32,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "GOOGLE",
       "count": 30,
       "category": null
     },
@@ -240,8 +235,18 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 25,
       "category": null
     },
     {
@@ -260,22 +265,17 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WAR",
       "count": 24,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "TRADERS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 23,
       "category": null
     },
@@ -296,12 +296,17 @@
     },
     {
       "word": "THAN",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
       "word": "RISK",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "HERE",
+      "count": 15,
       "category": null
     },
     {
@@ -311,11 +316,6 @@
     },
     {
       "word": "BELOW",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "HERE",
       "count": 15,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
