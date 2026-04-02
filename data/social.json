@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T01:51:30.539Z",
+  "updated_at": "2026-04-02T02:02:08.314Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 121,
-      "hype_score": 7,
+      "news_count_24h": 120,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 3,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 28,
-      "hype_score": 14,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
