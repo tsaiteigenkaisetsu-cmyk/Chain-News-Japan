@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-02T08:51:27.076Z",
+  "updated_at": "2026-04-02T09:01:49.385Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 118,
+      "news_count_24h": 117,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 12,
+      "news_count_24h": 32,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 15
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 78,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -226,12 +226,17 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "WHY",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 26,
       "category": null
     },
     {
@@ -247,11 +252,6 @@
     {
       "word": "MARKETS",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 25,
       "category": null
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "word": "BILLION",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "RISK",
       "count": 15,
       "category": null
     },
     {
       "word": "CFTC",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PLATFORM",
       "count": 14,
       "category": null
     }
