@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T07:01:42.642Z",
+  "updated_at": "2026-04-03T07:11:21.358Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
-      "hype_score": 4,
+      "news_count_24h": 117,
+      "hype_score": 3,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
-      "hype_score": 25,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 40,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 94,
+      "count": 93,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 88,
+      "count": 87,
       "category": "価格"
     },
     {
@@ -210,18 +210,23 @@
       "category": null
     },
     {
+      "word": "RIPPLE",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 39,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 38,
+      "word": "TREASURY",
+      "count": 33,
       "category": null
     },
     {
@@ -231,11 +236,6 @@
     },
     {
       "word": "WHY",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 32,
       "category": null
     },
@@ -250,12 +250,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 30,
+      "word": "SOLANA",
+      "count": 29,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "MILLION",
       "count": 29,
       "category": null
     },
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "DRIFT",
+      "word": "COINBASE",
       "count": 25,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 24,
+      "word": "DRIFT",
+      "count": 25,
       "category": null
     },
     {
@@ -285,13 +285,13 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "TRADING",
       "count": 24,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "OIL",
+      "count": 23,
       "category": null
     },
     {
