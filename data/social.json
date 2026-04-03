@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-03T16:31:40.627Z",
+  "updated_at": "2026-04-03T16:41:30.249Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 108,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 14,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 24,
+      "news_count_24h": 20,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "DRIFT",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 31,
       "category": null
@@ -255,23 +260,23 @@
       "category": null
     },
     {
-      "word": "DRIFT",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "APRIL",
       "count": 28,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 27,
+      "word": "DROP",
+      "count": 26,
       "category": null
     },
     {
-      "word": "DROP",
+      "word": "WHY",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 24,
       "category": null
     },
     {
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "PROTOCOL",
       "count": 22,
       "category": null
     },
     {
-      "word": "PROTOCOL",
-      "count": 22,
+      "word": "NEXT",
+      "count": 21,
       "category": null
     },
     {
@@ -310,19 +315,14 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "EXPLOIT",
       "count": 20,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "TRUST",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "EXPLOIT",
-      "count": 19,
-      "category": "セキュリティ"
     },
     {
       "word": "CONFLICT",
