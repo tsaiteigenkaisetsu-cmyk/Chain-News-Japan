@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T12:31:36.079Z",
+  "updated_at": "2026-04-03T12:41:35.229Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 116,
       "hype_score": 3,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 12,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
       "hype_score": 3,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 81,
+      "news_count_24h": 17,
+      "hype_score": 76,
       "buzz_rank": 4
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 17,
       "buzz_rank": 7
     },
     {
@@ -240,23 +240,23 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "SOLANA",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "DRIFT",
       "count": 30,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
-      "word": "DRIFT",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 29,
+      "word": "WHY",
+      "count": 30,
       "category": null
     },
     {
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "PROTOCOL",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "DROP",
       "count": 23,
       "category": null
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "PROTOCOL",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 21,
       "category": null
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "EXPLOIT",
+      "count": 19,
+      "category": "セキュリティ"
+    },
+    {
       "word": "CONFLICT",
       "count": 18,
       "category": null
     },
     {
       "word": "TRUST",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 18,
       "category": null
     }
