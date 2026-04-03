@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T11:21:30.363Z",
+  "updated_at": "2026-04-03T11:31:36.792Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 114,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 13,
+      "news_count_24h": 33,
+      "hype_score": 12,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 58,
+      "news_count_24h": 18,
+      "hype_score": 61,
       "buzz_rank": 4
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 140,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 11
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -176,32 +176,32 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 102,
+      "count": 103,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 85,
+      "count": 86,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 50,
       "category": "相場"
     },
     {
       "word": "ODDS",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -221,17 +221,17 @@
     },
     {
       "word": "PREDICTION",
-      "count": 37,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 33,
       "category": null
     },
     {
       "word": "MARKETS",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 32,
       "category": null
     },
     {
@@ -242,6 +242,11 @@
     {
       "word": "WHY",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "APRIL",
+      "count": 29,
       "category": null
     },
     {
@@ -261,11 +266,6 @@
     },
     {
       "word": "COINBASE",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "APRIL",
       "count": 28,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "EXCHANGE",
-      "count": 18,
-      "category": "取引所"
+      "word": "CONFLICT",
+      "count": 17,
+      "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "TRUST",
       "count": 17,
       "category": null
     }
