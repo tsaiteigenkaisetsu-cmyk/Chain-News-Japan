@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T11:11:23.769Z",
+  "updated_at": "2026-04-03T11:21:30.363Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,28 +32,28 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 63,
+      "hype_score": 58,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 9
+      "hype_score": 140,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 64,
+      "hype_score": 73,
       "buzz_rank": 5
     },
     {
@@ -70,17 +70,17 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 101,
+      "count": 102,
       "category": null
     },
     {
@@ -226,16 +226,16 @@
     },
     {
       "word": "MARKETS",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "AMID",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 31,
       "category": null
     },
@@ -255,17 +255,17 @@
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 29,
       "category": null
     },
     {
       "word": "COINBASE",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "APRIL",
       "count": 28,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "PROTOCOL",
       "count": 22,
       "category": null
@@ -295,18 +300,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 20,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": "取引所"
     },
     {
-      "word": "TRUST",
+      "word": "CONFLICT",
       "count": 17,
       "category": null
     }
