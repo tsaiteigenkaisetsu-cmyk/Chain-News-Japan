@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T13:11:33.020Z",
+  "updated_at": "2026-04-03T13:21:32.531Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,26 +16,26 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 35,
       "hype_score": 11,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 36,
       "hype_score": 3,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 67,
+      "hype_score": 56,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 80,
+      "hype_score": 90,
       "buzz_rank": 5
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 400,
       "buzz_rank": 15
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
+      "news_count_24h": 4,
+      "hype_score": 50,
       "buzz_rank": 11
     },
     {
@@ -271,12 +271,17 @@
     },
     {
       "word": "DROP",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "RISK",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 23,
       "category": null
     },
     {
@@ -305,11 +310,6 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "IRANS",
       "count": 20,
       "category": null
@@ -325,12 +325,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "CONFLICT",
+      "word": "NEXT",
       "count": 18,
       "category": null
     },
     {
-      "word": "TRUST",
+      "word": "CONFLICT",
       "count": 18,
       "category": null
     }
