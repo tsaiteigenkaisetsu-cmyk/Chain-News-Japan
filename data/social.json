@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T12:51:28.034Z",
+  "updated_at": "2026-04-03T13:01:49.453Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
-      "hype_score": 3,
+      "news_count_24h": 112,
+      "hype_score": 4,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 12,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,25 +27,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
       "hype_score": 3,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 76,
+      "hype_score": 71,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 8
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -86,11 +86,11 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 0,
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 108,
+      "count": 109,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 82,
+      "count": 81,
       "category": "価格"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 49,
       "category": "相場"
     },
     {
       "word": "RIPPLE",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -225,23 +225,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 34,
+      "word": "MARKETS",
+      "count": 33,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PREDICTION",
       "count": 33,
       "category": null
     },
     {
       "word": "TREASURY",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 30,
       "category": null
     },
     {
@@ -255,8 +250,13 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
@@ -270,22 +270,22 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "DROP",
       "count": 24,
       "category": null
     },
     {
+      "word": "RISK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "PROTOCOL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 23,
       "category": null
     },
