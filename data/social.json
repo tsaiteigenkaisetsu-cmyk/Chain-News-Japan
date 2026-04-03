@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T10:41:31.267Z",
+  "updated_at": "2026-04-03T10:51:26.616Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 114,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 0,
+      "hype_score": 20,
       "buzz_rank": 10
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "DRIFT",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 28,
       "category": null
@@ -262,11 +267,6 @@
     {
       "word": "MILLION",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "DRIFT",
-      "count": 27,
       "category": null
     },
     {
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "EXPLOIT",
+      "count": 18,
+      "category": "セキュリティ"
+    },
+    {
       "word": "BANK",
       "count": 18,
       "category": null
@@ -328,11 +333,6 @@
       "word": "BILLION",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 18,
-      "category": "取引所"
     }
   ],
   "stats": {
