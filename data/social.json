@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T12:22:04.763Z",
+  "updated_at": "2026-04-03T12:31:36.079Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 119,
+      "news_count_24h": 117,
       "hype_score": 3,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 12,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 34,
       "hype_score": 3,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 67,
+      "news_count_24h": 13,
+      "hype_score": 62,
       "buzz_rank": 5
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 50,
+      "category": "相場"
+    },
+    {
       "word": "CEASEFIRE",
       "count": 49,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 49,
-      "category": "相場"
     },
     {
       "word": "RIPPLE",
@@ -265,7 +265,7 @@
       "category": null
     },
     {
-      "word": "APRIL",
+      "word": "RISK",
       "count": 26,
       "category": null
     },
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "APRIL",
       "count": 25,
       "category": null
     },
@@ -300,13 +300,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "PROTOCOL",
       "count": 22,
       "category": null
     },
     {
-      "word": "PROTOCOL",
-      "count": 22,
+      "word": "TRADING",
+      "count": 21,
       "category": null
     },
     {
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "TRUST",
       "count": 18,
-      "category": "セキュリティ"
+      "category": null
     },
     {
-      "word": "TRUST",
-      "count": 17,
+      "word": "BANK",
+      "count": 18,
       "category": null
     }
   ],
