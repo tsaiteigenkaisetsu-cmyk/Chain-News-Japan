@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T09:21:25.373Z",
+  "updated_at": "2026-04-03T09:31:29.727Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 118,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 19,
+      "news_count_24h": 29,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 53,
+      "hype_score": 47,
       "buzz_rank": 4
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 93,
+      "count": 94,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 88,
+      "count": 89,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "ODDS",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "MILLION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "DROP",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 22,
       "category": null
@@ -295,7 +300,7 @@
       "category": null
     },
     {
-      "word": "DROP",
+      "word": "PROTOCOL",
       "count": 21,
       "category": null
     },
@@ -305,7 +310,12 @@
       "category": null
     },
     {
-      "word": "PROTOCOL",
+      "word": "QUANTUM",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 20,
       "category": null
     },
@@ -315,24 +325,14 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "QUANTUM",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "EXPLOIT",
-      "count": 18,
-      "category": "セキュリティ"
-    },
-    {
       "word": "TRADERS",
       "count": 18,
       "category": null
+    },
+    {
+      "word": "EXCHANGE",
+      "count": 18,
+      "category": "取引所"
     }
   ],
   "stats": {
