@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-04T13:51:30.313Z",
+  "updated_at": "2026-04-04T14:01:42.646Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 85,
-      "hype_score": 9,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 30,
+      "news_count_24h": 26,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 20,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 89,
+      "count": 88,
       "category": null
     },
     {
       "word": "ODDS",
-      "count": 68,
+      "count": 69,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 53,
+      "count": 54,
       "category": "価格"
     },
     {
       "word": "CEASEFIRE",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "APRIL",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -225,22 +225,22 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 25,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 23,
       "category": null
     },
@@ -251,17 +251,22 @@
     },
     {
       "word": "RISK",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
       "word": "FOUNDATION",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 17,
       "category": null
     },
     {
@@ -280,11 +285,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 17,
       "category": null
@@ -295,13 +295,18 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "OIL",
       "count": 16,
       "category": null
     },
     {
       "word": "FORCES",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "IRANS",
+      "count": 15,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "DRIFT",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "TARGET",
-      "count": 14,
       "category": null
     }
   ],
