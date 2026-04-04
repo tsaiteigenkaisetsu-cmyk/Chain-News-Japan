@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T17:21:23.953Z",
+  "updated_at": "2026-04-04T17:31:37.564Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 82,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 11
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "ODDS",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
+    },
+    {
       "word": "AMID",
       "count": 43,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 42,
-      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -216,7 +216,7 @@
     },
     {
       "word": "APRIL",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -235,7 +235,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "NEXT",
       "count": 18,
       "category": null
     },
@@ -246,6 +246,11 @@
     },
     {
       "word": "WHAT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 17,
       "category": null
     },
@@ -265,17 +270,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "COINBASE",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
       "count": 16,
       "category": null
     },
@@ -285,8 +280,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PREDICTION",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 14,
       "category": null
     },
     {
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "RISE",
+      "word": "MARKETS",
       "count": 14,
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 13,
+      "word": "RISE",
+      "count": 14,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "TRADING",
       "count": 12,
       "category": null
     }
