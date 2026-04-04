@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T04:11:37.154Z",
+  "updated_at": "2026-04-04T04:21:35.718Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 116,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
+      "news_count_24h": 44,
       "hype_score": 23,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 3,
+      "hype_score": 7,
       "buzz_rank": 3
     },
     {
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 71,
-      "category": "価格"
+      "word": "ODDS",
+      "count": 73,
+      "category": null
     },
     {
-      "word": "ODDS",
-      "count": 69,
-      "category": null
+      "word": "PRICE",
+      "count": 70,
+      "category": "価格"
     },
     {
       "word": "CEASEFIRE",
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 43,
       "category": "相場"
     },
     {
@@ -217,6 +217,11 @@
     {
       "word": "APRIL",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "DROP",
+      "count": 33,
       "category": null
     },
     {
@@ -235,23 +240,18 @@
       "category": null
     },
     {
-      "word": "DROP",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 27,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "TRUMP",
       "count": 26,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 25,
+      "word": "MILLION",
+      "count": 26,
       "category": null
     },
     {
@@ -295,17 +295,22 @@
       "category": null
     },
     {
+      "word": "FOUNDATION",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "TRADERS",
       "count": 19,
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "TENSIONS",
       "count": 18,
       "category": null
     },
     {
-      "word": "FOUNDATION",
+      "word": "IRANS",
       "count": 18,
       "category": null
     },
@@ -317,11 +322,6 @@
     {
       "word": "SOLANA",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 17,
       "category": null
     },
     {
