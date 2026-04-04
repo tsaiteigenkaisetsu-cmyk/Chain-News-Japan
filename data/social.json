@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T16:31:40.406Z",
+  "updated_at": "2026-04-04T16:41:31.231Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 80,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 50,
+      "hype_score": 38,
       "buzz_rank": 4
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -205,14 +205,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 42,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 42,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 41,
+      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -230,18 +230,13 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "RISK",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 18,
       "category": null
     },
     {
@@ -270,13 +265,18 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PREDICTION",
       "count": 17,
       "category": null
     },
     {
       "word": "NEXT",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 16,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "IRANS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
       "count": 13,
       "category": null
@@ -332,6 +327,11 @@
     {
       "word": "DRIFT",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "IRANS",
+      "count": 12,
       "category": null
     }
   ],
