@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T00:02:00.257Z",
+  "updated_at": "2026-04-04T00:03:19.234Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 10
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 115,
+      "count": 114,
       "category": null
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 20,
       "category": null
@@ -302,11 +307,6 @@
     {
       "word": "IRANS",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
