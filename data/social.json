@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T09:01:38.474Z",
+  "updated_at": "2026-04-04T09:11:27.904Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 7,
+      "news_count_24h": 93,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 28,
+      "news_count_24h": 37,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 175,
+      "hype_score": 150,
       "buzz_rank": 11
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 400,
       "buzz_rank": 15
     },
     {
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 96,
+      "count": 95,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 64,
+      "count": 63,
       "category": "価格"
     },
     {
@@ -211,13 +211,8 @@
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 41,
       "category": "相場"
-    },
-    {
-      "word": "APRIL",
-      "count": 34,
-      "category": null
     },
     {
       "word": "DROP",
@@ -225,28 +220,33 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 32,
+      "word": "APRIL",
+      "count": 33,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 28,
+      "word": "COINBASE",
+      "count": 30,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 26,
+      "word": "PREDICTION",
+      "count": 27,
       "category": null
     },
     {
       "word": "RIPPLE",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 25,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "NEXT",
       "count": 21,
       "category": null
     },
@@ -285,7 +285,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -300,17 +300,17 @@
       "category": null
     },
     {
-      "word": "IRANS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CIRCLE",
       "count": 17,
       "category": null
     },
     {
       "word": "TENSIONS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "IRANS",
       "count": 17,
       "category": null
     },
