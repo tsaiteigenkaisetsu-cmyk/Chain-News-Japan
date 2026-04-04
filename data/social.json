@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T23:51:24.391Z",
+  "updated_at": "2026-04-04T00:02:00.257Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 114,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 20,
+      "news_count_24h": 44,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -99,15 +99,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 233,
+      "hype_score": 167,
       "buzz_rank": 13
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 12
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 74,
       "category": "価格"
     },
     {
@@ -205,14 +205,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 41,
-      "category": "相場"
-    },
-    {
       "word": "AMID",
       "count": 40,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
     },
     {
       "word": "TRUMP",
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "RIPPLE",
       "count": 33,
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 32,
+      "word": "COINBASE",
+      "count": 33,
       "category": null
     },
     {
@@ -241,12 +241,7 @@
     },
     {
       "word": "DROP",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 27,
+      "count": 30,
       "category": null
     },
     {
@@ -257,6 +252,11 @@
     {
       "word": "MILLION",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
