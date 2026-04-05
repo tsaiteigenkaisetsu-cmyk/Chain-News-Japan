@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T19:11:38.104Z",
+  "updated_at": "2026-04-05T19:21:32.311Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 33,
+      "hype_score": 40,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 75,
+      "hype_score": 63,
       "buzz_rank": 4
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 8
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 87,
+      "count": 88,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "APRIL",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 34,
       "category": "相場"
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "FORCES",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 21,
       "category": "価格"
-    },
-    {
-      "word": "FORCES",
-      "count": 20,
-      "category": null
     },
     {
       "word": "TRUMP",
@@ -271,7 +271,7 @@
     },
     {
       "word": "SCHWAB",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
@@ -290,8 +290,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 11,
+      "word": "HITS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "YES",
+      "count": 10,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "GROUND",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "TRUMPS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SAYLOR",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "YES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 9,
       "category": null
     }
