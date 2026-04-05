@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T09:21:29.858Z",
+  "updated_at": "2026-04-05T09:31:39.001Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 36,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "litecoin",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -211,8 +211,13 @@
     },
     {
       "word": "MARKET",
-      "count": 34,
+      "count": 33,
       "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 29,
+      "category": "価格"
     },
     {
       "word": "DROP",
@@ -220,13 +225,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 28,
-      "category": "価格"
-    },
-    {
       "word": "TENSIONS",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 19,
       "category": null
     },
     {
@@ -235,13 +240,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WHAT",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
@@ -252,6 +252,11 @@
     {
       "word": "FOUNDATION",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 14,
       "category": null
     },
     {
@@ -275,22 +280,17 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "JUNE",
       "count": 13,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TARGET",
       "count": 13,
       "category": null
     },
     {
-      "word": "TARGET",
+      "word": "MILLION",
       "count": 13,
       "category": null
     },
