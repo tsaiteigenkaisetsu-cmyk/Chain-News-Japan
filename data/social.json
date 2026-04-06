@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T08:02:02.087Z",
+  "updated_at": "2026-04-06T08:11:31.527Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "QUANTUM",
       "count": 10,
       "category": null
@@ -328,11 +333,6 @@
       "word": "SURGE",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 10,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
