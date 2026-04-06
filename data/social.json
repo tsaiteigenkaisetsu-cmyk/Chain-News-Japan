@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-05T23:51:23.945Z",
+  "updated_at": "2026-04-06T00:02:17.192Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 50,
-      "hype_score": 14,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 45,
+      "hype_score": 55,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 700,
+      "hype_score": 600,
       "buzz_rank": 12
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKET",
-      "count": 32,
+      "count": 31,
       "category": "相場"
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "TRUMPS",
       "count": 10,
       "category": null
@@ -333,6 +328,11 @@
       "word": "IRANS",
       "count": 9,
       "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 9,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
