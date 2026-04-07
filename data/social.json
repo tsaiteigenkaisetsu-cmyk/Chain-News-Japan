@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T10:31:43.317Z",
+  "updated_at": "2026-04-07T10:41:34.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 12
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 5
     },
     {
@@ -200,14 +200,14 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 52,
+      "category": "相場"
+    },
+    {
       "word": "CEASEFIRE",
       "count": 52,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 51,
-      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -231,7 +231,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -305,14 +305,14 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 14,
       "category": "セキュリティ"
-    },
-    {
-      "word": "TRADING",
-      "count": 14,
-      "category": null
     },
     {
       "word": "BILLION",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
