@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T00:01:57.972Z",
+  "updated_at": "2026-04-07T00:11:25.372Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 117,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 21,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 24,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 133,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 17,
       "category": null
@@ -260,7 +265,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "WEEK",
       "count": 16,
       "category": null
     },
@@ -276,11 +281,6 @@
     },
     {
       "word": "POLYMARKET",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 15,
       "category": null
     },
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "RESCUE",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "DRIFT",
       "count": 13,
       "category": null
@@ -332,6 +327,11 @@
     {
       "word": "SOLANA",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "RESCUE",
+      "count": 12,
       "category": null
     }
   ],
