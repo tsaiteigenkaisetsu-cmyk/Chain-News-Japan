@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T15:51:36.744Z",
+  "updated_at": "2026-04-07T16:01:53.883Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 27,
+      "news_count_24h": 21,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -50,11 +50,11 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 125,
-      "buzz_rank": 10
+      "hype_score": 150,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -99,16 +99,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "AMID",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -231,7 +231,12 @@
     },
     {
       "word": "QUANTUM",
-      "count": 28,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
@@ -240,17 +245,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
+      "word": "BILLION",
+      "count": 22,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 22,
       "category": null
     },
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 18,
-      "category": "セキュリティ"
-    },
-    {
       "word": "RISE",
       "count": 18,
       "category": null
@@ -320,9 +315,9 @@
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "SECURITY",
       "count": 17,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "WHAT",
@@ -331,6 +326,11 @@
     },
     {
       "word": "NEXT",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SURGE",
       "count": 16,
       "category": null
     }
