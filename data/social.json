@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T08:11:36.083Z",
+  "updated_at": "2026-04-07T08:21:26.571Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 137,
+      "news_count_24h": 139,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 30,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 28,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 116,
+      "count": 115,
       "category": null
     },
     {
       "word": "ODDS",
-      "count": 79,
+      "count": 77,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 56,
+      "category": "価格"
     },
     {
       "word": "CEASEFIRE",
@@ -200,13 +205,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 55,
-      "category": "価格"
-    },
-    {
       "word": "APRIL",
-      "count": 53,
+      "count": 51,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "FORCES",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "ENTERING",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 18,
       "category": null
@@ -285,6 +280,11 @@
       "category": null
     },
     {
+      "word": "ENTERING",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "POLYMARKET",
       "count": 16,
       "category": null
@@ -301,11 +301,6 @@
     },
     {
       "word": "SOLANA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
       "count": 15,
       "category": null
     },
@@ -331,6 +326,11 @@
     },
     {
       "word": "OIL",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "DRIFT",
       "count": 13,
       "category": null
     }
