@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T12:02:20.670Z",
+  "updated_at": "2026-04-07T12:08:50.057Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
-      "hype_score": 6,
+      "news_count_24h": 136,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 20,
+      "news_count_24h": 31,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
-      "hype_score": 31,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 16
     },
     {
@@ -176,10 +176,10 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
@@ -200,14 +200,14 @@
       "category": "価格"
     },
     {
+      "word": "CEASEFIRE",
+      "count": 51,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 50,
       "category": "相場"
-    },
-    {
-      "word": "CEASEFIRE",
-      "count": 50,
-      "category": null
     },
     {
       "word": "APRIL",
@@ -226,7 +226,7 @@
     },
     {
       "word": "MILLION",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "RISE",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SINCE",
       "count": 18,
       "category": null
@@ -281,11 +286,6 @@
     },
     {
       "word": "POLYMARKET",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "RISE",
       "count": 17,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "DRIFT",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 15,
       "category": null
@@ -327,6 +322,11 @@
     {
       "word": "TRADING",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "DRIFT",
+      "count": 14,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
