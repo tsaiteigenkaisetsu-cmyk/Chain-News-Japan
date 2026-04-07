@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T10:41:34.842Z",
+  "updated_at": "2026-04-07T10:51:25.906Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
+      "news_count_24h": 140,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 22,
+      "news_count_24h": 26,
+      "hype_score": 23,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 28,
+      "news_count_24h": 24,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "AMID",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -231,7 +231,12 @@
     },
     {
       "word": "QUANTUM",
-      "count": 24,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 23,
       "category": null
     },
     {
@@ -240,18 +245,13 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "TRUMPS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 20,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "RISK",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 14,
       "category": "セキュリティ"
@@ -328,11 +333,6 @@
       "word": "DEFI",
       "count": 14,
       "category": "DeFi"
-    },
-    {
-      "word": "DRIFT",
-      "count": 14,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
