@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T12:31:47.206Z",
+  "updated_at": "2026-04-07T12:41:27.636Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 135,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 19,
+      "news_count_24h": 33,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 38,
       "hype_score": 3,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 30,
+      "hype_score": 26,
       "buzz_rank": 4
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -149,19 +149,19 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 112,
+      "count": 111,
       "category": null
     },
     {
       "word": "ODDS",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 63,
       "category": "価格"
     },
     {
       "word": "CEASEFIRE",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "MILLION",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "DROP",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 18,
       "category": "セキュリティ"
@@ -271,11 +276,6 @@
     },
     {
       "word": "SINCE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "DROP",
       "count": 18,
       "category": null
     },
