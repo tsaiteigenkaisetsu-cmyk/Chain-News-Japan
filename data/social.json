@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T08:41:40.550Z",
+  "updated_at": "2026-04-08T08:51:26.397Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 136,
+      "news_count_24h": 135,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 17,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 129,
+      "count": 130,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 78,
       "category": "価格"
     },
     {
       "word": "CEASEFIRE",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
@@ -221,12 +221,17 @@
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "WHY",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 29,
       "category": null
     },
     {
@@ -245,8 +250,8 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 28,
+      "word": "STABLECOIN",
+      "count": 26,
       "category": null
     },
     {
@@ -263,11 +268,6 @@
       "word": "ETF",
       "count": 25,
       "category": "ETF"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 25,
-      "category": null
     },
     {
       "word": "RISK",
@@ -295,6 +295,16 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "DEADLINE",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "POLYMARKET",
       "count": 20,
       "category": null
@@ -310,7 +320,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "WEEK",
       "count": 19,
       "category": null
     },
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "DEADLINE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "INFLOWS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WEEK",
+      "word": "HIT",
       "count": 18,
       "category": null
     }
