@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T22:31:36.865Z",
+  "updated_at": "2026-04-08T22:41:27.289Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 144,
+      "news_count_24h": 145,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 31,
+      "hype_score": 28,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 41,
+      "hype_score": 47,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 0,
+      "hype_score": 32,
       "buzz_rank": 4
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 134,
+      "count": 131,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 84,
+      "count": 82,
       "category": null
     },
     {
@@ -205,14 +205,14 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
+      "word": "ETF",
       "count": 41,
-      "category": null
+      "category": "ETF"
     },
     {
-      "word": "ETF",
-      "count": 40,
-      "category": "ETF"
+      "word": "AMID",
+      "count": 39,
+      "category": null
     },
     {
       "word": "QUANTUM",
@@ -225,18 +225,18 @@
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 38,
+      "word": "MILLION",
+      "count": 35,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 33,
+      "word": "ODDS",
+      "count": 35,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "MORGAN",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 21,
       "category": null
@@ -296,11 +301,6 @@
     },
     {
       "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "MORGAN",
       "count": 20,
       "category": null
     },
