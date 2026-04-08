@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T03:02:33.784Z",
+  "updated_at": "2026-04-08T03:11:29.048Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 133,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 16,
+      "news_count_24h": 24,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 56,
       "category": "相場"
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 20,
       "category": null
@@ -313,6 +308,11 @@
       "word": "ETF",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "TRADING",
+      "count": 20,
+      "category": null
     },
     {
       "word": "DEFI",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 18,
-    "reddit_reused_previous": 2,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
