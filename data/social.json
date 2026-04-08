@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T00:21:28.397Z",
+  "updated_at": "2026-04-08T00:31:35.008Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
+      "news_count_24h": 139,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,14 +54,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 15
     },
     {
       "coin_id": "litecoin",
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 113,
+      "count": 116,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 81,
+      "count": 82,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 52,
+      "count": 54,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "AMID",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 25,
+      "word": "SOLANA",
+      "count": 26,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "SURGE",
       "count": 25,
       "category": null
     },
@@ -255,13 +255,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "WHAT",
       "count": 24,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 23,
+      "word": "BILLION",
+      "count": 24,
       "category": null
     },
     {
@@ -275,12 +275,17 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 22,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "WEEK",
       "count": 21,
       "category": null
     },
@@ -292,11 +297,6 @@
     {
       "word": "DEADLINE",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 20,
       "category": null
     },
     {
@@ -320,6 +320,11 @@
       "category": "DeFi"
     },
     {
+      "word": "BINANCE",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 18,
       "category": "セキュリティ"
@@ -327,11 +332,6 @@
     {
       "word": "POLYMARKET",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "DROP",
-      "count": 17,
       "category": null
     }
   ],
