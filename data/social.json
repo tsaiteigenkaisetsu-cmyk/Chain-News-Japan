@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T05:31:36.979Z",
+  "updated_at": "2026-04-08T05:41:32.552Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
+      "news_count_24h": 132,
       "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 17,
+      "hype_score": 22,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 28,
+      "news_count_24h": 26,
+      "hype_score": 27,
       "buzz_rank": 3
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 51,
       "category": "相場"
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 26,
       "category": null
@@ -260,9 +265,9 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 25,
-      "category": null
+      "word": "DEFI",
+      "count": 23,
+      "category": "DeFi"
     },
     {
       "word": "WEEK",
@@ -270,9 +275,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "ETF",
       "count": 22,
-      "category": "DeFi"
+      "category": "ETF"
     },
     {
       "word": "SURGE",
@@ -283,11 +288,6 @@
       "word": "STABLECOIN",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 21,
-      "category": "ETF"
     },
     {
       "word": "STRATEGY",
