@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T02:51:26.429Z",
+  "updated_at": "2026-04-08T03:02:33.784Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
+      "news_count_24h": 134,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 25,
-      "hype_score": 12,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 43,
       "hype_score": 2,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 30,
+      "hype_score": 35,
       "buzz_rank": 4
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 7,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "DEADLINE",
       "count": 21,
       "category": null
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 20,
       "category": null
@@ -316,7 +316,7 @@
     },
     {
       "word": "DEFI",
-      "count": 20,
+      "count": 19,
       "category": "DeFi"
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "SECURITY",
+      "word": "POLYMARKET",
       "count": 18,
-      "category": "セキュリティ"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 18,
+    "reddit_reused_previous": 2,
     "reddit_mode": "rss"
   }
 }
