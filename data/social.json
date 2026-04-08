@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T13:51:35.179Z",
+  "updated_at": "2026-04-08T14:01:59.452Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 136,
+      "news_count_24h": 139,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 36,
+      "news_count_24h": 23,
+      "hype_score": 43,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -54,15 +54,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 43,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 0,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -190,18 +190,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 80,
-      "category": "価格"
-    },
-    {
       "word": "CEASEFIRE",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 78,
+      "category": "価格"
+    },
+    {
       "word": "MARKET",
-      "count": 54,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "ETF",
       "count": 32,
-      "category": null
+      "category": "ETF"
     },
     {
-      "word": "ETF",
+      "word": "BILLION",
       "count": 31,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "SOLANA",
@@ -242,6 +242,11 @@
     {
       "word": "WHAT",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 27,
       "category": null
     },
     {
@@ -260,17 +265,7 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "RISK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -278,6 +273,11 @@
       "word": "DEFI",
       "count": 23,
       "category": "DeFi"
+    },
+    {
+      "word": "MARKETS",
+      "count": 23,
+      "category": null
     },
     {
       "word": "SURGE",
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "REAL",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "INFLOWS",
       "count": 20,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "HERE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "REAL",
       "count": 19,
       "category": null
     }
