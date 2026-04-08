@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T14:11:26.046Z",
+  "updated_at": "2026-04-08T14:21:35.246Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 43,
+      "hype_score": 39,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 38,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "shiba-inu",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 139,
+      "count": 140,
+      "category": null
+    },
+    {
+      "word": "CEASEFIRE",
+      "count": 80,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 80,
       "category": "価格"
-    },
-    {
-      "word": "CEASEFIRE",
-      "count": 79,
-      "category": null
     },
     {
       "word": "MARKET",
@@ -216,7 +216,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 40,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 34,
       "category": null
     },
     {
@@ -225,33 +230,23 @@
       "category": "ETF"
     },
     {
-      "word": "STABLECOIN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 30,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 27,
+      "word": "BILLION",
+      "count": 29,
       "category": null
     },
     {
       "word": "QUANTUM",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 28,
       "category": null
     },
     {
@@ -265,8 +260,23 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "RISK",
-      "count": 24,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 23,
       "category": null
     },
     {
@@ -280,22 +290,12 @@
       "category": "DeFi"
     },
     {
-      "word": "MARKETS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "SURGE",
       "count": 23,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "NEXT",
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
@@ -305,12 +305,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 21,
+      "word": "REAL",
+      "count": 20,
       "category": null
     },
     {
-      "word": "REAL",
+      "word": "BINANCE",
       "count": 20,
       "category": null
     },
