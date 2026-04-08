@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-04-08T21:51:23.730Z",
+  "updated_at": "2026-04-08T22:01:46.894Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 146,
+      "news_count_24h": 144,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 31,
-      "buzz_rank": 3
+      "hype_score": 28,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 3,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 47,
+      "hype_score": 41,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 26,
+      "hype_score": 32,
       "buzz_rank": 4
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
+      "news_count_24h": 2,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 139,
+      "count": 136,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 86,
+      "count": 84,
       "category": null
     },
     {
@@ -205,12 +205,12 @@
       "category": "相場"
     },
     {
-      "word": "ODDS",
-      "count": 42,
+      "word": "AMID",
+      "count": 40,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "ODDS",
       "count": 40,
       "category": null
     },
@@ -245,13 +245,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 30,
+      "word": "BILLION",
+      "count": 29,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 29,
+      "word": "WHAT",
+      "count": 28,
       "category": null
     },
     {
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "REPORT",
       "count": 21,
       "category": null
@@ -295,12 +290,12 @@
       "category": null
     },
     {
-      "word": "MORGAN",
+      "word": "NEXT",
       "count": 20,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "MORGAN",
       "count": 20,
       "category": null
     },
@@ -310,19 +305,14 @@
       "category": null
     },
     {
-      "word": "HERE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 19,
       "category": "規制"
+    },
+    {
+      "word": "HORMUZ",
+      "count": 19,
+      "category": null
     },
     {
       "word": "OIL",
@@ -331,6 +321,16 @@
     },
     {
       "word": "WEEK",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "DEADLINE",
       "count": 19,
       "category": null
     }
