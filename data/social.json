@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T11:01:54.461Z",
+  "updated_at": "2026-04-08T11:11:33.430Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
+      "news_count_24h": 130,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
-      "hype_score": 35,
+      "hype_score": 40,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 133,
+      "hype_score": 100,
       "buzz_rank": 12
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -81,15 +81,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 400,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 13
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 60,
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -124,16 +124,16 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 134,
+      "count": 135,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 79,
       "category": "価格"
     },
     {
       "word": "CEASEFIRE",
-      "count": 72,
+      "count": 73,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 27,
+      "category": "ETF"
+    },
+    {
       "word": "APRIL",
       "count": 27,
       "category": null
@@ -258,11 +263,6 @@
       "word": "STABLECOIN",
       "count": 27,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 26,
-      "category": "ETF"
     },
     {
       "word": "MARKETS",
@@ -290,18 +290,28 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DEFI",
       "count": 22,
       "category": "DeFi"
     },
     {
+      "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "POLYMARKET",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 20,
       "category": null
     },
     {
@@ -310,28 +320,18 @@
       "category": null
     },
     {
+      "word": "HERE",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 19,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "REAL",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "HERE",
-      "count": 18,
       "category": null
     }
   ],
