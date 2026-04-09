@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T07:01:50.607Z",
+  "updated_at": "2026-04-09T07:11:27.286Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -23,19 +23,19 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 28,
-      "hype_score": 4,
+      "hype_score": 0,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 100,
+      "news_count_24h": 11,
+      "hype_score": 91,
       "buzz_rank": 5
     },
     {
@@ -221,17 +221,12 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 35,
       "category": "相場"
     },
     {
       "word": "QUANTUM",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 28,
+      "count": 32,
       "category": null
     },
     {
@@ -242,6 +237,11 @@
     {
       "word": "RISK",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 27,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "REPORT",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "HERE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "DEFI",
       "count": 19,
       "category": "DeFi"
@@ -315,7 +310,7 @@
       "category": null
     },
     {
-      "word": "SPOT",
+      "word": "HERE",
       "count": 18,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "DOWN",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "SPOT",
       "count": 17,
       "category": null
     }
