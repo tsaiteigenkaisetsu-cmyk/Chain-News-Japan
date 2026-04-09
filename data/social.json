@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T10:31:39.534Z",
+  "updated_at": "2026-04-09T10:41:33.245Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 149,
+      "news_count_24h": 150,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 117,
+      "count": 118,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "MORGAN",
+      "word": "TRUMP",
       "count": 28,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 27,
+      "word": "MORGAN",
+      "count": 28,
       "category": null
     },
     {
@@ -250,13 +250,18 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 26,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 25,
+      "word": "NEXT",
+      "count": 22,
       "category": null
     },
     {
@@ -275,6 +280,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
       "count": 21,
       "category": null
@@ -290,16 +300,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SURGE",
       "count": 20,
       "category": null
@@ -308,6 +308,11 @@
       "word": "SOLANA",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 19,
+      "category": "DeFi"
     },
     {
       "word": "HERE",
@@ -328,11 +333,6 @@
       "word": "SPOT",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 18,
-      "category": "規制"
     }
   ],
   "stats": {
