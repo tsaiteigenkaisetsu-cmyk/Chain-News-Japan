@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T20:01:57.797Z",
+  "updated_at": "2026-04-09T20:11:37.361Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 137,
+      "news_count_24h": 138,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 26,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 83,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 110,
+      "count": 109,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 77,
+      "count": 76,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 72,
       "category": "価格"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
+    },
+    {
       "word": "STABLECOIN",
       "count": 39,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -295,11 +295,6 @@
       "category": "規制"
     },
     {
-      "word": "ODDS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 20,
       "category": null
@@ -310,8 +305,18 @@
       "category": null
     },
     {
+      "word": "ODDS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADERS",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 19,
       "category": null
     },
     {
@@ -322,11 +327,6 @@
     {
       "word": "TREASURY",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 18,
       "category": null
     },
     {
