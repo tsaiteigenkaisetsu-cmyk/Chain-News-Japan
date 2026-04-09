@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T08:11:44.216Z",
+  "updated_at": "2026-04-09T08:21:23.523Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 140,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 21,
+      "news_count_24h": 30,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 29,
       "buzz_rank": 8
     },
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 117,
+      "count": 116,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 75,
       "category": "価格"
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 37,
+      "word": "MILLION",
+      "count": 36,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "AMID",
       "count": 36,
       "category": null
     },
@@ -260,18 +260,18 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "BINANCE",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "MORGAN",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 21,
       "category": null
     },
     {
@@ -288,6 +288,11 @@
       "word": "INFLOWS",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 19,
+      "category": "DeFi"
     },
     {
       "word": "OIL",
@@ -323,11 +328,6 @@
       "word": "HERE",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 18,
-      "category": "DeFi"
     },
     {
       "word": "REAL",
