@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T09:21:23.804Z",
+  "updated_at": "2026-04-09T09:31:41.144Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 144,
+      "news_count_24h": 147,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 21,
+      "news_count_24h": 30,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 26,
       "hype_score": 4,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 100,
+      "hype_score": 110,
       "buzz_rank": 5
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 116,
+      "count": 117,
+      "category": null
+    },
+    {
+      "word": "CEASEFIRE",
+      "count": 77,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 74,
       "category": "価格"
     },
     {
-      "word": "CEASEFIRE",
-      "count": 76,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 46,
+      "count": 47,
       "category": "ETF"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 36,
-      "category": "相場"
+      "word": "MILLION",
+      "count": 37,
+      "category": null
     },
     {
-      "word": "MILLION",
-      "count": 36,
-      "category": null
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
     },
     {
       "word": "AMID",
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "RISK",
       "count": 28,
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 28,
+      "word": "WHAT",
+      "count": 27,
       "category": null
     },
     {
@@ -245,23 +245,28 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 26,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "MORGAN",
       "count": 25,
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 24,
-      "category": null
+      "word": "RALLY",
+      "count": 22,
+      "category": "相場"
     },
     {
-      "word": "SOLANA",
-      "count": 23,
+      "word": "REPORT",
+      "count": 22,
       "category": null
     },
     {
@@ -270,8 +275,8 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 21,
+      "word": "SOLANA",
+      "count": 22,
       "category": null
     },
     {
@@ -290,9 +295,9 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 20,
-      "category": "相場"
+      "word": "STANLEY",
+      "count": 19,
+      "category": null
     },
     {
       "word": "PREDICTION",
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "STANLEY",
+      "word": "TRADING",
       "count": 18,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "DEFI",
       "count": 18,
       "category": "DeFi"
-    },
-    {
-      "word": "HERE",
-      "count": 18,
-      "category": null
     }
   ],
   "stats": {
