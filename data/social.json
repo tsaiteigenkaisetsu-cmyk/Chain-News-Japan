@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T12:11:28.406Z",
+  "updated_at": "2026-04-09T12:21:34.140Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 154,
+      "news_count_24h": 153,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 50,
+      "hype_score": 42,
       "buzz_rank": 5
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 75,
       "category": "価格"
     },
     {
@@ -245,18 +245,28 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "RISK",
       "count": 26,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 25,
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "REPORT",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 23,
       "category": null
     },
     {
@@ -267,16 +277,6 @@
     {
       "word": "OIL",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 22,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 18,
       "category": "DeFi"
@@ -327,11 +332,6 @@
     {
       "word": "PREDICTION",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 17,
       "category": null
     }
   ],
