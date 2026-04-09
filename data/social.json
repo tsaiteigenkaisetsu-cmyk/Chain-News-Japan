@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T20:21:37.551Z",
+  "updated_at": "2026-04-09T20:31:54.149Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 141,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 18,
+      "news_count_24h": 35,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -205,18 +205,18 @@
       "category": "ETF"
     },
     {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 40,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
-    },
-    {
       "word": "STABLECOIN",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -235,28 +235,33 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 26,
+      "category": "相場"
+    },
+    {
+      "word": "REPORT",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "QUANTUM",
       "count": 26,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 25,
-      "category": "相場"
-    },
-    {
-      "word": "REPORT",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "WHAT",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 23,
       "category": null
     },
     {
@@ -270,9 +275,9 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "SEC",
       "count": 22,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "STANLEY",
@@ -280,8 +285,13 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 22,
+      "word": "RISK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 21,
       "category": null
     },
     {
@@ -290,22 +300,7 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 21,
-      "category": "規制"
-    },
-    {
-      "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "BINANCE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 20,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 19,
       "category": null
     },
     {
-      "word": "SATOSHI",
+      "word": "72K",
       "count": 18,
       "category": null
     }
