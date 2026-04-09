@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T06:02:04.007Z",
+  "updated_at": "2026-04-09T06:11:33.027Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 30,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 120,
+      "count": 119,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
@@ -226,11 +226,16 @@
     },
     {
       "word": "QUANTUM",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "RISK",
       "count": 27,
       "category": null
     },
@@ -250,23 +255,18 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 24,
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 24,
+      "word": "REPORT",
+      "count": 23,
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 22,
+      "word": "ODDS",
+      "count": 23,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 20,
+      "category": "DeFi"
+    },
+    {
       "word": "INFLOWS",
       "count": 20,
       "category": null
@@ -298,11 +303,6 @@
       "word": "HIT",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 19,
-      "category": "DeFi"
     },
     {
       "word": "OIL",
