@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-09T12:01:49.348Z",
+  "updated_at": "2026-04-09T12:11:28.406Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 152,
-      "hype_score": 5,
+      "news_count_24h": 154,
+      "hype_score": 4,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 34,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "ETF",
-      "count": 51,
+      "count": 52,
       "category": "ETF"
     },
     {
@@ -210,18 +210,23 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 38,
-      "category": null
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
     },
     {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
+      "word": "MILLION",
+      "count": 37,
+      "category": null
     },
     {
       "word": "AMID",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "MORGAN",
+      "count": 30,
       "category": null
     },
     {
@@ -230,18 +235,13 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 29,
+      "word": "WHAT",
+      "count": 28,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 27,
       "category": null
     },
     {
@@ -255,6 +255,16 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STANLEY",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 23,
       "category": null
@@ -265,17 +275,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "NEXT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STANLEY",
       "count": 22,
       "category": null
     },
@@ -300,9 +300,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "SOLANA",
       "count": 19,
-      "category": "DeFi"
+      "category": null
     },
     {
       "word": "HERE",
@@ -315,14 +315,9 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SEC",
+      "word": "DEFI",
       "count": 18,
-      "category": "規制"
+      "category": "DeFi"
     },
     {
       "word": "INFLOWS",
@@ -332,6 +327,11 @@
     {
       "word": "PREDICTION",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 17,
       "category": null
     }
   ],
