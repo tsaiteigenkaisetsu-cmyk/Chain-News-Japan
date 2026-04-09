@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T07:21:23.453Z",
+  "updated_at": "2026-04-09T07:31:43.650Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 146,
+      "news_count_24h": 145,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 25,
+      "news_count_24h": 29,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 119,
+      "count": 120,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 75,
       "category": "価格"
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
+    },
+    {
       "word": "DEFI",
       "count": 19,
       "category": "DeFi"
@@ -310,28 +315,23 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "HERE",
       "count": 18,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
-    },
-    {
       "word": "REAL",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
-      "count": 17,
       "category": null
     }
   ],
