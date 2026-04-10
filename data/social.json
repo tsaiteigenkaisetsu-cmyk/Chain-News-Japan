@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T17:01:44.470Z",
+  "updated_at": "2026-04-10T17:11:35.123Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 108,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 19,
+      "hype_score": 22,
       "buzz_rank": 3
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 4
+      "news_count_24h": 11,
+      "hype_score": 27,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -95,19 +95,19 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 100,
+      "hype_score": 67,
       "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 200,
       "buzz_rank": 14
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 73,
       "category": "価格"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "WHY",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -220,23 +220,23 @@
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 23,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "STABLECOIN",
       "count": 23,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "BILLION",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 21,
       "category": null
     },
     {
@@ -290,16 +290,6 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MORGAN",
       "count": 16,
       "category": null
@@ -310,7 +300,17 @@
       "category": null
     },
     {
+      "word": "CEASEFIRE",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TRUMP",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 15,
       "category": null
     },
