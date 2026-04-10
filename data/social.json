@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:41:39.886Z",
+  "updated_at": "2026-04-10T16:51:41.796Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 113,
+      "news_count_24h": 111,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 21,
+      "news_count_24h": 28,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -200,22 +200,22 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
-      "count": 25,
+      "word": "QUANTUM",
+      "count": 30,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 25,
       "category": null
     },
@@ -225,28 +225,33 @@
       "category": "相場"
     },
     {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 22,
+      "word": "BINANCE",
+      "count": 23,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 22,
+      "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 20,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -255,13 +260,13 @@
       "category": "規制"
     },
     {
-      "word": "NEXT",
-      "count": 19,
+      "word": "FINANCIAL",
+      "count": 18,
       "category": null
     },
     {
-      "word": "FINANCIAL",
-      "count": 18,
+      "word": "TRADERS",
+      "count": 17,
       "category": null
     },
     {
@@ -277,11 +282,6 @@
     {
       "word": "RISK",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 16,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 15,
       "category": null
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "INFLOWS",
       "count": 14,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "VOLUME",
       "count": 13,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "CLARITY",
       "count": 13,
       "category": null
     }
