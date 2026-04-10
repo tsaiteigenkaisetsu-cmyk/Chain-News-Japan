@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:11:27.221Z",
+  "updated_at": "2026-04-10T16:21:31.509Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 112,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 21,
       "buzz_rank": 3
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 0,
+      "hype_score": 25,
       "buzz_rank": 5
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 133,
+      "news_count_24h": 7,
+      "hype_score": 114,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 73,
+      "count": 74,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
@@ -210,14 +210,19 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 25,
       "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 23,
+      "category": "相場"
     },
     {
       "word": "REPORT",
@@ -233,11 +238,6 @@
       "word": "BINANCE",
       "count": 22,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 22,
-      "category": "相場"
     },
     {
       "word": "TREASURY",
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 17,
       "category": null
@@ -280,7 +285,7 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "CEASEFIRE",
       "count": 16,
       "category": null
     },
@@ -305,8 +310,8 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 15,
+      "word": "HITS",
+      "count": 14,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "BITTENSOR",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
       "count": 13,
       "category": null
     }
