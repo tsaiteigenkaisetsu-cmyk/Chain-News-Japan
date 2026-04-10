@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T18:11:24.939Z",
+  "updated_at": "2026-04-10T18:21:31.248Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 113,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 20,
+      "news_count_24h": 32,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 39,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
+      "news_count_24h": 12,
+      "hype_score": 33,
       "buzz_rank": 5
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 100,
+      "news_count_24h": 10,
+      "hype_score": 90,
       "buzz_rank": 7
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 100,
+      "news_count_24h": 9,
+      "hype_score": 89,
       "buzz_rank": 8
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 6
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 9
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 71,
       "category": "価格"
     },
     {
       "word": "ETF",
-      "count": 40,
+      "count": 41,
       "category": "ETF"
+    },
+    {
+      "word": "MARKET",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -200,13 +205,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
-    },
-    {
       "word": "WHY",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
@@ -245,18 +245,23 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "TREASURY",
       "count": 20,
       "category": null
     },
     {
       "word": "FINANCIAL",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 18,
+      "word": "BINANCE",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 19,
       "category": null
     },
     {
@@ -265,18 +270,28 @@
       "category": "規制"
     },
     {
-      "word": "WHAT",
+      "word": "KEY",
       "count": 17,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "MORGAN",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
     {
       "word": "RISK",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
+      "count": 16,
       "category": null
     },
     {
@@ -295,12 +310,7 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
+      "word": "CLARITY",
       "count": 15,
       "category": null
     },
@@ -315,23 +325,13 @@
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "DATA",
       "count": 14,
       "category": null
     },
     {
       "word": "CEASEFIRE",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "INFLOWS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "DESPITE",
-      "count": 13,
       "category": null
     }
   ],
