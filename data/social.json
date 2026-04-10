@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T13:11:34.038Z",
+  "updated_at": "2026-04-10T13:21:26.762Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 118,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 114,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 100,
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 133,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 160,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 73,
       "category": "価格"
     },
     {
@@ -195,13 +195,13 @@
       "category": "ETF"
     },
     {
-      "word": "IRAN",
-      "count": 38,
+      "word": "MILLION",
+      "count": 40,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 38,
+      "word": "IRAN",
+      "count": 37,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "REPORT",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -235,14 +235,19 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 25,
+      "category": "相場"
+    },
+    {
       "word": "BILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 24,
-      "category": "相場"
+      "word": "BINANCE",
+      "count": 22,
+      "category": null
     },
     {
       "word": "TREASURY",
@@ -250,19 +255,14 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 21,
       "category": "規制"
+    },
+    {
+      "word": "MORGAN",
+      "count": 21,
+      "category": null
     },
     {
       "word": "NEXT",
@@ -290,28 +290,13 @@
       "category": null
     },
     {
-      "word": "INFLOWS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 17,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "STANLEY",
-      "count": 17,
+      "word": "LAUNCHES",
+      "count": 16,
       "category": null
     },
     {
@@ -320,8 +305,23 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 15,
+      "word": "INFLOWS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "STANLEY",
+      "count": 16,
       "category": null
     },
     {
