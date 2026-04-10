@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T20:31:46.927Z",
+  "updated_at": "2026-04-10T20:41:32.546Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 112,
+      "news_count_24h": 111,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 31,
-      "hype_score": 16,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 60,
+      "news_count_24h": 11,
+      "hype_score": 55,
       "buzz_rank": 7
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 71,
       "category": "価格"
     },
     {
@@ -195,18 +195,18 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 38,
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "HOW",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "KEY",
       "count": 17,
       "category": null
@@ -300,7 +305,7 @@
       "category": "規制"
     },
     {
-      "word": "HOW",
+      "word": "DATA",
       "count": 16,
       "category": null
     },
@@ -315,6 +320,11 @@
       "category": null
     },
     {
+      "word": "CAPITAL",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "INFLOWS",
       "count": 15,
       "category": null
@@ -322,16 +332,6 @@
     {
       "word": "TRUMP",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "CAPITAL",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 14,
       "category": null
     }
   ],
