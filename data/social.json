@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T17:21:30.634Z",
+  "updated_at": "2026-04-10T17:28:51.536Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 109,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 22,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
+      "news_count_24h": 2,
+      "hype_score": 100,
       "buzz_rank": 12
     },
     {
@@ -149,19 +149,19 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 24,
       "category": "相場"
@@ -225,17 +230,12 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "REPORT",
       "count": 22,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "STABLECOIN",
       "count": 22,
       "category": null
     },
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "INFLOWS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 15,
       "category": null
@@ -316,11 +321,6 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "INFLOWS",
       "count": 14,
       "category": null
     },
