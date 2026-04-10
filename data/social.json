@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T16:31:41.845Z",
+  "updated_at": "2026-04-10T16:41:39.886Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 112,
+      "news_count_24h": 113,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -36,15 +36,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 25,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 129,
+      "news_count_24h": 8,
+      "hype_score": 113,
       "buzz_rank": 7
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 73,
+      "count": 74,
       "category": "価格"
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "QUANTUM",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
-    },
-    {
-      "word": "QUANTUM",
-      "count": 30,
-      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -246,7 +246,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "WHAT",
       "count": 17,
       "category": null
@@ -282,6 +277,16 @@
     {
       "word": "RISK",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 16,
       "category": null
     },
     {
@@ -305,8 +310,8 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 15,
+      "word": "INFLATION",
+      "count": 14,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "TOKEN",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "BITTENSOR",
       "count": 13,
       "category": null
     }
