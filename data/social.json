@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T19:41:27.730Z",
+  "updated_at": "2026-04-10T19:51:34.005Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 50,
+      "hype_score": 40,
       "buzz_rank": 7
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 89,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -195,14 +195,14 @@
       "category": "ETF"
     },
     {
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 39,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
     },
     {
       "word": "WHY",
@@ -211,17 +211,12 @@
     },
     {
       "word": "BILLION",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "QUANTUM",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 23,
       "category": null
     },
     {
@@ -240,13 +235,13 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "STABLECOIN",
       "count": 21,
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 21,
+      "word": "TREASURY",
+      "count": 20,
       "category": null
     },
     {
@@ -255,8 +250,8 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 19,
+      "word": "REPORT",
+      "count": 20,
       "category": null
     },
     {
@@ -265,13 +260,13 @@
       "category": null
     },
     {
-      "word": "MORGAN",
+      "word": "ACT",
       "count": 18,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 17,
+      "word": "MORGAN",
+      "count": 18,
       "category": null
     },
     {
@@ -288,6 +283,11 @@
       "word": "SEC",
       "count": 17,
       "category": "規制"
+    },
+    {
+      "word": "HOW",
+      "count": 16,
+      "category": null
     },
     {
       "word": "TOKEN",
