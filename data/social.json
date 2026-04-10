@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T11:01:59.067Z",
+  "updated_at": "2026-04-10T11:11:36.948Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 118,
+      "news_count_24h": 119,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,27 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 69,
       "category": "価格"
     },
     {
       "word": "ETF",
-      "count": 50,
+      "count": 49,
       "category": "ETF"
-    },
-    {
-      "word": "IRAN",
-      "count": 40,
-      "category": null
     },
     {
       "word": "MILLION",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 32,
       "category": null
     },
     {
@@ -215,17 +220,12 @@
       "category": "相場"
     },
     {
-      "word": "QUANTUM",
-      "count": 30,
+      "word": "REPORT",
+      "count": 29,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "REPORT",
       "count": 29,
       "category": null
     },
@@ -240,23 +240,28 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 23,
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 21,
+      "word": "MORGAN",
+      "count": 23,
       "category": null
     },
     {
       "word": "TREASURY",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 20,
       "category": null
     },
     {
@@ -275,22 +280,12 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STANLEY",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 18,
       "category": null
     },
     {
-      "word": "ADAM",
+      "word": "STANLEY",
       "count": 18,
       "category": null
     },
@@ -315,22 +310,27 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "INFLOWS",
       "count": 16,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 14,
+      "word": "ADAM",
+      "count": 16,
       "category": null
     },
     {
-      "word": "VOLUME",
+      "word": "FINANCIAL",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 14,
       "category": null
     }
