@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T20:01:50.078Z",
+  "updated_at": "2026-04-10T20:11:36.868Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 115,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -32,28 +32,28 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 7
+      "news_count_24h": 11,
+      "hype_score": 45,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 82,
-      "buzz_rank": 6
+      "news_count_24h": 10,
+      "hype_score": 60,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 100,
+      "hype_score": 78,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -206,7 +206,12 @@
     },
     {
       "word": "WHY",
-      "count": 31,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 25,
       "category": null
     },
     {
@@ -215,8 +220,8 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 24,
+      "word": "FINANCIAL",
+      "count": 23,
       "category": null
     },
     {
@@ -225,18 +230,13 @@
       "category": "相場"
     },
     {
-      "word": "FINANCIAL",
+      "word": "STABLECOIN",
       "count": 22,
       "category": null
     },
     {
       "word": "NEXT",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 21,
       "category": null
     },
     {
@@ -275,12 +275,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "AMID",
       "count": 17,
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "CLARITY",
       "count": 17,
       "category": null
     },
@@ -288,6 +288,11 @@
       "word": "SEC",
       "count": 17,
       "category": "規制"
+    },
+    {
+      "word": "RISK",
+      "count": 16,
+      "category": null
     },
     {
       "word": "HOW",
@@ -300,18 +305,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "KEY",
       "count": 16,
       "category": null
     },
     {
       "word": "TRADERS",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 15,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "STANLEY",
+      "word": "BILL",
       "count": 14,
       "category": null
     }
