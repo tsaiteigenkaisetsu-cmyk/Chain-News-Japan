@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T10:21:31.737Z",
+  "updated_at": "2026-04-10T10:31:39.306Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
+      "news_count_24h": 123,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 13,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 100,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
-      "buzz_rank": 6
+      "news_count_24h": 7,
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
+      "news_count_24h": 5,
+      "hype_score": 80,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 68,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -205,8 +205,8 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 32,
+      "word": "STABLECOIN",
+      "count": 31,
       "category": null
     },
     {
@@ -215,8 +215,8 @@
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
-      "count": 30,
+      "word": "CEASEFIRE",
+      "count": 31,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "RALLY",
-      "count": 28,
+      "count": 27,
       "category": "相場"
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "WHAT",
       "count": 21,
       "category": null
@@ -262,6 +257,11 @@
     {
       "word": "TREASURY",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 20,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
       "count": 17,
       "category": null
@@ -332,6 +327,11 @@
     {
       "word": "HIT",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 14,
       "category": null
     }
   ],
