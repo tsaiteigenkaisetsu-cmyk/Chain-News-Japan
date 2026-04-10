@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T12:21:27.391Z",
+  "updated_at": "2026-04-10T12:31:40.296Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 113,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 100,
+      "news_count_24h": 6,
+      "hype_score": 117,
       "buzz_rank": 8
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 0,
+      "hype_score": 13,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 68,
+      "count": 69,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -206,17 +206,17 @@
     },
     {
       "word": "QUANTUM",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 30,
       "category": "相場"
     },
     {
       "word": "STABLECOIN",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
@@ -226,13 +226,8 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 27,
+      "count": 26,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 25,
-      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -243,6 +238,11 @@
       "word": "WHY",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 24,
+      "category": "相場"
     },
     {
       "word": "MORGAN",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TRADERS",
       "count": 15,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 14,
+      "word": "LAUNCHES",
+      "count": 15,
       "category": null
     }
   ],
