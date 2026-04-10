@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T20:51:27.487Z",
+  "updated_at": "2026-04-10T21:01:45.704Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 109,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 6,
+      "news_count_24h": 37,
+      "hype_score": 5,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 42,
-      "buzz_rank": 6
+      "hype_score": 50,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -50,11 +50,11 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 78,
-      "buzz_rank": 9
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 70,
       "category": "価格"
     },
     {
       "word": "ETF",
-      "count": 41,
+      "count": 40,
       "category": "ETF"
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "MILLION",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -220,7 +220,7 @@
       "category": null
     },
     {
-      "word": "FINANCIAL",
+      "word": "NEXT",
       "count": 23,
       "category": null
     },
@@ -235,7 +235,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "FINANCIAL",
       "count": 22,
       "category": null
     },
@@ -260,27 +260,22 @@
       "category": null
     },
     {
+      "word": "HOW",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "INFLATION",
       "count": 18,
       "category": null
     },
     {
-      "word": "HOW",
+      "word": "DATA",
       "count": 17,
       "category": null
     },
     {
       "word": "KEY",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 17,
       "category": null
     },
@@ -295,17 +290,12 @@
       "category": null
     },
     {
-      "word": "MORGAN",
-      "count": 17,
+      "word": "CAPITAL",
+      "count": 16,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 17,
-      "category": "規制"
-    },
-    {
-      "word": "DATA",
+      "word": "RISK",
       "count": 16,
       "category": null
     },
@@ -315,12 +305,17 @@
       "category": null
     },
     {
+      "word": "MORGAN",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "TRADERS",
       "count": 16,
       "category": null
     },
     {
-      "word": "CAPITAL",
+      "word": "AMID",
       "count": 15,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "TRUMP",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
     }
   ],
   "stats": {
