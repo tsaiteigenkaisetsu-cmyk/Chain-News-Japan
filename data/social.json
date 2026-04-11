@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T23:01:36.346Z",
+  "updated_at": "2026-04-11T23:11:21.057Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
+      "news_count_24h": 56,
       "hype_score": 16,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
-      "hype_score": 29,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 20,
+      "hype_score": 10,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 13
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 63,
       "category": "価格"
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 16,
-      "category": "相場"
-    },
-    {
       "word": "CLARITY",
       "count": 16,
       "category": null
@@ -278,6 +273,11 @@
       "word": "WORLD",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 15,
+      "category": "相場"
     },
     {
       "word": "ETF",
