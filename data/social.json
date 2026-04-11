@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T21:31:29.296Z",
+  "updated_at": "2026-04-11T21:41:25.647Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
-      "hype_score": 14,
+      "news_count_24h": 60,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 63,
       "category": "価格"
     },
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
-    },
-    {
       "word": "TRADING",
       "count": 17,
       "category": null
@@ -273,6 +268,11 @@
       "word": "RALLY",
       "count": 16,
       "category": "相場"
+    },
+    {
+      "word": "ETF",
+      "count": 16,
+      "category": "ETF"
     },
     {
       "word": "CLARITY",
