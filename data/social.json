@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T22:11:26.562Z",
+  "updated_at": "2026-04-12T22:17:21.459Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
+      "news_count_24h": 53,
       "hype_score": 17,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 31,
+      "hype_score": 46,
       "buzz_rank": 3
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 15,
+      "word": "WAR",
+      "count": 16,
       "category": null
     },
     {
-      "word": "WAR",
+      "word": "TRUMP",
       "count": 15,
       "category": null
     },
@@ -227,6 +227,11 @@
     {
       "word": "DATA",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 12,
       "category": null
     },
     {
@@ -248,11 +253,6 @@
       "word": "ETF",
       "count": 11,
       "category": "ETF"
-    },
-    {
-      "word": "MARKETS",
-      "count": 11,
-      "category": null
     },
     {
       "word": "WHAT",
@@ -285,7 +285,7 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "ANALYST",
       "count": 10,
       "category": null
     },
@@ -315,7 +315,12 @@
       "category": null
     },
     {
-      "word": "ANALYST",
+      "word": "DEFI",
+      "count": 9,
+      "category": "DeFi"
+    },
+    {
+      "word": "OIL",
       "count": 9,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "INTEREST",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "PUBLIC",
       "count": 9,
       "category": null
     }
