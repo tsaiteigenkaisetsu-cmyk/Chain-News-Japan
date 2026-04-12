@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T10:51:27.017Z",
+  "updated_at": "2026-04-12T10:59:44.215Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 10
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 7
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 51,
       "category": "価格"
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 18,
       "category": null
@@ -245,7 +240,7 @@
       "category": null
     },
     {
-      "word": "FINANCIAL",
+      "word": "CLARITY",
       "count": 17,
       "category": null
     },
@@ -265,18 +260,23 @@
       "category": null
     },
     {
+      "word": "FINANCIAL",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "RISKS",
       "count": 16,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "INFLATION",
       "count": 15,
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 15,
+      "word": "MILLION",
+      "count": 14,
       "category": null
     },
     {
@@ -300,23 +300,8 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "BIG",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 12,
       "category": null
     },
     {
@@ -325,7 +310,22 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "AMID",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WORLD",
       "count": 12,
       "category": null
     },
