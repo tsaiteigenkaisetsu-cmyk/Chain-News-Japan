@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T22:01:51.725Z",
+  "updated_at": "2026-04-12T22:11:26.562Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
-      "hype_score": 18,
+      "news_count_24h": 52,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 33,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 35,
+      "count": 36,
       "category": "価格"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 11,
+      "category": "ETF"
+    },
+    {
       "word": "MARKETS",
       "count": 11,
       "category": null
@@ -270,6 +275,11 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 10,
+      "category": "相場"
+    },
+    {
       "word": "WORLD",
       "count": 10,
       "category": null
@@ -283,11 +293,6 @@
       "word": "HYPERLIQUID",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
     },
     {
       "word": "BREAKOUT",
@@ -310,11 +315,6 @@
       "category": null
     },
     {
-      "word": "SHOW",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "ANALYST",
       "count": 9,
       "category": null
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SHOWS",
+      "word": "INTEREST",
       "count": 9,
       "category": null
     },
     {
-      "word": "INTEREST",
+      "word": "PUBLIC",
       "count": 9,
       "category": null
     }
