@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T21:51:33.367Z",
+  "updated_at": "2026-04-12T22:01:51.725Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,18 +7,18 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
-      "hype_score": 17,
+      "news_count_24h": 51,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
-      "buzz_rank": 2
+      "news_count_24h": 12,
+      "hype_score": 33,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 267,
+      "hype_score": 200,
       "buzz_rank": 6
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 35,
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
+    },
+    {
       "word": "IRAN",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -206,7 +206,12 @@
     },
     {
       "word": "PODCAST",
-      "count": 18,
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 15,
       "category": null
     },
     {
@@ -215,13 +220,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "NEXT",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
@@ -270,6 +270,16 @@
       "category": null
     },
     {
+      "word": "WORLD",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
       "count": 10,
       "category": null
@@ -295,11 +305,6 @@
       "category": null
     },
     {
-      "word": "INNOVATION",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "DRIVES",
       "count": 10,
       "category": null
@@ -321,11 +326,6 @@
     },
     {
       "word": "SHOWS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 9,
       "category": null
     },
