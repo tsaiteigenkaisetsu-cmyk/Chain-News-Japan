@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T18:02:26.833Z",
+  "updated_at": "2026-04-12T18:11:31.957Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
+      "news_count_24h": 51,
       "hype_score": 22,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 267,
+      "hype_score": 300,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -196,42 +196,17 @@
     },
     {
       "word": "PODCAST",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 23,
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 20,
+      "word": "WHY",
+      "count": 21,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "CAPITAL",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HOW",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "SHOW",
-      "count": 17,
       "category": null
     },
     {
@@ -240,37 +215,37 @@
       "category": null
     },
     {
-      "word": "FINANCIAL",
+      "word": "DATA",
       "count": 16,
       "category": null
     },
     {
-      "word": "INNOVATION",
+      "word": "HOW",
       "count": 16,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "CAPITAL",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "KEY",
       "count": 15,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 14,
+      "word": "INNOVATION",
+      "count": 15,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 14,
+      "word": "SHOW",
+      "count": 15,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TECHNOLOGY",
+      "word": "FINANCIAL",
       "count": 14,
       "category": null
     },
@@ -280,7 +255,7 @@
       "category": null
     },
     {
-      "word": "SIGNALS",
+      "word": "MARKETS",
       "count": 13,
       "category": null
     },
@@ -290,48 +265,73 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "TRUMP",
       "count": 13,
       "category": null
     },
     {
-      "word": "CRITICAL",
-      "count": 13,
+      "word": "SIGNALS",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 12,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
       "word": "WAR",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "PUBLIC",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "RISKS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "IMPACT",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BIG",
       "count": 12,
       "category": null
     },
     {
       "word": "DRIVES",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "IMPORTANCE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "TECH",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 11,
+      "category": "ETF"
+    },
+    {
+      "word": "WHAT",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "PUBLIC",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 11,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 18,
-    "reddit_reused_previous": 2,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
