@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T15:31:25.503Z",
+  "updated_at": "2026-04-12T15:41:31.191Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 46,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
     },
     {
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 15,
+      "word": "OIL",
+      "count": 14,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "TRUMP",
       "count": 14,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "CRITICAL",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WAR",
       "count": 13,
       "category": null
@@ -295,27 +300,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "CRITICAL",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "BILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 12,
       "category": null
     },
@@ -331,6 +321,16 @@
     },
     {
       "word": "DRIVES",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "MODELS",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "ESSENTIAL",
       "count": 12,
       "category": null
     }
