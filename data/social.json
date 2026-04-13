@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T09:11:37.033Z",
+  "updated_at": "2026-04-13T09:21:35.975Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
+      "news_count_24h": 74,
       "hype_score": 12,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 64,
+      "hype_score": 73,
       "buzz_rank": 3
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 250,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 9,
       "category": null
@@ -275,7 +280,7 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "OIL",
       "count": 8,
       "category": null
     },
@@ -308,11 +313,6 @@
       "word": "ANALYST",
       "count": 8,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 8,
-      "category": "DeFi"
     },
     {
       "word": "DATA",
