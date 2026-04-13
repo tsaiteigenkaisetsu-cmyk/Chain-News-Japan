@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T13:51:31.620Z",
+  "updated_at": "2026-04-13T14:01:50.270Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 90,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 150,
-      "buzz_rank": 9
+      "news_count_24h": 5,
+      "hype_score": 120,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 43,
+      "hype_score": 36,
       "buzz_rank": 4
     },
     {
@@ -149,19 +149,19 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -205,13 +205,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "WHY",
       "count": 20,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 19,
+      "word": "TRUMP",
+      "count": 20,
       "category": null
     },
     {
@@ -230,14 +230,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 14,
-      "category": "ETF"
-    },
-    {
       "word": "MILLION",
       "count": 14,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
     },
     {
       "word": "WLFI",
@@ -247,6 +247,11 @@
     {
       "word": "OIL",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 11,
       "category": null
     },
     {
@@ -267,16 +272,6 @@
     {
       "word": "SINCE",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 10,
       "category": null
     },
     {
@@ -305,11 +300,6 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "HOLDINGS",
       "count": 9,
       "category": null
@@ -330,8 +320,18 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "POLKADOT",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "SUPPLY",
+      "count": 8,
       "category": null
     }
   ],
