@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-13T13:31:48.530Z",
+  "updated_at": "2026-04-13T13:41:49.480Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 11,
+      "news_count_24h": 94,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 67,
+      "news_count_24h": 16,
+      "hype_score": 63,
       "buzz_rank": 3
     },
     {
@@ -240,6 +240,11 @@
       "category": "ETF"
     },
     {
+      "word": "WLFI",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 12,
       "category": null
@@ -251,11 +256,6 @@
     },
     {
       "word": "CEO",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WLFI",
       "count": 11,
       "category": null
     },
@@ -305,6 +305,16 @@
       "category": null
     },
     {
+      "word": "WORLD",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "ETHER",
       "count": 9,
       "category": null
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "SIGNAL",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "WHALES",
+      "word": "SUPPLY",
       "count": 8,
       "category": null
     }
