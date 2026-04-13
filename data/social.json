@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T06:51:29.054Z",
+  "updated_at": "2026-04-13T07:01:52.033Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 68,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -32,11 +32,11 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 5
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 30,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "ANALYST",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 9,
       "category": null
@@ -250,13 +255,13 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 9,
-      "category": "相場"
+      "word": "MILLION",
+      "count": 8,
+      "category": null
     },
     {
-      "word": "ANALYST",
-      "count": 9,
+      "word": "TOKEN",
+      "count": 8,
       "category": null
     },
     {
@@ -270,9 +275,9 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "RALLY",
       "count": 8,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "DATA",
@@ -287,6 +292,16 @@
     {
       "word": "ETHER",
       "count": 8,
+      "category": null
+    },
+    {
+      "word": "WHALES",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 7,
       "category": null
     },
     {
@@ -316,21 +331,6 @@
     },
     {
       "word": "HIT",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 7,
       "category": null
     }
