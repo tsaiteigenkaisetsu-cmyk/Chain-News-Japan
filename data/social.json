@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T04:31:41.583Z",
+  "updated_at": "2026-04-13T04:41:28.567Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 14,
-      "category": "ETF"
-    },
-    {
       "word": "WAR",
       "count": 14,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
     },
     {
       "word": "WHAT",
@@ -235,12 +235,17 @@
       "category": null
     },
     {
-      "word": "ANALYST",
+      "word": "RALLY",
+      "count": 9,
+      "category": "相場"
+    },
+    {
+      "word": "SUPPORT",
       "count": 9,
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "ANALYST",
       "count": 9,
       "category": null
     },
@@ -255,17 +260,7 @@
       "category": null
     },
     {
-      "word": "SUPPORT",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "BITWISE",
       "count": 8,
       "category": null
     },
@@ -273,11 +268,6 @@
       "word": "DEFI",
       "count": 8,
       "category": "DeFi"
-    },
-    {
-      "word": "RALLY",
-      "count": 8,
-      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -295,6 +285,11 @@
       "category": null
     },
     {
+      "word": "HYPERLIQUID",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "ETHER",
       "count": 8,
       "category": null
@@ -306,6 +301,11 @@
     },
     {
       "word": "SUPPLY",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BITWISE",
       "count": 7,
       "category": null
     },
