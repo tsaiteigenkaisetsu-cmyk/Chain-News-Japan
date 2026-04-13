@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T11:21:35.552Z",
+  "updated_at": "2026-04-13T11:31:38.476Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 80,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 82,
+      "news_count_24h": 12,
+      "hype_score": 75,
       "buzz_rank": 3
     },
     {
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 12,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 5
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
@@ -215,7 +215,22 @@
       "category": null
     },
     {
+      "word": "AAVE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WEEK",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "SINCE",
       "count": 12,
       "category": null
     },
@@ -225,21 +240,6 @@
       "category": "ETF"
     },
     {
-      "word": "AAVE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 11,
       "category": null
@@ -247,6 +247,26 @@
     {
       "word": "NEXT",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SIGNALS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "JUSTIN",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SUN",
+      "count": 10,
       "category": null
     },
     {
@@ -260,16 +280,6 @@
       "category": null
     },
     {
-      "word": "JUSTIN",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SUN",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 9,
       "category": null
@@ -280,13 +290,13 @@
       "category": null
     },
     {
-      "word": "SIGNALS",
-      "count": 9,
+      "word": "TOKEN",
+      "count": 8,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 9,
+      "word": "POLKADOT",
+      "count": 8,
       "category": null
     },
     {
@@ -295,7 +305,12 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "HORMUZ",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WORLD",
       "count": 8,
       "category": null
     },
@@ -310,28 +325,13 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 8,
-      "category": null
-    },
-    {
-      "word": "ETHER",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "SIGNAL",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "OPEN",
-      "count": 7,
       "category": null
     }
   ],
