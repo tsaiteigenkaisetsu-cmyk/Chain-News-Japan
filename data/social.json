@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T05:51:25.121Z",
+  "updated_at": "2026-04-13T06:02:07.098Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
-      "hype_score": 15,
+      "news_count_24h": 63,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 55,
+      "hype_score": 45,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 133,
+      "hype_score": 100,
       "buzz_rank": 5
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
@@ -99,16 +99,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 31,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "WHY",
-      "count": 17,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 15,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "WAR",
-      "count": 14,
       "category": null
     },
     {
@@ -226,16 +226,26 @@
     },
     {
       "word": "WHAT",
-      "count": 11,
+      "count": 10,
       "category": null
     },
     {
-      "word": "AAVE",
+      "word": "WLFI",
       "count": 9,
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 9,
+      "category": "DeFi"
+    },
+    {
       "word": "SIGNALS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "AAVE",
       "count": 9,
       "category": null
     },
@@ -250,17 +260,12 @@
       "category": null
     },
     {
-      "word": "BREAKOUT",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 8,
       "category": null
     },
     {
-      "word": "WLFI",
+      "word": "BILLION",
       "count": 8,
       "category": null
     },
@@ -280,12 +285,12 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "SIGNAL",
       "count": 8,
-      "category": "DeFi"
+      "category": null
     },
     {
-      "word": "SIGNAL",
+      "word": "BREAKOUT",
       "count": 8,
       "category": null
     },
@@ -295,7 +300,27 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "JUSTIN",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "SUN",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "HITS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "HIT",
       "count": 7,
       "category": null
     },
@@ -306,31 +331,6 @@
     },
     {
       "word": "WORLD",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "TOP",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SHIBA",
       "count": 7,
       "category": null
     }
