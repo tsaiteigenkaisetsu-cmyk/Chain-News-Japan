@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T22:56:55.567Z",
+  "updated_at": "2026-04-13T23:01:48.372Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 116,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 34,
+      "news_count_24h": 33,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 57,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 39,
       "category": "価格"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
+    },
+    {
       "word": "WAR",
       "count": 15,
       "category": null
@@ -268,11 +273,6 @@
       "word": "RISK",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 14,
-      "category": "ETF"
     },
     {
       "word": "CEO",
