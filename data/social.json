@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T16:11:42.793Z",
+  "updated_at": "2026-04-14T16:21:38.024Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
+      "news_count_24h": 130,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -86,19 +86,19 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 0,
+      "hype_score": 20,
       "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 0,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -240,14 +240,14 @@
       "category": "規制"
     },
     {
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
+    },
+    {
       "word": "AAVE",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
     },
     {
       "word": "RISK",
@@ -277,6 +277,11 @@
     {
       "word": "TRADING",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 16,
       "category": null
     },
     {
@@ -311,11 +316,6 @@
     },
     {
       "word": "WHAT",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 15,
       "category": null
     },
