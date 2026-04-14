@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T19:51:37.434Z",
+  "updated_at": "2026-04-14T20:02:05.153Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
+      "news_count_24h": 126,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 55,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 44,
+      "news_count_24h": 14,
+      "hype_score": 64,
       "buzz_rank": 4
     },
     {
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 75,
-      "buzz_rank": 6
+      "news_count_24h": 5,
+      "hype_score": 120,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 250,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 500,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 14
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 9
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 69,
       "category": "価格"
     },
     {
@@ -215,23 +215,23 @@
       "category": "相場"
     },
     {
-      "word": "STRATEGY",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 27,
       "category": "ETF"
     },
     {
-      "word": "IRAN",
+      "word": "KRAKEN",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 26,
       "category": null
     },
     {
-      "word": "KRAKEN",
-      "count": 26,
+      "word": "IRAN",
+      "count": 23,
       "category": null
     },
     {
@@ -315,6 +315,16 @@
       "category": null
     },
     {
+      "word": "EXCHANGE",
+      "count": 15,
+      "category": "取引所"
+    },
+    {
+      "word": "SECURITY",
+      "count": 15,
+      "category": "セキュリティ"
+    },
+    {
       "word": "HITS",
       "count": 15,
       "category": null
@@ -323,16 +333,6 @@
       "word": "HERE",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 14,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 14,
-      "category": "取引所"
     }
   ],
   "stats": {
