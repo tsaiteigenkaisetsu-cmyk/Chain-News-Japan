@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T14:11:31.897Z",
+  "updated_at": "2026-04-14T14:21:44.268Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
+      "news_count_24h": 123,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 36,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 167,
+      "hype_score": 200,
       "buzz_rank": 13
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 15
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 67,
+      "count": 68,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 41,
       "category": "相場"
     },
     {
       "word": "WHY",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "KRAKEN",
       "count": 24,
       "category": null
@@ -223,11 +228,6 @@
       "word": "SEC",
       "count": 23,
       "category": "規制"
-    },
-    {
-      "word": "IRAN",
-      "count": 23,
-      "category": null
     },
     {
       "word": "RALLY",
@@ -250,8 +250,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 17,
+      "word": "DATA",
+      "count": 16,
       "category": null
     },
     {
@@ -265,12 +265,17 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 16,
       "category": "ETF"
     },
     {
-      "word": "DATA",
+      "word": "PREDICTION",
       "count": 15,
       "category": null
     },
@@ -290,8 +295,8 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 15,
+      "word": "TOP",
+      "count": 14,
       "category": null
     },
     {
@@ -301,11 +306,6 @@
     },
     {
       "word": "AMID",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
       "count": 14,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "HORMUZ",
       "count": 14,
       "category": null
     },
     {
-      "word": "TOP",
+      "word": "SIGNALS",
       "count": 13,
       "category": null
     }
