@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T17:01:47.748Z",
+  "updated_at": "2026-04-14T17:11:40.939Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 183,
+      "hype_score": 200,
       "buzz_rank": 8
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 29,
       "buzz_rank": 7
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 20,
+      "hype_score": 0,
       "buzz_rank": 11
     },
     {
@@ -149,19 +149,19 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 18
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 25,
+      "category": "相場"
+    },
+    {
       "word": "IRAN",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 24,
-      "category": "相場"
     },
     {
       "word": "STRATEGY",
@@ -245,17 +245,17 @@
       "category": "規制"
     },
     {
+      "word": "RISK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "AAVE",
       "count": 20,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 19,
       "category": null
     },
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "EXCHANGE",
       "count": 14,
       "category": "取引所"
@@ -326,11 +331,6 @@
     },
     {
       "word": "HERE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "NEARS",
       "count": 14,
       "category": null
     }
