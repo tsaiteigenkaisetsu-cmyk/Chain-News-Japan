@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T18:12:19.693Z",
+  "updated_at": "2026-04-14T18:21:37.958Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 39,
+      "news_count_24h": 17,
+      "hype_score": 41,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 63,
+      "hype_score": 75,
       "buzz_rank": 6
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 18,
       "category": null
@@ -281,11 +286,6 @@
     },
     {
       "word": "HOLDINGS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 15,
-    "reddit_reused_previous": 5,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
