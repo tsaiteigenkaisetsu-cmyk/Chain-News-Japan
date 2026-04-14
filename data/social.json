@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T21:41:34.937Z",
+  "updated_at": "2026-04-14T21:51:27.721Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
+      "news_count_24h": 130,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 59,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 16
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 69,
       "category": "価格"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "ETF",
-      "count": 29,
+      "count": 28,
       "category": "ETF"
     },
     {
@@ -230,14 +230,19 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
+    },
+    {
       "word": "WEEK",
       "count": 22,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
+      "word": "DATA",
+      "count": 21,
+      "category": null
     },
     {
       "word": "IRAN",
@@ -246,11 +251,6 @@
     },
     {
       "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 20,
       "category": null
     },
@@ -315,12 +315,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "HERE",
       "count": 16,
       "category": null
     },
     {
-      "word": "TOP",
+      "word": "TRUMP",
       "count": 16,
       "category": null
     },
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "HERE",
+      "word": "SECURITY",
       "count": 15,
-      "category": null
+      "category": "セキュリティ"
     }
   ],
   "stats": {
