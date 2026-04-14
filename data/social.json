@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T04:31:43.718Z",
+  "updated_at": "2026-04-14T04:41:36.288Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
+      "news_count_24h": 123,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -225,14 +225,14 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 19,
+      "category": "規制"
+    },
+    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
-    },
-    {
-      "word": "SEC",
-      "count": 18,
-      "category": "規制"
     },
     {
       "word": "WEEK",
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 11,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "WORLD",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "KRAKEN",
       "count": 11,
       "category": null
     }
