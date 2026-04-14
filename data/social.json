@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T11:51:33.195Z",
+  "updated_at": "2026-04-14T12:01:51.914Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 135,
+      "news_count_24h": 134,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
-      "hype_score": 13,
+      "news_count_24h": 54,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 33,
+      "hype_score": 47,
       "buzz_rank": 5
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 59,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 37,
       "category": "相場"
     },
     {
@@ -205,13 +205,13 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 26,
+      "word": "IRAN",
+      "count": 25,
       "category": null
     },
     {
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "KRAKEN",
       "count": 21,
       "category": null
     },
@@ -240,19 +240,19 @@
       "category": null
     },
     {
-      "word": "KRAKEN",
+      "word": "TRUMP",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
     },
     {
       "word": "RISK",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
     },
     {
       "word": "ETF",
@@ -265,17 +265,12 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "MARKETS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WAR",
       "count": 15,
       "category": null
     },
@@ -290,11 +285,6 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 14,
       "category": null
@@ -305,7 +295,17 @@
       "category": null
     },
     {
+      "word": "KEY",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "SAYLOR",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WAR",
       "count": 14,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "BOTTOM",
       "count": 13,
       "category": null
     },
     {
-      "word": "MICHAEL",
+      "word": "PREDICTION",
       "count": 13,
       "category": null
     }
