@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T18:01:47.876Z",
+  "updated_at": "2026-04-14T18:12:19.693Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 125,
+      "news_count_24h": 126,
       "hype_score": 10,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 13,
+      "news_count_24h": 56,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 12
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -196,7 +196,7 @@
     },
     {
       "word": "WHY",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "RALLY",
-      "count": 27,
+      "count": 28,
       "category": "相場"
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 14,
       "category": null
@@ -328,11 +333,6 @@
       "word": "NEARS",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "ABOVE",
-      "count": 14,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 15,
+    "reddit_reused_previous": 5,
     "reddit_mode": "rss"
   }
 }
