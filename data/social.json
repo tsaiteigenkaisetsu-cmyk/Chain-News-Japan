@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:06:40.444Z",
+  "updated_at": "2026-04-14T22:11:36.456Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 15,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 16,
+      "category": "セキュリティ"
+    },
+    {
       "word": "EXCHANGE",
       "count": 16,
       "category": "取引所"
@@ -326,11 +331,6 @@
     },
     {
       "word": "APP",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
       "count": 15,
       "category": null
     }
