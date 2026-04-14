@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T11:41:39.498Z",
+  "updated_at": "2026-04-14T11:46:59.195Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 135,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
+      "news_count_24h": 53,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 58,
+      "count": 59,
       "category": "価格"
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
+    },
+    {
       "word": "TRUMP",
       "count": 22,
       "category": null
@@ -230,13 +235,13 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
       "word": "AAVE",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "KRAKEN",
+      "count": 19,
       "category": null
     },
     {
@@ -245,19 +250,14 @@
       "category": null
     },
     {
-      "word": "KRAKEN",
+      "word": "RALLY",
       "count": 18,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "ETF",
       "count": 18,
       "category": "ETF"
-    },
-    {
-      "word": "RALLY",
-      "count": 17,
-      "category": "相場"
     },
     {
       "word": "HORMUZ",
@@ -290,6 +290,16 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "BUY",
       "count": 14,
       "category": null
@@ -315,22 +325,12 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "MICHAEL",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "HERE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 13,
       "category": null
     }
