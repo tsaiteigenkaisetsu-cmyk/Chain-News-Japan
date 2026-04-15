@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T16:21:37.759Z",
+  "updated_at": "2026-04-15T16:31:41.516Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 59,
+      "news_count_24h": 58,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 56,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 69,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 42,
       "category": "相場"
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 34,
-      "category": "相場"
-    },
-    {
       "word": "WHY",
       "count": 33,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 33,
+      "category": "相場"
     },
     {
       "word": "KRAKEN",
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "TOP",
       "count": 15,
       "category": null
@@ -333,6 +328,11 @@
       "word": "DEFI",
       "count": 15,
       "category": "DeFi"
+    },
+    {
+      "word": "ETHER",
+      "count": 15,
+      "category": null
     }
   ],
   "stats": {
