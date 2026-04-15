@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T02:31:44.496Z",
+  "updated_at": "2026-04-15T02:41:30.875Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 133,
-      "hype_score": 10,
+      "news_count_24h": 131,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 57,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 72,
+      "count": 71,
       "category": "価格"
     },
     {
@@ -230,18 +230,23 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 24,
       "category": "規制"
     },
     {
-      "word": "DATA",
-      "count": 23,
+      "word": "WEEK",
+      "count": 22,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 22,
+      "word": "TRADING",
+      "count": 21,
       "category": null
     },
     {
@@ -255,17 +260,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SINCE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 19,
       "category": null
     },
@@ -277,6 +272,16 @@
     {
       "word": "STABLECOIN",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 17,
       "category": null
     },
     {
@@ -322,11 +327,6 @@
     {
       "word": "BANK",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 16,
       "category": null
     },
     {
