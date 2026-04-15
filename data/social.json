@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T14:51:42.601Z",
+  "updated_at": "2026-04-15T15:01:49.595Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 112,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
-      "hype_score": 19,
+      "news_count_24h": 56,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
+    },
+    {
       "word": "WHY",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
     },
     {
       "word": "DATA",
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 27,
-      "category": "規制"
-    },
-    {
       "word": "LAUNCHES",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 26,
+      "category": "規制"
     },
     {
       "word": "BILLION",
@@ -241,17 +241,12 @@
     },
     {
       "word": "TRADING",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "HITS",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HERE",
-      "count": 19,
       "category": null
     },
     {
@@ -276,6 +271,11 @@
     },
     {
       "word": "SACHS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HERE",
       "count": 18,
       "category": null
     },
@@ -305,17 +305,7 @@
       "category": "DeFi"
     },
     {
-      "word": "STRATEGY",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "WALLET",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 16,
       "category": null
     },
@@ -325,12 +315,22 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TOP",
       "count": 15,
       "category": null
     },
     {
       "word": "AMID",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "ETHER",
       "count": 15,
       "category": null
     }
