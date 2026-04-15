@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T21:11:27.915Z",
+  "updated_at": "2026-04-15T21:21:44.170Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 114,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 70,
+      "count": 71,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 46,
+      "category": "相場"
     },
     {
       "word": "MILLION",
       "count": 45,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 45,
-      "category": "相場"
     },
     {
       "word": "RALLY",
@@ -231,7 +231,7 @@
     },
     {
       "word": "DATA",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 18,
       "category": null
@@ -272,11 +277,6 @@
     {
       "word": "NEXT",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 17,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
       "count": 17,
       "category": null
@@ -315,22 +310,27 @@
       "category": "取引所"
     },
     {
+      "word": "WHAT",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 16,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "AMID",
       "count": 16,
       "category": null
     },
     {
-      "word": "SECURITY",
+      "word": "MARKETS",
       "count": 16,
-      "category": "セキュリティ"
+      "category": null
     },
     {
-      "word": "ETHER",
+      "word": "STOCK",
       "count": 16,
       "category": null
     }
