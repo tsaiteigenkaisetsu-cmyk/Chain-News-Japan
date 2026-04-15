@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T12:31:51.184Z",
+  "updated_at": "2026-04-15T12:41:35.246Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
-      "hype_score": 8,
+      "news_count_24h": 115,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
-      "hype_score": 17,
+      "news_count_24h": 57,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 70,
+      "hype_score": 80,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 333,
+      "hype_score": 367,
       "buzz_rank": 10
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 100,
+      "news_count_24h": 5,
+      "hype_score": 80,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -200,6 +200,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "KRAKEN",
       "count": 34,
       "category": null
@@ -210,14 +215,14 @@
       "category": "相場"
     },
     {
-      "word": "WHY",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 31,
       "category": "ETF"
+    },
+    {
+      "word": "BILLION",
+      "count": 28,
+      "category": null
     },
     {
       "word": "SEC",
@@ -226,11 +231,6 @@
     },
     {
       "word": "DATA",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 27,
       "category": null
     },
