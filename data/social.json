@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-15T09:21:38.213Z",
+  "updated_at": "2026-04-15T09:31:32.029Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
-      "hype_score": 9,
+      "news_count_24h": 123,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
-      "hype_score": 16,
+      "news_count_24h": 59,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 70,
+      "news_count_24h": 9,
+      "hype_score": 78,
       "buzz_rank": 4
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 67,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 5
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 66,
+      "count": 67,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "RALLY",
-      "count": 34,
+      "count": 33,
       "category": "相場"
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "BILLION",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 28,
+      "count": 30,
       "category": "ETF"
     },
     {
@@ -241,17 +241,12 @@
     },
     {
       "word": "TRADING",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 19,
       "category": null
     },
     {
@@ -262,6 +257,16 @@
     {
       "word": "HERE",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 18,
       "category": null
     },
     {
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "PREDICTION",
       "count": 17,
       "category": null
     },
@@ -315,23 +320,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "GOLDMAN",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SACHS",
       "count": 16,
       "category": null
     },
     {
       "word": "MARKETS",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "BREAKOUT",
-      "count": 15,
       "category": null
     }
   ],
