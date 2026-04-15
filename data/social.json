@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T12:02:05.294Z",
+  "updated_at": "2026-04-15T12:11:32.560Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 57,
-      "hype_score": 19,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 31,
       "category": "ETF"
+    },
+    {
+      "word": "BILLION",
+      "count": 29,
+      "category": null
     },
     {
       "word": "SEC",
@@ -235,18 +235,18 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TRADING",
       "count": 23,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
+      "word": "STRATEGY",
+      "count": 22,
       "category": null
     },
     {
@@ -257,11 +257,6 @@
     {
       "word": "STABLECOIN",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HOLDINGS",
-      "count": 19,
       "category": null
     },
     {
@@ -280,9 +275,9 @@
       "category": null
     },
     {
-      "word": "SECURITY",
+      "word": "HOLDINGS",
       "count": 18,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "IRAN",
@@ -293,6 +288,11 @@
       "word": "CEO",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 17,
+      "category": "セキュリティ"
     },
     {
       "word": "GOLDMAN",
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "TOP",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "BREAKOUT",
       "count": 16,
       "category": null
@@ -328,11 +333,6 @@
       "word": "MARKETS",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "BITMINE",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
