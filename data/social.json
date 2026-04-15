@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T16:31:41.516Z",
+  "updated_at": "2026-04-15T16:41:34.293Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 113,
+      "news_count_24h": 112,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 57,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
-      "buzz_rank": 4
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 22,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 34,
+      "category": "相場"
+    },
+    {
       "word": "WHY",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 33,
-      "category": "相場"
     },
     {
       "word": "KRAKEN",
@@ -250,22 +250,27 @@
       "category": null
     },
     {
+      "word": "GOLDMAN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "SACHS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "HERE",
       "count": 19,
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 18,
+      "category": "セキュリティ"
+    },
+    {
       "word": "TRADING",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "GOLDMAN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SACHS",
       "count": 18,
       "category": null
     },
@@ -288,11 +293,6 @@
       "word": "MARKETS",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 17,
-      "category": "セキュリティ"
     },
     {
       "word": "CEO",
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TOP",
       "count": 15,
       "category": null
@@ -328,11 +333,6 @@
       "word": "DEFI",
       "count": 15,
       "category": "DeFi"
-    },
-    {
-      "word": "ETHER",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
