@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T16:01:49.125Z",
+  "updated_at": "2026-04-15T16:11:26.897Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 59,
-      "hype_score": 20,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 56,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 600,
+      "hype_score": 550,
       "buzz_rank": 11
     },
     {
@@ -77,29 +77,29 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
+      "hype_score": 75,
       "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 33,
-      "buzz_rank": 4
+      "hype_score": 22,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -205,13 +205,13 @@
       "category": "相場"
     },
     {
-      "word": "KRAKEN",
+      "word": "WHY",
       "count": 33,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 32,
+      "word": "KRAKEN",
+      "count": 33,
       "category": null
     },
     {
@@ -221,12 +221,7 @@
     },
     {
       "word": "DATA",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 25,
+      "count": 28,
       "category": null
     },
     {
@@ -241,6 +236,11 @@
     },
     {
       "word": "IRAN",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 24,
       "category": null
     },
@@ -275,6 +275,11 @@
       "category": "取引所"
     },
     {
+      "word": "BREAKOUT",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 17,
       "category": null
@@ -288,6 +293,11 @@
       "word": "SECURITY",
       "count": 17,
       "category": "セキュリティ"
+    },
+    {
+      "word": "CEO",
+      "count": 16,
+      "category": null
     },
     {
       "word": "QUANTUM",
@@ -310,29 +320,19 @@
       "category": null
     },
     {
-      "word": "BREAKOUT",
+      "word": "STABLECOIN",
       "count": 16,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 16,
+      "word": "TOP",
+      "count": 15,
       "category": null
     },
     {
       "word": "DEFI",
       "count": 15,
       "category": "DeFi"
-    },
-    {
-      "word": "ETHER",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
