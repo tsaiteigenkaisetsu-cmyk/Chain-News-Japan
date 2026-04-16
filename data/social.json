@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T15:21:42.786Z",
+  "updated_at": "2026-04-16T15:31:48.132Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 179,
+      "news_count_24h": 178,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
+      "news_count_24h": 71,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 20,
+      "hype_score": 17,
       "buzz_rank": 4
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 164,
+      "count": 165,
       "category": null
     },
     {
@@ -205,18 +205,18 @@
       "category": "相場"
     },
     {
+      "word": "TALKS",
+      "count": 47,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 47,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "CEASEFIRE",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -225,28 +225,28 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 38,
-      "category": "ETF"
-    },
-    {
       "word": "RALLY",
       "count": 38,
       "category": "相場"
     },
     {
+      "word": "ETF",
+      "count": 35,
+      "category": "ETF"
+    },
+    {
       "word": "MILLION",
-      "count": 36,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 34,
       "category": null
     },
     {
       "word": "CONFLICT",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 33,
       "category": null
     },
     {
@@ -260,18 +260,18 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 31,
+      "word": "BLOCKADE",
+      "count": 32,
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 31,
+      "word": "LAUNCHES",
+      "count": 32,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -285,17 +285,27 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "TETHER",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
@@ -307,16 +317,6 @@
     {
       "word": "NEXT",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TETHER",
-      "count": 24,
       "category": null
     },
     {
