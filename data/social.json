@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T19:21:43.876Z",
+  "updated_at": "2026-04-16T19:31:37.953Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 73,
-      "hype_score": 8,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 117,
+      "hype_score": 150,
       "buzz_rank": 11
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 16
     },
     {
@@ -158,19 +158,19 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 19
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 220,
+      "count": 221,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 146,
+      "count": 148,
       "category": null
     },
     {
@@ -200,18 +200,18 @@
       "category": "価格"
     },
     {
-      "word": "TRUMP",
-      "count": 69,
+      "word": "CEASEFIRE",
+      "count": 70,
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 68,
+      "word": "TRUMP",
+      "count": 70,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
@@ -231,12 +231,17 @@
     },
     {
       "word": "LEBANON",
-      "count": 50,
+      "count": 52,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 48,
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 45,
       "category": null
     },
     {
@@ -245,13 +250,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "MILLION",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
@@ -281,18 +281,13 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "TETHER",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
     },
     {
       "word": "HITS",
@@ -308,6 +303,11 @@
       "word": "TRADING",
       "count": 29,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 28,
+      "category": "ETF"
     },
     {
       "word": "MILITARY",
