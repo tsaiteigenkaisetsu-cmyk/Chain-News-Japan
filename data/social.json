@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T13:21:35.453Z",
+  "updated_at": "2026-04-16T13:31:43.416Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 171,
+      "news_count_24h": 169,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 60,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -34,26 +34,26 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 15,
+      "news_count_24h": 29,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 125,
+      "hype_score": 0,
       "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 67,
+      "hype_score": 58,
       "buzz_rank": 6
     },
     {
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 10,
+      "hype_score": 0,
       "buzz_rank": 8
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 137,
+      "count": 142,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 102,
+      "count": 105,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "TALKS",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
@@ -230,18 +230,23 @@
       "category": "ETF"
     },
     {
+      "word": "CEASEFIRE",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 34,
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 33,
+      "word": "QUANTUM",
+      "count": 32,
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 32,
+      "word": "CONFLICT",
+      "count": 30,
       "category": null
     },
     {
@@ -255,23 +260,23 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "ISRAEL",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
@@ -285,27 +290,27 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 24,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "LEBANON",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "BLOCKADE",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "TETHER",
       "count": 21,
       "category": null
     },
@@ -320,17 +325,12 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "SUPPLY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 20,
       "category": null
     }
