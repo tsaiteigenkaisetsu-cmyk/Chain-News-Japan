@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T13:11:36.250Z",
+  "updated_at": "2026-04-16T13:21:35.453Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
-      "hype_score": 4,
+      "news_count_24h": 58,
+      "hype_score": 3,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 67,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 22,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 9
+      "news_count_24h": 10,
+      "hype_score": 10,
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 132,
+      "count": 137,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 98,
+      "count": 102,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 81,
+      "count": 82,
       "category": "価格"
     },
     {
@@ -206,7 +206,12 @@
     },
     {
       "word": "TENSIONS",
-      "count": 40,
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 39,
       "category": null
     },
     {
@@ -217,11 +222,6 @@
     {
       "word": "TRUMP",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 37,
       "category": null
     },
     {
@@ -241,7 +241,12 @@
     },
     {
       "word": "QUANTUM",
-      "count": 31,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 30,
       "category": null
     },
     {
@@ -251,11 +256,6 @@
     },
     {
       "word": "CONFLICT",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 29,
       "category": null
     },
@@ -275,12 +275,17 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 25,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "OIL",
       "count": 24,
       "category": null
     },
@@ -290,17 +295,12 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 23,
+      "word": "LEBANON",
+      "count": 22,
       "category": null
     },
     {
       "word": "BLOCKADE",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "LEBANON",
       "count": 21,
       "category": null
     },
