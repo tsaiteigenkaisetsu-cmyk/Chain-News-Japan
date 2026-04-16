@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T18:21:35.375Z",
+  "updated_at": "2026-04-16T18:31:44.083Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 74,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
+      "news_count_24h": 2,
+      "hype_score": 0,
       "buzz_rank": 16
     },
     {
@@ -122,11 +122,11 @@
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 12
+      "hype_score": 0,
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 210,
+      "count": 214,
       "category": null
     },
     {
@@ -206,8 +206,13 @@
     },
     {
       "word": "TALKS",
-      "count": 62,
+      "count": 63,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 59,
+      "category": "相場"
     },
     {
       "word": "TENSIONS",
@@ -215,13 +220,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 58,
-      "category": "相場"
-    },
-    {
       "word": "TRUMP",
-      "count": 53,
+      "count": 58,
       "category": null
     },
     {
@@ -236,12 +236,17 @@
     },
     {
       "word": "HORMUZ",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "BLOCKADE",
       "count": 43,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 41,
       "category": null
     },
     {
@@ -255,9 +260,9 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 36,
-      "category": null
+      "word": "RALLY",
+      "count": 35,
+      "category": "相場"
     },
     {
       "word": "QUANTUM",
@@ -265,9 +270,9 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 34,
-      "category": "相場"
+      "word": "DEAL",
+      "count": 33,
+      "category": null
     },
     {
       "word": "STRAIT",
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 29,
       "category": null
@@ -321,16 +321,16 @@
     },
     {
       "word": "BILLION",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "WARNS",
       "count": 25,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WHY",
       "count": 25,
       "category": null
     }
