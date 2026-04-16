@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T00:11:48.619Z",
+  "updated_at": "2026-04-16T00:21:41.222Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 116,
+      "news_count_24h": 117,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,26 +25,26 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 6,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 44,
+      "hype_score": 56,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 260,
+      "hype_score": 240,
       "buzz_rank": 9
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 74,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 48,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "RALLY",
-      "count": 39,
+      "count": 37,
       "category": "相場"
     },
     {
@@ -220,13 +220,13 @@
       "category": "ETF"
     },
     {
-      "word": "BILLION",
+      "word": "AMID",
       "count": 26,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 25,
+      "word": "BILLION",
+      "count": 26,
       "category": null
     },
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "ETHER",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TOP",
       "count": 18,
       "category": null
@@ -315,6 +310,21 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "ETHER",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "DIGITAL",
       "count": 16,
       "category": null
@@ -323,16 +333,6 @@
       "word": "EXCHANGE",
       "count": 16,
       "category": "取引所"
-    },
-    {
-      "word": "STRATEGY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
