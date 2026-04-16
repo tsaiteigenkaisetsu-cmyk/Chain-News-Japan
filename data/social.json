@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T19:41:36.131Z",
+  "updated_at": "2026-04-16T19:51:33.175Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 197,
+      "news_count_24h": 196,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
-      "hype_score": 9,
+      "news_count_24h": 71,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 20,
+      "hype_score": 30,
       "buzz_rank": 7
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 223,
+      "count": 224,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 151,
+      "count": 152,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 82,
+      "count": 81,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "CONFLICT",
       "count": 37,
       "category": null
@@ -265,11 +270,6 @@
       "category": "相場"
     },
     {
-      "word": "DEAL",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
       "count": 35,
       "category": null
@@ -277,6 +277,11 @@
     {
       "word": "STRAIT",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 31,
       "category": null
     },
     {
@@ -291,11 +296,6 @@
     },
     {
       "word": "TRADING",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 30,
       "category": null
     },
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "APRIL",
       "count": 26,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 25,
+      "word": "BILLION",
+      "count": 26,
       "category": null
     }
   ],
