@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T11:21:31.791Z",
+  "updated_at": "2026-04-16T11:31:40.400Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 162,
+      "news_count_24h": 165,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 143,
-      "buzz_rank": 10
+      "news_count_24h": 8,
+      "hype_score": 125,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -135,14 +135,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 101,
+      "count": 103,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 83,
+      "count": 87,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 80,
+      "count": 79,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "ETF",
-      "count": 35,
+      "count": 36,
       "category": "ETF"
     },
     {
@@ -225,18 +225,18 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 33,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "TALKS",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "CONFLICT",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 26,
       "category": null
@@ -260,18 +265,13 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 25,
+      "word": "CEASEFIRE",
+      "count": 24,
       "category": null
     },
     {
       "word": "WHY",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "CEASEFIRE",
-      "count": 23,
       "category": null
     },
     {
@@ -282,11 +282,6 @@
     {
       "word": "OIL",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 21,
       "category": null
     },
     {
@@ -315,6 +310,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TETHER",
       "count": 20,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "PREDICTION",
       "count": 19,
       "category": null
     }
