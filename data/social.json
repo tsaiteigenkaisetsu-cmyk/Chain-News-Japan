@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T17:21:29.537Z",
+  "updated_at": "2026-04-16T17:31:43.762Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 187,
+      "news_count_24h": 186,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 5,
+      "news_count_24h": 73,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 6,
+      "news_count_24h": 30,
+      "hype_score": 7,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 5
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,18 +186,23 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 189,
+      "count": 193,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 132,
+      "count": 133,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 77,
       "category": "価格"
+    },
+    {
+      "word": "CEASEFIRE",
+      "count": 57,
+      "category": null
     },
     {
       "word": "TALKS",
@@ -210,18 +215,13 @@
       "category": "相場"
     },
     {
-      "word": "CEASEFIRE",
-      "count": 55,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 51,
+      "count": 54,
       "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 45,
+      "count": 47,
       "category": null
     },
     {
@@ -230,28 +230,33 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 40,
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "LEBANON",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 36,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 36,
+      "count": 35,
       "category": "相場"
     },
     {
@@ -265,18 +270,18 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 33,
+      "word": "HITS",
+      "count": 32,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 32,
+      "count": 31,
       "category": "ETF"
     },
     {
-      "word": "HITS",
-      "count": 31,
+      "word": "STRAIT",
+      "count": 30,
       "category": null
     },
     {
@@ -290,17 +295,17 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 29,
+      "word": "TRADING",
+      "count": 28,
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "NEXT",
       "count": 27,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "MILITARY",
       "count": 27,
       "category": null
     },
@@ -310,18 +315,13 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 25,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "APRIL",
       "count": 24,
       "category": null
     }
