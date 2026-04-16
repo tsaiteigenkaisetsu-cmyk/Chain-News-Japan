@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T05:11:37.853Z",
+  "updated_at": "2026-04-16T05:21:35.283Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 133,
-      "hype_score": 6,
+      "news_count_24h": 137,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 59,
-      "hype_score": 8,
+      "news_count_24h": 58,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 24,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 11,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -191,17 +191,17 @@
     },
     {
       "word": "IRAN",
-      "count": 66,
+      "count": 68,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 51,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 46,
+      "count": 47,
       "category": "相場"
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "word": "HITS",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -260,8 +260,8 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 21,
+      "word": "TENSIONS",
+      "count": 20,
       "category": null
     },
     {
@@ -270,12 +270,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "ABOVE",
       "count": 20,
       "category": null
     },
     {
-      "word": "ABOVE",
+      "word": "MARKETS",
       "count": 20,
       "category": null
     },
@@ -295,7 +295,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TRADING",
       "count": 19,
       "category": null
     },
@@ -305,7 +305,7 @@
       "category": null
     },
     {
-      "word": "KEY",
+      "word": "STOCK",
       "count": 18,
       "category": null
     },
@@ -315,17 +315,17 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 17,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "PUSH",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 14,
-    "reddit_reused_previous": 6,
+    "reddit_rss_success": 18,
+    "reddit_reused_previous": 2,
     "reddit_mode": "rss"
   }
 }
