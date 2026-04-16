@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-16T13:31:43.416Z",
+  "updated_at": "2026-04-16T13:41:42.709Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 169,
-      "hype_score": 5,
+      "news_count_24h": 170,
+      "hype_score": 4,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
+      "news_count_24h": 61,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 142,
+      "count": 144,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 82,
+      "count": 81,
       "category": "価格"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "TALKS",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -230,13 +230,13 @@
       "category": "ETF"
     },
     {
-      "word": "CEASEFIRE",
-      "count": 34,
+      "word": "MILLION",
+      "count": 36,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 34,
+      "word": "CEASEFIRE",
+      "count": 35,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "ISRAEL",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -275,18 +275,28 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "HORMUZ",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
       "count": 25,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "WHY",
       "count": 25,
       "category": null
     },
     {
       "word": "NEXT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
+      "count": 24,
       "category": null
     },
     {
@@ -300,17 +310,12 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
+      "word": "TETHER",
       "count": 22,
       "category": null
     },
     {
-      "word": "TETHER",
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
+      "word": "STRAIT",
       "count": 20,
       "category": null
     }
