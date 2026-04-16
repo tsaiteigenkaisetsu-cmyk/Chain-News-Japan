@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:51:30.141Z",
+  "updated_at": "2026-04-16T22:01:52.858Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 199,
+      "news_count_24h": 197,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 67,
-      "hype_score": 10,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 100,
+      "hype_score": 86,
       "buzz_rank": 11
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
-      "buzz_rank": 8
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 235,
+      "count": 236,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 160,
+      "count": 162,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "TALKS",
-      "count": 72,
+      "count": 73,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 61,
+      "category": "相場"
+    },
+    {
       "word": "LEBANON",
       "count": 60,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 60,
-      "category": "相場"
     },
     {
       "word": "ISRAEL",
@@ -256,7 +256,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": "ETF"
     },
     {
-      "word": "TETHER",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "MILITARY",
       "count": 29,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TETHER",
       "count": 28,
       "category": null
     }
