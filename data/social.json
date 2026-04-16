@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T16:21:27.561Z",
+  "updated_at": "2026-04-16T16:31:52.221Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 76,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -27,24 +27,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 32,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 19,
-      "buzz_rank": 4
+      "news_count_24h": 34,
+      "hype_score": 15,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 6
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 13
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 179,
+      "count": 181,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 129,
+      "count": 130,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 57,
       "category": "相場"
     },
     {
@@ -211,27 +211,32 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 50,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
-      "count": 42,
+      "count": 51,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 42,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 43,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 38,
       "category": null
     },
     {
@@ -241,17 +246,12 @@
     },
     {
       "word": "BLOCKADE",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "QUANTUM",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -265,14 +265,19 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 33,
       "category": "ETF"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 31,
+      "category": null
     },
     {
       "word": "OIL",
@@ -280,13 +285,13 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "TETHER",
       "count": 30,
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 30,
+      "word": "STRAIT",
+      "count": 28,
       "category": null
     },
     {
@@ -305,23 +310,18 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 26,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "MILITARY",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "APRIL",
       "count": 22,
       "category": null
     }
