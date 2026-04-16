@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T15:31:48.132Z",
+  "updated_at": "2026-04-16T15:41:38.285Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 178,
+      "news_count_24h": 179,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 400,
+      "news_count_24h": 2,
+      "hype_score": 200,
       "buzz_rank": 15
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 165,
+      "count": 168,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 120,
+      "count": 123,
       "category": null
     },
     {
@@ -201,8 +201,13 @@
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
+    },
+    {
+      "word": "TENSIONS",
+      "count": 49,
+      "category": null
     },
     {
       "word": "TALKS",
@@ -210,13 +215,8 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 47,
-      "category": null
-    },
-    {
       "word": "CEASEFIRE",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -230,19 +230,29 @@
       "category": "相場"
     },
     {
-      "word": "ETF",
-      "count": 35,
-      "category": "ETF"
-    },
-    {
       "word": "MILLION",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "HORMUZ",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
       "count": 34,
       "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 34,
+      "category": "ETF"
     },
     {
       "word": "CONFLICT",
@@ -250,18 +260,8 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "BLOCKADE",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "WARNS",
       "count": 21,
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "MILITARY",
       "count": 21,
       "category": null
     }
