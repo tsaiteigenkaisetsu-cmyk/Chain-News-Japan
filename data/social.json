@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T04:51:44.236Z",
+  "updated_at": "2026-04-16T05:01:44.813Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
+      "news_count_24h": 131,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
+      "news_count_24h": 59,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 6,
+      "news_count_24h": 30,
+      "hype_score": 7,
       "buzz_rank": 3
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "IRAN",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -226,7 +226,12 @@
     },
     {
       "word": "HITS",
-      "count": 28,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 26,
       "category": null
     },
     {
@@ -237,11 +242,6 @@
     {
       "word": "BILLION",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 15,
-    "reddit_reused_previous": 5,
+    "reddit_rss_success": 11,
+    "reddit_reused_previous": 9,
     "reddit_mode": "rss"
   }
 }
