@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-16T13:01:58.621Z",
+  "updated_at": "2026-04-16T13:11:36.250Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 171,
-      "hype_score": 4,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 6,
+      "news_count_24h": 55,
+      "hype_score": 4,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
-      "hype_score": 19,
+      "hype_score": 15,
       "buzz_rank": 4
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 125,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 82,
-      "buzz_rank": 6
+      "news_count_24h": 12,
+      "hype_score": 67,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 10
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 129,
+      "count": 132,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 97,
+      "count": 98,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 81,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 50,
       "category": "相場"
     },
     {
@@ -210,24 +210,24 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 39,
+      "category": "相場"
+    },
+    {
       "word": "TRUMP",
       "count": 38,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 38,
-      "category": "相場"
+      "word": "TALKS",
+      "count": 37,
+      "category": null
     },
     {
       "word": "ETF",
       "count": 37,
       "category": "ETF"
-    },
-    {
-      "word": "TALKS",
-      "count": 35,
-      "category": null
     },
     {
       "word": "MILLION",
@@ -236,16 +236,16 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "QUANTUM",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 30,
       "category": null
     },
@@ -260,23 +260,28 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "ISRAEL",
       "count": 27,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "ISRAEL",
-      "count": 25,
+      "word": "BILLION",
+      "count": 27,
       "category": null
     },
     {
       "word": "NEXT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 24,
       "category": null
     },
     {
@@ -290,8 +295,13 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 22,
+      "word": "BLOCKADE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
+      "count": 21,
       "category": null
     },
     {
@@ -310,7 +320,7 @@
       "category": null
     },
     {
-      "word": "BLOCKADE",
+      "word": "SUPPLY",
       "count": 20,
       "category": null
     },
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
-      "count": 19,
       "category": null
     }
   ],
