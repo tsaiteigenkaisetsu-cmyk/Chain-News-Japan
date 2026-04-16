@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T02:51:41.964Z",
+  "updated_at": "2026-04-16T03:02:26.642Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 125,
+      "news_count_24h": 127,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 65,
+      "news_count_24h": 66,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -191,17 +191,17 @@
     },
     {
       "word": "IRAN",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 45,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -226,12 +226,7 @@
     },
     {
       "word": "WHY",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -245,6 +240,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 23,
       "category": null
@@ -252,6 +252,11 @@
     {
       "word": "KRAKEN",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "ABOVE",
+      "count": 20,
       "category": null
     },
     {
@@ -270,7 +275,7 @@
       "category": null
     },
     {
-      "word": "ABOVE",
+      "word": "DEAL",
       "count": 19,
       "category": null
     },
@@ -297,11 +302,6 @@
     {
       "word": "TETHER",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 18,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 18,
+    "reddit_reused_previous": 2,
     "reddit_mode": "rss"
   }
 }
