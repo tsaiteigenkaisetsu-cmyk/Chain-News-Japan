@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T21:41:31.867Z",
+  "updated_at": "2026-04-16T21:51:30.141Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 200,
+      "news_count_24h": 199,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 7,
       "buzz_rank": 4
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 232,
+      "count": 235,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 158,
+      "count": 160,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 80,
+      "count": 81,
       "category": null
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 74,
+      "count": 75,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 70,
+      "count": 72,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "LEBANON",
+      "count": 60,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 60,
       "category": "相場"
-    },
-    {
-      "word": "LEBANON",
-      "count": 59,
-      "category": null
     },
     {
       "word": "ISRAEL",
@@ -261,7 +261,7 @@
     },
     {
       "word": "DEAL",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "QUANTUM",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -281,12 +281,12 @@
     },
     {
       "word": "NEXT",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -295,18 +295,28 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
+    },
+    {
       "word": "TETHER",
       "count": 30,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "MILITARY",
       "count": 29,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "HITS",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "APRIL",
+      "count": 28,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "MARKETS",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 27,
       "category": null
     }
   ],
