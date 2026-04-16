@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T03:02:26.642Z",
+  "updated_at": "2026-04-16T03:11:45.691Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 127,
+      "news_count_24h": 126,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 66,
+      "news_count_24h": 65,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "IRAN",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
@@ -226,7 +226,12 @@
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 26,
       "category": null
     },
     {
@@ -236,11 +241,6 @@
     },
     {
       "word": "DATA",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 25,
       "category": null
     },
@@ -255,12 +255,22 @@
       "category": null
     },
     {
-      "word": "ABOVE",
-      "count": 20,
+      "word": "DEAL",
+      "count": 21,
       "category": null
     },
     {
       "word": "MARKETS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TOP",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ABOVE",
       "count": 20,
       "category": null
     },
@@ -275,17 +285,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TOP",
       "count": 19,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "BREAKOUT",
+      "word": "ETHER",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 18,
-    "reddit_reused_previous": 2,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
