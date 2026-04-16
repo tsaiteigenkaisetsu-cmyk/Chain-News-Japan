@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T12:21:27.540Z",
+  "updated_at": "2026-04-16T12:31:53.971Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 171,
+      "news_count_24h": 173,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 55,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 20,
+      "news_count_24h": 26,
+      "hype_score": 15,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 111,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 125,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 22,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,15 +99,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 15
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 115,
+      "count": 119,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 90,
+      "count": 92,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -225,17 +225,17 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "TALKS",
       "count": 34,
       "category": null
     },
     {
       "word": "LAUNCHES",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 34,
       "category": null
     },
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "CEASEFIRE",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CONFLICT",
       "count": 27,
       "category": null
@@ -260,8 +265,8 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 26,
+      "word": "NEXT",
+      "count": 25,
       "category": null
     },
     {
@@ -280,13 +285,13 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "OIL",
       "count": 23,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 23,
+      "word": "SOLANA",
+      "count": 21,
       "category": null
     },
     {
@@ -315,23 +320,18 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 20,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 18,
+      "word": "MILITARY",
+      "count": 19,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 18,
+      "word": "BLOCKADE",
+      "count": 19,
       "category": null
     }
   ],
