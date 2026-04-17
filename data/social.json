@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T07:41:27.734Z",
+  "updated_at": "2026-04-17T07:51:33.485Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 176,
+      "news_count_24h": 177,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 71,
-      "hype_score": 10,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 50,
+      "hype_score": 30,
       "buzz_rank": 6
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
+    },
+    {
       "word": "SOLANA",
       "count": 31,
       "category": null
@@ -318,11 +323,6 @@
       "word": "HITS",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
     },
     {
       "word": "LAUNCHES",
