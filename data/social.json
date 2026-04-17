@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T10:11:35.094Z",
+  "updated_at": "2026-04-17T10:21:33.347Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 178,
+      "news_count_24h": 176,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 3,
       "buzz_rank": 4
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 37,
       "hype_score": 11,
       "buzz_rank": 3
     },
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 14
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 15
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 133,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 12
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 293,
+      "count": 294,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 207,
+      "count": 208,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 115,
+      "count": 116,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 89,
+      "count": 90,
       "category": "価格"
     },
     {
@@ -231,18 +231,18 @@
     },
     {
       "word": "HORMUZ",
-      "count": 66,
+      "count": 67,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 65,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 64,
       "category": "相場"
-    },
-    {
-      "word": "OIL",
-      "count": 64,
-      "category": null
     },
     {
       "word": "CONFLICT",
@@ -256,7 +256,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "WAR",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 34,
       "category": null
@@ -288,16 +293,6 @@
       "word": "RALLY",
       "count": 34,
       "category": "相場"
-    },
-    {
-      "word": "WAR",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 32,
-      "category": null
     },
     {
       "word": "TETHER",
@@ -321,6 +316,11 @@
     },
     {
       "word": "HITS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 30,
       "category": null
     },
