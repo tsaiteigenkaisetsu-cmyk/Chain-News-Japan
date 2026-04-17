@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T23:51:37.193Z",
+  "updated_at": "2026-04-17T00:01:50.787Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 205,
+      "news_count_24h": 202,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 3,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 44,
-      "hype_score": 0,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 8,
+      "hype_score": 38,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 248,
+      "count": 249,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 172,
+      "count": 173,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "MARKET",
-      "count": 58,
+      "count": 57,
       "category": "相場"
     },
     {
@@ -255,13 +255,13 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 41,
+      "word": "CONFLICT",
+      "count": 42,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 40,
+      "word": "DEAL",
+      "count": 41,
       "category": null
     },
     {
@@ -275,23 +275,28 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 34,
-      "category": "相場"
-    },
-    {
       "word": "TRADING",
       "count": 34,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "RALLY",
       "count": 33,
+      "category": "相場"
+    },
+    {
+      "word": "NEXT",
+      "count": 32,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 31,
       "category": null
     },
     {
@@ -308,11 +313,6 @@
       "word": "ETF",
       "count": 31,
       "category": "ETF"
-    },
-    {
-      "word": "WARNS",
-      "count": 30,
-      "category": null
     },
     {
       "word": "SOLANA",
