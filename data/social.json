@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T11:31:30.870Z",
+  "updated_at": "2026-04-17T11:41:44.668Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
+      "news_count_24h": 77,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 11,
+      "news_count_24h": 39,
+      "hype_score": 10,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 75,
-      "buzz_rank": 8
+      "news_count_24h": 9,
+      "hype_score": 67,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 303,
+      "count": 305,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 214,
+      "count": 215,
       "category": null
     },
     {
@@ -201,22 +201,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 102,
+      "count": 103,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 89,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 89,
+      "count": 88,
       "category": "価格"
     },
     {
-      "word": "TALKS",
-      "count": 88,
-      "category": null
-    },
-    {
       "word": "ISRAEL",
-      "count": 82,
+      "count": 83,
       "category": null
     },
     {
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 57,
+      "word": "CONFLICT",
+      "count": 58,
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "BLOCKADE",
       "count": 57,
       "category": null
     },
@@ -261,7 +261,7 @@
     },
     {
       "word": "MILLION",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -275,17 +275,22 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "MILITARY",
       "count": 38,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 37,
+      "word": "DRIFT",
+      "count": 36,
       "category": null
     },
     {
-      "word": "DRIFT",
+      "word": "HEZBOLLAH",
       "count": 35,
       "category": null
     },
@@ -300,28 +305,18 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
+      "word": "TETHER",
       "count": 34,
       "category": null
     },
     {
-      "word": "TETHER",
+      "word": "APRIL",
       "count": 33,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 30,
+      "count": 33,
       "category": null
     },
     {
@@ -332,6 +327,11 @@
     {
       "word": "SUPPLY",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 29,
       "category": null
     }
   ],
