@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T13:21:40.160Z",
+  "updated_at": "2026-04-17T13:31:47.091Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 166,
+      "news_count_24h": 165,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
+      "news_count_24h": 66,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 13,
+      "news_count_24h": 36,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 14
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 322,
+      "count": 324,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 88,
+      "count": 87,
       "category": null
     },
     {
@@ -220,23 +220,23 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 85,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 85,
+      "count": 86,
       "category": "価格"
     },
     {
+      "word": "LEBANON",
+      "count": 86,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
@@ -246,17 +246,17 @@
     },
     {
       "word": "CONFLICT",
+      "count": 60,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
       "count": 59,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 58,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
-      "count": 57,
+      "count": 59,
       "category": null
     },
     {
@@ -266,13 +266,18 @@
     },
     {
       "word": "MILLION",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
       "word": "WARNS",
       "count": 41,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -290,9 +295,9 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 37,
-      "category": "相場"
+      "word": "HEZBOLLAH",
+      "count": 36,
+      "category": null
     },
     {
       "word": "DRIFT",
@@ -301,11 +306,6 @@
     },
     {
       "word": "WAR",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "HEZBOLLAH",
       "count": 35,
       "category": null
     },
@@ -321,7 +321,7 @@
     },
     {
       "word": "SUPPLY",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "ABOVE",
       "count": 29,
       "category": null
     }
