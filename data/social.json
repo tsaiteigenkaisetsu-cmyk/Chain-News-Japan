@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T15:21:35.196Z",
+  "updated_at": "2026-04-17T15:31:44.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 168,
+      "news_count_24h": 170,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
-      "hype_score": 16,
+      "news_count_24h": 53,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 156,
+      "hype_score": 167,
       "buzz_rank": 7
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 15
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
+      "hype_score": 125,
       "buzz_rank": 11
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 350,
+      "count": 351,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 234,
+      "count": 235,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 132,
+      "count": 133,
       "category": null
     },
     {
@@ -206,13 +206,18 @@
     },
     {
       "word": "HORMUZ",
-      "count": 101,
+      "count": 102,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 94,
+      "count": 95,
       "category": "価格"
+    },
+    {
+      "word": "ISRAEL",
+      "count": 94,
+      "category": null
     },
     {
       "word": "TALKS",
@@ -220,8 +225,8 @@
       "category": null
     },
     {
-      "word": "ISRAEL",
-      "count": 93,
+      "word": "LEBANON",
+      "count": 91,
       "category": null
     },
     {
@@ -230,13 +235,8 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 89,
-      "category": null
-    },
-    {
       "word": "STRAIT",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
@@ -251,12 +251,12 @@
     },
     {
       "word": "CONFLICT",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
       "word": "BLOCKADE",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -315,23 +315,23 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "TETHER",
       "count": 34,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 33,
+      "word": "ABOVE",
+      "count": 30,
       "category": null
     },
     {
       "word": "SUPPLY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ABOVE",
-      "count": 29,
+      "count": 30,
       "category": null
     }
   ],
