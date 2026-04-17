@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T19:21:35.144Z",
+  "updated_at": "2026-04-17T19:31:46.965Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 154,
+      "news_count_24h": 153,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 21,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 18,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 90,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 393,
+      "count": 395,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 124,
+      "count": 125,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 66,
-      "category": "相場"
-    },
-    {
       "word": "CONFLICT",
       "count": 66,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 65,
+      "category": "相場"
     },
     {
       "word": "BLOCKADE",
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "HEZBOLLAH",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "MILITARY",
       "count": 43,
       "category": null
@@ -280,8 +285,8 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 42,
+      "word": "APRIL",
+      "count": 41,
       "category": null
     },
     {
@@ -295,13 +300,8 @@
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "RALLY",
-      "count": 37,
+      "count": 38,
       "category": "相場"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "word": "HITS",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "TETHER",
+      "word": "PEACE",
       "count": 31,
       "category": null
     }
