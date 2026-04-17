@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T05:11:29.374Z",
+  "updated_at": "2026-04-17T05:21:35.903Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 190,
+      "news_count_24h": 187,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 69,
-      "hype_score": 10,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 37,
-      "hype_score": 16,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 268,
+      "count": 269,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 88,
+      "category": "価格"
+    },
+    {
       "word": "TRUMP",
       "count": 88,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 87,
-      "category": "価格"
     },
     {
       "word": "TALKS",
@@ -231,12 +231,12 @@
     },
     {
       "word": "HORMUZ",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -271,12 +271,12 @@
     },
     {
       "word": "WARNS",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 32,
-      "category": "ETF"
-    },
-    {
       "word": "TETHER",
       "count": 31,
       "category": null
@@ -313,6 +308,11 @@
       "word": "HITS",
       "count": 31,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
     },
     {
       "word": "LAUNCHES",
