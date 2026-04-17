@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-17T14:21:47.030Z",
+  "updated_at": "2026-04-17T14:31:54.070Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 168,
-      "hype_score": 5,
+      "news_count_24h": 169,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
-      "hype_score": 15,
+      "news_count_24h": 60,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 37,
       "hype_score": 11,
       "buzz_rank": 3
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 341,
+      "count": 344,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 231,
+      "count": 233,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 129,
+      "count": 130,
       "category": null
     },
     {
@@ -206,12 +206,22 @@
     },
     {
       "word": "HORMUZ",
-      "count": 92,
+      "count": 96,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 92,
+      "category": "価格"
     },
     {
       "word": "TALKS",
       "count": 91,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 90,
       "category": null
     },
     {
@@ -220,18 +230,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 90,
-      "category": "価格"
-    },
-    {
-      "word": "TENSIONS",
-      "count": 88,
-      "category": null
-    },
-    {
       "word": "LEBANON",
-      "count": 87,
+      "count": 88,
       "category": null
     },
     {
@@ -241,17 +241,17 @@
     },
     {
       "word": "STRAIT",
-      "count": 71,
+      "count": 74,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 71,
+      "count": 70,
       "category": "相場"
     },
     {
       "word": "CONFLICT",
-      "count": 60,
+      "count": 62,
       "category": null
     },
     {
@@ -271,17 +271,22 @@
     },
     {
       "word": "WARNS",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "APRIL",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "HEZBOLLAH",
+      "count": 37,
       "category": null
     },
     {
@@ -300,18 +305,13 @@
       "category": null
     },
     {
-      "word": "WAR",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "HEZBOLLAH",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "DRIFT",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "WAR",
+      "count": 35,
       "category": null
     },
     {
