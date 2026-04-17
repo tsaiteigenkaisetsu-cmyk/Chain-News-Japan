@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T10:31:39.204Z",
+  "updated_at": "2026-04-17T10:41:35.091Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 11,
+      "news_count_24h": 38,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 100,
+      "hype_score": 114,
       "buzz_rank": 10
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 297,
+      "count": 298,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 98,
+      "count": 99,
       "category": null
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "word": "WAR",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -293,6 +293,11 @@
       "word": "RALLY",
       "count": 34,
       "category": "相場"
+    },
+    {
+      "word": "DRIFT",
+      "count": 32,
+      "category": null
     },
     {
       "word": "APRIL",
@@ -315,17 +320,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "DRIFT",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "SOLANA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 30,
       "category": null
     },
