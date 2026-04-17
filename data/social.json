@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T20:01:52.789Z",
+  "updated_at": "2026-04-17T20:11:39.315Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 150,
+      "news_count_24h": 151,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 18,
+      "news_count_24h": 46,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 120,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 100,
+      "hype_score": 90,
       "buzz_rank": 7
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 401,
+      "count": 400,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 255,
+      "count": 256,
       "category": null
     },
     {
@@ -236,28 +236,28 @@
     },
     {
       "word": "PRICE",
-      "count": 92,
+      "count": 91,
       "category": "価格"
     },
     {
       "word": "OIL",
-      "count": 82,
+      "count": 83,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 67,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
-      "count": 64,
+      "count": 68,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 64,
+      "count": 65,
       "category": "相場"
+    },
+    {
+      "word": "BLOCKADE",
+      "count": 65,
+      "category": null
     },
     {
       "word": "DEAL",
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 41,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 41,
       "category": null
@@ -300,22 +305,17 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 40,
-      "category": "相場"
-    },
-    {
       "word": "DRIFT",
       "count": 37,
       "category": null
     },
     {
-      "word": "WAR",
-      "count": 36,
+      "word": "HITS",
+      "count": 35,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "WAR",
       "count": 35,
       "category": null
     },
