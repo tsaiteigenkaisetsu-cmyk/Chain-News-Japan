@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T14:41:35.223Z",
+  "updated_at": "2026-04-17T14:51:30.798Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 170,
+      "news_count_24h": 169,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 59,
-      "hype_score": 17,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 37,
-      "hype_score": 11,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 144,
+      "hype_score": 156,
       "buzz_rank": 7
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 150,
+      "news_count_24h": 7,
+      "hype_score": 129,
       "buzz_rank": 9
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -124,8 +124,8 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 8
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 345,
+      "count": 348,
       "category": null
     },
     {
@@ -196,21 +196,26 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 131,
+      "count": 132,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 107,
+      "count": 108,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 96,
+      "count": 100,
       "category": null
     },
     {
       "word": "ISRAEL",
+      "count": 93,
+      "category": null
+    },
+    {
+      "word": "TALKS",
       "count": 92,
       "category": null
     },
@@ -220,13 +225,8 @@
       "category": "価格"
     },
     {
-      "word": "TALKS",
-      "count": 91,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 90,
+      "count": 91,
       "category": null
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 75,
+      "word": "STRAIT",
+      "count": 77,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 74,
+      "word": "OIL",
+      "count": 76,
       "category": null
     },
     {
@@ -251,17 +251,17 @@
     },
     {
       "word": "CONFLICT",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
       "word": "BLOCKADE",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -280,24 +280,24 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 39,
+      "word": "APRIL",
+      "count": 40,
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 39,
+      "word": "HEZBOLLAH",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 38,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 37,
+      "count": 38,
       "category": "相場"
-    },
-    {
-      "word": "TRADING",
-      "count": 37,
-      "category": null
     },
     {
       "word": "SOLANA",
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 31,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "SUPPLY",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "ABOVE",
-      "count": 29,
       "category": null
     }
   ],
