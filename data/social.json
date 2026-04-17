@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T21:01:52.777Z",
+  "updated_at": "2026-04-17T21:09:31.524Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 143,
+      "news_count_24h": 141,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 17,
+      "news_count_24h": 45,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
       "hype_score": 9,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 21,
-      "buzz_rank": 3
+      "news_count_24h": 32,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
+      "hype_score": 0,
       "buzz_rank": 11
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 407,
+      "count": 408,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 262,
+      "count": 263,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 155,
+      "count": 156,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 126,
+      "count": 127,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "TALKS",
       "count": 103,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 102,
+      "word": "TENSIONS",
+      "count": 103,
       "category": null
     },
     {
@@ -270,24 +270,19 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "HEZBOLLAH",
       "count": 45,
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 45,
+      "word": "SOLANA",
+      "count": 44,
       "category": null
     },
     {
       "word": "MILITARY",
       "count": 42,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 41,
-      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -301,8 +296,13 @@
     },
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 40,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 40,
+      "category": "相場"
     },
     {
       "word": "DRIFT",
