@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T18:31:59.291Z",
+  "updated_at": "2026-04-17T18:41:39.374Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 154,
+      "news_count_24h": 155,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
+      "news_count_24h": 45,
       "hype_score": 20,
       "buzz_rank": 2
     },
@@ -124,8 +124,8 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 10
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 18
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "HORMUZ",
-      "count": 124,
+      "count": 125,
       "category": null
     },
     {
@@ -211,18 +211,23 @@
     },
     {
       "word": "ISRAEL",
-      "count": 100,
+      "count": 101,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 96,
+      "count": 97,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 95,
+      "count": 96,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 95,
+      "category": "価格"
     },
     {
       "word": "TENSIONS",
@@ -235,11 +240,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 94,
-      "category": "価格"
-    },
-    {
       "word": "OIL",
       "count": 80,
       "category": null
@@ -250,14 +250,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 64,
+      "category": "相場"
+    },
+    {
       "word": "BLOCKADE",
       "count": 63,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 63,
-      "category": "相場"
     },
     {
       "word": "DEAL",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "ABOVE",
+      "word": "ISRAELI",
       "count": 31,
       "category": null
     },
     {
-      "word": "ISRAELI",
-      "count": 30,
+      "word": "ABOVE",
+      "count": 31,
       "category": null
     }
   ],
