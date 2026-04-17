@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T04:51:31.943Z",
+  "updated_at": "2026-04-17T05:01:46.274Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 193,
+      "news_count_24h": 190,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
+      "news_count_24h": 68,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
-      "hype_score": 21,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 50,
+      "hype_score": 40,
       "buzz_rank": 7
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -266,12 +266,12 @@
     },
     {
       "word": "DEAL",
-      "count": 42,
+      "count": 40,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 33,
-      "category": "相場"
-    },
-    {
       "word": "QUANTUM",
       "count": 33,
       "category": null
@@ -298,6 +293,11 @@
       "word": "ETF",
       "count": 32,
       "category": "ETF"
+    },
+    {
+      "word": "RALLY",
+      "count": 32,
+      "category": "相場"
     },
     {
       "word": "HITS",
@@ -310,17 +310,17 @@
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 31,
       "category": null
     },
     {
       "word": "SUPPLY",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "TETHER",
       "count": 30,
       "category": null
     },
