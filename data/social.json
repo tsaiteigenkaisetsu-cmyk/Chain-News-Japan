@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-17T22:11:39.708Z",
+  "updated_at": "2026-04-17T22:21:39.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 139,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -176,10 +176,10 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 131,
+      "count": 130,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 38,
-      "category": "相場"
-    },
-    {
       "word": "HITS",
       "count": 36,
       "category": null
@@ -318,6 +313,11 @@
       "word": "WAR",
       "count": 36,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 36,
+      "category": "相場"
     },
     {
       "word": "PEACE",
