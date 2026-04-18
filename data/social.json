@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T17:51:29.371Z",
+  "updated_at": "2026-04-18T18:01:50.167Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 80,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -23,19 +23,19 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 9,
+      "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 20,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 407,
+      "count": 404,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 215,
+      "count": 214,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 173,
+      "count": 172,
       "category": null
     },
     {
@@ -220,11 +220,6 @@
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 84,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 84,
       "category": null
@@ -235,33 +230,38 @@
       "category": null
     },
     {
+      "word": "TALKS",
+      "count": 83,
+      "category": null
+    },
+    {
       "word": "ISRAEL",
       "count": 79,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 65,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "BLOCKADE",
-      "count": 59,
+      "count": 58,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 59,
+      "count": 58,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 50,
       "category": "相場"
     },
     {
@@ -271,12 +271,12 @@
     },
     {
       "word": "HEZBOLLAH",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "WAR",
-      "count": 34,
+      "word": "SOLANA",
+      "count": 33,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 33,
+      "word": "WAR",
+      "count": 31,
       "category": null
     },
     {
@@ -310,17 +310,12 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 29,
-      "category": "相場"
-    },
-    {
       "word": "TRADING",
       "count": 29,
       "category": null
     },
     {
-      "word": "TRUMPS",
+      "word": "IRANS",
       "count": 28,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "PRICES",
       "count": 28,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 28,
+      "category": "相場"
     }
   ],
   "stats": {
