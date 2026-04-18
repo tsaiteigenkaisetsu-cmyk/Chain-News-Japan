@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-18T16:01:39.934Z",
+  "updated_at": "2026-04-18T16:11:34.372Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 12,
+      "news_count_24h": 86,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,26 +16,26 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 31,
       "hype_score": 23,
       "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 11,
+      "news_count_24h": 36,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 18,
+      "news_count_24h": 35,
+      "hype_score": 20,
       "buzz_rank": 3
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 14
     },
     {
@@ -186,42 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 404,
+      "count": 403,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 208,
+      "count": 209,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 204,
+      "count": 205,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 165,
+      "count": 166,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 153,
+      "count": 152,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 145,
+      "count": 144,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 91,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
-      "count": 88,
+      "count": 89,
       "category": null
     },
     {
@@ -230,8 +225,13 @@
       "category": null
     },
     {
+      "word": "ISRAEL",
+      "count": 85,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 83,
+      "count": 82,
       "category": null
     },
     {
@@ -245,13 +245,13 @@
       "category": "価格"
     },
     {
-      "word": "BLOCKADE",
-      "count": 62,
+      "word": "DEAL",
+      "count": 61,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 61,
+      "word": "BLOCKADE",
+      "count": 60,
       "category": null
     },
     {
@@ -270,13 +270,13 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
+      "word": "URANIUM",
       "count": 45,
       "category": null
     },
     {
-      "word": "URANIUM",
-      "count": 45,
+      "word": "HEZBOLLAH",
+      "count": 44,
       "category": null
     },
     {
@@ -295,18 +295,18 @@
       "category": null
     },
     {
-      "word": "IRANIAN",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 34,
       "category": null
     },
     {
+      "word": "IRANIAN",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "TRADING",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "NUCLEAR",
       "count": 29,
       "category": null
     },
     {
       "word": "TRUMPS",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 29,
       "category": null
     }
