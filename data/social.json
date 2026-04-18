@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T21:41:38.680Z",
+  "updated_at": "2026-04-18T21:51:28.437Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 11,
-      "buzz_rank": 3
+      "news_count_24h": 26,
+      "hype_score": 12,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
       "hype_score": 15,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 10
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 399,
+      "count": 400,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 223,
+      "count": 226,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 186,
+      "count": 189,
       "category": null
     },
     {
@@ -231,17 +231,17 @@
     },
     {
       "word": "TALKS",
-      "count": 71,
-      "category": null
-    },
-    {
-      "word": "LEBANON",
       "count": 70,
       "category": null
     },
     {
+      "word": "LEBANON",
+      "count": 69,
+      "category": null
+    },
+    {
       "word": "PRICE",
-      "count": 59,
+      "count": 60,
       "category": "価格"
     },
     {
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 34,
+      "word": "SOLANA",
+      "count": 33,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 32,
+      "word": "MILITARY",
+      "count": 33,
       "category": null
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "word": "OPEN",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "RALLY",
       "count": 25,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
