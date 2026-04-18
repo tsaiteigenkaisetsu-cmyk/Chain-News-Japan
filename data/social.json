@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-18T04:31:45.274Z",
+  "updated_at": "2026-04-18T04:41:38.794Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 133,
-      "hype_score": 7,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
-      "hype_score": 24,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 38,
-      "hype_score": 18,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 200,
-      "buzz_rank": 15
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 421,
+      "count": 420,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "HORMUZ",
-      "count": 163,
+      "count": 165,
       "category": null
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 144,
+      "count": 143,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 126,
+      "count": 128,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "OIL",
-      "count": 85,
+      "count": 83,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "DEAL",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "WAR",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "ISRAELI",
       "count": 35,
       "category": null
@@ -323,11 +328,6 @@
       "word": "RALLY",
       "count": 34,
       "category": "相場"
-    },
-    {
-      "word": "WAR",
-      "count": 34,
-      "category": null
     },
     {
       "word": "PEACE",
