@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-19T15:21:30.762Z",
+  "updated_at": "2026-04-19T15:31:32.923Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 12,
+      "news_count_24h": 48,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 36,
+      "news_count_24h": 15,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 401,
+      "count": 404,
       "category": null
     },
     {
@@ -201,32 +201,27 @@
     },
     {
       "word": "AMID",
-      "count": 192,
+      "count": 193,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 119,
+      "count": 120,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 115,
+      "count": 116,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 90,
+      "count": 91,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 85,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
-      "count": 58,
+      "count": 86,
       "category": null
     },
     {
@@ -235,13 +230,18 @@
       "category": null
     },
     {
+      "word": "BLOCKADE",
+      "count": 58,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 56,
+      "count": 57,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
@@ -251,8 +251,18 @@
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 38,
       "category": "価格"
+    },
+    {
+      "word": "URANIUM",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 37,
+      "category": null
     },
     {
       "word": "IRANIAN",
@@ -265,13 +275,8 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "URANIUM",
-      "count": 36,
+      "word": "HEZBOLLAH",
+      "count": 33,
       "category": null
     },
     {
@@ -280,17 +285,12 @@
       "category": "相場"
     },
     {
-      "word": "CONFLICT",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "APRIL",
       "count": 32,
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
+      "word": "CONFLICT",
       "count": 32,
       "category": null
     },
@@ -311,7 +311,7 @@
     },
     {
       "word": "ISRAELI",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
