@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T11:51:42.214Z",
+  "updated_at": "2026-04-19T12:01:57.375Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 18,
+      "news_count_24h": 48,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 7,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 416,
+      "count": 414,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 260,
+      "count": 261,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 221,
+      "count": 222,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 192,
+      "count": 188,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 115,
+      "count": 114,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 88,
+      "count": 87,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "ISRAEL",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -265,8 +265,8 @@
       "category": null
     },
     {
-      "word": "CLAIMS",
-      "count": 38,
+      "word": "IRANIAN",
+      "count": 37,
       "category": null
     },
     {
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "CLAIMS",
       "count": 37,
       "category": null
     },
@@ -291,7 +291,7 @@
     },
     {
       "word": "APRIL",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "word": "MILITARY",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
