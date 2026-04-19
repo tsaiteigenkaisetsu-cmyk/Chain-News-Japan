@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T08:11:37.652Z",
+  "updated_at": "2026-04-19T08:21:31.078Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 0,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "OIL",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 48,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 48,
       "category": "価格"
+    },
+    {
+      "word": "DEAL",
+      "count": 47,
+      "category": null
     },
     {
       "word": "URANIUM",
@@ -260,14 +260,14 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
+      "word": "MARKET",
       "count": 44,
-      "category": null
+      "category": "相場"
     },
     {
-      "word": "MARKET",
+      "word": "HEZBOLLAH",
       "count": 43,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "CONFLICT",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "NUCLEAR",
       "count": 26,
       "category": null
     },
     {
-      "word": "NUCLEAR",
-      "count": 25,
+      "word": "HITS",
+      "count": 26,
       "category": null
     }
   ],
