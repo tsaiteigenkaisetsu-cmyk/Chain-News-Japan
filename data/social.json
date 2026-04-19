@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T13:31:41.858Z",
+  "updated_at": "2026-04-19T13:41:33.124Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 14,
+      "news_count_24h": 48,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -68,11 +68,11 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 0,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 408,
+      "count": 406,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 258,
+      "count": 256,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 216,
+      "count": 214,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 190,
+      "count": 188,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "ISRAEL",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 43,
       "category": "価格"
     },
     {
@@ -270,29 +270,24 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "CLAIMS",
       "count": 37,
       "category": null
     },
     {
+      "word": "HEZBOLLAH",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "CONFLICT",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "MILITARY",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 32,
-      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -305,6 +300,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 30,
+      "category": "相場"
+    },
+    {
       "word": "IRANS",
       "count": 28,
       "category": null
@@ -315,17 +315,17 @@
       "category": null
     },
     {
-      "word": "OPEN",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "NUCLEAR",
       "count": 26,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "OPEN",
       "count": 25,
       "category": null
     },
