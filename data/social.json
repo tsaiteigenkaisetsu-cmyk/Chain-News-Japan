@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-19T16:01:48.006Z",
+  "updated_at": "2026-04-19T16:06:20.313Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 47,
-      "hype_score": 11,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 26,
+      "news_count_24h": 26,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 13,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 200,
       "buzz_rank": 13
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 22,
+      "hype_score": 33,
       "buzz_rank": 5
     },
     {
@@ -186,42 +186,47 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 401,
+      "count": 399,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 242,
+      "count": 243,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 208,
+      "count": 209,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 193,
+      "count": 192,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 119,
+      "count": 117,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 116,
+      "count": 115,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 95,
+      "count": 96,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 86,
+      "count": 85,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 58,
       "category": null
     },
     {
@@ -235,18 +240,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 57,
-      "category": null
-    },
-    {
       "word": "LEBANON",
-      "count": 54,
+      "count": 53,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "URANIUM",
-      "count": 39,
+      "count": 37,
       "category": null
     },
     {
@@ -265,28 +265,23 @@
       "category": null
     },
     {
-      "word": "CLAIMS",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
-    },
-    {
       "word": "WARNS",
       "count": 35,
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 33,
+      "word": "CLAIMS",
+      "count": 35,
       "category": null
     },
     {
-      "word": "PEACE",
-      "count": 32,
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
+    },
+    {
+      "word": "HEZBOLLAH",
+      "count": 33,
       "category": null
     },
     {
@@ -297,6 +292,11 @@
     {
       "word": "CONFLICT",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 31,
       "category": null
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "word": "TRUMPS",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
