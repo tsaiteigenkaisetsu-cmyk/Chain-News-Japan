@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T17:41:36.457Z",
+  "updated_at": "2026-04-20T17:51:41.470Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 142,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 7
     },
     {
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 416,
+      "count": 415,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 195,
+      "count": 192,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 194,
+      "count": 191,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 174,
+      "count": 173,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "TENSIONS",
-      "count": 100,
+      "count": 99,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 84,
+      "count": 83,
       "category": null
     },
     {
@@ -231,13 +231,23 @@
     },
     {
       "word": "IRANIAN",
-      "count": 56,
+      "count": 58,
       "category": null
     },
     {
       "word": "BLOCKADE",
       "count": 55,
       "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 48,
+      "category": "価格"
     },
     {
       "word": "WARNS",
@@ -248,16 +258,6 @@
       "word": "MARKET",
       "count": 48,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 47,
-      "category": "価格"
-    },
-    {
-      "word": "ISRAEL",
-      "count": 47,
-      "category": null
     },
     {
       "word": "PEACE",
@@ -271,7 +271,7 @@
     },
     {
       "word": "LEBANON",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "AAVE",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "ODDS",
       "count": 33,
       "category": null
@@ -315,22 +320,17 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "IMPACTING",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "SHIP",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "AAVE",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
       "count": 31,
       "category": null
     }
