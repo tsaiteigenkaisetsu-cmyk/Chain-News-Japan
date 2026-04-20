@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T00:11:29.272Z",
+  "updated_at": "2026-04-20T00:21:31.499Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 17,
+      "news_count_24h": 56,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
-      "hype_score": 38,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 500,
+      "hype_score": 400,
       "buzz_rank": 13
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 6
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 38,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 388,
+      "count": 387,
       "category": null
     },
     {
@@ -205,18 +205,18 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 105,
-      "category": null
-    },
-    {
       "word": "TALKS",
       "count": 104,
       "category": null
     },
     {
+      "word": "CEASEFIRE",
+      "count": 104,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 98,
+      "count": 97,
       "category": null
     },
     {
@@ -235,18 +235,18 @@
       "category": null
     },
     {
-      "word": "ISRAEL",
-      "count": 48,
+      "word": "IRANIAN",
+      "count": 49,
       "category": null
     },
     {
-      "word": "IRANIAN",
-      "count": 48,
+      "word": "ISRAEL",
+      "count": 47,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
+    },
+    {
       "word": "MILITARY",
       "count": 35,
       "category": null
@@ -268,11 +273,6 @@
       "word": "WARNS",
       "count": 34,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
     },
     {
       "word": "APRIL",
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "ODDS",
       "count": 30,
       "category": null
@@ -308,6 +303,11 @@
       "word": "PRICE",
       "count": 30,
       "category": "価格"
+    },
+    {
+      "word": "CONFLICT",
+      "count": 29,
+      "category": null
     },
     {
       "word": "IRANS",
