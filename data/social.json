@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T16:51:35.271Z",
+  "updated_at": "2026-04-20T17:01:59.400Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 142,
       "hype_score": 4,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 48,
-      "hype_score": 23,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -36,15 +36,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 22,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 350,
+      "hype_score": 300,
       "buzz_rank": 14
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 416,
+      "count": 419,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 201,
+      "count": 200,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 190,
+      "count": 189,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 178,
+      "count": 177,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 119,
+      "count": 120,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 112,
+      "count": 114,
       "category": null
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 84,
+      "count": 85,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 66,
+      "count": 65,
       "category": null
     },
     {
@@ -240,19 +240,19 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "MARKET",
+      "count": 47,
+      "category": "相場"
+    },
+    {
+      "word": "ISRAEL",
       "count": 47,
       "category": null
     },
     {
-      "word": "ISRAEL",
-      "count": 46,
+      "word": "WARNS",
+      "count": 47,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 46,
-      "category": "相場"
     },
     {
       "word": "PEACE",
@@ -270,13 +270,13 @@
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "CONFLICT",
       "count": 39,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 39,
+      "word": "LEBANON",
+      "count": 38,
       "category": null
     },
     {
@@ -300,18 +300,23 @@
       "category": "DeFi"
     },
     {
+      "word": "IMPACTING",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 34,
       "category": null
     },
     {
-      "word": "IMPACTING",
+      "word": "ODDS",
       "count": 33,
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 33,
+      "word": "MILITARY",
+      "count": 32,
       "category": null
     },
     {
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "KELPDAO",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "ISRAELI",
-      "count": 30,
       "category": null
     }
   ],
