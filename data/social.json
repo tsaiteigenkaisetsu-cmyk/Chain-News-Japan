@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T19:41:35.458Z",
+  "updated_at": "2026-04-20T19:51:37.081Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 140,
+      "news_count_24h": 142,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 17,
+      "news_count_24h": 49,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,25 +34,25 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 25,
-      "buzz_rank": 5
+      "news_count_24h": 26,
+      "hype_score": 23,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 125,
-      "buzz_rank": 13
+      "news_count_24h": 5,
+      "hype_score": 100,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 100,
       "buzz_rank": 9
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,16 +186,16 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 412,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 187,
+      "count": 413,
       "category": null
     },
     {
       "word": "HORMUZ",
+      "count": 187,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 187,
       "category": null
     },
@@ -206,32 +206,32 @@
     },
     {
       "word": "TALKS",
-      "count": 126,
+      "count": 127,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 115,
+      "count": 116,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 98,
+      "count": 100,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 86,
+      "count": 87,
+      "category": null
+    },
+    {
+      "word": "IRANIAN",
+      "count": 64,
       "category": null
     },
     {
       "word": "OIL",
       "count": 64,
-      "category": null
-    },
-    {
-      "word": "IRANIAN",
-      "count": 61,
       "category": null
     },
     {
@@ -241,17 +241,22 @@
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 52,
       "category": "価格"
     },
     {
       "word": "PEACE",
-      "count": 48,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "APRIL",
+      "count": 44,
       "category": null
     },
     {
@@ -265,18 +270,13 @@
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 43,
+      "word": "LEBANON",
+      "count": 39,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "LEBANON",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -291,21 +291,16 @@
     },
     {
       "word": "EXPLOIT",
-      "count": 35,
+      "count": 34,
       "category": "セキュリティ"
     },
     {
       "word": "ODDS",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "AAVE",
       "count": 32,
       "category": null
     },
@@ -320,12 +315,17 @@
       "category": null
     },
     {
-      "word": "KELPDAO",
+      "word": "AAVE",
       "count": 31,
       "category": null
     },
     {
       "word": "SHIP",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "KELPDAO",
       "count": 30,
       "category": null
     },
