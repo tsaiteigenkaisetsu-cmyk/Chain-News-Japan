@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-20T05:51:34.433Z",
+  "updated_at": "2026-04-20T06:02:08.139Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 70,
-      "hype_score": 13,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 42,
+      "news_count_24h": 23,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
+      "news_count_24h": 18,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 20,
+      "hype_score": 0,
       "buzz_rank": 9
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 393,
+      "count": 394,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "IRANIAN",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -271,18 +271,18 @@
     },
     {
       "word": "APRIL",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 31,
       "category": "価格"
+    },
+    {
+      "word": "WARNS",
+      "count": 31,
+      "category": null
     },
     {
       "word": "HEZBOLLAH",
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "ISRAELI",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "URANIUM",
       "count": 28,
       "category": null
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "ISRAELI",
+      "word": "CLAIMS",
       "count": 27,
       "category": null
     },
@@ -323,11 +328,6 @@
       "word": "EXPLOIT",
       "count": 26,
       "category": "セキュリティ"
-    },
-    {
-      "word": "CLAIMS",
-      "count": 26,
-      "category": null
     },
     {
       "word": "IRANS",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
