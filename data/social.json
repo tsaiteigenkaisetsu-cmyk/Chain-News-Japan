@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T12:31:47.032Z",
+  "updated_at": "2026-04-20T12:41:35.303Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
-      "hype_score": 7,
+      "news_count_24h": 109,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 33,
+      "news_count_24h": 34,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
-      "hype_score": 27,
+      "hype_score": 32,
       "buzz_rank": 4
     },
     {
@@ -43,7 +43,7 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 900,
       "buzz_rank": 14
     },
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 8
     },
     {
@@ -186,42 +186,42 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 410,
+      "count": 414,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 216,
+      "count": 215,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 192,
+      "count": 191,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 187,
+      "count": 188,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 112,
+      "count": 111,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 108,
+      "count": 110,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 99,
+      "count": 100,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 74,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "IRANIAN",
-      "count": 54,
+      "count": 53,
       "category": null
     },
     {
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "PEACE",
       "count": 44,
       "category": null
     },
     {
-      "word": "PEACE",
+      "word": "LEBANON",
       "count": 43,
       "category": null
     },
@@ -271,8 +271,13 @@
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 38,
       "category": "価格"
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 37,
+      "category": "セキュリティ"
     },
     {
       "word": "DEAL",
@@ -280,24 +285,19 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 36,
-      "category": "セキュリティ"
-    },
-    {
       "word": "MILITARY",
       "count": 34,
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 33,
+      "category": "DeFi"
+    },
+    {
       "word": "CONFLICT",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 32,
-      "category": "DeFi"
     },
     {
       "word": "ISRAELI",
@@ -315,6 +315,16 @@
       "category": null
     },
     {
+      "word": "PAKISTAN",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "KELPDAO",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "SHIP",
       "count": 29,
       "category": null
@@ -322,16 +332,6 @@
     {
       "word": "HEZBOLLAH",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "IMPACTING",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "CLOSES",
-      "count": 28,
       "category": null
     }
   ],
