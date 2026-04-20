@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T07:21:31.677Z",
+  "updated_at": "2026-04-20T07:31:43.314Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 76,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 14
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 401,
+      "count": 404,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 219,
+      "count": 220,
       "category": null
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "TALKS",
-      "count": 105,
+      "count": 106,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 101,
+      "count": 103,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "OIL",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 45,
+      "word": "ISRAEL",
+      "count": 46,
       "category": null
     },
     {
-      "word": "ISRAEL",
-      "count": 44,
+      "word": "LEBANON",
+      "count": 46,
       "category": null
     },
     {
@@ -260,18 +260,23 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 36,
       "category": "相場"
     },
     {
-      "word": "MILITARY",
+      "word": "WARNS",
       "count": 35,
       "category": null
     },
     {
       "word": "APRIL",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -285,22 +290,12 @@
       "category": "価格"
     },
     {
-      "word": "WARNS",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "ODDS",
       "count": 31,
       "category": null
     },
     {
       "word": "HEZBOLLAH",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ISRAELI",
       "count": 30,
       "category": null
     },
@@ -315,6 +310,16 @@
       "category": null
     },
     {
+      "word": "ISRAELI",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 28,
+      "category": "セキュリティ"
+    },
+    {
       "word": "CLAIMS",
       "count": 28,
       "category": null
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "PAKISTAN",
       "count": 27,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "IRANS",
-      "count": 26,
       "category": null
     }
   ],
