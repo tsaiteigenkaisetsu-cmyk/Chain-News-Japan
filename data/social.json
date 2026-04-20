@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T09:11:47.188Z",
+  "updated_at": "2026-04-20T09:21:35.342Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
+      "news_count_24h": 82,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 31,
+      "news_count_24h": 18,
+      "hype_score": 28,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
+      "news_count_24h": 4,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 408,
+      "count": 409,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 216,
+      "count": 217,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 191,
+      "count": 192,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 107,
+      "count": 106,
       "category": null
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 77,
+      "count": 76,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -246,7 +246,12 @@
     },
     {
       "word": "LEBANON",
-      "count": 46,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 41,
       "category": null
     },
     {
@@ -255,23 +260,18 @@
       "category": "相場"
     },
     {
-      "word": "PEACE",
-      "count": 40,
+      "word": "DEAL",
+      "count": 38,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 39,
+      "word": "WARNS",
+      "count": 36,
       "category": null
     },
     {
       "word": "APRIL",
       "count": 36,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 35,
       "category": null
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -295,14 +295,19 @@
       "category": null
     },
     {
-      "word": "ISRAELI",
-      "count": 31,
+      "word": "CLOSES",
+      "count": 30,
       "category": null
     },
     {
       "word": "EXPLOIT",
       "count": 30,
       "category": "セキュリティ"
+    },
+    {
+      "word": "ISRAELI",
+      "count": 30,
+      "category": null
     },
     {
       "word": "IMPACTING",
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "CLOSES",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "URANIUM",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "SHIP",
       "count": 27,
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "URANIUM",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "PAKISTAN",
       "count": 26,
       "category": null
     }
