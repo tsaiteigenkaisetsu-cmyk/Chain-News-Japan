@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T20:01:47.481Z",
+  "updated_at": "2026-04-20T20:11:40.714Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 49,
-      "hype_score": 16,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 22,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 414,
+      "count": 417,
       "category": null
     },
     {
@@ -211,17 +211,22 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 116,
+      "count": 117,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 100,
+      "count": 101,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 87,
+      "count": 89,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 66,
       "category": null
     },
     {
@@ -230,9 +235,14 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 64,
-      "category": null
+      "word": "MARKET",
+      "count": 55,
+      "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 54,
+      "category": "価格"
     },
     {
       "word": "BLOCKADE",
@@ -240,27 +250,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 53,
-      "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 53,
-      "category": "相場"
-    },
-    {
       "word": "PEACE",
       "count": 47,
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 44,
+      "word": "WARNS",
+      "count": 45,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "APRIL",
       "count": 44,
       "category": null
     },
@@ -270,13 +270,13 @@
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "DEAL",
       "count": 39,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 38,
+      "word": "LEBANON",
+      "count": 39,
       "category": null
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "word": "DEFI",
-      "count": 34,
+      "count": 35,
       "category": "DeFi"
     },
     {
