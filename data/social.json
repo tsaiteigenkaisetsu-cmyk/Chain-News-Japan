@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-04-20T20:51:35.943Z",
+  "updated_at": "2026-04-20T21:01:51.289Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 143,
+      "news_count_24h": 146,
       "hype_score": 3,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 18,
+      "news_count_24h": 51,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 36,
-      "hype_score": 3,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -86,11 +86,11 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 8
+      "hype_score": 38,
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 40,
+      "hype_score": 20,
       "buzz_rank": 14
     },
     {
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 413,
+      "count": 414,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TALKS",
-      "count": 131,
+      "count": 132,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "TENSIONS",
-      "count": 101,
+      "count": 102,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 90,
+      "count": 91,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "IRANIAN",
-      "count": 66,
+      "count": 65,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "BLOCKADE",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -256,6 +256,11 @@
     },
     {
       "word": "ISRAEL",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "APRIL",
       "count": 45,
       "category": null
     },
@@ -265,22 +270,17 @@
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "LEBANON",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 40,
+      "count": 42,
       "category": null
     },
     {
       "word": "DEAL",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
       "count": 39,
       "category": null
     },
@@ -290,14 +290,14 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "DEFI",
       "count": 37,
-      "category": "セキュリティ"
+      "category": "DeFi"
     },
     {
-      "word": "DEFI",
+      "word": "EXPLOIT",
       "count": 36,
-      "category": "DeFi"
+      "category": "セキュリティ"
     },
     {
       "word": "ODDS",
@@ -305,12 +305,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "KELPDAO",
       "count": 33,
       "category": null
     },
     {
-      "word": "KELPDAO",
+      "word": "MILLION",
       "count": 32,
       "category": null
     },
