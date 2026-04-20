@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T11:01:45.471Z",
+  "updated_at": "2026-04-20T11:11:32.962Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 99,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 30,
+      "news_count_24h": 31,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 900,
+      "hype_score": 800,
       "buzz_rank": 14
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 404,
+      "count": 405,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 221,
+      "count": 220,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 196,
+      "count": 195,
       "category": null
     },
     {
@@ -206,27 +206,27 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 106,
+      "count": 107,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 105,
+      "count": 106,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 96,
+      "count": 95,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
@@ -236,28 +236,28 @@
     },
     {
       "word": "IRANIAN",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 46,
+      "count": 48,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 43,
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 42,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 42,
       "category": "相場"
-    },
-    {
-      "word": "PEACE",
-      "count": 41,
-      "category": null
     },
     {
       "word": "APRIL",
@@ -271,18 +271,18 @@
     },
     {
       "word": "DEAL",
-      "count": 36,
+      "count": 37,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
     },
     {
       "word": "EXPLOIT",
       "count": 35,
       "category": "セキュリティ"
-    },
-    {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
     },
     {
       "word": "CONFLICT",
@@ -295,19 +295,14 @@
       "category": null
     },
     {
+      "word": "ODDS",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "DEFI",
       "count": 30,
       "category": "DeFi"
-    },
-    {
-      "word": "ISRAELI",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "ODDS",
-      "count": 30,
-      "category": null
     },
     {
       "word": "HEZBOLLAH",
@@ -316,6 +311,11 @@
     },
     {
       "word": "SHIP",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "ISRAELI",
       "count": 29,
       "category": null
     },
