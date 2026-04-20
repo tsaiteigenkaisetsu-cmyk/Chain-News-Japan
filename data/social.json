@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T11:21:32.422Z",
+  "updated_at": "2026-04-20T11:31:40.108Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 103,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 31,
-      "hype_score": 26,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 800,
+      "hype_score": 900,
       "buzz_rank": 14
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 8
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 404,
+      "count": 406,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 220,
+      "count": 221,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 195,
+      "count": 196,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 107,
+      "count": 108,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "OIL",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -280,14 +280,14 @@
       "category": "セキュリティ"
     },
     {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
-    },
-    {
       "word": "CONFLICT",
       "count": 34,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 34,
+      "category": "価格"
     },
     {
       "word": "MILITARY",
@@ -295,14 +295,14 @@
       "category": null
     },
     {
+      "word": "DEFI",
+      "count": 31,
+      "category": "DeFi"
+    },
+    {
       "word": "ODDS",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 30,
-      "category": "DeFi"
     },
     {
       "word": "HEZBOLLAH",
