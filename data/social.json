@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T19:21:36.060Z",
+  "updated_at": "2026-04-20T19:31:39.697Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 11
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 14
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 415,
+      "count": 413,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 190,
+      "count": 188,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TALKS",
-      "count": 125,
+      "count": 126,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 98,
+      "count": 97,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "IRANIAN",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -251,17 +251,17 @@
     },
     {
       "word": "PEACE",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 47,
+      "count": 45,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "DEAL",
       "count": 39,
       "category": null
     },
@@ -280,7 +280,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "CONFLICT",
       "count": 38,
       "category": null
     },
@@ -291,7 +291,7 @@
     },
     {
       "word": "EXPLOIT",
-      "count": 36,
+      "count": 35,
       "category": "セキュリティ"
     },
     {
@@ -300,27 +300,22 @@
       "category": null
     },
     {
-      "word": "AAVE",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 33,
-      "category": "DeFi"
-    },
-    {
       "word": "MILLION",
       "count": 32,
       "category": null
     },
     {
-      "word": "IMPACTING",
-      "count": 31,
+      "word": "AAVE",
+      "count": 32,
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "DEFI",
+      "count": 32,
+      "category": "DeFi"
+    },
+    {
+      "word": "IMPACTING",
       "count": 31,
       "category": null
     },
@@ -332,6 +327,11 @@
     {
       "word": "SHIP",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "ISRAELI",
+      "count": 29,
       "category": null
     }
   ],
