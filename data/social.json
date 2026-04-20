@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T11:31:40.108Z",
+  "updated_at": "2026-04-20T11:41:35.767Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
+      "news_count_24h": 104,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 406,
+      "count": 405,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 221,
+      "count": 218,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 196,
+      "count": 194,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 187,
+      "count": 186,
       "category": null
     },
     {
@@ -216,26 +216,26 @@
     },
     {
       "word": "TENSIONS",
-      "count": 95,
+      "count": 96,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 72,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 63,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
-      "count": 57,
+      "count": 64,
       "category": null
     },
     {
       "word": "IRANIAN",
+      "count": 55,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
       "count": 55,
       "category": null
     },
@@ -245,23 +245,23 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "PEACE",
       "count": 43,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "LEBANON",
       "count": 42,
+      "category": null
+    },
+    {
+      "word": "APRIL",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 41,
       "category": "相場"
     },
     {
@@ -270,8 +270,13 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
+    },
+    {
       "word": "DEAL",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -280,18 +285,13 @@
       "category": "セキュリティ"
     },
     {
-      "word": "CONFLICT",
+      "word": "MILITARY",
       "count": 34,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 34,
-      "category": "価格"
-    },
-    {
-      "word": "MILITARY",
-      "count": 34,
+      "word": "CONFLICT",
+      "count": 33,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "AAVE",
       "count": 29,
       "category": null
@@ -320,18 +315,23 @@
       "category": null
     },
     {
-      "word": "ISRAELI",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "CLOSES",
+      "word": "HEZBOLLAH",
       "count": 29,
       "category": null
     },
     {
       "word": "IMPACTING",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "ISRAELI",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "PAKISTAN",
+      "count": 28,
       "category": null
     }
   ],
