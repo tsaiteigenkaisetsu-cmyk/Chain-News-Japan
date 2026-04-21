@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-21T21:31:51.461Z",
+  "updated_at": "2026-04-21T22:23:58.268Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
-      "hype_score": 7,
+      "news_count_24h": 115,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
-      "hype_score": 13,
+      "news_count_24h": 58,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 114,
+      "news_count_24h": 6,
+      "hype_score": 117,
       "buzz_rank": 7
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 13,
+      "hype_score": 7,
       "buzz_rank": 5
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -176,57 +176,57 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 437,
+      "count": 432,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 189,
+      "count": 188,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 149,
+      "count": 147,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 134,
+      "count": 133,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 129,
+      "count": 126,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 107,
+      "count": 106,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 104,
+      "count": 101,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 99,
+      "count": 100,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 83,
+      "count": 82,
       "category": null
     },
     {
@@ -235,14 +235,14 @@
       "category": "価格"
     },
     {
-      "word": "IRANIAN",
-      "count": 66,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 65,
       "category": "相場"
+    },
+    {
+      "word": "IRANIAN",
+      "count": 63,
+      "category": null
     },
     {
       "word": "APRIL",
@@ -251,7 +251,7 @@
     },
     {
       "word": "PEACE",
-      "count": 61,
+      "count": 58,
       "category": null
     },
     {
@@ -265,18 +265,18 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 49,
+      "category": null
+    },
+    {
       "word": "BLOCKADE",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
       "word": "DEAL",
       "count": 48,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 47,
       "category": null
     },
     {
@@ -286,12 +286,12 @@
     },
     {
       "word": "EXPLOIT",
-      "count": 45,
+      "count": 44,
       "category": "セキュリティ"
     },
     {
-      "word": "STRATEGY",
-      "count": 42,
+      "word": "BILLION",
+      "count": 43,
       "category": null
     },
     {
@@ -300,23 +300,23 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 41,
+      "word": "STRATEGY",
+      "count": 42,
       "category": null
     },
     {
       "word": "KELPDAO",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
       "count": 39,
       "category": null
     },
     {
+      "word": "ISRAEL",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "SHIP",
-      "count": 35,
+      "word": "MARKETS",
+      "count": 33,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 34,
+      "word": "AAVE",
+      "count": 33,
       "category": null
     }
   ],
