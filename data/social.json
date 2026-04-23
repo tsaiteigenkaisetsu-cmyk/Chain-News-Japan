@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T21:26:11.125Z",
+  "updated_at": "2026-04-23T22:06:34.649Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 153,
+      "news_count_24h": 154,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 80,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 26,
-      "hype_score": 4,
+      "hype_score": 12,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 39,
+      "news_count_24h": 19,
+      "hype_score": 42,
       "buzz_rank": 6
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 8
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -191,21 +191,21 @@
     },
     {
       "word": "AMID",
-      "count": 119,
+      "count": 120,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 82,
+      "count": 83,
       "category": "価格"
     },
     {
-      "word": "TRUMP",
-      "count": 76,
+      "word": "HORMUZ",
+      "count": 77,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "TRUMP",
       "count": 76,
       "category": null
     },
@@ -221,12 +221,12 @@
     },
     {
       "word": "STRAIT",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -245,8 +245,18 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 33,
+      "category": "ETF"
+    },
+    {
       "word": "WHY",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "APRIL",
+      "count": 32,
       "category": null
     },
     {
@@ -255,9 +265,9 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 32,
-      "category": "ETF"
+      "word": "ODDS",
+      "count": 31,
+      "category": null
     },
     {
       "word": "DEFI",
@@ -270,7 +280,7 @@
       "category": null
     },
     {
-      "word": "APRIL",
+      "word": "BLOCKADE",
       "count": 30,
       "category": null
     },
@@ -280,19 +290,14 @@
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
+      "word": "CONFLICT",
       "count": 29,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 28,
-      "category": null
+      "word": "RALLY",
+      "count": 29,
+      "category": "相場"
     },
     {
       "word": "LAUNCHES",
@@ -300,13 +305,13 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 28,
-      "category": "相場"
-    },
-    {
       "word": "LEBANON",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 26,
       "category": null
     },
     {
@@ -316,21 +321,16 @@
     },
     {
       "word": "BILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
       "count": 24,
       "category": null
     },
     {
       "word": "AAVE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 23,
       "category": null
     }
