@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-25T05:30:35.531Z",
+  "updated_at": "2026-04-25T06:54:07.519Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
-      "hype_score": 8,
+      "news_count_24h": 110,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
-      "hype_score": 19,
+      "news_count_24h": 51,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 13,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 60,
+      "hype_score": 80,
       "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 129,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
       "buzz_rank": 5
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 20,
+      "news_count_24h": 14,
+      "hype_score": 21,
       "buzz_rank": 6
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -142,17 +142,17 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 9
     },
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 200,
       "buzz_rank": 17
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 331,
+      "count": 322,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 199,
+      "count": 200,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 126,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 101,
+      "count": 119,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 100,
+      "count": 99,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 95,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 89,
+      "count": 85,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 83,
+      "count": 84,
       "category": null
     },
     {
@@ -226,8 +226,13 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 82,
+      "count": 81,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 80,
+      "category": "価格"
     },
     {
       "word": "TALKS",
@@ -235,18 +240,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 77,
-      "category": "価格"
-    },
-    {
       "word": "ISRAEL",
-      "count": 66,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 63,
+      "count": 65,
       "category": null
     },
     {
@@ -255,23 +250,28 @@
       "category": null
     },
     {
+      "word": "CONFLICT",
+      "count": 60,
+      "category": null
+    },
+    {
       "word": "IRANIAN",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "APRIL",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
       "count": 44,
       "category": null
     },
     {
+      "word": "BLOCKADE",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "MILITARY",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -280,29 +280,29 @@
       "category": null
     },
     {
-      "word": "ODDS",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "DEAL",
       "count": 35,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 32,
-      "category": "ETF"
-    },
-    {
-      "word": "ISRAELI",
-      "count": 32,
+      "word": "ODDS",
+      "count": 34,
       "category": null
     },
     {
       "word": "CHINA",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "PEACE",
       "count": 31,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
     },
     {
       "word": "WAR",
@@ -315,13 +315,13 @@
       "category": null
     },
     {
-      "word": "PEACE",
+      "word": "ISRAELI",
       "count": 30,
       "category": null
     },
     {
       "word": "SUPPLY",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": "DeFi"
     },
     {
-      "word": "POLYMARKET",
+      "word": "HEZBOLLAH",
       "count": 27,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 19,
-    "reddit_reused_previous": 1,
+    "reddit_rss_success": 20,
+    "reddit_reused_previous": 0,
     "reddit_mode": "rss"
   }
 }
