@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T22:51:43.873Z",
+  "updated_at": "2026-04-25T23:26:14.464Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 64,
+      "news_count_24h": 66,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 13,
+      "news_count_24h": 24,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,26 +88,26 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 233,
+      "hype_score": 267,
       "buzz_rank": 11
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 318,
+      "count": 317,
       "category": null
     },
     {
@@ -196,17 +196,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 99,
+      "count": 96,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 88,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 84,
+      "count": 90,
       "category": null
     },
     {
@@ -215,18 +210,23 @@
       "category": "相場"
     },
     {
-      "word": "CEASEFIRE",
-      "count": 78,
+      "word": "TALKS",
+      "count": 83,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 71,
+      "word": "CEASEFIRE",
+      "count": 77,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 70,
+      "count": 72,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 72,
       "category": null
     },
     {
@@ -236,8 +236,13 @@
     },
     {
       "word": "PRICE",
-      "count": 66,
+      "count": 64,
       "category": "価格"
+    },
+    {
+      "word": "LEBANON",
+      "count": 54,
+      "category": null
     },
     {
       "word": "CONFLICT",
@@ -250,18 +255,13 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 53,
-      "category": null
-    },
-    {
       "word": "PAKISTAN",
       "count": 46,
       "category": null
     },
     {
       "word": "IRANIAN",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -276,17 +276,17 @@
     },
     {
       "word": "ISRAELI",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "HEZBOLLAH",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "SUPPLY",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "MARKETS",
       "count": 25,
       "category": null
     }
