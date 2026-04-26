@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-04-26T21:08:25.597Z",
+  "updated_at": "2026-04-26T21:55:40.223Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 61,
       "hype_score": 16,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
-      "hype_score": 33,
+      "hype_score": 47,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 80,
+      "news_count_24h": 6,
+      "hype_score": 67,
       "buzz_rank": 6
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 67,
+      "hype_score": 100,
       "buzz_rank": 9
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
+      "news_count_24h": 2,
+      "hype_score": 50,
       "buzz_rank": 13
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 254,
+      "count": 252,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 159,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 80,
+      "count": 157,
       "category": null
     },
     {
       "word": "TALKS",
       "count": 76,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 75,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 62,
       "category": "相場"
     },
     {
@@ -230,23 +230,23 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
-    },
-    {
       "word": "OIL",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
+    },
+    {
       "word": "LEBANON",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -256,12 +256,12 @@
     },
     {
       "word": "PAKISTAN",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -280,17 +280,17 @@
       "category": null
     },
     {
-      "word": "APRIL",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "DEAL",
+      "word": "SUPPLY",
       "count": 29,
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "DEAL",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "APRIL",
       "count": 28,
       "category": null
     },
@@ -310,18 +310,18 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "PEACE",
-      "count": 26,
+      "count": 24,
       "category": null
     },
     {
       "word": "ODDS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 21,
+      "word": "FED",
+      "count": 19,
       "category": null
     }
   ],
