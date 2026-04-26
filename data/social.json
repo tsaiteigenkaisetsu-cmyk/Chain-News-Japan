@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T15:53:44.073Z",
+  "updated_at": "2026-04-26T16:28:18.684Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 64,
-      "hype_score": 13,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -23,19 +23,19 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 20,
+      "hype_score": 10,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
+      "news_count_24h": 7,
+      "hype_score": 43,
       "buzz_rank": 6
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "binancecoin",
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 17
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 291,
+      "count": 288,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 181,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 90,
+      "count": 178,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 85,
+      "count": 91,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 91,
       "category": null
     },
     {
@@ -211,32 +211,27 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 71,
+      "count": 69,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 69,
+      "count": 68,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 69,
+      "count": 66,
       "category": "相場"
     },
     {
       "word": "TENSIONS",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 54,
-      "category": null
-    },
-    {
-      "word": "LEBANON",
-      "count": 49,
+      "count": 55,
       "category": null
     },
     {
@@ -245,38 +240,43 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 48,
-      "category": "価格"
+      "word": "LEBANON",
+      "count": 47,
+      "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 46,
+      "count": 45,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
     },
     {
       "word": "IRANIAN",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
       "count": 40,
       "category": null
     },
     {
+      "word": "CONFLICT",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "ISRAELI",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "APRIL",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "HEZBOLLAH",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -285,12 +285,27 @@
       "category": null
     },
     {
+      "word": "PEACE",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "IRANS",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "BLOCKADE",
       "count": 28,
       "category": null
     },
     {
-      "word": "PEACE",
+      "word": "MILITARY",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 27,
       "category": null
     },
@@ -300,37 +315,22 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "SUPPLY",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "HIT",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 22,
       "category": null
     },
     {
       "word": "FED",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
       "count": 22,
       "category": null
     }
