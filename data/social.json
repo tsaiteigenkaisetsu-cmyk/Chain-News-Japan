@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T19:55:24.699Z",
+  "updated_at": "2026-04-26T20:29:59.674Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 58,
-      "hype_score": 16,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 4
     },
     {
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 125,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 9
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -90,24 +90,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 56,
+      "news_count_24h": 8,
+      "hype_score": 63,
       "buzz_rank": 5
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -201,28 +201,28 @@
     },
     {
       "word": "TALKS",
-      "count": 78,
+      "count": 77,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 73,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 63,
+      "count": 71,
       "category": null
     },
     {
       "word": "CEASEFIRE",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 62,
       "category": "相場"
+    },
+    {
+      "word": "STRAIT",
+      "count": 61,
+      "category": null
     },
     {
       "word": "TENSIONS",
@@ -231,18 +231,18 @@
     },
     {
       "word": "OIL",
-      "count": 45,
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 43,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 43,
       "category": "価格"
-    },
-    {
-      "word": "ISRAEL",
-      "count": 42,
-      "category": null
     },
     {
       "word": "LEBANON",
@@ -266,7 +266,12 @@
     },
     {
       "word": "IRANIAN",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "HEZBOLLAH",
+      "count": 32,
       "category": null
     },
     {
@@ -275,17 +280,17 @@
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
-      "count": 31,
+      "word": "NUCLEAR",
+      "count": 30,
       "category": null
     },
     {
-      "word": "SUPPLY",
+      "word": "DEAL",
       "count": 29,
       "category": null
     },
     {
-      "word": "NUCLEAR",
+      "word": "SUPPLY",
       "count": 29,
       "category": null
     },
@@ -295,27 +300,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "ODDS",
       "count": 27,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "PEACE",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ODDS",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
       "word": "IRANS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HIT",
       "count": 24,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "WARNS",
       "count": 21,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TRADERS",
       "count": 21,
       "category": null
     }
