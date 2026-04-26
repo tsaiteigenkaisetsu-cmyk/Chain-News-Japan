@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-26T19:09:38.436Z",
+  "updated_at": "2026-04-26T19:55:24.699Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
-      "hype_score": 13,
+      "news_count_24h": 58,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 80,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 167,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
@@ -186,72 +186,77 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 271,
+      "count": 261,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 170,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 85,
+      "count": 163,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 82,
+      "count": 81,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 78,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 76,
-      "category": null
-    },
-    {
-      "word": "CEASEFIRE",
-      "count": 66,
+      "count": 73,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 64,
+      "count": 63,
+      "category": null
+    },
+    {
+      "word": "CEASEFIRE",
+      "count": 63,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 63,
+      "count": 61,
       "category": "相場"
     },
     {
       "word": "TENSIONS",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 48,
+      "count": 45,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 44,
       "category": "価格"
     },
     {
       "word": "ISRAEL",
-      "count": 44,
+      "count": 42,
       "category": null
     },
     {
       "word": "LEBANON",
-      "count": 43,
+      "count": 41,
       "category": null
     },
     {
       "word": "PAKISTAN",
-      "count": 43,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 38,
       "category": null
     },
     {
@@ -261,27 +266,22 @@
     },
     {
       "word": "IRANIAN",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 37,
+      "count": 34,
       "category": null
     },
     {
       "word": "APRIL",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "HEZBOLLAH",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 30,
+      "word": "SUPPLY",
+      "count": 29,
       "category": null
     },
     {
@@ -290,28 +290,28 @@
       "category": null
     },
     {
+      "word": "BLOCKADE",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "DEAL",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "ODDS",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
       "count": 27,
       "category": null
     },
     {
-      "word": "PEACE",
-      "count": 26,
+      "word": "HIT",
+      "count": 25,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 24,
+      "word": "PEACE",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "ODDS",
+      "count": 25,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TRADERS",
       "count": 21,
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "PREDICTION",
       "count": 21,
       "category": null
     }
