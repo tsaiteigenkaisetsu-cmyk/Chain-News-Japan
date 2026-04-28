@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T06:39:32.579Z",
+  "updated_at": "2026-04-28T09:09:23.751Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 168,
+      "news_count_24h": 175,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 15,
+      "news_count_24h": 51,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -25,26 +25,26 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 17,
+      "news_count_24h": 33,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 100,
+      "hype_score": 120,
       "buzz_rank": 10
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 150,
       "buzz_rank": 15
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 25,
       "hype_score": 4,
       "buzz_rank": 5
     },
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 6
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 19
     },
     {
@@ -186,57 +186,57 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 271,
+      "count": 272,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 167,
+      "count": 174,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 101,
+      "count": 106,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 83,
+      "count": 86,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 80,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 79,
+      "count": 82,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 75,
+      "count": 78,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 77,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 67,
+      "count": 68,
       "category": "相場"
     },
     {
       "word": "TENSIONS",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 57,
+      "count": 60,
       "category": "価格"
     },
     {
       "word": "CEASEFIRE",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
@@ -245,48 +245,58 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "ISRAEL",
       "count": 45,
       "category": null
     },
     {
-      "word": "ISRAEL",
+      "word": "DEAL",
       "count": 44,
       "category": null
     },
     {
-      "word": "ISRAELI",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "BLOCKADE",
-      "count": 39,
+      "count": 42,
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 35,
+      "word": "ISRAELI",
+      "count": 41,
       "category": null
     },
     {
       "word": "HEZBOLLAH",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "APRIL",
       "count": 34,
       "category": null
     },
     {
       "word": "ODDS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 31,
       "category": null
     },
     {
       "word": "NUCLEAR",
-      "count": 31,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "IRANIAN",
+      "count": 30,
       "category": null
     },
     {
@@ -295,42 +305,32 @@
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "SOLANA",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 27,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "IRANS",
       "count": 26,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 26,
+      "word": "DEFI",
+      "count": 25,
+      "category": "DeFi"
+    },
+    {
+      "word": "STRATEGY",
+      "count": 24,
       "category": null
     },
     {
       "word": "SUPPLY",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WAR",
       "count": 24,
       "category": null
     }
