@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T22:35:45.599Z",
+  "updated_at": "2026-04-29T23:32:02.157Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,26 +7,26 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 132,
-      "hype_score": 5,
+      "news_count_24h": 139,
+      "hype_score": 4,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 15,
+      "news_count_24h": 43,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 5,
+      "news_count_24h": 36,
+      "hype_score": 3,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 41,
+      "news_count_24h": 23,
+      "hype_score": 39,
       "buzz_rank": 4
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 17,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 168,
+      "count": 169,
       "category": null
     },
     {
@@ -196,42 +196,42 @@
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 78,
       "category": "価格"
     },
     {
-      "word": "HORMUZ",
-      "count": 67,
+      "word": "TRUMP",
+      "count": 69,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 67,
+      "word": "HORMUZ",
+      "count": 66,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 58,
+      "count": 57,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 55,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 54,
       "category": "相場"
     },
     {
-      "word": "TENSIONS",
-      "count": 54,
+      "word": "FED",
+      "count": 48,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 43,
+      "count": 47,
       "category": null
     },
     {
@@ -240,23 +240,23 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "CEASEFIRE",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 33,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 32,
       "category": null
     },
     {
@@ -270,8 +270,8 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 31,
+      "word": "BLOCKADE",
+      "count": 30,
       "category": null
     },
     {
@@ -280,19 +280,14 @@
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 29,
+      "word": "CONFLICT",
+      "count": 30,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 28,
+      "word": "HOLDS",
+      "count": 26,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 27,
-      "category": "相場"
     },
     {
       "word": "SOLANA",
@@ -300,19 +295,24 @@
       "category": null
     },
     {
-      "word": "HOLDS",
+      "word": "STABLECOIN",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 26,
+      "category": "相場"
+    },
+    {
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "HEZBOLLAH",
+      "word": "HIT",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 24,
-      "category": "ETF"
     },
     {
       "word": "DEFI",
@@ -320,18 +320,18 @@
       "category": "DeFi"
     },
     {
-      "word": "DEAL",
+      "word": "HEZBOLLAH",
       "count": 24,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 24,
-      "category": null
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "ODDS",
+      "count": 23,
       "category": null
     }
   ],
