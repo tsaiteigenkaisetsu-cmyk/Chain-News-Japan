@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T20:37:48.473Z",
+  "updated_at": "2026-04-30T21:38:51.233Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 110,
       "hype_score": 11,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 10,
+      "news_count_24h": 46,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 38,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 21,
+      "news_count_24h": 21,
+      "hype_score": 24,
       "buzz_rank": 4
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 67,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,18 +115,18 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 400,
       "buzz_rank": 18
     },
     {
@@ -186,23 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 104,
+      "count": 105,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 75,
+      "count": 76,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 73,
       "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 51,
-      "category": "相場"
     },
     {
       "word": "FED",
@@ -210,8 +205,13 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 51,
+      "category": "相場"
+    },
+    {
       "word": "TRUMP",
-      "count": 46,
+      "count": 49,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -250,12 +250,17 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
+      "word": "OIL",
       "count": 26,
       "category": null
     },
     {
       "word": "POLYMARKET",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "CEASEFIRE",
       "count": 25,
       "category": null
     },
@@ -265,12 +270,7 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HIT",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
@@ -285,7 +285,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "HIT",
       "count": 23,
       "category": null
     },
@@ -295,13 +295,8 @@
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "KEY",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -310,14 +305,19 @@
       "category": "機関投資家"
     },
     {
+      "word": "DEFI",
+      "count": 21,
+      "category": "DeFi"
+    },
+    {
       "word": "RIPPLE",
       "count": 21,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "HOLDS",
       "count": 21,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "ETF",
@@ -325,12 +325,12 @@
       "category": "ETF"
     },
     {
-      "word": "META",
+      "word": "APRIL",
       "count": 20,
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "META",
       "count": 20,
       "category": null
     }
