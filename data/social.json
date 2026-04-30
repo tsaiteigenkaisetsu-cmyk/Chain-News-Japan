@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T15:05:18.698Z",
+  "updated_at": "2026-04-30T16:43:37.051Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
+      "news_count_24h": 130,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -23,19 +23,19 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 5,
+      "news_count_24h": 40,
+      "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 37,
+      "news_count_24h": 28,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 43,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 55,
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -72,33 +72,33 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 14
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
+      "news_count_24h": 8,
+      "hype_score": 38,
       "buzz_rank": 8
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 0,
+      "hype_score": 14,
       "buzz_rank": 9
     },
     {
@@ -126,23 +126,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 700,
       "buzz_rank": 18
     },
     {
@@ -186,28 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 122,
+      "count": 113,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 85,
+      "count": 77,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 74,
+      "count": 73,
       "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 51,
-      "category": "相場"
-    },
-    {
-      "word": "TRUMP",
-      "count": 51,
-      "category": null
     },
     {
       "word": "FED",
@@ -215,8 +205,18 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 49,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
-      "count": 47,
+      "count": 40,
       "category": null
     },
     {
@@ -226,47 +226,37 @@
     },
     {
       "word": "HORMUZ",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 33,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 29,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 32,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
-      "word": "CEASEFIRE",
+      "word": "OIL",
       "count": 28,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "POLYMARKET",
-      "count": 25,
+      "word": "CEASEFIRE",
+      "count": 27,
       "category": null
     },
     {
@@ -280,24 +270,14 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 23,
+      "word": "POLYMARKET",
+      "count": 24,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "BILLION",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "INSTITUTIONAL",
-      "count": 23,
-      "category": "機関投資家"
     },
     {
       "word": "RALLY",
@@ -305,7 +285,12 @@
       "category": "相場"
     },
     {
-      "word": "HIT",
+      "word": "STRAIT",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 22,
       "category": null
     },
@@ -315,22 +300,37 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "INSTITUTIONAL",
       "count": 22,
+      "category": "機関投資家"
+    },
+    {
+      "word": "CFTC",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 21,
+      "category": "DeFi"
+    },
+    {
+      "word": "HOLDS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 21,
       "category": "ETF"
     },
     {
-      "word": "RISK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "BILLION",
+      "word": "BLOCKADE",
       "count": 21,
       "category": null
     }
