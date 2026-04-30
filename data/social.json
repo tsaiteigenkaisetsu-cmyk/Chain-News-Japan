@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T23:32:02.157Z",
+  "updated_at": "2026-04-30T01:19:20.779Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 134,
       "hype_score": 4,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 12,
+      "news_count_24h": 45,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 39,
+      "news_count_24h": 25,
+      "hype_score": 36,
       "buzz_rank": 4
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 15
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 33,
+      "hype_score": 50,
       "buzz_rank": 11
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -196,22 +196,17 @@
     },
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 79,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 69,
+      "count": 71,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 66,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 57,
+      "count": 64,
       "category": null
     },
     {
@@ -221,12 +216,17 @@
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 55,
       "category": "相場"
     },
     {
+      "word": "OIL",
+      "count": 55,
+      "category": null
+    },
+    {
       "word": "FED",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -241,21 +241,11 @@
     },
     {
       "word": "CEASEFIRE",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
       "count": 32,
       "category": null
     },
@@ -270,12 +260,12 @@
       "category": null
     },
     {
-      "word": "BLOCKADE",
-      "count": 30,
+      "word": "ISRAEL",
+      "count": 31,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TALKS",
       "count": 30,
       "category": null
     },
@@ -285,12 +275,32 @@
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 26,
+      "word": "BLOCKADE",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 29,
       "category": null
     },
     {
       "word": "SOLANA",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "HOLDS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 26,
+      "category": "相場"
+    },
+    {
+      "word": "HIT",
       "count": 26,
       "category": null
     },
@@ -300,18 +310,13 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 26,
-      "category": "相場"
-    },
-    {
       "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 25,
+      "word": "ODDS",
+      "count": 24,
       "category": null
     },
     {
@@ -321,17 +326,12 @@
     },
     {
       "word": "HEZBOLLAH",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 23,
-      "category": "ETF"
-    },
-    {
-      "word": "ODDS",
-      "count": 23,
+      "word": "WHY",
+      "count": 22,
       "category": null
     }
   ],
