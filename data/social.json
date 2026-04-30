@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T22:36:38.514Z",
+  "updated_at": "2026-04-30T23:32:31.433Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 105,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 46,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 19,
+      "hype_score": 32,
       "buzz_rank": 4
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 100,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 67,
+      "hype_score": 50,
       "buzz_rank": 8
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -176,22 +176,22 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 106,
+      "count": 107,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 79,
+      "count": 80,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 55,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "HORMUZ",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -255,22 +255,22 @@
       "category": null
     },
     {
+      "word": "CEASEFIRE",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "POLYMARKET",
       "count": 26,
       "category": null
     },
     {
-      "word": "CEASEFIRE",
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "FOMC",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HIT",
+      "word": "BILLION",
       "count": 24,
       "category": null
     },
@@ -285,23 +285,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "FOMC",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "HIT",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "META",
-      "count": 22,
       "category": null
     },
     {
@@ -311,18 +301,23 @@
     },
     {
       "word": "STRAIT",
-      "count": 21,
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "META",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 22,
       "category": null
     },
     {
       "word": "APRIL",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 21,
-      "category": "ETF"
     },
     {
       "word": "BLOCKADE",
@@ -333,6 +328,11 @@
       "word": "DEFI",
       "count": 21,
       "category": "DeFi"
+    },
+    {
+      "word": "RIPPLE",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
