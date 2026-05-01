@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T22:29:02.399Z",
+  "updated_at": "2026-05-01T23:31:21.754Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,47 +14,47 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 63,
-      "hype_score": 19,
+      "news_count_24h": 62,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 6,
+      "news_count_24h": 38,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
-      "hype_score": 53,
+      "hype_score": 58,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 92,
+      "hype_score": 100,
       "buzz_rank": 5
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 140,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 13
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -191,28 +191,23 @@
     },
     {
       "word": "AMID",
-      "count": 114,
+      "count": 115,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 76,
       "category": "価格"
     },
     {
       "word": "TENSIONS",
-      "count": 62,
+      "count": 60,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 56,
       "category": "相場"
-    },
-    {
-      "word": "OIL",
-      "count": 49,
-      "category": null
     },
     {
       "word": "TRUMP",
@@ -220,8 +215,13 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 49,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "APRIL",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -240,18 +240,13 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "STRAIT",
       "count": 30,
       "category": null
     },
     {
-      "word": "FED",
-      "count": 29,
+      "word": "HITS",
+      "count": 30,
       "category": null
     },
     {
@@ -260,23 +255,28 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "STABLECOIN",
       "count": 28,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "CONFLICT",
       "count": 27,
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "HIT",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 25,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -290,13 +290,23 @@
       "category": null
     },
     {
+      "word": "PRICES",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 21,
+      "category": "相場"
+    },
+    {
       "word": "RIPPLE",
       "count": 21,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
+      "word": "WHAT",
+      "count": 20,
       "category": null
     },
     {
@@ -310,12 +320,7 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 20,
-      "category": "相場"
-    },
-    {
-      "word": "PRICES",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WAR",
+      "word": "SURGE",
       "count": 19,
       "category": null
     }
