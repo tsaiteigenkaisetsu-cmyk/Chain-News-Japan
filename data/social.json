@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T10:50:21.862Z",
+  "updated_at": "2026-05-01T11:49:23.019Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 109,
       "hype_score": 10,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 49,
-      "hype_score": 14,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -41,19 +41,19 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 183,
-      "buzz_rank": 7
+      "hype_score": 200,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 167,
+      "hype_score": 200,
       "buzz_rank": 11
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
+      "hype_score": 0,
       "buzz_rank": 9
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 7,
+      "hype_score": 29,
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -191,12 +191,12 @@
     },
     {
       "word": "AMID",
-      "count": 108,
+      "count": 106,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 73,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -216,32 +216,37 @@
     },
     {
       "word": "TRUMP",
-      "count": 47,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 36,
+      "count": 46,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 36,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 35,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 30,
       "category": null
     },
     {
@@ -250,7 +255,7 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "BILLION",
       "count": 28,
       "category": null
     },
@@ -265,17 +270,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BILLION",
+      "word": "APRIL",
       "count": 25,
       "category": null
     },
@@ -285,22 +280,27 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 24,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 24,
+      "word": "NEXT",
+      "count": 23,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 24,
-      "category": "相場"
+      "word": "CONFLICT",
+      "count": 23,
+      "category": null
     },
     {
-      "word": "APRIL",
+      "word": "HIT",
       "count": 23,
       "category": null
     },
@@ -310,9 +310,9 @@
       "category": "DeFi"
     },
     {
-      "word": "HOLDS",
+      "word": "RALLY",
       "count": 23,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "META",
@@ -320,18 +320,18 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "HOLDS",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 21,
       "category": null
     },
     {
       "word": "KEY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 22,
+      "count": 21,
       "category": null
     }
   ],
