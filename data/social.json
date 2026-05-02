@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-02T12:00:02.323Z",
+  "updated_at": "2026-05-02T13:41:57.779Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
-      "hype_score": 11,
+      "news_count_24h": 82,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
-      "hype_score": 23,
+      "news_count_24h": 47,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 30,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -34,27 +34,27 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
+      "news_count_24h": 13,
+      "hype_score": 46,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
-      "buzz_rank": 6
+      "news_count_24h": 7,
+      "hype_score": 86,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 88,
-      "buzz_rank": 7
+      "hype_score": 63,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 169,
+      "count": 175,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 165,
+      "count": 170,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 87,
+      "count": 92,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 75,
+      "count": 72,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 65,
+      "count": 69,
       "category": null
     },
     {
@@ -216,27 +216,22 @@
     },
     {
       "word": "OIL",
-      "count": 56,
+      "count": 59,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 38,
+      "count": 45,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 36,
+      "count": 39,
       "category": null
     },
     {
@@ -245,27 +240,32 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CEASEFIRE",
       "count": 27,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "WAR",
+      "word": "MILITARY",
       "count": 25,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "HITS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WAR",
       "count": 25,
       "category": null
     },
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "HIT",
       "count": 24,
       "category": null
     },
@@ -285,22 +285,17 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 23,
-      "category": "相場"
-    },
-    {
       "word": "MARKETS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
       "count": 22,
       "category": null
     },
@@ -310,8 +305,18 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 22,
+      "category": "相場"
+    },
+    {
       "word": "TALKS",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -320,12 +325,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
+      "word": "IMPACTING",
       "count": 19,
       "category": null
     },
