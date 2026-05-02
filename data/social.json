@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T17:07:40.868Z",
+  "updated_at": "2026-05-02T18:00:40.741Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 85,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 26,
+      "news_count_24h": 36,
+      "hype_score": 28,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
+      "news_count_24h": 10,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 0,
+      "hype_score": 10,
       "buzz_rank": 5
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 185,
+      "count": 188,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 181,
+      "count": 183,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 100,
+      "count": 103,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 72,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 62,
+      "count": 61,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 60,
+      "count": 59,
       "category": "相場"
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "PREDICTION",
       "count": 23,
       "category": null
     },
@@ -300,13 +300,18 @@
       "category": "相場"
     },
     {
-      "word": "MARKETS",
-      "count": 23,
+      "word": "STABLECOIN",
+      "count": 22,
       "category": null
     },
     {
       "word": "FED",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "IMPACTING",
+      "count": 21,
       "category": null
     },
     {
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "IMPACTING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "LEBANON",
-      "count": 18,
+      "word": "ISRAEL",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 20,
-    "reddit_reused_previous": 0,
+    "reddit_rss_success": 19,
+    "reddit_reused_previous": 1,
     "reddit_mode": "rss"
   }
 }
