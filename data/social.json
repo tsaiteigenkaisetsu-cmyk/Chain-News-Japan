@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T07:34:13.307Z",
+  "updated_at": "2026-05-03T09:07:24.472Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
-      "hype_score": 14,
+      "news_count_24h": 52,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
+      "news_count_24h": 14,
+      "hype_score": 57,
       "buzz_rank": 3
     },
     {
@@ -25,26 +25,26 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 160,
+      "hype_score": 200,
       "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 233,
+      "hype_score": 0,
       "buzz_rank": 9
     },
     {
@@ -124,8 +124,8 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 4
     },
     {
@@ -149,19 +149,19 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 76,
+      "count": 74,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 69,
+      "count": 65,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 53,
+      "count": 51,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 48,
       "category": "相場"
     },
     {
@@ -241,22 +241,22 @@
     },
     {
       "word": "MILITARY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "APRIL",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "BLOCKADE",
       "count": 30,
       "category": null
     },
     {
+      "word": "APRIL",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "CLARITY",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -266,12 +266,7 @@
     },
     {
       "word": "DEAL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 23,
+      "count": 25,
       "category": null
     },
     {
@@ -280,42 +275,37 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "IMPACTING",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "ISRAEL",
-      "count": 20,
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 22,
       "category": null
     },
     {
       "word": "LEBANON",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "PRICES",
       "count": 20,
       "category": null
     },
     {
-      "word": "UKRAINE",
+      "word": "CHINA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "IMPACTING",
       "count": 19,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "FED",
+      "word": "STABLECOIN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "UKRAINE",
       "count": 18,
       "category": null
     }
