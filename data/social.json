@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T19:50:01.021Z",
+  "updated_at": "2026-05-05T20:49:24.792Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 111,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 26,
+      "news_count_24h": 25,
+      "hype_score": 28,
       "buzz_rank": 4
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 45,
       "hype_score": 2,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 15,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -86,19 +86,19 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 29,
       "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 50,
+      "hype_score": 38,
       "buzz_rank": 9
     },
     {
@@ -186,32 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 202,
+      "count": 197,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 194,
+      "count": 190,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 142,
+      "count": 139,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 97,
+      "count": 96,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 71,
+      "count": 72,
       "category": "価格"
     },
     {
       "word": "STRAIT",
-      "count": 61,
+      "count": 60,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 52,
       "category": null
     },
     {
@@ -220,33 +225,38 @@
       "category": "相場"
     },
     {
-      "word": "OIL",
-      "count": 52,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 48,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 34,
+      "word": "CONFLICT",
+      "count": 42,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 32,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 30,
       "category": null
     },
     {
@@ -255,13 +265,13 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "UAE",
       "count": 29,
       "category": null
     },
     {
-      "word": "UAE",
-      "count": 29,
+      "word": "RIPPLE",
+      "count": 28,
       "category": null
     },
     {
@@ -270,27 +280,17 @@
       "category": "相場"
     },
     {
-      "word": "WARNS",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "COINBASE",
-      "count": 25,
+      "count": 27,
       "category": null
     },
     {
       "word": "NEXT",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 25,
       "category": null
     },
@@ -300,7 +300,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STRATEGY",
       "count": 24,
       "category": null
     },
@@ -310,28 +310,28 @@
       "category": null
     },
     {
-      "word": "BLOCKADE",
+      "word": "HITS",
       "count": 23,
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "DEAL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "SUPPLY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BLOCKADE",
       "count": 22,
       "category": null
     },
     {
       "word": "CLARITY",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SURGES",
-      "count": 21,
       "category": null
     }
   ],
