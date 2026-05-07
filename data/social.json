@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-07T16:27:03.382Z",
+  "updated_at": "2026-05-07T18:05:34.200Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 135,
       "hype_score": 7,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 22,
+      "news_count_24h": 30,
+      "hype_score": 23,
       "buzz_rank": 3
     },
     {
@@ -25,36 +25,36 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 36,
       "hype_score": 3,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 19,
+      "news_count_24h": 20,
+      "hype_score": 15,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 167,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 83,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,51 +72,51 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 200,
-      "buzz_rank": 15
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 9
+      "news_count_24h": 7,
+      "hype_score": 43,
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 67,
+      "hype_score": 100,
       "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 7
+      "hype_score": 25,
+      "buzz_rank": 6
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 0,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,24 +144,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -185,107 +185,102 @@
   ],
   "trend_words": [
     {
+      "word": "PRICE",
+      "count": 81,
+      "category": "価格"
+    },
+    {
       "word": "AMID",
-      "count": 85,
+      "count": 78,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 76,
+      "count": 72,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 76,
-      "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 46,
+      "count": 49,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 42,
+      "count": 39,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
+      "word": "TRUMP",
       "count": 38,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 35,
+      "word": "HORMUZ",
+      "count": 37,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 34,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 31,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 28,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 28,
+      "count": 27,
       "category": "相場"
     },
     {
       "word": "STRAIT",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 25,
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "PUSH",
       "count": 22,
       "category": null
     },
@@ -295,7 +290,7 @@
       "category": null
     },
     {
-      "word": "LAUNCH",
+      "word": "PUSH",
       "count": 21,
       "category": null
     },
@@ -315,22 +310,27 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "HERE",
       "count": 19,
       "category": null
     },
     {
-      "word": "MAJOR",
-      "count": 17,
+      "word": "CEO",
+      "count": 19,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "LOSS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "LAUNCH",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "EYES",
       "count": 17,
       "category": null
     }
