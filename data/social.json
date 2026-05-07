@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:03:25.035Z",
+  "updated_at": "2026-05-07T11:58:38.986Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,44 +7,44 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 125,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 33,
+      "hype_score": 15,
       "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 3,
+      "news_count_24h": 40,
+      "hype_score": 5,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 20,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 63,
+      "hype_score": 75,
       "buzz_rank": 7
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -176,72 +176,62 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "AMID",
-      "count": 100,
+      "count": 92,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 97,
+      "count": 85,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 77,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 51,
       "category": "相場"
     },
     {
-      "word": "TENSIONS",
-      "count": 53,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
-      "count": 51,
+      "count": 47,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "TENSIONS",
       "count": 46,
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "SOLANA",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 35,
+      "count": 42,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 34,
+      "count": 36,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 32,
+      "word": "BILLION",
+      "count": 34,
       "category": null
     },
     {
@@ -250,7 +240,7 @@
       "category": "相場"
     },
     {
-      "word": "RIPPLE",
+      "word": "MILLION",
       "count": 31,
       "category": null
     },
@@ -260,33 +250,38 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 30,
+      "word": "STRAIT",
+      "count": 31,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "DEAL",
       "count": 29,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "LAUNCH",
-      "count": 26,
+      "word": "RIPPLE",
+      "count": 28,
       "category": null
     },
     {
       "word": "STABLECOIN",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 26,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -295,43 +290,48 @@
       "category": null
     },
     {
+      "word": "LAUNCH",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 23,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "STOCK",
       "count": 22,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "PUSH",
       "count": 21,
       "category": null
     },
     {
-      "word": "HERE",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 20,
+      "word": "BREAKOUT",
+      "count": 19,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 20,
-      "category": null
+      "word": "INSTITUTIONAL",
+      "count": 19,
+      "category": "機関投資家"
     },
     {
-      "word": "MARKETS",
-      "count": 20,
+      "word": "DESPITE",
+      "count": 19,
       "category": null
     }
   ],
