@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-08T21:42:02.423Z",
+  "updated_at": "2026-05-08T22:38:30.473Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 99,
-      "hype_score": 7,
+      "news_count_24h": 96,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 13,
+      "hype_score": 15,
       "buzz_rank": 4
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 7,
+      "hype_score": 57,
       "buzz_rank": 7
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 70,
       "category": "価格"
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "IRAN",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 44,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 34,
       "category": "相場"
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 26,
       "category": "相場"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 26,
-      "category": null
     },
     {
       "word": "WHY",
@@ -236,6 +236,11 @@
     },
     {
       "word": "TENSIONS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 23,
       "category": null
     },
@@ -245,23 +250,13 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 22,
+      "word": "STRAIT",
+      "count": 21,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 20,
       "category": null
     },
     {
@@ -280,23 +275,13 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "KRAKEN",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 18,
       "category": null
     },
     {
@@ -305,12 +290,27 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "ACT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 18,
       "category": null
     },
     {
       "word": "BULLS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 18,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "MAJOR",
       "count": 15,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "PAYMENTS",
       "count": 15,
       "category": null
     }
