@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-09T11:36:09.808Z",
+  "updated_at": "2026-05-09T12:38:34.501Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 9,
+      "news_count_24h": 74,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 37,
-      "buzz_rank": 2
+      "news_count_24h": 28,
+      "hype_score": 25,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 7,
-      "buzz_rank": 3
+      "news_count_24h": 31,
+      "hype_score": 6,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 120,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 9
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 7
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 5
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 62,
       "category": "価格"
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "AMID",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 40,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "MARKET",
-      "count": 34,
+      "count": 35,
       "category": "相場"
     },
     {
       "word": "BILLION",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
@@ -240,48 +240,33 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "HORMUZ",
       "count": 24,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
+      "word": "CLARITY",
       "count": 23,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
-      "word": "KRAKEN",
-      "count": 20,
+      "word": "ACT",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 21,
       "category": null
     },
     {
       "word": "BULLS",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 19,
       "category": null
     },
     {
@@ -300,18 +285,28 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "STRATEGY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "KRAKEN",
       "count": 17,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 17,
+      "word": "MAJOR",
+      "count": 16,
       "category": null
     },
     {
@@ -320,7 +315,17 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "NEXT",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 16,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "SURGE",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
     }
   ],
   "stats": {
