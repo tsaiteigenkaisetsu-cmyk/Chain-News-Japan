@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:39:56.464Z",
+  "updated_at": "2026-05-11T23:41:28.902Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 103,
       "hype_score": 3,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 24,
+      "news_count_24h": 40,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 38,
+      "news_count_24h": 17,
+      "hype_score": 41,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 84,
+      "count": 83,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 32,
       "category": "相場"
     },
     {
@@ -225,29 +225,29 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 29,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "CLARITY",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 21,
-      "category": null
+      "word": "ETF",
+      "count": 20,
+      "category": "ETF"
     },
     {
       "word": "WEEK",
@@ -255,9 +255,14 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 19,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "OIL",
@@ -265,12 +270,12 @@
       "category": null
     },
     {
-      "word": "PROPOSAL",
+      "word": "RIPPLE",
       "count": 18,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "PROPOSAL",
       "count": 18,
       "category": null
     },
@@ -290,11 +295,6 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 17,
       "category": null
@@ -305,12 +305,17 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 17,
-      "category": null
+      "word": "RALLY",
+      "count": 16,
+      "category": "相場"
     },
     {
       "word": "SAYLOR",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
       "count": 16,
       "category": null
     },
@@ -320,18 +325,13 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 15,
-      "category": "相場"
-    },
-    {
-      "word": "MAJOR",
+      "word": "CONFLICT",
       "count": 15,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 15,
+      "word": "CIRCLE",
+      "count": 14,
       "category": null
     }
   ],
