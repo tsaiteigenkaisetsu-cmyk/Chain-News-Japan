@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T22:06:03.487Z",
+  "updated_at": "2026-05-13T23:17:54.055Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 121,
-      "hype_score": 7,
+      "news_count_24h": 124,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
       "news_count_24h": 49,
-      "hype_score": 24,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 175,
+      "hype_score": 150,
       "buzz_rank": 10
     },
     {
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 82,
+      "count": 81,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 73,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 74,
+      "count": 72,
       "category": "相場"
-    },
-    {
-      "word": "TRUMP",
-      "count": 71,
-      "category": null
     },
     {
       "word": "AMID",
@@ -236,11 +236,6 @@
     },
     {
       "word": "HORMUZ",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 34,
       "category": null
     },
@@ -250,14 +245,24 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 33,
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 32,
-      "category": null
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
     },
     {
       "word": "RALLY",
@@ -265,27 +270,27 @@
       "category": "相場"
     },
     {
+      "word": "TOKENIZED",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "INFLATION",
       "count": 30,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
+      "word": "WHAT",
+      "count": 27,
+      "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 29,
+      "word": "AHEAD",
+      "count": 27,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BILL",
       "count": 27,
       "category": null
     },
@@ -295,7 +300,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "OPENAI",
       "count": 26,
       "category": null
     },
@@ -305,18 +310,13 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
+      "word": "BILL",
       "count": 25,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 25,
+      "word": "SOLANA",
+      "count": 24,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "BANK",
       "count": 24,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "STABLECOIN",
       "count": 24,
       "category": null
     }
