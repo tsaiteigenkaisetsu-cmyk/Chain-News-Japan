@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-14T20:48:05.017Z",
+  "updated_at": "2026-05-14T21:55:20.875Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 136,
+      "news_count_24h": 135,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -32,28 +32,28 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 22,
+      "news_count_24h": 22,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 100,
+      "hype_score": 114,
       "buzz_rank": 9
     },
     {
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,18 +186,8 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 72,
+      "count": 73,
       "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 63,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 62,
-      "category": "価格"
     },
     {
       "word": "ACT",
@@ -205,67 +195,67 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 62,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 61,
+      "category": "価格"
+    },
+    {
       "word": "MARKET",
       "count": 57,
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 55,
+      "word": "AMID",
+      "count": 53,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 54,
+      "word": "IRAN",
+      "count": 52,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 46,
+      "count": 41,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "CHINA",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 32,
+      "count": 37,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 32,
+      "count": 34,
       "category": "ETF"
     },
     {
-      "word": "VOTE",
-      "count": 28,
+      "word": "CHINA",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 31,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 28,
       "category": null
     },
@@ -280,18 +270,28 @@
       "category": null
     },
     {
+      "word": "AHEAD",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 27,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 26,
+      "word": "MARKETS",
+      "count": 27,
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 26,
+      "word": "NEXT",
+      "count": 25,
       "category": null
     },
     {
@@ -300,12 +300,22 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "STOCK",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "BANKING",
       "count": 23,
       "category": null
     },
@@ -313,16 +323,6 @@
       "word": "RALLY",
       "count": 23,
       "category": "相場"
-    },
-    {
-      "word": "INFLATION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BANKING",
-      "count": 22,
-      "category": null
     },
     {
       "word": "OIL",
