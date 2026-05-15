@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T21:44:56.874Z",
+  "updated_at": "2026-05-15T22:39:16.876Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
+      "news_count_24h": 101,
       "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 16,
+      "news_count_24h": 38,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -32,19 +32,19 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
+      "news_count_24h": 16,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 22,
+      "hype_score": 11,
       "buzz_rank": 8
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 7
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 65,
+      "count": 63,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "ACT",
-      "count": 54,
+      "count": 52,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 43,
+      "count": 41,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -230,24 +230,24 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 35,
+      "word": "TRADING",
+      "count": 33,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 32,
+      "word": "WHAT",
+      "count": 31,
       "category": null
     },
     {
       "word": "HYPERLIQUID",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "ETF",
       "count": 27,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "WHY",
@@ -255,17 +255,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 26,
-      "category": "ETF"
-    },
-    {
-      "word": "CEO",
+      "word": "CME",
       "count": 26,
       "category": null
     },
@@ -275,12 +265,12 @@
       "category": null
     },
     {
-      "word": "CME",
+      "word": "BILLION",
       "count": 25,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "NEXT",
       "count": 25,
       "category": null
     },
@@ -290,13 +280,23 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "COINBASE",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 23,
+      "word": "SURGE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 22,
       "category": null
     },
     {
@@ -310,8 +310,8 @@
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 21,
+      "word": "VOTE",
+      "count": 22,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SECURITY",
+      "word": "STABLECOIN",
       "count": 20,
-      "category": "セキュリティ"
+      "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "HITS",
       "count": 20,
       "category": null
     }
