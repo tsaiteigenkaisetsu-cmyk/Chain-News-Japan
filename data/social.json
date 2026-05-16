@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T21:05:45.826Z",
+  "updated_at": "2026-05-16T22:00:49.356Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 45,
       "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 39,
+      "hype_score": 44,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 11,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 58,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 5
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 11
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 51,
+      "count": 49,
       "category": "価格"
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 34,
       "category": "相場"
     },
     {
       "word": "CLARITY",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -215,24 +215,19 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 28,
+      "word": "TRADING",
+      "count": 27,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 28,
+      "word": "HYPERLIQUID",
+      "count": 26,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 26,
+      "count": 25,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 26,
-      "category": "ETF"
     },
     {
       "word": "MILLION",
@@ -240,8 +235,13 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
       "word": "WHAT",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -255,28 +255,23 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
       "word": "COINBASE",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
       "word": "HYPE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CME",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
@@ -300,18 +295,13 @@
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "CME",
       "count": 15,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HOW",
-      "count": 14,
+      "word": "BILL",
+      "count": 15,
       "category": null
     },
     {
@@ -331,6 +321,16 @@
     },
     {
       "word": "SUPPLY",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 13,
+      "category": "相場"
+    },
+    {
+      "word": "HOW",
       "count": 13,
       "category": null
     }
