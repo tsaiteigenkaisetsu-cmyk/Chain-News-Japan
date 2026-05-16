@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T16:13:02.161Z",
+  "updated_at": "2026-05-16T17:15:31.379Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 28,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 67,
+      "hype_score": 83,
       "buzz_rank": 8
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 9
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 5
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 12
     },
     {
@@ -176,46 +176,41 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 51,
+      "count": 50,
       "category": "価格"
     },
     {
-      "word": "CLARITY",
-      "count": 50,
-      "category": null
-    },
-    {
       "word": "AMID",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 40,
+      "word": "CLARITY",
+      "count": 45,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 37,
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 32,
+      "word": "ACT",
+      "count": 35,
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "IRAN",
       "count": 31,
       "category": null
     },
@@ -230,18 +225,23 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "MILLION",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "SENATE",
+      "count": 24,
       "category": null
     },
     {
@@ -255,37 +255,17 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 21,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CME",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 19,
       "category": null
     },
@@ -295,12 +275,22 @@
       "category": "セキュリティ"
     },
     {
-      "word": "CHINA",
+      "word": "CME",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 17,
       "category": null
     },
     {
-      "word": "COMMITTEE",
+      "word": "BILL",
       "count": 17,
       "category": null
     },
@@ -310,28 +300,38 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 16,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "BANKING",
-      "count": 16,
+      "word": "REPORT",
+      "count": 15,
       "category": null
     },
     {
       "word": "MAJOR",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RECORD",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "BANKING",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 14,
       "category": null
     }
   ],
