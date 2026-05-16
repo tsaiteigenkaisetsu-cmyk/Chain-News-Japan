@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-05-16T14:10:01.657Z",
+  "updated_at": "2026-05-16T15:17:00.940Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
+      "news_count_24h": 63,
       "hype_score": 10,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
-      "hype_score": 25,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
-      "hype_score": 9,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 62,
+      "news_count_24h": 14,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -185,47 +185,47 @@
   ],
   "trend_words": [
     {
-      "word": "PRICE",
-      "count": 57,
-      "category": "価格"
-    },
-    {
       "word": "CLARITY",
-      "count": 55,
+      "count": 52,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 52,
+      "category": "価格"
+    },
+    {
       "word": "AMID",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 42,
       "category": "相場"
     },
     {
-      "word": "SENATE",
-      "count": 33,
+      "word": "IRAN",
+      "count": 31,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 32,
+      "word": "SENATE",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 29,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 29,
       "category": null
     },
@@ -235,44 +235,29 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
     {
-      "word": "CME",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 22,
-      "category": "ETF"
-    },
-    {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 21,
+      "word": "WHAT",
+      "count": 26,
       "category": null
     },
     {
       "word": "NEXT",
-      "count": 21,
+      "count": 22,
       "category": null
+    },
+    {
+      "word": "CME",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
     },
     {
       "word": "COINBASE",
@@ -280,7 +265,17 @@
       "category": null
     },
     {
-      "word": "COMMITTEE",
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 20,
       "category": null
     },
@@ -290,27 +285,27 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "STRATEGY",
       "count": 20,
       "category": null
     },
     {
-      "word": "BANKING",
+      "word": "SECURITY",
+      "count": 18,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "COMMITTEE",
       "count": 18,
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 17,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "SOLANA",
+      "word": "CHINA",
       "count": 17,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "SOLANA",
       "count": 17,
       "category": null
     },
@@ -320,17 +315,22 @@
       "category": null
     },
     {
-      "word": "CHAINLINK",
+      "word": "MAJOR",
       "count": 16,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 15,
+      "word": "BANKING",
+      "count": 16,
       "category": null
     },
     {
-      "word": "SURGE",
+      "word": "HITS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 15,
       "category": null
     }
