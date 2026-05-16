@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-16T12:41:38.571Z",
+  "updated_at": "2026-05-16T14:10:01.657Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 8,
+      "news_count_24h": 68,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -34,26 +34,26 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 67,
-      "buzz_rank": 5
+      "news_count_24h": 13,
+      "hype_score": 62,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 50,
+      "hype_score": 67,
       "buzz_rank": 8
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 150,
+      "hype_score": 50,
       "buzz_rank": 9
     },
     {
@@ -90,15 +90,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 15,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 15
     },
     {
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 59,
+      "count": 57,
       "category": "価格"
     },
     {
       "word": "CLARITY",
-      "count": 58,
+      "count": 55,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "ACT",
-      "count": 46,
+      "count": 43,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 43,
       "category": "相場"
     },
     {
       "word": "SENATE",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 30,
+      "word": "WHAT",
+      "count": 29,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 30,
+      "word": "TRADING",
+      "count": 28,
       "category": null
     },
     {
@@ -240,37 +240,27 @@
       "category": null
     },
     {
-      "word": "CME",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
     {
+      "word": "CME",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
+    },
+    {
       "word": "BILLION",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
       "count": 22,
       "category": null
     },
@@ -280,14 +270,14 @@
       "category": null
     },
     {
-      "word": "BILL",
-      "count": 20,
+      "word": "NEXT",
+      "count": 21,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
+      "word": "COINBASE",
+      "count": 21,
+      "category": null
     },
     {
       "word": "COMMITTEE",
@@ -295,8 +285,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 19,
+      "word": "BILL",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 20,
       "category": null
     },
     {
@@ -305,22 +300,12 @@
       "category": null
     },
     {
-      "word": "CHAINLINK",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "CHAIN",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "SECURITY",
       "count": 17,
       "category": "セキュリティ"
     },
     {
-      "word": "CEO",
+      "word": "SOLANA",
       "count": 17,
       "category": null
     },
@@ -332,6 +317,21 @@
     {
       "word": "HYPE",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "CHAINLINK",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 15,
       "category": null
     }
   ],
