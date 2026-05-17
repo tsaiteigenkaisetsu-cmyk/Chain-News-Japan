@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-17T22:29:28.870Z",
+  "updated_at": "2026-05-17T23:34:17.634Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 16,
+      "news_count_24h": 40,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 58,
+      "news_count_24h": 13,
+      "hype_score": 62,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 23,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 22,
+      "count": 23,
       "category": "ETF"
     },
     {
       "word": "PRICE",
-      "count": 22,
+      "count": 21,
       "category": "価格"
     },
     {
-      "word": "AMID",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 22,
+      "word": "CHINA",
+      "count": 20,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": "相場"
     },
     {
-      "word": "ACT",
+      "word": "CLARITY",
       "count": 20,
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 19,
+      "word": "ACT",
+      "count": 18,
       "category": null
     },
     {
@@ -245,13 +245,18 @@
       "category": null
     },
     {
+      "word": "MAJOR",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 13,
       "category": null
     },
     {
-      "word": "MAJOR",
-      "count": 13,
+      "word": "WHY",
+      "count": 12,
       "category": null
     },
     {
@@ -261,11 +266,6 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 12,
       "category": null
     },
@@ -280,18 +280,18 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "DRONE",
       "count": 11,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "SOLANA",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 10,
       "category": null
     },
     {
@@ -300,7 +300,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "REPORT",
       "count": 10,
       "category": null
     },
@@ -310,28 +310,28 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "BELOW",
       "count": 10,
       "category": null
     },
     {
-      "word": "INVESTMENT",
+      "word": "NEXT",
       "count": 9,
       "category": null
     },
     {
-      "word": "INSTITUTIONAL",
+      "word": "WARNS",
       "count": 9,
-      "category": "機関投資家"
+      "category": null
     },
     {
       "word": "SUMMIT",
-      "count": 8,
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "INVESTMENT",
+      "count": 9,
       "category": null
     }
   ],
