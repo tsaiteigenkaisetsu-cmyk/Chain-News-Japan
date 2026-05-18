@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T22:30:40.381Z",
+  "updated_at": "2026-05-18T23:40:31.600Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 136,
+      "news_count_24h": 140,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 16,
+      "news_count_24h": 51,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 3,
+      "news_count_24h": 42,
+      "hype_score": 2,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 23,
+      "hype_score": 26,
       "buzz_rank": 4
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 33,
+      "hype_score": 25,
       "buzz_rank": 6
     },
     {
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -186,18 +186,23 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 84,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 48,
+      "count": 85,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 44,
+      "count": 47,
       "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -205,18 +210,8 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
-    },
-    {
       "word": "HORMUZ",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 32,
       "category": null
     },
     {
@@ -225,13 +220,23 @@
       "category": "ETF"
     },
     {
+      "word": "MILLION",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 24,
       "category": null
     },
     {
@@ -250,8 +255,8 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 22,
+      "word": "WEEK",
+      "count": 21,
       "category": null
     },
     {
@@ -260,18 +265,13 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "HYPE",
       "count": 20,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 19,
+      "word": "MARKETS",
+      "count": 18,
       "category": null
     },
     {
@@ -280,13 +280,8 @@
       "category": null
     },
     {
-      "word": "BELOW",
+      "word": "STRATEGY",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 17,
       "category": null
     },
     {
@@ -295,17 +290,32 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "BELOW",
       "count": 17,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "RISK",
       "count": 16,
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "ACT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 15,
       "category": null
     },
@@ -322,16 +332,6 @@
     {
       "word": "IPO",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 14,
       "category": null
     }
   ],
