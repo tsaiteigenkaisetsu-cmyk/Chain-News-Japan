@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/05/19 10:32 JST
-- ソーシャル更新: 2026/05/19 08:40 JST
+- 生成時刻: 2026/05/19 16:01 JST
+- ソーシャル更新: 2026/05/19 14:48 JST
 - 総ニュース件数: 2000件
 - Reddit モード: rss
 
@@ -12,8 +12,8 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース140件 / SNS0
-2位 ETH ニュース51件 / SNS0
+1位 BTC ニュース145件 / SNS0
+2位 ETH ニュース47件 / SNS0
 3位 XRP ニュース42件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
@@ -28,10 +28,10 @@ https://chain-news-japan-webappjp.vercel.app
 
 ```text
 【昼の市場テーマ】
-いま強いテーマは IRAN / AMID / TRUMP。
+いま強いテーマは IRAN / TRUMP / AMID。
 注目通貨は BTC / ETH / XRP。
 
-現時点では BTC が先頭で、ニュース140件 / SNS0です。
+現時点では BTC が先頭で、ニュース145件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
@@ -43,7 +43,7 @@ https://chain-news-japan-webappjp.vercel.app
 ```text
 【夜のまとめ】
 きょう伸びた通貨を Hype スコア順で振り返ります。
-1位 DOT Hype 300 / ニュース1件
+1位 DOT Hype 400 / ニュース1件
 2位 ADA Hype 133 / ニュース6件
 3位 STETH Hype 100 / ニュース0件
 
