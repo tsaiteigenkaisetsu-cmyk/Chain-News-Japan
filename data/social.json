@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-05-19T05:48:07.144Z",
+  "updated_at": "2026-05-19T08:49:45.647Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 145,
+      "news_count_24h": 142,
       "hype_score": 8,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 21,
-      "buzz_rank": 2
+      "news_count_24h": 42,
+      "hype_score": 26,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 48,
       "hype_score": 2,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 19,
+      "news_count_24h": 28,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 60,
+      "news_count_24h": 11,
+      "hype_score": 45,
       "buzz_rank": 7
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 133,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 0,
       "buzz_rank": 12
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 10
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -176,48 +176,48 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 86,
+      "count": 87,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 42,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 41,
       "category": "価格"
     },
     {
-      "word": "MILLION",
-      "count": 32,
-      "category": null
+      "word": "ETF",
+      "count": 36,
+      "category": "ETF"
     },
     {
-      "word": "ETF",
-      "count": 32,
-      "category": "ETF"
+      "word": "MILLION",
+      "count": 35,
+      "category": null
     },
     {
       "word": "HORMUZ",
@@ -225,7 +225,7 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "WEEK",
       "count": 27,
       "category": null
     },
@@ -240,18 +240,13 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 25,
+      "word": "HYPERLIQUID",
+      "count": 26,
       "category": null
     },
     {
       "word": "TENSIONS",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "CHINA",
-      "count": 23,
       "category": null
     },
     {
@@ -265,8 +260,13 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -285,19 +285,29 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "SOLANA",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 17,
+      "category": "DeFi"
+    },
+    {
+      "word": "WHY",
       "count": 17,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 16,
-      "category": null
+      "word": "INSTITUTIONAL",
+      "count": 17,
+      "category": "機関投資家"
     },
     {
       "word": "CLARITY",
@@ -305,17 +315,7 @@
       "category": null
     },
     {
-      "word": "INSTITUTIONAL",
-      "count": 16,
-      "category": "機関投資家"
-    },
-    {
-      "word": "WHY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "LAUNCHES",
       "count": 16,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "WHAT",
       "count": 15,
-      "category": "DeFi"
+      "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "BELOW",
       "count": 15,
       "category": null
     }
