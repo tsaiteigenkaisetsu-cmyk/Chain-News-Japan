@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-20T22:52:12.054Z",
+  "updated_at": "2026-05-20T23:59:07.685Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 4,
+      "news_count_24h": 96,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 21,
+      "news_count_24h": 38,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -34,26 +34,26 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 12,
+      "hype_score": 58,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 600,
       "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 1000,
       "buzz_rank": 10
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 57,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 63,
+      "count": 64,
       "category": "価格"
     },
     {
@@ -201,23 +201,28 @@
     },
     {
       "word": "ETF",
-      "count": 38,
+      "count": 39,
       "category": "ETF"
     },
     {
       "word": "IRAN",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 33,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 33,
+      "count": 32,
       "category": "規制"
+    },
+    {
+      "word": "AMID",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 28,
+      "category": null
     },
     {
       "word": "LAUNCHES",
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
       "word": "MARKETS",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 25,
       "category": null
     },
     {
@@ -280,12 +280,17 @@
       "category": null
     },
     {
-      "word": "SUPPORT",
+      "word": "TOKENIZED",
       "count": 21,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "PREDICTION",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SUPPORT",
       "count": 21,
       "category": null
     },
@@ -295,19 +300,19 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "IPO",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 18,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "SPACEX",
       "count": 18,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "OFF",
@@ -320,12 +325,7 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
