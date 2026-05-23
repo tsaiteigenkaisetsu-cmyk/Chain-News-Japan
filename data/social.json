@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-23T18:43:26.955Z",
+  "updated_at": "2026-05-23T19:50:33.437Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
-      "hype_score": 13,
+      "news_count_24h": 72,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 27,
+      "news_count_24h": 19,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -25,36 +25,36 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 70,
+      "news_count_24h": 7,
+      "hype_score": 114,
       "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 9
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 7
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 12
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 33,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 82,
+      "count": 85,
       "category": null
     },
     {
@@ -195,18 +195,18 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 48,
-      "category": "相場"
-    },
-    {
       "word": "AMID",
-      "count": 47,
+      "count": 50,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 49,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -216,22 +216,22 @@
     },
     {
       "word": "MARKETS",
-      "count": 36,
+      "count": 34,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
-      "count": 28,
+      "count": 33,
       "category": null
     },
     {
       "word": "WARSH",
-      "count": 26,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "RESERVE",
+      "count": 27,
       "category": null
     },
     {
@@ -245,19 +245,19 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 24,
+      "count": 23,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 24,
-      "category": "ETF"
     },
     {
       "word": "KALSHI",
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 22,
-      "category": null
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
     },
     {
-      "word": "IPO",
+      "word": "WHAT",
       "count": 22,
       "category": null
     },
@@ -280,37 +280,42 @@
       "category": null
     },
     {
-      "word": "FEDERAL",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 21,
       "category": null
     },
     {
-      "word": "HYPE",
+      "word": "FEDERAL",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HYPE",
+      "count": 19,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 19,
-      "category": "相場"
-    },
-    {
-      "word": "NEXT",
       "count": 19,
       "category": null
     },
@@ -320,19 +325,14 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "TALKS",
       "count": 18,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "RALLY",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 18,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
