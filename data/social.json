@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-24T17:35:36.645Z",
+  "updated_at": "2026-05-24T18:44:41.102Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 39,
-      "hype_score": 23,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 10,
+      "news_count_24h": 22,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 7
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 71,
       "buzz_rank": 4
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 60,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 88,
+      "count": 86,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 37,
+      "count": 39,
       "category": null
     },
     {
@@ -220,28 +220,33 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 21,
-      "category": "相場"
-    },
-    {
       "word": "KEVIN",
       "count": 21,
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "MARKET",
       "count": 20,
-      "category": "規制"
+      "category": "相場"
     },
     {
       "word": "FED",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "WHAT",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 18,
+      "category": "規制"
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 17,
       "category": null
     },
     {
@@ -256,16 +261,6 @@
     },
     {
       "word": "NEXT",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 16,
       "category": null
     },
@@ -285,13 +280,18 @@
       "category": null
     },
     {
-      "word": "SENTIMENT",
+      "word": "WHY",
       "count": 15,
       "category": null
     },
     {
       "word": "HYPE",
-      "count": 14,
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "SENTIMENT",
+      "count": 15,
       "category": null
     },
     {
@@ -301,11 +301,6 @@
     },
     {
       "word": "PEACE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "NUCLEAR",
       "count": 14,
       "category": null
     },
@@ -325,14 +320,19 @@
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
+    },
+    {
+      "word": "BILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 12,
+      "category": null
     }
   ],
   "stats": {
