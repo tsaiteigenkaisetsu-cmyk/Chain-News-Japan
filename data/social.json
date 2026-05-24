@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-24T20:40:28.579Z",
+  "updated_at": "2026-05-24T21:39:59.979Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 18,
+      "news_count_24h": 34,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -95,11 +95,11 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 7
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
+      "news_count_24h": 3,
+      "hype_score": 67,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 87,
+      "count": 84,
       "category": null
     },
     {
@@ -196,17 +196,12 @@
     },
     {
       "word": "DEAL",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "WARSH",
-      "count": 25,
+      "count": 32,
       "category": null
     },
     {
@@ -215,19 +210,14 @@
       "category": null
     },
     {
+      "word": "WARSH",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 21,
       "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 20,
-      "category": "相場"
-    },
-    {
-      "word": "KEVIN",
-      "count": 20,
-      "category": null
     },
     {
       "word": "WHAT",
@@ -235,14 +225,14 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 17,
+      "word": "KEVIN",
+      "count": 18,
       "category": null
     },
     {
-      "word": "CHAIR",
+      "word": "MARKET",
       "count": 17,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "NEXT",
@@ -255,37 +245,27 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "FED",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "CHAIR",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 15,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SEC",
       "count": 15,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "RISK",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "RATE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "PEACE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "FEDERAL",
       "count": 14,
       "category": null
     },
@@ -295,19 +275,14 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "PEACE",
       "count": 13,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
-      "count": 13,
-      "category": null
+      "word": "SEC",
+      "count": 12,
+      "category": "規制"
     },
     {
       "word": "BILLION",
@@ -315,7 +290,7 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "HORMUZ",
       "count": 12,
       "category": null
     },
@@ -325,13 +300,38 @@
       "category": "ETF"
     },
     {
-      "word": "SURGES",
+      "word": "BUY",
       "count": 11,
       "category": null
     },
     {
-      "word": "HYPE",
+      "word": "AGREEMENT",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RESERVE",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SURGES",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "HYPE",
+      "count": 10,
       "category": null
     }
   ],
