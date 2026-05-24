@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-24T15:33:13.298Z",
+  "updated_at": "2026-05-24T16:36:11.828Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 44,
       "hype_score": 23,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 19,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 50,
+      "hype_score": 100,
       "buzz_rank": 7
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
+      "news_count_24h": 7,
+      "hype_score": 86,
       "buzz_rank": 5
     },
     {
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 60,
       "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
+      "hype_score": 0,
       "buzz_rank": 9
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -191,12 +191,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 53,
+      "count": 49,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 44,
+      "count": 42,
       "category": null
     },
     {
@@ -206,27 +206,27 @@
     },
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 28,
       "category": "価格"
     },
     {
       "word": "MARKETS",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "WARSH",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 22,
       "category": "相場"
     },
     {
       "word": "KEVIN",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -235,23 +235,28 @@
       "category": "規制"
     },
     {
-      "word": "WHAT",
-      "count": 19,
+      "word": "HYPERLIQUID",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 18,
       "category": null
     },
     {
       "word": "FED",
-      "count": 19,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 18,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CHAIR",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
@@ -260,53 +265,43 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "CHAIR",
       "count": 17,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FEDERAL",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "KALSHI",
       "count": 16,
       "category": null
     },
     {
-      "word": "POLYMARKET",
+      "word": "RESERVE",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "FEDERAL",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HYPE",
       "count": 15,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "KALSHI",
       "count": 15,
       "category": null
     },
     {
       "word": "SENTIMENT",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 14,
       "category": null
     },
     {
@@ -320,18 +315,23 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "NUCLEAR",
       "count": 14,
       "category": null
     },
     {
-      "word": "HYPE",
+      "word": "HORMUZ",
       "count": 14,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 14,
+      "word": "REPORT",
+      "count": 13,
       "category": null
     }
   ],
