@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T22:04:59.297Z",
+  "updated_at": "2026-05-25T23:18:36.266Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 86,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 24,
+      "news_count_24h": 53,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 89,
+      "hype_score": 100,
       "buzz_rank": 4
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 200,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 5
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 54,
+      "count": 61,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 29,
+      "count": 31,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -211,22 +211,32 @@
     },
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 25,
       "category": "相場"
     },
     {
       "word": "STABLECOIN",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 16,
+      "count": 18,
       "category": null
     },
     {
       "word": "MILLION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "FOUNDATION",
+      "count": 14,
       "category": null
     },
     {
@@ -240,7 +250,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "BILLION",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "DEMAND",
       "count": 13,
       "category": null
     },
@@ -255,17 +270,22 @@
       "category": null
     },
     {
-      "word": "FOUNDATION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
+      "word": "LAUNCHES",
       "count": 12,
       "category": null
     },
     {
-      "word": "DEMAND",
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
+    },
+    {
+      "word": "FED",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
       "count": 12,
       "category": null
     },
@@ -285,6 +305,16 @@
       "category": null
     },
     {
+      "word": "STRIKES",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 11,
       "category": null
@@ -295,42 +325,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "RISK",
       "count": 11,
       "category": null
     },
     {
-      "word": "FED",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
-    },
-    {
-      "word": "REPORT",
+      "word": "TETHER",
       "count": 10,
       "category": null
     }
