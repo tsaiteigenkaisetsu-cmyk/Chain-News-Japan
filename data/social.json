@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T21:21:54.347Z",
+  "updated_at": "2026-05-26T22:45:08.562Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 105,
-      "hype_score": 7,
+      "news_count_24h": 110,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 11,
+      "news_count_24h": 43,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 41,
       "hype_score": 2,
       "buzz_rank": 3
     },
@@ -50,11 +50,11 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
-      "buzz_rank": 8
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -88,26 +88,26 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
-      "buzz_rank": 7
+      "news_count_24h": 14,
+      "hype_score": 7,
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 9
+      "news_count_24h": 12,
+      "hype_score": 8,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 15
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
-      "buzz_rank": 5
+      "news_count_24h": 13,
+      "hype_score": 15,
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,48 +186,58 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 63,
+      "count": 67,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 48,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 47,
       "category": "価格"
     },
     {
-      "word": "AMID",
-      "count": 45,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 41,
+      "count": 44,
       "category": "相場"
     },
     {
       "word": "DEAL",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "ETF",
       "count": 23,
       "category": "ETF"
+    },
+    {
+      "word": "TRUMP",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 22,
+      "category": null
     },
     {
       "word": "WARNS",
@@ -240,17 +250,22 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "MILLION",
       "count": 21,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "HYPERLIQUID",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
       "count": 20,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STABLECOIN",
       "count": 20,
       "category": null
     },
@@ -260,13 +275,8 @@
       "category": "相場"
     },
     {
-      "word": "PREDICTION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
-      "count": 20,
+      "word": "WHY",
+      "count": 19,
       "category": null
     },
     {
@@ -275,17 +285,17 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 19,
+      "word": "SOLANA",
+      "count": 18,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 19,
+      "word": "DATA",
+      "count": 18,
       "category": null
     },
     {
-      "word": "HYPE",
+      "word": "BILLION",
       "count": 18,
       "category": null
     },
@@ -300,12 +310,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "DATA",
+      "word": "HYPE",
       "count": 17,
       "category": null
     },
@@ -316,11 +321,6 @@
     },
     {
       "word": "CEO",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 17,
       "category": null
     },
