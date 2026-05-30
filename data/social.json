@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-30T15:20:20.992Z",
+  "updated_at": "2026-05-30T16:32:50.386Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 9,
+      "news_count_24h": 76,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -23,19 +23,19 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
+      "news_count_24h": 20,
+      "hype_score": 10,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 200,
+      "news_count_24h": 3,
+      "hype_score": 300,
       "buzz_rank": 9
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 300,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 100,
-      "buzz_rank": 5
+      "news_count_24h": 7,
+      "hype_score": 114,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -124,17 +124,17 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 8
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 47,
+      "count": 43,
       "category": "価格"
     },
     {
@@ -206,7 +206,12 @@
     },
     {
       "word": "HORMUZ",
-      "count": 33,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 32,
       "category": null
     },
     {
@@ -215,17 +220,12 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
+      "word": "BILLION",
       "count": 27,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
@@ -240,37 +240,32 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 24,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
-      "category": null
+      "word": "SEC",
+      "count": 22,
+      "category": "規制"
     },
     {
-      "word": "TREASURY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHAT",
+      "word": "MILLION",
       "count": 22,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "WHY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 22,
       "category": null
     },
@@ -290,19 +285,24 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "WARNS",
       "count": 21,
-      "category": "規制"
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 21,
+      "category": null
     },
     {
       "word": "ETF",
-      "count": 21,
-      "category": "ETF"
-    },
-    {
-      "word": "WARNS",
       "count": 19,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "COINBASE",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "SUI",
-      "count": 17,
+      "word": "LAUNCHES",
+      "count": 16,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 16,
+      "word": "WEEK",
+      "count": 15,
       "category": null
     }
   ],
