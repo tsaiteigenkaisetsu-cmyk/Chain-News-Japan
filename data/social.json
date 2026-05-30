@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-30T21:11:26.931Z",
+  "updated_at": "2026-05-30T22:13:33.829Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 65,
-      "hype_score": 6,
+      "news_count_24h": 60,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
       "buzz_rank": 3
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 333,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 350,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKET",
-      "count": 32,
+      "count": 31,
       "category": "相場"
     },
     {
@@ -250,13 +250,13 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "CFTC",
       "count": 22,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 22,
+      "word": "TREASURY",
+      "count": 21,
       "category": null
     },
     {
@@ -266,17 +266,17 @@
     },
     {
       "word": "WHAT",
-      "count": 21,
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 19,
       "category": null
     },
     {
       "word": "WARNS",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 18,
       "category": null
     },
     {
@@ -286,18 +286,8 @@
     },
     {
       "word": "SEC",
-      "count": 18,
+      "count": 17,
       "category": "規制"
-    },
-    {
-      "word": "MARKETS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
     },
     {
       "word": "ACT",
@@ -305,9 +295,9 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ETF",
       "count": 16,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "JPMORGAN",
@@ -315,12 +305,22 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "WHY",
       "count": 15,
       "category": null
     },
     {
       "word": "BANK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 14,
       "category": null
     },
