@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T15:58:30.295Z",
+  "updated_at": "2026-05-31T17:19:09.412Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,35 +7,35 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 19,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 100,
-      "buzz_rank": 4
+      "hype_score": 120,
+      "buzz_rank": 6
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 11,
+      "news_count_24h": 15,
+      "hype_score": 7,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 83,
+      "hype_score": 100,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 5
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 30,
-      "category": "価格"
-    },
-    {
       "word": "HORMUZ",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 27,
+      "category": "価格"
+    },
+    {
       "word": "TENSIONS",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -221,22 +221,17 @@
     },
     {
       "word": "MARKET",
-      "count": 20,
+      "count": 18,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "CLARITY",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 19,
+      "word": "WHY",
+      "count": 17,
       "category": null
     },
     {
@@ -245,37 +240,17 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "DEAL",
       "count": 16,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 15,
+      "word": "TRUMP",
+      "count": 16,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
       "count": 14,
       "category": null
     },
@@ -285,27 +260,32 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 13,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "ACT",
       "count": 13,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "NUCLEAR",
       "count": 12,
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "TALKS",
       "count": 12,
       "category": null
     },
@@ -315,22 +295,42 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 11,
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "ANALYST",
       "count": 11,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "DIGITAL",
       "count": 10,
       "category": null
     },
     {
-      "word": "FUTURES",
+      "word": "TRADING",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SUPPORT",
       "count": 10,
       "category": null
     }
