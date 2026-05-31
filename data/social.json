@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-31T10:23:06.868Z",
+  "updated_at": "2026-05-31T11:53:41.594Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 19,
+      "news_count_24h": 34,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 30,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 233,
+      "news_count_24h": 4,
+      "hype_score": 150,
       "buzz_rank": 4
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 5
+      "news_count_24h": 2,
+      "hype_score": 250,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 66,
+      "count": 63,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 38,
+      "count": 32,
       "category": "価格"
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "TENSIONS",
       "count": 23,
-      "category": "相場"
+      "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "MARKET",
       "count": 22,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "CLARITY",
@@ -260,12 +260,7 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
+      "word": "ANALYST",
       "count": 16,
       "category": null
     },
@@ -275,32 +270,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "ANALYST",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 15,
       "category": null
     },
@@ -310,8 +280,23 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "FUTURES",
+      "count": 14,
       "category": null
     },
     {
@@ -325,14 +310,29 @@
       "category": null
     },
     {
-      "word": "FUTURES",
+      "word": "WEEK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 13,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 13,
-      "category": "規制"
+      "word": "IRANIAN",
+      "count": 12,
+      "category": null
     }
   ],
   "stats": {
