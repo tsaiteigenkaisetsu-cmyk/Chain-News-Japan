@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-05T16:41:30.663Z",
+  "updated_at": "2026-06-05T18:29:06.275Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
-      "hype_score": 8,
+      "news_count_24h": 124,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 26,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,35 +25,35 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 19,
-      "buzz_rank": 4
+      "news_count_24h": 14,
+      "hype_score": 14,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 250,
+      "hype_score": 200,
       "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 127,
+      "news_count_24h": 12,
+      "hype_score": 92,
       "buzz_rank": 6
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 200,
       "buzz_rank": 16
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 8
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "PRICE",
-      "count": 85,
+      "count": 88,
       "category": "価格"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "SPACEX",
-      "count": 42,
+      "count": 45,
       "category": null
     },
     {
@@ -211,22 +211,27 @@
     },
     {
       "word": "BELOW",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 36,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "BILLION",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 33,
       "category": null
     },
     {
       "word": "ZCASH",
-      "count": 30,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 31,
       "category": null
     },
     {
@@ -235,38 +240,38 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 30,
+      "word": "SAYLOR",
+      "count": 28,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "HYPE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 27,
       "category": null
     },
     {
       "word": "FALLS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "HYPE",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 25,
       "category": null
     },
     {
@@ -275,37 +280,37 @@
       "category": null
     },
     {
-      "word": "SAYLOR",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SINCE",
       "count": 23,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "WHAT",
       "count": 22,
-      "category": "ETF"
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "ZEC",
+      "count": 21,
+      "category": null
     },
     {
       "word": "TREASURY",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "HAYES",
-      "count": 20,
+      "word": "BITMINE",
+      "count": 21,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "MILLION",
       "count": 20,
       "category": null
     },
@@ -315,23 +320,18 @@
       "category": null
     },
     {
-      "word": "BITMINE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "WHAT",
+      "word": "SUPPORT",
       "count": 19,
       "category": null
     },
     {
-      "word": "ZEC",
+      "word": "HAYES",
       "count": 19,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 19,
+      "word": "WHY",
+      "count": 18,
       "category": null
     }
   ],
