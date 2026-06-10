@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-10T20:45:39.058Z",
+  "updated_at": "2026-06-10T22:32:40.253Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 8,
+      "news_count_24h": 117,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
@@ -16,26 +16,26 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 36,
       "hype_score": 11,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 11,
+      "news_count_24h": 32,
+      "hype_score": 9,
       "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 22,
+      "news_count_24h": 26,
+      "hype_score": 31,
       "buzz_rank": 4
     },
     {
@@ -50,11 +50,11 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
-      "buzz_rank": 6
+      "news_count_24h": 12,
+      "hype_score": 50,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 8
     },
     {
@@ -99,16 +99,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 17
     },
     {
@@ -186,62 +186,62 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 83,
+      "count": 89,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 77,
+      "count": 78,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 69,
+      "count": 68,
       "category": "相場"
     },
     {
       "word": "MARKETS",
-      "count": 55,
+      "count": 57,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "CUP",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 42,
+      "count": 50,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 41,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "CUP",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 43,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 37,
+      "count": 34,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -251,17 +251,22 @@
     },
     {
       "word": "WHY",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "ISRAEL",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 28,
+      "word": "CEO",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 27,
       "category": null
     },
     {
@@ -270,13 +275,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 26,
+      "word": "DATA",
+      "count": 27,
       "category": null
     },
     {
@@ -290,12 +290,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "TARGETS",
       "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "ACT",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
       "count": 24,
       "category": null
     },
@@ -305,33 +315,23 @@
       "category": "DeFi"
     },
     {
-      "word": "ACT",
+      "word": "DEAL",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "OFF",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
+      "count": 23,
       "category": null
     },
     {
       "word": "DOWN",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "OFF",
-      "count": 21,
       "category": null
     }
   ],
