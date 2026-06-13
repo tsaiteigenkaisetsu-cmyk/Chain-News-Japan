@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T11:30:32.043Z",
+  "updated_at": "2026-06-13T13:09:33.411Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 63,
-      "hype_score": 11,
+      "news_count_24h": 61,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 57,
+      "news_count_24h": 16,
+      "hype_score": 50,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 13,
+      "hype_score": 23,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 11,
+      "hype_score": 64,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 57,
       "buzz_rank": 7
     },
     {
@@ -61,18 +61,18 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 5,
+      "hype_score": 80,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 13
     },
     {
@@ -186,52 +186,52 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 132,
+      "count": 136,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 132,
+      "count": 136,
       "category": null
     },
     {
       "word": "SPACEX",
-      "count": 100,
+      "count": 96,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 78,
+      "count": 75,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 74,
+      "count": 70,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 57,
+      "count": 50,
       "category": "価格"
     },
     {
-      "word": "TRUMP",
-      "count": 49,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "TRUMP",
       "count": 43,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 36,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 39,
       "category": null
     },
     {
@@ -240,37 +240,27 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
+      "word": "OFF",
       "count": 34,
       "category": null
     },
     {
-      "word": "OFF",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "SHARES",
-      "count": 29,
+      "word": "TOKENIZED",
+      "count": 32,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 27,
+      "count": 29,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "SHARES",
       "count": 26,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 25,
-      "category": "ETF"
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "MUSK",
       "count": 25,
       "category": null
     },
@@ -280,32 +270,42 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "OPENER",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "MUSK",
-      "count": 24,
+      "word": "KICKS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 22,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 22,
       "category": null
     },
@@ -315,24 +315,24 @@
       "category": null
     },
     {
-      "word": "OPENER",
+      "word": "FACES",
       "count": 21,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DEBUT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "KICKS",
+      "word": "TRADING",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     }
   ],
   "stats": {
