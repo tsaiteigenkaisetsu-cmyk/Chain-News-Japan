@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T20:04:12.966Z",
+  "updated_at": "2026-06-14T20:39:45.989Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 48,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
+      "news_count_24h": 16,
+      "hype_score": 50,
       "buzz_rank": 2
     },
     {
@@ -186,32 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 192,
+      "count": 191,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 186,
+      "count": 185,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 60,
+      "count": 58,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "SPACEX",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -220,17 +215,17 @@
       "category": null
     },
     {
-      "word": "IEM",
+      "word": "FIFA",
       "count": 35,
       "category": null
     },
     {
-      "word": "OPENER",
-      "count": 32,
+      "word": "IEM",
+      "count": 34,
       "category": null
     },
     {
-      "word": "OFF",
+      "word": "OPENER",
       "count": 31,
       "category": null
     },
@@ -240,13 +235,8 @@
       "category": null
     },
     {
-      "word": "TEAM",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 26,
+      "word": "OFF",
+      "count": 28,
       "category": null
     },
     {
@@ -260,18 +250,23 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TEAM",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 23,
       "category": null
     },
     {
       "word": "KICKS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -285,6 +280,16 @@
       "category": "相場"
     },
     {
+      "word": "MARKETS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
+    },
+    {
       "word": "PEACE",
       "count": 19,
       "category": null
@@ -295,12 +300,12 @@
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "AHEAD",
       "count": 18,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "MATCH",
       "count": 18,
       "category": null
     },
@@ -310,22 +315,17 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 18,
-      "category": "価格"
-    },
-    {
       "word": "FAN",
       "count": 17,
       "category": null
     },
     {
       "word": "BECOMES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
