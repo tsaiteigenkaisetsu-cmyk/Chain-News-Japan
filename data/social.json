@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T18:17:40.355Z",
+  "updated_at": "2026-06-14T18:50:02.259Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 13,
+      "news_count_24h": 43,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 190,
+      "count": 191,
       "category": null
     },
     {
@@ -210,18 +210,23 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "TRUMP",
       "count": 38,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "FIFA",
       "count": 37,
       "category": null
     },
     {
       "word": "IEM",
-      "count": 34,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
+      "count": 31,
       "category": null
     },
     {
@@ -232,11 +237,6 @@
     {
       "word": "OPENER",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 30,
       "category": null
     },
     {
@@ -251,17 +251,17 @@
     },
     {
       "word": "COLOGNE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 23,
+      "count": 25,
       "category": null
     },
     {
       "word": "AGAINST",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 22,
       "category": null
     },
     {
@@ -295,19 +295,9 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 19,
       "category": "価格"
-    },
-    {
-      "word": "BECOMES",
-      "count": 18,
-      "category": null
     },
     {
       "word": "AHEAD",
@@ -320,17 +310,27 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "MOROCCO",
       "count": 18,
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "FAN",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOURNAMENT",
+      "word": "BECOMES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "MATCH",
       "count": 17,
       "category": null
     }
