@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:15:22.565Z",
+  "updated_at": "2026-06-14T22:43:53.546Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 16,
+      "news_count_24h": 53,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 117,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 83,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 5
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 197,
+      "count": 195,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 190,
+      "count": 188,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 66,
+      "count": 64,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 47,
+      "count": 45,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 39,
       "category": null
     },
     {
@@ -221,12 +221,7 @@
     },
     {
       "word": "SPACEX",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "OPENER",
-      "count": 31,
+      "count": 34,
       "category": null
     },
     {
@@ -235,18 +230,28 @@
       "category": null
     },
     {
-      "word": "OFF",
-      "count": 28,
+      "word": "OPENER",
+      "count": 30,
       "category": null
     },
     {
-      "word": "TEAM",
-      "count": 25,
+      "word": "OFF",
+      "count": 27,
       "category": null
     },
     {
       "word": "COLOGNE",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "TEAM",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 23,
       "category": null
     },
     {
@@ -256,16 +261,6 @@
     },
     {
       "word": "FACES",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 22,
       "category": null
     },
@@ -280,13 +275,8 @@
       "category": "相場"
     },
     {
-      "word": "KICKS",
+      "word": "MARKETS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
-      "count": 20,
       "category": null
     },
     {
@@ -295,13 +285,13 @@
       "category": null
     },
     {
-      "word": "BRAZIL",
-      "count": 18,
+      "word": "KICKS",
+      "count": 20,
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 18,
+      "word": "AHEAD",
+      "count": 19,
       "category": null
     },
     {
@@ -320,7 +310,7 @@
       "category": null
     },
     {
-      "word": "TOURNAMENT",
+      "word": "SCORES",
       "count": 17,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "BRAZIL",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TOURNAMENT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FAN",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
