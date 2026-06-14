@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:43:53.546Z",
+  "updated_at": "2026-06-14T23:12:13.689Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
+      "news_count_24h": 52,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 350,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -124,18 +124,18 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 0,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 195,
+      "count": 193,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 188,
+      "count": 186,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -215,12 +215,12 @@
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 35,
+      "word": "SPACEX",
+      "count": 34,
       "category": null
     },
     {
-      "word": "SPACEX",
+      "word": "FIFA",
       "count": 34,
       "category": null
     },
@@ -236,7 +236,7 @@
     },
     {
       "word": "OFF",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -285,12 +285,12 @@
       "category": null
     },
     {
-      "word": "KICKS",
-      "count": 20,
+      "word": "AHEAD",
+      "count": 19,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "KICKS",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
