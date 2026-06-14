@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:09:48.336Z",
+  "updated_at": "2026-06-14T17:47:55.532Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
+      "news_count_24h": 46,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
+      "news_count_24h": 13,
+      "hype_score": 62,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
+      "news_count_24h": 10,
+      "hype_score": 30,
       "buzz_rank": 3
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 5
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,18 +115,18 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -186,83 +186,73 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 188,
+      "count": 189,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 182,
+      "count": 184,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 64,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
       "count": 59,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 48,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 44,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "OPENER",
-      "count": 33,
+      "count": 36,
       "category": null
     },
     {
       "word": "IEM",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
       "count": 31,
       "category": null
     },
     {
       "word": "OFF",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "MAJOR",
+      "word": "OPENER",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TEAM",
       "count": 27,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
-    },
-    {
-      "word": "TEAM",
-      "count": 26,
+      "word": "COLOGNE",
+      "count": 25,
       "category": null
-    },
-    {
-      "word": "PEACE",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
     },
     {
       "word": "AGAINST",
@@ -270,12 +260,17 @@
       "category": null
     },
     {
-      "word": "KICKS",
-      "count": 22,
+      "word": "FACES",
+      "count": 23,
       "category": null
     },
     {
-      "word": "COLOGNE",
+      "word": "KICKS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 22,
       "category": null
     },
@@ -285,18 +280,23 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 21,
-      "category": null
+      "word": "MARKET",
+      "count": 22,
+      "category": "相場"
     },
     {
-      "word": "ANTHROPIC",
+      "word": "PRICE",
       "count": 21,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "AMID",
-      "count": 21,
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 20,
       "category": null
     },
     {
@@ -305,13 +305,23 @@
       "category": null
     },
     {
+      "word": "TOURNAMENT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "MOROCCO",
       "count": 18,
       "category": null
     },
     {
-      "word": "KRAKEN",
-      "count": 18,
+      "word": "MATCH",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "BECOMES",
+      "count": 17,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "TOURNAMENT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "BECOMES",
+      "word": "TOKEN",
       "count": 16,
       "category": null
     }
