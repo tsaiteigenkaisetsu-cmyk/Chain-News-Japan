@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T17:47:55.532Z",
+  "updated_at": "2026-06-14T18:17:40.355Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 30,
+      "hype_score": 10,
       "buzz_rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 167,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 189,
+      "count": 190,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 184,
+      "count": 185,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 59,
+      "count": 62,
       "category": null
     },
     {
@@ -206,27 +206,22 @@
     },
     {
       "word": "SPACEX",
-      "count": 44,
+      "count": 42,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "IEM",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 31,
       "category": null
     },
     {
@@ -240,8 +235,8 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 28,
+      "word": "MAJOR",
+      "count": 30,
       "category": null
     },
     {
@@ -250,8 +245,18 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "COLOGNE",
-      "count": 25,
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 23,
       "category": null
     },
     {
@@ -261,37 +266,17 @@
     },
     {
       "word": "FACES",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "KICKS",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 22,
-      "category": "相場"
-    },
-    {
-      "word": "PRICE",
       "count": 21,
-      "category": "価格"
-    },
-    {
-      "word": "AMID",
-      "count": 20,
       "category": null
     },
     {
@@ -300,12 +285,37 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 20,
+      "category": "相場"
+    },
+    {
       "word": "BRAZIL",
       "count": 20,
       "category": null
     },
     {
-      "word": "TOURNAMENT",
+      "word": "AMID",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
+    },
+    {
+      "word": "BECOMES",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ESPORTS",
       "count": 18,
       "category": null
     },
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "BECOMES",
+      "word": "TOURNAMENT",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "BIGGEST",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 16,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
