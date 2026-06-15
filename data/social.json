@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T01:32:01.546Z",
+  "updated_at": "2026-06-15T02:29:12.941Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
-      "hype_score": 16,
+      "news_count_24h": 62,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
+      "news_count_24h": 9,
+      "hype_score": 22,
       "buzz_rank": 4
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 16
     },
     {
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 195,
+      "count": 194,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 189,
+      "count": 188,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 74,
+      "count": 79,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 51,
+      "count": 54,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
@@ -216,27 +216,32 @@
     },
     {
       "word": "FIFA",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "OPENER",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "SPACEX",
+      "word": "MAJOR",
       "count": 30,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 29,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 25,
       "category": null
     },
     {
@@ -245,12 +250,12 @@
       "category": null
     },
     {
-      "word": "PEACE",
+      "word": "TEAM",
       "count": 24,
       "category": null
     },
     {
-      "word": "TEAM",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -260,24 +265,24 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
+      "word": "FACES",
       "count": 22,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 21,
+      "word": "ANTHROPIC",
+      "count": 22,
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 20,
+      "word": "SCORES",
+      "count": 19,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 19,
+      "category": "相場"
     },
     {
       "word": "FAN",
@@ -290,24 +295,24 @@
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "AHEAD",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "MATCH",
+      "count": 18,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SCORES",
       "count": 18,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 18,
-      "category": "相場"
+      "word": "GOAL",
+      "count": 17,
+      "category": null
     },
     {
       "word": "AMID",
@@ -328,11 +333,6 @@
       "word": "PRICE",
       "count": 17,
       "category": "価格"
-    },
-    {
-      "word": "MODELS",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
