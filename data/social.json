@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T23:43:08.891Z",
+  "updated_at": "2026-06-15T00:11:32.819Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
+      "news_count_24h": 55,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 40,
+      "news_count_24h": 19,
+      "hype_score": 42,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 194,
+      "count": 193,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 187,
+      "count": 186,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 69,
+      "count": 72,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
@@ -215,13 +215,8 @@
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "FIFA",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -235,6 +230,11 @@
       "category": null
     },
     {
+      "word": "SPACEX",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "OFF",
       "count": 25,
       "category": null
@@ -242,6 +242,16 @@
     {
       "word": "COLOGNE",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "PEACE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 24,
       "category": null
     },
     {
@@ -255,33 +265,23 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "PEACE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "FACES",
       "count": 21,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "MARKETS",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 20,
       "category": "相場"
     },
     {
-      "word": "MARKETS",
-      "count": 21,
+      "word": "IPO",
+      "count": 19,
       "category": null
     },
     {
@@ -305,13 +305,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 18,
-      "category": "価格"
-    },
-    {
       "word": "ESPORTS",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "BECOMES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 17,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "BRAZIL",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "TOURNAMENT",
-      "count": 16,
       "category": null
     }
   ],
