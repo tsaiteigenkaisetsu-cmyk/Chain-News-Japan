@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-15T19:18:39.430Z",
+  "updated_at": "2026-06-15T20:34:25.629Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 126,
-      "hype_score": 8,
+      "news_count_24h": 128,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 25,
+      "news_count_24h": 30,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 233,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 350,
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 113,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 129,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 10,
+      "news_count_24h": 23,
+      "hype_score": 9,
       "buzz_rank": 3
     },
     {
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 192,
+      "count": 191,
       "category": null
     },
     {
@@ -196,23 +196,33 @@
     },
     {
       "word": "IRAN",
-      "count": 126,
+      "count": 130,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 93,
+      "count": 97,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 63,
+      "count": 65,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 44,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
+      "word": "PEACE",
+      "count": 37,
+      "category": null
     },
     {
       "word": "MARKETS",
@@ -220,22 +230,17 @@
       "category": null
     },
     {
-      "word": "PEACE",
-      "count": 35,
+      "word": "AGAINST",
+      "count": 30,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
-    },
-    {
-      "word": "AGAINST",
+      "word": "MILLION",
       "count": 29,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "HORMUZ",
       "count": 29,
       "category": null
     },
@@ -245,8 +250,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "ANTHROPIC",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 27,
       "category": null
     },
     {
@@ -256,81 +266,71 @@
     },
     {
       "word": "FAN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
       "count": 26,
       "category": null
     },
     {
       "word": "WEEK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TEAM",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "IEM",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 23,
+      "count": 25,
       "category": null
     },
     {
       "word": "DEBUT",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TEAM",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "IEM",
       "count": 22,
       "category": null
     },
     {
       "word": "AHEAD",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MATCH",
-      "count": 20,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "AMID",
       "count": 20,
       "category": null
     }
