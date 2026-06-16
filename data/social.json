@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T20:06:25.654Z",
+  "updated_at": "2026-06-16T21:14:59.543Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 95,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 18,
       "buzz_rank": 2
     },
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
-      "buzz_rank": 5
+      "news_count_24h": 23,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,33 +186,38 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 210,
+      "count": 214,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 179,
+      "count": 175,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 173,
+      "count": 170,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 138,
+      "count": 142,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 65,
+      "count": 63,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 57,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -220,23 +225,18 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 55,
-      "category": "相場"
-    },
-    {
       "word": "OIL",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
       "word": "SPACEX",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 42,
+      "count": 44,
       "category": null
     },
     {
@@ -250,32 +250,32 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "STRAIT",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 36,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 34,
       "category": null
     },
     {
       "word": "ANTHROPIC",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "FIFA",
       "count": 32,
       "category": null
     },
@@ -283,6 +283,11 @@
       "word": "RALLY",
       "count": 32,
       "category": "相場"
+    },
+    {
+      "word": "COINBASE",
+      "count": 31,
+      "category": null
     },
     {
       "word": "BANK",
@@ -295,13 +300,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "LAUNCHES",
       "count": 28,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -310,28 +315,23 @@
       "category": null
     },
     {
-      "word": "JAPAN",
-      "count": 26,
+      "word": "AHEAD",
+      "count": 27,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "PREDICTION",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 25,
+      "count": 26,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
