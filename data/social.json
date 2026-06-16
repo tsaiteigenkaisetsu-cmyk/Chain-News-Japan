@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-16T04:12:59.302Z",
+  "updated_at": "2026-06-16T06:10:55.485Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
-      "hype_score": 5,
+      "news_count_24h": 116,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -25,26 +25,26 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
-      "buzz_rank": 5
+      "news_count_24h": 20,
+      "hype_score": 25,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 350,
+      "news_count_24h": 1,
+      "hype_score": 700,
       "buzz_rank": 14
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,96 +186,96 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 201,
+      "count": 197,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 195,
+      "count": 190,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 164,
+      "count": 169,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 115,
+      "count": 118,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 75,
+      "count": 77,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 48,
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
-      "word": "PEACE",
-      "count": 40,
-      "category": null
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
     },
     {
-      "word": "FIFA",
+      "word": "PEACE",
       "count": 39,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "HORMUZ",
       "count": 37,
-      "category": "相場"
+      "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 34,
+      "word": "FIFA",
+      "count": 37,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
-      "count": 28,
+      "count": 32,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 26,
+      "count": 30,
       "category": null
     },
     {
       "word": "AMID",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 26,
       "category": null
     },
@@ -285,7 +285,7 @@
       "category": null
     },
     {
-      "word": "OPENER",
+      "word": "IPO",
       "count": 25,
       "category": null
     },
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "OFF",
-      "count": 24,
-      "category": null
+      "word": "RALLY",
+      "count": 23,
+      "category": "相場"
     },
     {
-      "word": "MATCH",
-      "count": 24,
+      "word": "OFF",
+      "count": 23,
       "category": null
     },
     {
@@ -310,17 +310,12 @@
       "category": null
     },
     {
-      "word": "FAN",
+      "word": "OPENER",
       "count": 23,
       "category": null
     },
     {
-      "word": "KRAKEN",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "IPO",
+      "word": "MATCH",
       "count": 23,
       "category": null
     },
@@ -330,9 +325,14 @@
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "KRAKEN",
       "count": 22,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
