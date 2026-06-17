@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T22:54:40.772Z",
+  "updated_at": "2026-06-17T23:28:15.630Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
-      "buzz_rank": 3
+      "news_count_24h": 18,
+      "hype_score": 6,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 700,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "cardano",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "litecoin",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
@@ -221,18 +221,23 @@
     },
     {
       "word": "AMID",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "SPACEX",
       "count": 46,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 43,
+      "category": "価格"
     },
     {
       "word": "COINBASE",
@@ -245,13 +250,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 42,
-      "category": "価格"
-    },
-    {
       "word": "WARSH",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -260,12 +260,12 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 37,
+      "word": "RATES",
+      "count": 38,
       "category": null
     },
     {
-      "word": "RATES",
+      "word": "BANK",
       "count": 37,
       "category": null
     },
@@ -275,42 +275,37 @@
       "category": null
     },
     {
+      "word": "FEDERAL",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "RESERVE",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "KEVIN",
       "count": 34,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "FEDERAL",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "KEVIN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 33,
       "category": null
     },
@@ -320,12 +315,17 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 31,
+      "word": "TOKEN",
+      "count": 32,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "HORMUZ",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 31,
       "category": null
     },
