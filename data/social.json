@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T23:14:58.387Z",
+  "updated_at": "2026-06-18T23:56:26.493Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 8
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 39,
-      "buzz_rank": 5
+      "news_count_24h": 19,
+      "hype_score": 37,
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 167,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 181,
-      "category": null
-    },
-    {
-      "word": "WORLD",
       "count": 179,
       "category": null
     },
     {
-      "word": "CUP",
+      "word": "WORLD",
       "count": 174,
       "category": null
     },
     {
+      "word": "CUP",
+      "count": 169,
+      "category": null
+    },
+    {
       "word": "DEAL",
-      "count": 103,
+      "count": 102,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 85,
+      "count": 84,
       "category": null
     },
     {
@@ -226,13 +226,18 @@
     },
     {
       "word": "PRICE",
-      "count": 53,
+      "count": 54,
       "category": "価格"
     },
     {
       "word": "PREDICTION",
       "count": 49,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 48,
+      "category": "相場"
     },
     {
       "word": "AGAINST",
@@ -243,11 +248,6 @@
       "word": "FEDERAL",
       "count": 47,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 47,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -275,13 +275,13 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "OIL",
       "count": 39,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 39,
+      "word": "HORMUZ",
+      "count": 38,
       "category": null
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "SPACEX",
       "count": 31,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "BELOW",
+      "word": "RECORD",
       "count": 30,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
