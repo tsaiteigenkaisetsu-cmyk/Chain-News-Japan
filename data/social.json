@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T08:34:10.752Z",
+  "updated_at": "2026-06-18T10:00:36.947Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 35,
+      "news_count_24h": 24,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -27,24 +27,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 26,
+      "news_count_24h": 20,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 1400,
       "buzz_rank": 16
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 175,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 13
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 11
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 188,
+      "count": 182,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 171,
+      "count": 172,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 160,
+      "count": 161,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 97,
+      "count": 95,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 89,
+      "count": 88,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 60,
       "category": "相場"
     },
     {
@@ -225,14 +225,19 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "WARSH",
       "count": 49,
       "category": null
     },
     {
-      "word": "WARSH",
+      "word": "AMID",
       "count": 48,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
     },
     {
       "word": "OIL",
@@ -240,9 +245,9 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "LAUNCHES",
       "count": 43,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "COINBASE",
@@ -250,8 +255,13 @@
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 42,
+      "word": "AGAINST",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "FEDERAL",
+      "count": 41,
       "category": null
     },
     {
@@ -260,7 +270,7 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "SPACEX",
       "count": 41,
       "category": null
     },
@@ -270,62 +280,52 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "FEDERAL",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 38,
-      "category": null
-    },
-    {
       "word": "KEVIN",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 36,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 38,
       "category": null
     },
     {
       "word": "RESERVE",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "BINANCE",
       "count": 34,
       "category": null
     },
     {
       "word": "RECORD",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 33,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "HORMUZ",
       "count": 32,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "FACES",
       "count": 31,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "FACES",
       "count": 31,
       "category": null
     },
