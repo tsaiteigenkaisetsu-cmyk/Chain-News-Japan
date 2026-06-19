@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-19T00:49:26.390Z",
+  "updated_at": "2026-06-19T01:51:58.752Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 105,
-      "hype_score": 7,
+      "news_count_24h": 103,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 48,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "solana",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 35,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 175,
+      "count": 176,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 171,
+      "count": 168,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 166,
+      "count": 164,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 102,
+      "count": 103,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 84,
+      "count": 83,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 49,
       "category": "相場"
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "AGAINST",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -251,16 +251,16 @@
     },
     {
       "word": "AMID",
-      "count": 45,
-      "category": null
-    },
-    {
-      "word": "KEVIN",
-      "count": 43,
+      "count": 46,
       "category": null
     },
     {
       "word": "RESERVE",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "KEVIN",
       "count": 42,
       "category": null
     },
@@ -271,7 +271,7 @@
     },
     {
       "word": "RATE",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "HOLDS",
       "count": 36,
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 35,
+      "word": "FIFA",
+      "count": 36,
       "category": null
     },
     {
@@ -311,16 +311,11 @@
     },
     {
       "word": "BANK",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
+      "word": "CHINA",
       "count": 30,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "TALKS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 30,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
