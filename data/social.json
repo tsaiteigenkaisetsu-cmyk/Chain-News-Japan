@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T20:03:51.735Z",
+  "updated_at": "2026-06-19T20:41:17.869Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 81,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 21,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 5
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 14
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -90,15 +90,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 13,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 152,
+      "count": 153,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 145,
+      "count": 142,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 144,
+      "count": 141,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 84,
+      "count": 86,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -226,27 +226,32 @@
     },
     {
       "word": "PRICE",
-      "count": 48,
+      "count": 47,
       "category": "価格"
     },
     {
-      "word": "FED",
-      "count": 43,
+      "word": "HORMUZ",
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 39,
       "category": "相場"
     },
     {
-      "word": "AGAINST",
-      "count": 40,
+      "word": "FED",
+      "count": 39,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 39,
+      "word": "AGAINST",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 35,
       "category": null
     },
     {
@@ -255,23 +260,8 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "WARSH",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 33,
+      "word": "STOCK",
+      "count": 32,
       "category": null
     },
     {
@@ -285,33 +275,43 @@
       "category": null
     },
     {
-      "word": "FEDERAL",
+      "word": "TOKEN",
       "count": 32,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "LAUNCHES",
       "count": 31,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "TALKS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "WARSH",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STRC",
       "count": 29,
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "FEDERAL",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "END",
+      "count": 28,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "STRC",
+      "word": "IPO",
       "count": 28,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "CEO",
       "count": 27,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RESERVE",
       "count": 27,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
