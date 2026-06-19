@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:36:02.664Z",
+  "updated_at": "2026-06-19T23:00:21.000Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
+      "news_count_24h": 72,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 25,
+      "news_count_24h": 15,
+      "hype_score": 27,
       "buzz_rank": 5
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 50,
+      "hype_score": 0,
       "buzz_rank": 10
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,43 +186,43 @@
   "trend_words": [
     {
       "word": "CUP",
-      "count": 139,
+      "count": 138,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 137,
+      "count": 136,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 137,
+      "count": 134,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 80,
+      "count": 79,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 55,
+      "count": 52,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 48,
+      "count": 46,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 44,
-      "category": "価格"
     },
     {
       "word": "AMID",
       "count": 44,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 43,
+      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -236,7 +236,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -245,23 +245,18 @@
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "STRAIT",
       "count": 34,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "MATCH",
       "count": 33,
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 32,
+      "word": "AGAINST",
+      "count": 33,
       "category": null
     },
     {
@@ -275,8 +270,13 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 29,
+      "word": "FIFA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 30,
       "category": null
     },
     {
@@ -285,8 +285,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 29,
+      "word": "TOKEN",
+      "count": 28,
       "category": null
     },
     {
@@ -310,13 +310,13 @@
       "category": null
     },
     {
-      "word": "END",
-      "count": 27,
+      "word": "IPO",
+      "count": 26,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 26,
+      "word": "DATA",
+      "count": 25,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "END",
       "count": 25,
       "category": null
     },
     {
-      "word": "CHINA",
+      "word": "TRADING",
       "count": 25,
       "category": null
     }
