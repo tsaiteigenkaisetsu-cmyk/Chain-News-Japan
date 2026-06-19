@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T23:32:21.139Z",
+  "updated_at": "2026-06-19T23:58:48.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
+      "news_count_24h": 72,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 13,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 31,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
-      "buzz_rank": 5
+      "news_count_24h": 12,
+      "hype_score": 33,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 8,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -196,12 +196,12 @@
     },
     {
       "word": "IRAN",
-      "count": 133,
+      "count": 127,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 77,
+      "count": 76,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 42,
       "category": "相場"
     },
     {
@@ -231,12 +231,7 @@
     },
     {
       "word": "HORMUZ",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 37,
+      "count": 39,
       "category": null
     },
     {
@@ -245,17 +240,22 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "MATCH",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 33,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 33,
       "category": null
     },
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "AGAINST",
       "count": 32,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 32,
+      "word": "LAUNCHES",
+      "count": 31,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 25,
       "category": null
@@ -322,11 +327,6 @@
     {
       "word": "TRADING",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 24,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
