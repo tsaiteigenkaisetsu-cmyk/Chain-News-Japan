@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:43:00.984Z",
+  "updated_at": "2026-06-19T22:10:30.044Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 73,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 13,
       "buzz_rank": 5
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 29,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 22,
-      "buzz_rank": 3
+      "news_count_24h": 17,
+      "hype_score": 24,
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 0,
+      "hype_score": 20,
       "buzz_rank": 9
     },
     {
@@ -186,43 +186,38 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 145,
+      "count": 142,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 140,
+      "count": 136,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 139,
+      "count": 134,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 85,
+      "count": 83,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 60,
+      "count": 56,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 51,
+      "count": 48,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
-      "category": "価格"
-    },
-    {
-      "word": "TRUMP",
       "count": 44,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "AMID",
@@ -230,13 +225,18 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "TRUMP",
       "count": 42,
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 39,
+      "count": 40,
       "category": "相場"
     },
     {
@@ -246,21 +246,11 @@
     },
     {
       "word": "STRAIT",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "CFTC",
       "count": 34,
       "category": null
     },
@@ -270,22 +260,27 @@
       "category": null
     },
     {
+      "word": "CFTC",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 32,
       "category": null
     },
     {
+      "word": "FIFA",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "TOKEN",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "STRC",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TALKS",
       "count": 29,
       "category": null
     },
@@ -300,8 +295,18 @@
       "category": null
     },
     {
+      "word": "TALKS",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "BELOW",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 27,
       "category": null
     },
     {
@@ -315,17 +320,12 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CEO",
+      "word": "PLANS",
       "count": 25,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "CEO",
       "count": 25,
       "category": null
     },
