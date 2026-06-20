@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T09:16:48.488Z",
+  "updated_at": "2026-06-20T10:17:53.709Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
-      "hype_score": 10,
+      "news_count_24h": 56,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 23,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 13,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 22,
+      "news_count_24h": 17,
+      "hype_score": 24,
       "buzz_rank": 3
     },
     {
@@ -79,7 +79,7 @@
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
       "buzz_rank": 16
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 75,
       "buzz_rank": 12
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "CUP",
-      "count": 153,
+      "count": 154,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 151,
+      "count": 152,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 109,
+      "count": 106,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 68,
+      "count": 64,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 49,
+      "count": 46,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
+      "word": "MATCH",
       "count": 39,
-      "category": "価格"
+      "category": null
     },
     {
-      "word": "MATCH",
-      "count": 38,
-      "category": null
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
     },
     {
       "word": "TOKEN",
@@ -241,87 +241,77 @@
     },
     {
       "word": "HORMUZ",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 29,
+      "count": 32,
       "category": null
     },
     {
       "word": "FIFA",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "FACES",
       "count": 28,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "TALKS",
       "count": 28,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "FACES",
       "count": 27,
       "category": null
     },
     {
-      "word": "STRC",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "CFTC",
+      "word": "STOCK",
       "count": 26,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 24,
+      "word": "STRC",
+      "count": 26,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "FED",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 25,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 24,
+      "word": "OIL",
+      "count": 23,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 24,
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 23,
       "category": null
     },
     {
@@ -331,6 +321,16 @@
     },
     {
       "word": "GROUP",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 22,
       "category": null
     }
