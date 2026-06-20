@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-20T18:48:06.649Z",
+  "updated_at": "2026-06-20T19:19:42.127Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 24,
+      "news_count_24h": 39,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 30,
+      "news_count_24h": 9,
+      "hype_score": 22,
       "buzz_rank": 5
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 1400,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 150,
+      "count": 146,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 145,
+      "count": 141,
       "category": null
     },
     {
@@ -206,22 +206,17 @@
     },
     {
       "word": "AMID",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 40,
       "category": "相場"
     },
     {
       "word": "DEAL",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -230,8 +225,13 @@
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "PREDICTION",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "MATCH",
+      "count": 35,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "TALKS",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -256,51 +256,36 @@
     },
     {
       "word": "PRICE",
-      "count": 27,
+      "count": 28,
       "category": "価格"
     },
     {
-      "word": "AGAINST",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "FIFA",
+      "word": "ISRAELI",
       "count": 25,
       "category": null
     },
     {
-      "word": "ISRAELI",
+      "word": "FIFA",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 22,
       "category": null
     },
     {
       "word": "LEBANON",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 22,
       "category": null
     },
     {
-      "word": "WIN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "OIL",
       "count": 22,
       "category": null
     },
@@ -320,17 +305,32 @@
       "category": null
     },
     {
-      "word": "STRC",
+      "word": "TRADING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "WIN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "STRC",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SWITZERLAND",
+      "count": 20,
       "category": null
     },
     {
       "word": "TARGETS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CFTC",
       "count": 20,
       "category": null
     }
