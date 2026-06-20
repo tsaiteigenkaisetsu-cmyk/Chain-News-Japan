@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T20:00:29.843Z",
+  "updated_at": "2026-06-20T20:38:38.940Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 22,
+      "news_count_24h": 38,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 38,
+      "hype_score": 69,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 80,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -117,16 +117,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 33,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 145,
+      "count": 144,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 141,
+      "count": 140,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 87,
+      "count": 82,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 43,
       "category": null
     },
     {
@@ -205,33 +210,28 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 42,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 39,
+      "count": 37,
       "category": "相場"
     },
     {
       "word": "HORMUZ",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "MATCH",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 35,
+      "count": 33,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "TOKEN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -256,8 +256,13 @@
     },
     {
       "word": "PRICE",
-      "count": 28,
+      "count": 27,
       "category": "価格"
+    },
+    {
+      "word": "LEBANON",
+      "count": 24,
+      "category": null
     },
     {
       "word": "ISRAELI",
@@ -270,23 +275,18 @@
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "WARNS",
       "count": 23,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "GROUP",
-      "count": 21,
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WIN",
+      "count": 22,
       "category": null
     },
     {
@@ -295,13 +295,18 @@
       "category": null
     },
     {
-      "word": "WIN",
+      "word": "STOCK",
       "count": 21,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 21,
+      "word": "HEZBOLLAH",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 20,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "SWITZERLAND",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HEZBOLLAH",
-      "count": 19,
       "category": null
     }
   ],
