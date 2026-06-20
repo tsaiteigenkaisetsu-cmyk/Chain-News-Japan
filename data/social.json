@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T23:11:28.265Z",
+  "updated_at": "2026-06-20T23:42:58.532Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 30,
+      "news_count_24h": 19,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 133,
+      "count": 132,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 129,
+      "count": 128,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 77,
+      "count": 78,
       "category": null
     },
     {
@@ -211,12 +211,17 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 36,
       "category": "相場"
     },
     {
       "word": "HORMUZ",
-      "count": 34,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 32,
       "category": null
     },
     {
@@ -230,19 +235,9 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "PRICE",
+      "word": "DEAL",
       "count": 28,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "FACES",
@@ -250,12 +245,17 @@
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "TOKEN",
       "count": 28,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "PRICE",
+      "count": 27,
+      "category": "価格"
+    },
+    {
+      "word": "MATCH",
       "count": 27,
       "category": null
     },
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "GROUP",
       "count": 20,
       "category": null
@@ -310,7 +305,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "IPO",
       "count": 19,
       "category": null
     },
@@ -325,13 +320,18 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "AGAINST",
       "count": 18,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 18,
+      "count": 17,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
