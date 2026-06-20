@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T11:06:11.371Z",
+  "updated_at": "2026-06-20T11:48:25.422Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
+      "news_count_24h": 50,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 33,
-      "buzz_rank": 2
+      "news_count_24h": 16,
+      "hype_score": 38,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
-      "buzz_rank": 4
+      "news_count_24h": 13,
+      "hype_score": 15,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 24,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 7
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 10
+      "news_count_24h": 7,
+      "hype_score": 29,
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "CUP",
-      "count": 153,
+      "count": 155,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 152,
+      "count": 154,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 104,
+      "count": 100,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 64,
+      "count": 61,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "PREDICTION",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 42,
       "category": "相場"
     },
     {
@@ -231,21 +231,21 @@
     },
     {
       "word": "PRICE",
-      "count": 35,
+      "count": 33,
       "category": "価格"
     },
     {
       "word": "TOKEN",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "FIFA",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 30,
       "category": null
     },
@@ -261,11 +261,6 @@
     },
     {
       "word": "AGAINST",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
       "count": 27,
       "category": null
     },
@@ -280,18 +275,18 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "STRAIT",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 24,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 24,
+      "word": "GROUP",
+      "count": 23,
       "category": null
     },
     {
@@ -300,23 +295,18 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "CFTC",
       "count": 23,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "LAUNCHES",
       "count": 23,
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "FED",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 22,
       "category": null
     },
     {
@@ -325,12 +315,22 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "WIN",
       "count": 21,
-      "category": "ETF"
+      "category": null
     },
     {
-      "word": "PEACE",
+      "word": "PLANS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 21,
       "category": null
     }
