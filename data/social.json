@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-21T02:29:05.194Z",
+  "updated_at": "2026-06-21T03:57:13.912Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 16,
+      "news_count_24h": 44,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 1400,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "cardano",
@@ -54,25 +54,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 135,
+      "count": 129,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 131,
+      "count": 125,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 74,
+      "count": 73,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 40,
+      "count": 37,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 33,
-      "category": "相場"
-    },
-    {
       "word": "PREDICTION",
       "count": 32,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 32,
+      "category": "相場"
     },
     {
       "word": "TALKS",
@@ -235,29 +235,24 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "TOKEN",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "MATCH",
       "count": 27,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "MATCH",
       "count": 26,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "FACES",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 25,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "LEBANON",
@@ -268,6 +263,11 @@
       "word": "ISRAELI",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 24,
+      "category": "価格"
     },
     {
       "word": "FIFA",
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "FAN",
+      "word": "OIL",
       "count": 21,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 21,
+      "word": "FAN",
+      "count": 20,
       "category": null
     },
     {
@@ -315,22 +315,22 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WIN",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 17,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TRUMP",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WIN",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TARGETS",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
