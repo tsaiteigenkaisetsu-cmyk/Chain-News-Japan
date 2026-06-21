@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T16:07:40.210Z",
+  "updated_at": "2026-06-21T16:47:36.724Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 18,
+      "news_count_24h": 42,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 21,
+      "news_count_24h": 26,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -27,24 +27,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 100,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 1400,
+      "hype_score": 300,
       "buzz_rank": 16
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 167,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,31 +186,31 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 158,
+      "count": 161,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 154,
+      "count": 157,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 78,
+      "count": 77,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 35,
+      "count": 38,
       "category": null
     },
     {
       "word": "TALKS",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 34,
       "category": null
     },
@@ -221,12 +221,17 @@
     },
     {
       "word": "MATCH",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "STRAIT",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 28,
       "category": null
     },
     {
@@ -236,11 +241,6 @@
     },
     {
       "word": "FACES",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 28,
       "category": null
     },
@@ -260,8 +260,18 @@
       "category": "価格"
     },
     {
+      "word": "AGAINST",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "GROUP",
-      "count": 25,
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 23,
       "category": null
     },
     {
@@ -270,27 +280,17 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "ISRAELI",
       "count": 21,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 21,
+      "word": "MAJOR",
+      "count": 20,
       "category": null
     },
     {
-      "word": "JAPAN",
+      "word": "DEAL",
       "count": 20,
       "category": null
     },
@@ -300,38 +300,38 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 19,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "JAPAN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "COLOGNE",
       "count": 18,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
-    },
-    {
-      "word": "WIN",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "BRAZIL",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
-      "word": "HISTORIC",
-      "count": 15,
+      "word": "IEM",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 16,
       "category": null
     }
   ],
