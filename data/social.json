@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T23:12:22.472Z",
+  "updated_at": "2026-06-21T23:47:39.169Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 120,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 152,
+      "count": 148,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 149,
+      "count": 145,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "TALKS",
       "count": 36,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 36,
+      "word": "MARKETS",
+      "count": 34,
       "category": null
     },
     {
@@ -235,29 +235,29 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "STRAIT",
       "count": 26,
       "category": null
     },
     {
-      "word": "GROUP",
+      "word": "FACES",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 24,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 24,
       "category": "価格"
-    },
-    {
-      "word": "AGAINST",
-      "count": 23,
-      "category": null
     },
     {
       "word": "LEBANON",
@@ -281,31 +281,11 @@
     },
     {
       "word": "PREDICTION",
-      "count": 21,
+      "count": 19,
       "category": null
     },
     {
       "word": "JAPAN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "COLOGNE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "BRAZIL",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "FIFA",
       "count": 18,
       "category": null
     },
@@ -315,7 +295,17 @@
       "category": null
     },
     {
-      "word": "IEM",
+      "word": "COLOGNE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "BRAZIL",
       "count": 17,
       "category": null
     },
@@ -325,14 +315,24 @@
       "category": null
     },
     {
+      "word": "FIFA",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "ISRAEL",
       "count": 16,
       "category": null
     },
     {
-      "word": "CEASEFIRE",
-      "count": 15,
+      "word": "IEM",
+      "count": 16,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
     }
   ],
   "stats": {
