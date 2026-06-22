@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:36:14.609Z",
+  "updated_at": "2026-06-22T19:51:09.408Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 12,
+      "news_count_24h": 47,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 6
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 23,
+      "hype_score": 22,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
+      "news_count_24h": 7,
+      "hype_score": 43,
       "buzz_rank": 7
     },
     {
@@ -79,7 +79,7 @@
       "symbol": "DOT",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 500,
       "buzz_rank": 16
     },
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 137,
+      "count": 140,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 135,
+      "count": 138,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 82,
+      "count": 81,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -216,12 +216,27 @@
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 34,
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 28,
+      "category": "相場"
+    },
+    {
       "word": "MATCH",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 25,
       "category": null
     },
     {
@@ -230,23 +245,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
-    },
-    {
       "word": "BANK",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 24,
       "category": null
     },
     {
@@ -270,22 +270,22 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "MAJOR",
       "count": 22,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 20,
       "category": null
@@ -307,11 +312,6 @@
     {
       "word": "STRAIT",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 19,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "JUNE",
       "count": 17,
       "category": null
     },
     {
-      "word": "NETWORK",
+      "word": "TRUMP",
       "count": 17,
       "category": null
     }
