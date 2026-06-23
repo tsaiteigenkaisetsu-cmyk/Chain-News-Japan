@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T02:04:23.678Z",
+  "updated_at": "2026-06-23T03:22:05.116Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
-      "hype_score": 15,
+      "news_count_24h": 83,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
+      "news_count_24h": 55,
       "hype_score": 9,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 16,
+      "news_count_24h": 33,
+      "hype_score": 15,
       "buzz_rank": 3
     },
     {
@@ -186,17 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 145,
+      "count": 152,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 143,
+      "count": 150,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 75,
+      "count": 76,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 38,
       "category": null
     },
     {
@@ -205,18 +215,8 @@
       "category": "価格"
     },
     {
-      "word": "AMID",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "TALKS",
       "count": 37,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 35,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "FACES",
       "count": 24,
       "category": null
@@ -260,13 +265,23 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "MILLION",
       "count": 23,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 23,
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 21,
       "category": null
     },
     {
@@ -280,12 +295,12 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 21,
+      "word": "GROUP",
+      "count": 20,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "JUNE",
       "count": 20,
       "category": null
     },
@@ -295,22 +310,17 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 20,
       "category": null
     },
     {
-      "word": "GROUP",
+      "word": "ETF",
       "count": 19,
-      "category": null
+      "category": "ETF"
     },
     {
-      "word": "JUNE",
+      "word": "FIFA",
       "count": 19,
       "category": null
     },
@@ -320,19 +330,9 @@
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "STARMER",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
     }
   ],
   "stats": {
