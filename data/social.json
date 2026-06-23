@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:43:25.753Z",
+  "updated_at": "2026-06-23T23:11:23.133Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 82,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
+      "news_count_24h": 54,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 21,
+      "hype_score": 24,
       "buzz_rank": 4
     },
     {
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 165,
+      "count": 169,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 162,
+      "count": 166,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
@@ -210,28 +210,33 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 48,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 48,
       "category": "価格"
     },
     {
-      "word": "MARKETS",
-      "count": 46,
+      "word": "PREDICTION",
+      "count": 43,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 39,
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 38,
       "category": null
     },
     {
@@ -240,13 +245,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "FACES",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
@@ -285,6 +285,16 @@
       "category": null
     },
     {
+      "word": "DIGITAL",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "GROUP",
       "count": 28,
       "category": null
@@ -292,11 +302,6 @@
     {
       "word": "RECORD",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 27,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 26,
       "category": null
     },
     {
-      "word": "DIGITAL",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "WEEK",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 26,
       "category": null
     }
