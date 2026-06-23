@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-23T21:42:20.573Z",
+  "updated_at": "2026-06-23T22:11:59.850Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 11,
+      "news_count_24h": 84,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
+      "news_count_24h": 53,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 16,
+      "news_count_24h": 24,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 22,
+      "news_count_24h": 20,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 161,
+      "count": 164,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 158,
+      "count": 161,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 58,
       "category": "相場"
     },
     {
@@ -216,11 +216,16 @@
     },
     {
       "word": "MARKETS",
-      "count": 43,
+      "count": 45,
       "category": null
     },
     {
       "word": "TRUMP",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 40,
       "category": null
     },
@@ -235,13 +240,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "SOLANA",
       "count": 37,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 37,
+      "word": "FACES",
+      "count": 31,
       "category": null
     },
     {
@@ -255,7 +260,7 @@
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "FIFA",
       "count": 29,
       "category": null
     },
@@ -280,13 +285,13 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "RECORD",
       "count": 28,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 28,
+      "word": "GROUP",
+      "count": 27,
       "category": null
     },
     {
@@ -300,17 +305,12 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "GROUP",
       "count": 26,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
