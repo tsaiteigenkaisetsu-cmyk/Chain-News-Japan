@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-24T08:41:05.054Z",
+  "updated_at": "2026-06-24T09:57:07.305Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
-      "hype_score": 12,
+      "news_count_24h": 86,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
+      "news_count_24h": 53,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 19,
+      "hype_score": 26,
       "buzz_rank": 4
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 20,
-      "buzz_rank": 7
+      "news_count_24h": 16,
+      "hype_score": 19,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 8
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 83,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,16 +133,16 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 11
+      "news_count_24h": 7,
+      "hype_score": 29,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -186,32 +186,37 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 171,
+      "count": 174,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 167,
+      "count": 170,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 66,
+      "count": 67,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 54,
+      "count": 55,
       "category": "価格"
     },
     {
       "word": "IRAN",
       "count": 53,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 50,
       "category": null
     },
     {
@@ -225,17 +230,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 49,
+      "word": "DEAL",
+      "count": 40,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 45,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 39,
       "category": null
     },
@@ -245,33 +245,18 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
-      "count": 30,
+      "count": 34,
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 30,
+      "word": "SOLANA",
+      "count": 34,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -285,7 +270,17 @@
       "category": null
     },
     {
-      "word": "GROUP",
+      "word": "FOUNDATION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 29,
       "category": null
     },
@@ -295,38 +290,43 @@
       "category": null
     },
     {
+      "word": "MATCH",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "FAN",
       "count": 29,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "TRADING",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "JUNE",
       "count": 28,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "OIL",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 28,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "JUNE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "FOUNDATION",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
