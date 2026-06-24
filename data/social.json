@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T06:17:48.566Z",
+  "updated_at": "2026-06-24T07:34:44.899Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
-      "hype_score": 12,
+      "news_count_24h": 54,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 19,
+      "hype_score": 26,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -97,27 +97,27 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 83,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
-      "buzz_rank": 5
+      "news_count_24h": 18,
+      "hype_score": 6,
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,27 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 172,
+      "count": 174,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 168,
+      "count": 170,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 66,
+      "count": 67,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 59,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 54,
+      "count": 61,
       "category": null
     },
     {
@@ -215,8 +210,13 @@
       "category": "価格"
     },
     {
+      "word": "IRAN",
+      "count": 52,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 47,
+      "word": "BANK",
+      "count": 46,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 44,
+      "word": "MARKETS",
+      "count": 46,
       "category": null
     },
     {
@@ -240,32 +240,27 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "FACES",
       "count": 36,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
-      "count": 30,
+      "word": "SOLANA",
+      "count": 35,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "TOKEN",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 30,
       "category": null
     },
@@ -275,7 +270,22 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "LAUNCHES",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "DIGITAL",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 29,
       "category": null
     },
@@ -285,33 +295,23 @@
       "category": null
     },
     {
+      "word": "FIFA",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MATCH",
       "count": 29,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
+      "word": "GROUP",
       "count": 28,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "SENATE",
       "count": 26,
       "category": null
     },
     {
-      "word": "META",
-      "count": 25,
+      "word": "STOCK",
+      "count": 26,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
