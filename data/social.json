@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T03:22:04.800Z",
+  "updated_at": "2026-06-24T04:51:10.233Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 79,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
+      "news_count_24h": 58,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 5
     },
     {
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 168,
+      "count": 171,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 164,
+      "count": 167,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 63,
+      "word": "AMID",
+      "count": 57,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 54,
+      "word": "IRAN",
+      "count": 57,
       "category": null
     },
     {
@@ -215,23 +215,23 @@
       "category": "価格"
     },
     {
+      "word": "TRUMP",
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 47,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 47,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 45,
-      "category": null
-    },
-    {
       "word": "BANK",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -250,13 +250,28 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "MATCH",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 30,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 30,
+      "word": "AGAINST",
+      "count": 29,
       "category": null
     },
     {
@@ -270,17 +285,12 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 29,
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "FAN",
       "count": 28,
       "category": null
     },
@@ -290,17 +300,7 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "FAN",
       "count": 28,
       "category": null
     },
@@ -310,8 +310,18 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "FOUNDATION",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 26,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "WEEK",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 25,
       "category": null
     }
   ],
