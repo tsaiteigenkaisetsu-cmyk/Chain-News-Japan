@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T18:56:39.394Z",
+  "updated_at": "2026-06-25T19:35:52.715Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 105,
+      "news_count_24h": 104,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 19,
+      "news_count_24h": 29,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 43,
+      "news_count_24h": 20,
+      "hype_score": 45,
       "buzz_rank": 5
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 8
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 24,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 216,
+      "count": 215,
       "category": null
     },
     {
@@ -196,21 +196,16 @@
     },
     {
       "word": "MARKET",
-      "count": 82,
+      "count": 81,
       "category": "相場"
     },
     {
       "word": "IRAN",
-      "count": 71,
+      "count": 68,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 67,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 66,
       "category": null
     },
@@ -220,37 +215,42 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 63,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 56,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 54,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 48,
+      "count": 52,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 47,
+      "count": 50,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 47,
+      "count": 50,
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 43,
+      "word": "DEAL",
+      "count": 49,
       "category": null
     },
     {
       "word": "GROUP",
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "MATCH",
       "count": 43,
       "category": null
     },
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "OIL",
       "count": 38,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 38,
+      "word": "AGAINST",
+      "count": 37,
       "category": null
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "word": "FALLS",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -305,7 +305,7 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "CHIP",
       "count": 31,
       "category": null
     },
@@ -320,7 +320,7 @@
       "category": null
     },
     {
-      "word": "CHIP",
+      "word": "ACT",
       "count": 30,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
