@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:25:11.953Z",
+  "updated_at": "2026-06-25T23:56:04.285Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 5
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
       "hype_score": 38,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 117,
-      "buzz_rank": 6
+      "news_count_24h": 10,
+      "hype_score": 140,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 19
     },
     {
@@ -186,28 +186,33 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 218,
+      "count": 216,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 202,
+      "count": 200,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 81,
+      "count": 80,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 64,
+      "count": 63,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 59,
+      "category": "価格"
     },
     {
       "word": "MARKETS",
@@ -215,18 +220,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 58,
-      "category": "価格"
-    },
-    {
       "word": "DATA",
-      "count": 54,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 53,
+      "count": 56,
       "category": null
     },
     {
@@ -235,13 +230,8 @@
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 48,
+      "word": "PREDICTION",
+      "count": 52,
       "category": null
     },
     {
@@ -250,22 +240,32 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "MATCH",
       "count": 47,
       "category": null
     },
     {
-      "word": "GROUP",
-      "count": 44,
+      "word": "FACES",
+      "count": 47,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 40,
+      "word": "TRUMP",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 43,
       "category": null
     },
     {
       "word": "TOKEN",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 40,
       "category": null
     },
@@ -276,7 +276,12 @@
     },
     {
       "word": "AGAINST",
-      "count": 39,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "CHIP",
+      "count": 37,
       "category": null
     },
     {
@@ -285,22 +290,17 @@
       "category": null
     },
     {
-      "word": "CHIP",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 34,
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 33,
+      "word": "STRATEGY",
+      "count": 31,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "FAN",
       "count": 31,
       "category": null
     },
@@ -315,12 +315,12 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "LAUNCHES",
       "count": 30,
       "category": null
     },
     {
-      "word": "STAGE",
+      "word": "FIFA",
       "count": 30,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "INFLATION",
       "count": 29,
       "category": null
     }
