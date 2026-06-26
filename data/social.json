@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:17:46.461Z",
+  "updated_at": "2026-06-26T18:01:01.598Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 92,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 43,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 233,
+      "count": 231,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 222,
+      "count": 221,
       "category": null
     },
     {
@@ -205,7 +205,7 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "DATA",
       "count": 59,
       "category": null
     },
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 59,
+      "word": "MARKETS",
+      "count": 57,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 55,
+      "count": 54,
       "category": "価格"
     },
     {
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "MATCH",
       "count": 51,
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 50,
+      "word": "STOCK",
+      "count": 51,
       "category": null
     },
     {
@@ -245,8 +245,8 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 44,
+      "word": "BELOW",
+      "count": 45,
       "category": null
     },
     {
@@ -255,28 +255,28 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
+      "word": "PREDICTION",
       "count": 43,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "GROUP",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
       "count": 42,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 36,
+      "word": "TOKEN",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 37,
       "category": null
     },
     {
@@ -285,8 +285,13 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 36,
+      "word": "STABLECOIN",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 34,
       "category": null
     },
     {
@@ -300,28 +305,13 @@
       "category": null
     },
     {
-      "word": "MICRON",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
+      "word": "HORMUZ",
       "count": 32,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 31,
+      "word": "MICRON",
+      "count": 32,
       "category": null
     },
     {
@@ -330,8 +320,18 @@
       "category": null
     },
     {
-      "word": "MICA",
-      "count": 31,
+      "word": "FAN",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STAGE",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 29,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
