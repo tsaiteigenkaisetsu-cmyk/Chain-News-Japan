@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:22:47.722Z",
+  "updated_at": "2026-06-26T22:50:10.070Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
-      "buzz_rank": 4
+      "news_count_24h": 18,
+      "hype_score": 6,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 63,
-      "buzz_rank": 5
+      "news_count_24h": 20,
+      "hype_score": 60,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 8
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 245,
+      "count": 244,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 235,
+      "count": 234,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 78,
+      "count": 80,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
@@ -221,17 +221,17 @@
     },
     {
       "word": "PRICE",
-      "count": 53,
+      "count": 52,
       "category": "価格"
     },
     {
       "word": "DATA",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -240,23 +240,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 45,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 44,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 42,
+      "word": "STOCK",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 43,
       "category": null
     },
     {
@@ -265,23 +260,28 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 39,
+      "word": "TOKEN",
+      "count": 41,
       "category": null
     },
     {
       "word": "FIFA",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 38,
       "category": null
     },
     {
       "word": "PREDICTION",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 37,
       "category": null
     },
     {
@@ -295,13 +295,23 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
       "count": 33,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 33,
+      "word": "STOCKS",
+      "count": 32,
       "category": null
     },
     {
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 31,
+      "word": "MILLION",
+      "count": 32,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 31,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
