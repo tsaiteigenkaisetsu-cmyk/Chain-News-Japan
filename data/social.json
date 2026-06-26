@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T21:52:48.296Z",
+  "updated_at": "2026-06-26T22:22:47.722Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 78,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 46,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 6,
-      "buzz_rank": 5
+      "news_count_24h": 19,
+      "hype_score": 5,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 60,
-      "buzz_rank": 3
+      "news_count_24h": 19,
+      "hype_score": 63,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "litecoin",
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 247,
+      "count": 245,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 237,
+      "count": 235,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 78,
+      "category": "相場"
     },
     {
       "word": "AMID",
@@ -200,13 +205,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 77,
-      "category": "相場"
-    },
-    {
       "word": "IRAN",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "word": "DATA",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "FACES",
       "count": 48,
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 47,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 46,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 44,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 44,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 43,
       "category": null
     },
     {
@@ -266,7 +266,7 @@
     },
     {
       "word": "BELOW",
-      "count": 41,
+      "count": 39,
       "category": null
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -290,18 +290,33 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "HORMUZ",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "STAGE",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "JAPAN",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 31,
       "category": null
     },
     {
@@ -317,21 +332,6 @@
     {
       "word": "MILLION",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "STAGE",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "JAPAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 30,
       "category": null
     }
   ],
