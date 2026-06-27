@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T01:21:40.591Z",
+  "updated_at": "2026-06-27T02:13:26.839Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
+      "news_count_24h": 77,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
+      "news_count_24h": 43,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 60,
+      "news_count_24h": 19,
+      "hype_score": 63,
       "buzz_rank": 3
     },
     {
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 200,
       "buzz_rank": 13
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 236,
+      "count": 232,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 228,
+      "count": 224,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 79,
+      "count": 76,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 78,
+      "count": 75,
       "category": "相場"
     },
     {
@@ -211,31 +211,31 @@
     },
     {
       "word": "MARKETS",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
       "word": "MATCH",
-      "count": 52,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 51,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 51,
-      "category": "価格"
-    },
-    {
-      "word": "DATA",
-      "count": 50,
       "category": null
     },
     {
       "word": "FACES",
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 50,
+      "category": "価格"
+    },
+    {
+      "word": "DATA",
       "count": 49,
       "category": null
     },
@@ -251,22 +251,22 @@
     },
     {
       "word": "BILLION",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 43,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "STOCK",
       "count": 42,
       "category": null
     },
     {
+      "word": "INFLATION",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -276,16 +276,11 @@
     },
     {
       "word": "TOKEN",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 36,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "DEAL",
       "count": 35,
       "category": null
     },
@@ -300,6 +295,11 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
       "count": 33,
       "category": null
@@ -310,28 +310,28 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "STAGE",
       "count": 32,
       "category": null
     },
     {
-      "word": "JAPAN",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "FAN",
+      "word": "RECORD",
       "count": 31,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "JAPAN",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 29,
       "category": null
     }
   ],
