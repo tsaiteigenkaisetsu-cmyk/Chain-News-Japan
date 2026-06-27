@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T06:06:28.659Z",
+  "updated_at": "2026-06-27T07:21:25.527Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 13,
+      "news_count_24h": 66,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 20,
+      "news_count_24h": 29,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 60,
-      "buzz_rank": 3
+      "news_count_24h": 19,
+      "hype_score": 63,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 8
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 225,
+      "count": 223,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 217,
+      "count": 215,
       "category": null
     },
     {
@@ -201,23 +201,18 @@
     },
     {
       "word": "AMID",
-      "count": 75,
+      "count": 73,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "PRICE",
       "count": 52,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "AGAINST",
@@ -235,8 +230,13 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 51,
+      "category": "価格"
+    },
+    {
       "word": "FACES",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 40,
       "category": null
@@ -262,6 +257,11 @@
     {
       "word": "INFLATION",
       "count": 40,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 39,
       "category": null
     },
     {
@@ -300,8 +300,8 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 32,
+      "word": "RECORD",
+      "count": 30,
       "category": null
     },
     {
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "TOKEN",
       "count": 29,
       "category": null
     },
