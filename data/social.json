@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T08:18:36.824Z",
+  "updated_at": "2026-06-27T09:17:58.738Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 64,
+      "news_count_24h": 62,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 22,
+      "news_count_24h": 25,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 63,
+      "news_count_24h": 18,
+      "hype_score": 67,
       "buzz_rank": 4
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 8
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 225,
+      "count": 226,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 216,
+      "count": 217,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "AMID",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "DATA",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -236,12 +236,12 @@
     },
     {
       "word": "FIFA",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -255,13 +255,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "INFLATION",
       "count": 39,
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 39,
+      "word": "STOCK",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 36,
       "category": null
     },
     {
@@ -275,18 +280,13 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "BELOW",
       "count": 35,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "BELOW",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -296,12 +296,22 @@
     },
     {
       "word": "HORMUZ",
-      "count": 33,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 30,
       "category": null
     },
     {
       "word": "STRAIT",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 29,
       "category": null
     },
     {
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "STAGE",
       "count": 29,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "STABLECOIN",
       "count": 28,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
