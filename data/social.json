@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T14:30:37.047Z",
+  "updated_at": "2026-06-27T15:04:48.520Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 86,
+      "news_count_24h": 13,
+      "hype_score": 92,
       "buzz_rank": 5
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
+      "news_count_24h": 7,
+      "hype_score": 86,
       "buzz_rank": 10
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 218,
+      "count": 219,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 210,
+      "count": 211,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "word": "DATA",
-      "count": 50,
+      "count": 48,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -240,23 +240,18 @@
       "category": null
     },
     {
+      "word": "GROUP",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 42,
       "category": "価格"
     },
     {
-      "word": "GROUP",
-      "count": 42,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 36,
+      "count": 39,
       "category": null
     },
     {
@@ -265,17 +260,17 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 33,
+      "word": "OPENAI",
+      "count": 36,
       "category": null
     },
     {
       "word": "BELOW",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "DEAL",
       "count": 32,
       "category": null
     },
@@ -285,8 +280,13 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 31,
+      "word": "HORMUZ",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 29,
       "category": null
     },
     {
@@ -295,7 +295,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "STAGE",
       "count": 28,
       "category": null
     },
@@ -305,17 +305,12 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 27,
+      "word": "STOCKS",
+      "count": 28,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STAGE",
+      "word": "STRATEGY",
       "count": 27,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "IPO",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 26,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
