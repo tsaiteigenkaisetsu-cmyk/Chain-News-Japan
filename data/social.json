@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T10:04:30.649Z",
+  "updated_at": "2026-06-27T10:48:52.374Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 26,
-      "buzz_rank": 2
+      "news_count_24h": 21,
+      "hype_score": 29,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 4,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 8
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 227,
+      "count": 225,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 218,
+      "count": 217,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "AMID",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 67,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "FIFA",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
       "word": "GROUP",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -261,17 +261,12 @@
     },
     {
       "word": "INFLATION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -285,22 +280,17 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 31,
       "category": null
     },
@@ -310,13 +300,8 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "RECORD",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 29,
       "category": null
     },
     {
@@ -325,7 +310,22 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "FAN",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 28,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
