@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T20:40:06.033Z",
+  "updated_at": "2026-06-27T21:10:50.700Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 22,
+      "news_count_24h": 47,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 19,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 12,
+      "hype_score": 58,
       "buzz_rank": 6
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 211,
+      "count": 210,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 203,
+      "count": 202,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 67,
+      "count": 65,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 55,
       "category": "相場"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MATCH",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "AGAINST",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 38,
-      "category": "価格"
-    },
-    {
       "word": "PREDICTION",
       "count": 36,
       "category": null
@@ -255,9 +250,9 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 32,
-      "category": null
+      "word": "PRICE",
+      "count": 33,
+      "category": "価格"
     },
     {
       "word": "DATA",
@@ -280,7 +275,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STOCK",
       "count": 26,
       "category": null
     },
@@ -292,11 +287,6 @@
     {
       "word": "TEAM",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 25,
       "category": null
     },
     {
@@ -315,6 +305,16 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 23,
       "category": null
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "USERS",
+      "word": "MILLION",
       "count": 23,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 23,
+      "word": "USERS",
+      "count": 22,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
