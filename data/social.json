@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T21:40:09.420Z",
+  "updated_at": "2026-06-27T22:10:13.666Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 21,
+      "news_count_24h": 44,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,33 +186,28 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 209,
+      "count": 203,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 201,
+      "count": 196,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 63,
+      "count": 62,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 53,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 54,
-      "category": "相場"
-    },
-    {
-      "word": "IRAN",
       "count": 52,
-      "category": null
-    },
-    {
-      "word": "MATCH",
-      "count": 49,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "MARKETS",
@@ -220,12 +215,12 @@
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 45,
+      "word": "MATCH",
+      "count": 48,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "FIFA",
       "count": 44,
       "category": null
     },
@@ -235,24 +230,29 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "FACES",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 32,
+      "count": 36,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 32,
       "category": "価格"
+    },
+    {
+      "word": "OPENAI",
+      "count": 31,
+      "category": null
     },
     {
       "word": "STAGE",
@@ -261,7 +261,12 @@
     },
     {
       "word": "DATA",
-      "count": 29,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 27,
       "category": null
     },
     {
@@ -275,7 +280,7 @@
       "category": null
     },
     {
-      "word": "TEAM",
+      "word": "STRAIT",
       "count": 26,
       "category": null
     },
@@ -290,8 +295,8 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 25,
+      "word": "DEAL",
+      "count": 24,
       "category": null
     },
     {
@@ -305,22 +310,12 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "TEAM",
       "count": 24,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "TOKEN",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TECH",
       "count": 23,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "USERS",
+      "word": "STRIKES",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TECH",
       "count": 22,
       "category": null
     }
