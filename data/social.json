@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:26:47.631Z",
+  "updated_at": "2026-06-27T11:59:11.993Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
-      "hype_score": 16,
+      "news_count_24h": 54,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -18,24 +18,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 27,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 4,
-      "buzz_rank": 2
+      "news_count_24h": 22,
+      "hype_score": 5,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 67,
+      "news_count_24h": 17,
+      "hype_score": 71,
       "buzz_rank": 4
     },
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 400,
-      "buzz_rank": 15
+      "news_count_24h": 2,
+      "hype_score": 200,
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 224,
+      "count": 222,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 216,
+      "count": 214,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 73,
+      "count": 72,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
@@ -225,12 +225,12 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 50,
+      "word": "FACES",
+      "count": 49,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "DATA",
       "count": 49,
       "category": null
     },
@@ -241,7 +241,7 @@
     },
     {
       "word": "GROUP",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -275,33 +275,28 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 33,
+      "word": "HORMUZ",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 32,
       "category": null
     },
     {
       "word": "BELOW",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 32,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "TRUMP",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 29,
       "category": null
     },
     {
@@ -315,23 +310,28 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "STOCKS",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 28,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "STAGE",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 27,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
