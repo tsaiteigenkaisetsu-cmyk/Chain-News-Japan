@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T17:33:09.065Z",
+  "updated_at": "2026-06-27T17:57:39.176Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 23,
+      "news_count_24h": 44,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -18,25 +18,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 15,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 86,
-      "buzz_rank": 5
+      "news_count_24h": 13,
+      "hype_score": 54,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 215,
+      "count": 214,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 207,
+      "count": 205,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "MATCH",
-      "count": 51,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 50,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "MARKETS",
       "count": 49,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 48,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "GROUP",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -255,13 +255,13 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
+      "word": "OPENAI",
       "count": 35,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 35,
+      "word": "STOCK",
+      "count": 33,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "TEAM",
       "count": 26,
       "category": null
@@ -310,28 +315,23 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 25,
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 25,
+      "word": "TOKEN",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 24,
       "category": null
     }
   ],
