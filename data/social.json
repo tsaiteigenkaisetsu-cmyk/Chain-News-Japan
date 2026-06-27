@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-27T17:57:39.176Z",
+  "updated_at": "2026-06-27T18:30:17.932Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 25,
+      "news_count_24h": 43,
+      "hype_score": 28,
       "buzz_rank": 1
     },
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 15,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 145,
-      "buzz_rank": 7
+      "news_count_24h": 12,
+      "hype_score": 133,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 214,
+      "count": 211,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 205,
+      "count": 203,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
@@ -226,7 +226,12 @@
     },
     {
       "word": "FACES",
-      "count": 44,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 42,
       "category": null
     },
     {
@@ -235,17 +240,12 @@
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 41,
+      "word": "DATA",
+      "count": 38,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 38,
       "category": null
     },
@@ -270,27 +270,17 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "STAGE",
       "count": 29,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 28,
+      "word": "HORMUZ",
+      "count": 27,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BELOW",
       "count": 27,
       "category": null
     },
@@ -305,12 +295,12 @@
       "category": null
     },
     {
-      "word": "TEAM",
+      "word": "STRAIT",
       "count": 26,
       "category": null
     },
     {
-      "word": "USERS",
+      "word": "TEAM",
       "count": 26,
       "category": null
     },
@@ -320,18 +310,28 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TOKEN",
       "count": 24,
       "category": null
     },
     {
       "word": "RECORD",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "USERS",
+      "count": 23,
       "category": null
     }
   ],
