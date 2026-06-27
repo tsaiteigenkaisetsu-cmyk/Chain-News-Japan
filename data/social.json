@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T00:20:25.949Z",
+  "updated_at": "2026-06-27T01:21:40.591Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 76,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 13,
+      "news_count_24h": 44,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 178,
+      "news_count_24h": 8,
+      "hype_score": 200,
       "buzz_rank": 9
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 8
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,18 +186,13 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 237,
+      "count": 236,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 229,
+      "count": 228,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 82,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -205,8 +200,13 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 78,
+      "category": "相場"
+    },
+    {
       "word": "IRAN",
-      "count": 68,
+      "count": 70,
       "category": null
     },
     {
@@ -215,9 +215,9 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "MATCH",
       "count": 52,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "AGAINST",
@@ -225,9 +225,9 @@
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "PRICE",
       "count": 51,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "DATA",
@@ -236,11 +236,16 @@
     },
     {
       "word": "FACES",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "GROUP",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "FIFA",
       "count": 44,
       "category": null
     },
@@ -250,12 +255,7 @@
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "GROUP",
+      "word": "STOCK",
       "count": 43,
       "category": null
     },
@@ -265,12 +265,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "DEAL",
+      "word": "PREDICTION",
       "count": 38,
       "category": null
     },
@@ -280,13 +275,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 37,
+      "word": "TOKEN",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 36,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -295,12 +295,27 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "RECORD",
       "count": 33,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "STAGE",
       "count": 32,
       "category": null
     },
@@ -310,28 +325,13 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "STAGE",
+      "word": "FAN",
       "count": 31,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 31,
+      "count": 30,
       "category": null
     }
   ],
