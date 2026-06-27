@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:10:50.700Z",
+  "updated_at": "2026-06-27T21:40:09.420Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
+      "news_count_24h": 18,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 58,
+      "news_count_24h": 11,
+      "hype_score": 64,
       "buzz_rank": 6
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 123,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
-      "buzz_rank": 5
+      "news_count_24h": 14,
+      "hype_score": 14,
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 210,
+      "count": 209,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 202,
+      "count": 201,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 65,
+      "count": 63,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 54,
       "category": "相場"
     },
     {
       "word": "IRAN",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -220,12 +220,12 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "FIFA",
       "count": 45,
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "AGAINST",
       "count": 44,
       "category": null
     },
@@ -241,23 +241,18 @@
     },
     {
       "word": "PREDICTION",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "OPENAI",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 33,
-      "category": "価格"
-    },
-    {
-      "word": "DATA",
       "count": 31,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "STAGE",
@@ -265,23 +260,18 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "STOCKS",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 26,
       "category": null
     },
     {
@@ -295,7 +285,12 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "STOCK",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 25,
       "category": null
     },
@@ -306,6 +301,11 @@
     },
     {
       "word": "RECORD",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 24,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
