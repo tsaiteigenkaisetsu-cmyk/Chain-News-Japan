@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T18:30:17.932Z",
+  "updated_at": "2026-06-27T18:59:00.869Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 15,
-      "buzz_rank": 2
+      "news_count_24h": 19,
+      "hype_score": 16,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
-      "buzz_rank": 4
+      "news_count_24h": 11,
+      "hype_score": 64,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 133,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -176,27 +176,27 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 211,
+      "count": 212,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 203,
+      "count": 204,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 72,
+      "count": 70,
       "category": null
     },
     {
@@ -206,12 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 55,
-      "category": null
-    },
-    {
-      "word": "MATCH",
-      "count": 50,
+      "count": 53,
       "category": null
     },
     {
@@ -220,13 +215,18 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 48,
+      "word": "MATCH",
+      "count": 49,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 43,
+      "word": "AGAINST",
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 42,
       "category": null
     },
     {
@@ -235,13 +235,8 @@
       "category": null
     },
     {
-      "word": "GROUP",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 38,
+      "word": "FACES",
+      "count": 42,
       "category": null
     },
     {
@@ -250,8 +245,13 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "PRICE",
-      "count": 38,
+      "count": 37,
       "category": "価格"
     },
     {
@@ -265,27 +265,17 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "STAGE",
       "count": 30,
       "category": null
     },
     {
-      "word": "STAGE",
+      "word": "TRUMP",
       "count": 29,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 27,
       "category": null
     },
@@ -295,7 +285,7 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "HORMUZ",
       "count": 26,
       "category": null
     },
@@ -305,8 +295,23 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "USERS",
+      "count": 24,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "MILLION",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "USERS",
-      "count": 23,
       "category": null
     }
   ],
