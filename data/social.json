@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T01:20:43.143Z",
+  "updated_at": "2026-06-28T02:13:48.551Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 24,
+      "news_count_24h": 40,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 5
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 14
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,37 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 207,
+      "count": 210,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 201,
+      "count": 205,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 60,
+      "count": 58,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 49,
       "category": "相場"
     },
     {
       "word": "MARKETS",
-      "count": 48,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "MATCH",
+      "count": 46,
       "category": null
     },
     {
@@ -220,13 +225,8 @@
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "FIFA",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
@@ -235,18 +235,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "FACES",
       "count": 37,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 36,
+      "word": "PREDICTION",
+      "count": 34,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 31,
+      "count": 34,
       "category": null
     },
     {
@@ -255,18 +255,13 @@
       "category": "価格"
     },
     {
-      "word": "OPENAI",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
       "count": 27,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 26,
+      "word": "OPENAI",
+      "count": 27,
       "category": null
     },
     {
@@ -275,8 +270,18 @@
       "category": null
     },
     {
+      "word": "STRAIT",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 25,
       "category": null
     },
     {
@@ -287,11 +292,6 @@
     {
       "word": "DEAL",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 24,
       "category": null
     },
     {
@@ -315,12 +315,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "IPO",
+      "word": "ENGLAND",
       "count": 22,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "BINANCE",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "ROUND",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
