@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-28T02:13:48.551Z",
+  "updated_at": "2026-06-28T03:28:14.187Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 25,
+      "news_count_24h": 42,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 83,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 111,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 210,
+      "count": 209,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 205,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 58,
+      "count": 204,
       "category": null
     },
     {
@@ -205,48 +200,53 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 56,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 49,
+      "count": 48,
       "category": "相場"
     },
     {
-      "word": "MARKETS",
+      "word": "MATCH",
       "count": 47,
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "GROUP",
+      "word": "MARKETS",
       "count": 45,
       "category": null
     },
     {
+      "word": "GROUP",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "FIFA",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
@@ -275,16 +275,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "STRIKES",
       "count": 25,
       "category": null
@@ -295,17 +285,22 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 24,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "TRUMP",
       "count": 24,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "STOCKS",
       "count": 24,
       "category": null
     },
@@ -316,6 +311,11 @@
     },
     {
       "word": "ENGLAND",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "KNOCKOUT",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
