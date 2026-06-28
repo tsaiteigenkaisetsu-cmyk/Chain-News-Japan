@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T12:13:15.011Z",
+  "updated_at": "2026-06-28T12:46:35.276Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 48,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 18,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -45,15 +45,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 16,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 200,
+      "news_count_24h": 7,
+      "hype_score": 71,
       "buzz_rank": 6
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 217,
+      "count": 216,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 210,
+      "count": 209,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 46,
       "category": null
     },
     {
@@ -216,22 +216,27 @@
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 42,
       "category": "相場"
     },
     {
       "word": "MATCH",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
       "word": "AGAINST",
       "count": 38,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 34,
       "category": null
     },
     {
@@ -245,28 +250,23 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 27,
+      "count": 32,
       "category": null
     },
     {
       "word": "OPENAI",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 25,
       "category": null
     },
     {
@@ -280,17 +280,12 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "ENGLAND",
+      "word": "TOKEN",
       "count": 23,
       "category": null
     },
@@ -305,8 +300,23 @@
       "category": null
     },
     {
+      "word": "ENGLAND",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
+    },
+    {
       "word": "SCORES",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
+      "count": 20,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
-    },
-    {
-      "word": "STOCK",
+      "word": "STRATEGY",
       "count": 20,
       "category": null
     }
