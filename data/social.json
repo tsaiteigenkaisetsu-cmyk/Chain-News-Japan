@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T17:23:42.565Z",
+  "updated_at": "2026-06-28T17:49:46.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -126,16 +126,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 219,
+      "count": 218,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 212,
+      "count": 211,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "FIFA",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -235,18 +235,18 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
-    },
-    {
       "word": "FAN",
       "count": 35,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
+    },
+    {
       "word": "FACES",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -255,23 +255,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 28,
+      "word": "STRIKES",
+      "count": 27,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 23,
+      "word": "PREDICTION",
+      "count": 27,
       "category": null
     },
     {
@@ -280,8 +275,8 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 23,
+      "word": "TOKEN",
+      "count": 22,
       "category": null
     },
     {
@@ -310,8 +305,8 @@
       "category": null
     },
     {
-      "word": "KNOCKOUT",
-      "count": 20,
+      "word": "OPENAI",
+      "count": 21,
       "category": null
     },
     {
@@ -320,18 +315,23 @@
       "category": null
     },
     {
-      "word": "SCORES",
+      "word": "KNOCKOUT",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "SCORES",
       "count": 19,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 19,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "MESSI",
+      "count": 17,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
