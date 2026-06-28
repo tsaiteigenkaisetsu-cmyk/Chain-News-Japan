@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:48:46.623Z",
+  "updated_at": "2026-06-28T17:23:42.565Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 50,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 50,
+      "news_count_24h": 10,
+      "hype_score": 60,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 111,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 218,
+      "count": 219,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 211,
+      "count": 212,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "GROUP",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "AMID",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -220,17 +220,17 @@
       "category": null
     },
     {
+      "word": "STAGE",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "MATCH",
       "count": 37,
       "category": null
     },
     {
-      "word": "STAGE",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "FAN",
+      "word": "AGAINST",
       "count": 35,
       "category": null
     },
@@ -240,13 +240,13 @@
       "category": "相場"
     },
     {
-      "word": "AGAINST",
-      "count": 34,
+      "word": "FAN",
+      "count": 35,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -270,17 +270,12 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 23,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "HORMUZ",
       "count": 23,
       "category": null
     },
@@ -290,9 +285,14 @@
       "category": null
     },
     {
-      "word": "ENGLAND",
-      "count": 22,
+      "word": "ROUND",
+      "count": 21,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
       "word": "TOKENS",
@@ -300,22 +300,22 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 20,
+      "word": "STRAIT",
+      "count": 21,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "ENGLAND",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "KNOCKOUT",
       "count": 20,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "LEBANON",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ROUND",
       "count": 20,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "TRUMP",
       "count": 19,
       "category": null
     },
     {
-      "word": "KNOCKOUT",
+      "word": "STRATEGY",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
