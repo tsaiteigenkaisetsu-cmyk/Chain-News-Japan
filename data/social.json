@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T16:15:32.613Z",
+  "updated_at": "2026-06-29T17:16:45.270Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
-      "hype_score": 12,
+      "news_count_24h": 84,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 11,
+      "news_count_24h": 30,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
       "buzz_rank": 3
     },
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -191,26 +191,31 @@
     },
     {
       "word": "CUP",
-      "count": 177,
+      "count": 175,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKETS",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "GROUP",
       "count": 34,
       "category": null
     },
@@ -220,32 +225,32 @@
       "category": "相場"
     },
     {
-      "word": "GROUP",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "FAN",
       "count": 32,
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 29,
+      "count": 31,
       "category": "価格"
     },
     {
+      "word": "FIFA",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "DEAL",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 27,
       "category": null
     },
@@ -255,37 +260,27 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "MATCH",
       "count": 25,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "KNOCKOUT",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "AGAINST",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 22,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ROUND",
       "count": 22,
       "category": null
     },
@@ -300,37 +295,42 @@
       "category": null
     },
     {
-      "word": "STRIKES",
+      "word": "ROUND",
       "count": 21,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "HORMUZ",
       "count": 20,
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 19,
+      "word": "KNOCKOUT",
+      "count": 20,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "TRANSFER",
       "count": 19,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 18,
       "category": null
     },
     {
-      "word": "TEAM",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
+      "word": "LEBANON",
       "count": 18,
       "category": null
     }
