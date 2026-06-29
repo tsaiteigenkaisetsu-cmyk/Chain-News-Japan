@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T03:32:48.779Z",
+  "updated_at": "2026-06-29T05:12:16.236Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 18,
+      "news_count_24h": 46,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
-      "buzz_rank": 3
+      "news_count_24h": 12,
+      "hype_score": 25,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 63,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 8
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 178,
+      "count": 176,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 172,
+      "count": 170,
       "category": null
     },
     {
@@ -206,22 +206,12 @@
     },
     {
       "word": "MARKETS",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "GROUP",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "STAGE",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 31,
       "category": null
     },
     {
@@ -230,13 +220,18 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 28,
+      "word": "FIFA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STAGE",
+      "count": 31,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 27,
+      "count": 29,
       "category": "相場"
     },
     {
@@ -245,17 +240,17 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STRIKES",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 23,
       "category": null
     },
@@ -265,12 +260,17 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 22,
       "category": "価格"
     },
     {
-      "word": "TOKEN",
+      "word": "AGAINST",
       "count": 22,
       "category": null
     },
@@ -280,13 +280,18 @@
       "category": null
     },
     {
-      "word": "ROUND",
+      "word": "TALKS",
       "count": 20,
       "category": null
     },
     {
       "word": "PREDICTION",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "ROUND",
+      "count": 19,
       "category": null
     },
     {
@@ -300,18 +305,18 @@
       "category": null
     },
     {
-      "word": "LEBANON",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "TRANSFER",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
+      "count": 18,
       "category": null
     },
     {
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 17,
+      "word": "STRAIT",
+      "count": 16,
       "category": null
     },
     {
-      "word": "SCORES",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
+      "word": "OPENAI",
       "count": 15,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
