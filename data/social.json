@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T18:03:30.238Z",
+  "updated_at": "2026-06-29T18:53:45.562Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 92,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 10,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 33,
+      "news_count_24h": 16,
+      "hype_score": 31,
       "buzz_rank": 5
     },
     {
@@ -196,22 +196,22 @@
     },
     {
       "word": "IRAN",
-      "count": 57,
+      "count": 60,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -220,12 +220,22 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 32,
       "category": "相場"
     },
     {
-      "word": "FIFA",
+      "word": "DEAL",
       "count": 31,
       "category": null
     },
@@ -235,28 +245,18 @@
       "category": "価格"
     },
     {
-      "word": "FAN",
-      "count": 31,
+      "word": "FIFA",
+      "count": 29,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 30,
+      "word": "PREDICTION",
+      "count": 28,
       "category": null
     },
     {
       "word": "TOKEN",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 27,
       "category": null
     },
     {
@@ -270,13 +270,18 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "FACES",
       "count": 23,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 23,
+      "word": "TOKENS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 22,
       "category": null
     },
     {
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 22,
+      "word": "AGAINST",
+      "count": 21,
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 21,
+      "word": "HORMUZ",
+      "count": 20,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "RECORD",
       "count": 19,
       "category": null
     },
     {
-      "word": "TRANSFER",
+      "word": "BANK",
       "count": 18,
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "TRANSFER",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
