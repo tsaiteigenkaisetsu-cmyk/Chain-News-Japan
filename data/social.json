@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T00:11:20.567Z",
+  "updated_at": "2026-06-29T01:25:05.329Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 44,
-      "hype_score": 14,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 190,
+      "count": 185,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 184,
+      "count": 179,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 52,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 39,
+      "count": 51,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 36,
       "category": null
     },
     {
@@ -216,27 +216,27 @@
     },
     {
       "word": "STAGE",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "MATCH",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 28,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "MATCH",
+      "count": 27,
       "category": null
     },
     {
@@ -246,12 +246,22 @@
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 25,
       "category": "相場"
     },
     {
+      "word": "AGAINST",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "TEAM",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -261,12 +271,7 @@
     },
     {
       "word": "ROUND",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -275,37 +280,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ENGLAND",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 20,
+      "count": 21,
       "category": "価格"
     },
     {
-      "word": "PREDICTION",
+      "word": "ENGLAND",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 19,
       "category": null
     },
     {
       "word": "LEBANON",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TALKS",
       "count": 19,
       "category": null
     },
@@ -315,8 +305,13 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "PREDICTION",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 18,
       "category": null
     },
     {
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "TOKENS",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "ISRAEL",
+      "count": 16,
       "category": null
     }
   ],
