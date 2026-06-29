@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T01:25:05.329Z",
+  "updated_at": "2026-06-29T02:16:49.577Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 6,
+      "hype_score": 33,
       "buzz_rank": 8
     },
     {
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 185,
+      "count": 184,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 179,
+      "count": 178,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "FIFA",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": "相場"
     },
     {
+      "word": "TEAM",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "AGAINST",
       "count": 23,
       "category": null
@@ -260,14 +265,14 @@
       "category": null
     },
     {
-      "word": "TEAM",
+      "word": "KNOCKOUT",
       "count": 23,
       "category": null
     },
     {
-      "word": "KNOCKOUT",
-      "count": 23,
-      "category": null
+      "word": "PRICE",
+      "count": 22,
+      "category": "価格"
     },
     {
       "word": "ROUND",
@@ -280,11 +285,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 21,
-      "category": "価格"
-    },
-    {
       "word": "ENGLAND",
       "count": 20,
       "category": null
@@ -292,6 +292,16 @@
     {
       "word": "LEBANON",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 19,
       "category": null
     },
     {
@@ -305,16 +315,6 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 18,
       "category": null
@@ -325,7 +325,7 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "HORMUZ",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
