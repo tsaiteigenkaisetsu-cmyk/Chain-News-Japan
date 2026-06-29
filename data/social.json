@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-29T02:16:49.577Z",
+  "updated_at": "2026-06-29T03:32:48.779Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 44,
-      "hype_score": 16,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 7
+      "news_count_24h": 9,
+      "hype_score": 33,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 44,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 63,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 8
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 184,
+      "count": 178,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 178,
+      "count": 172,
       "category": null
     },
     {
@@ -201,22 +201,22 @@
     },
     {
       "word": "AMID",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "GROUP",
-      "count": 36,
+      "count": 38,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 35,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "GROUP",
+      "count": 33,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
@@ -231,12 +231,17 @@
     },
     {
       "word": "FACES",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
-      "word": "MATCH",
+      "word": "MARKET",
       "count": 27,
+      "category": "相場"
+    },
+    {
+      "word": "MATCH",
+      "count": 26,
       "category": null
     },
     {
@@ -245,13 +250,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
-    },
-    {
-      "word": "TEAM",
-      "count": 24,
+      "word": "DEAL",
+      "count": 23,
       "category": null
     },
     {
@@ -260,12 +260,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "KNOCKOUT",
+      "word": "TEAM",
       "count": 23,
       "category": null
     },
@@ -275,32 +270,37 @@
       "category": "価格"
     },
     {
-      "word": "ROUND",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 22,
       "category": null
     },
     {
-      "word": "ENGLAND",
-      "count": 20,
+      "word": "KNOCKOUT",
+      "count": 21,
       "category": null
     },
     {
-      "word": "LEBANON",
+      "word": "ROUND",
       "count": 20,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
       "word": "TOKENS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "ENGLAND",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LEBANON",
       "count": 19,
       "category": null
     },
@@ -320,18 +320,18 @@
       "category": null
     },
     {
-      "word": "SCORES",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
       "count": 17,
       "category": null
     },
     {
+      "word": "SCORES",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "ISRAEL",
-      "count": 16,
+      "count": 15,
       "category": null
     }
   ],
