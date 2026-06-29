@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:23:58.799Z",
+  "updated_at": "2026-06-29T23:46:31.663Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 36,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 186,
+      "count": 183,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 178,
+      "count": 175,
       "category": null
     },
     {
@@ -215,12 +215,12 @@
       "category": "相場"
     },
     {
-      "word": "MARKETS",
+      "word": "STAGE",
       "count": 35,
       "category": null
     },
     {
-      "word": "STAGE",
+      "word": "MARKETS",
       "count": 34,
       "category": null
     },
@@ -235,22 +235,12 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "ROUND",
       "count": 30,
       "category": null
     },
     {
-      "word": "ROUND",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
+      "word": "PREDICTION",
       "count": 29,
       "category": null
     },
@@ -260,18 +250,23 @@
       "category": "価格"
     },
     {
+      "word": "FIFA",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 27,
       "category": null
     },
     {
       "word": "GROUP",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "MATCH",
-      "count": 24,
+      "count": 26,
       "category": null
     },
     {
@@ -280,17 +275,12 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 22,
       "category": null
     },
     {
-      "word": "JAPAN",
+      "word": "MATCH",
       "count": 22,
       "category": null
     },
@@ -305,7 +295,17 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "STRIKES",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "JAPAN",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
