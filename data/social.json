@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:46:31.663Z",
+  "updated_at": "2026-06-30T00:14:27.935Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 15,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 600,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 300,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
+      "news_count_24h": 12,
+      "hype_score": 42,
       "buzz_rank": 5
     },
     {
@@ -77,11 +77,11 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 12
+      "hype_score": 350,
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 183,
+      "count": 187,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 175,
+      "count": 179,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -205,23 +205,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
       "word": "STRATEGY",
       "count": 37,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 36,
-      "category": "相場"
-    },
-    {
-      "word": "STAGE",
+      "word": "MARKETS",
       "count": 35,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 34,
+      "word": "STAGE",
+      "count": 35,
       "category": null
     },
     {
@@ -235,27 +235,27 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "ROUND",
       "count": 30,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "PRICE",
+      "count": 29,
+      "category": "価格"
+    },
+    {
+      "word": "TOKEN",
       "count": 29,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 28,
-      "category": "価格"
-    },
-    {
       "word": "FIFA",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 28,
       "category": null
     },
@@ -270,12 +270,22 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "KNOCKOUT",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "FACES",
       "count": 23,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "JAPAN",
       "count": 22,
       "category": null
     },
@@ -290,11 +300,6 @@
       "category": null
     },
     {
-      "word": "KNOCKOUT",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 21,
       "category": null
@@ -305,13 +310,13 @@
       "category": null
     },
     {
-      "word": "JAPAN",
+      "word": "TOKENS",
       "count": 21,
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 21,
+      "word": "TRUMP",
+      "count": 20,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "HORMUZ",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 19,
       "category": null
     }
   ],
