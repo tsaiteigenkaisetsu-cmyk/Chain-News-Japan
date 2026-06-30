@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-30T17:17:50.961Z",
+  "updated_at": "2026-06-30T18:02:54.352Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 93,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 9,
+      "news_count_24h": 48,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 21,
+      "news_count_24h": 20,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 64,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
-      "buzz_rank": 7
+      "news_count_24h": 12,
+      "hype_score": 17,
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 51,
       "category": "相場"
     },
     {
@@ -220,33 +220,38 @@
       "category": "価格"
     },
     {
+      "word": "BANK",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 38,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 33,
+      "count": 36,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 33,
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 32,
       "category": null
     },
     {
       "word": "ROUND",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -255,17 +260,7 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TALKS",
       "count": 28,
       "category": null
     },
@@ -275,12 +270,27 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STAGE",
       "count": 27,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "STOCKS",
       "count": 26,
       "category": null
     },
@@ -290,49 +300,39 @@
       "category": null
     },
     {
+      "word": "AHEAD",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "SUPPORT",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 24,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MICA",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SUPPORT",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "WARNS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 24,
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "ETF",
       "count": 24,
-      "category": null
+      "category": "ETF"
     }
   ],
   "stats": {
