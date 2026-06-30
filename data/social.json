@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:12:34.742Z",
+  "updated_at": "2026-06-30T22:45:12.972Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
-      "hype_score": 9,
+      "news_count_24h": 95,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 19,
+      "news_count_24h": 23,
+      "hype_score": 17,
       "buzz_rank": 4
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 157,
+      "news_count_24h": 8,
+      "hype_score": 138,
       "buzz_rank": 11
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 50,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 14,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -186,17 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 190,
+      "count": 193,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 181,
+      "count": 184,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 70,
+      "count": 71,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 63,
       "category": null
     },
     {
@@ -205,18 +210,13 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 61,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 52,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 47,
       "category": "価格"
     },
     {
@@ -226,12 +226,17 @@
     },
     {
       "word": "PREDICTION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 38,
       "category": null
     },
     {
@@ -240,13 +245,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 35,
+      "word": "LAUNCHES",
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -255,13 +260,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "AHEAD",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -270,8 +270,18 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "DEAL",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -280,18 +290,13 @@
       "category": "ETF"
     },
     {
-      "word": "AGAINST",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 28,
       "category": null
     },
     {
@@ -310,8 +315,13 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 27,
+      "word": "STOCKS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "OPEN",
+      "count": 26,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "OPEN",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "TALKS",
+      "word": "RECORD",
       "count": 25,
       "category": null
     }
