@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T18:02:54.352Z",
+  "updated_at": "2026-06-30T18:50:15.954Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 92,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
-      "buzz_rank": 7
+      "news_count_24h": 12,
+      "hype_score": 58,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 167,
+      "count": 170,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 161,
+      "count": 164,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
@@ -205,23 +205,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 52,
+      "category": "相場"
+    },
+    {
       "word": "STRATEGY",
       "count": 52,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 51,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
-      "count": 40,
+      "count": 43,
       "category": "価格"
     },
     {
       "word": "BANK",
-      "count": 38,
+      "count": 40,
       "category": null
     },
     {
@@ -236,12 +236,12 @@
     },
     {
       "word": "PREDICTION",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -255,12 +255,22 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "JAPAN",
       "count": 29,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STAGE",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 28,
       "category": null
     },
@@ -270,7 +280,17 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STOCK",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 27,
       "category": null
     },
@@ -285,17 +305,12 @@
       "category": null
     },
     {
-      "word": "STAGE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
+      "word": "WARNS",
       "count": 26,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "STOCKS",
       "count": 26,
       "category": null
     },
@@ -310,29 +325,14 @@
       "category": null
     },
     {
-      "word": "SUPPORT",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 24,
+      "count": 25,
       "category": "ETF"
+    },
+    {
+      "word": "UNVEILS",
+      "count": 25,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
