@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T02:13:35.040Z",
+  "updated_at": "2026-06-30T03:27:41.148Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
-      "hype_score": 10,
+      "news_count_24h": 96,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 10,
+      "news_count_24h": 38,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 24,
+      "news_count_24h": 18,
+      "hype_score": 22,
       "buzz_rank": 4
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
+      "news_count_24h": 3,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 14,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 29,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 181,
+      "count": 179,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 173,
+      "count": 171,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 64,
+      "count": 65,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 44,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 38,
       "category": null
     },
     {
@@ -210,18 +215,23 @@
       "category": "相場"
     },
     {
-      "word": "STRATEGY",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 36,
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "STAGE",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 31,
       "category": null
     },
     {
@@ -236,32 +246,27 @@
     },
     {
       "word": "FAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "ROUND",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 24,
       "category": null
     },
     {
@@ -280,13 +285,18 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "TALKS",
       "count": 23,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 23,
+      "word": "GERMANY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 21,
       "category": null
     },
     {
@@ -295,32 +305,22 @@
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
+      "word": "AHEAD",
       "count": 20,
       "category": null
     },
     {
-      "word": "GERMANY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "RECORD",
+      "word": "MATCH",
       "count": 19,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "MICA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 19,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "STRIKES",
+      "word": "HITS",
       "count": 19,
       "category": null
     }
