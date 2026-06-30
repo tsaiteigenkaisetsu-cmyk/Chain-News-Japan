@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-30T07:43:37.846Z",
+  "updated_at": "2026-06-30T08:47:49.598Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
-      "hype_score": 9,
+      "news_count_24h": 108,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 9
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 67,
+      "count": 64,
       "category": null
     },
     {
@@ -211,7 +211,12 @@
     },
     {
       "word": "STRATEGY",
-      "count": 40,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 35,
       "category": null
     },
     {
@@ -220,23 +225,18 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
-      "word": "STAGE",
-      "count": 29,
+      "word": "DEAL",
+      "count": 30,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 29,
+      "word": "STAGE",
+      "count": 30,
       "category": null
     },
     {
@@ -245,13 +245,13 @@
       "category": null
     },
     {
-      "word": "JAPAN",
-      "count": 26,
+      "word": "BANK",
+      "count": 27,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 26,
+      "word": "JAPAN",
+      "count": 27,
       "category": null
     },
     {
@@ -295,18 +295,28 @@
       "category": null
     },
     {
-      "word": "KNOCKOUT",
-      "count": 21,
+      "word": "HITS",
+      "count": 22,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "KNOCKOUT",
       "count": 21,
       "category": null
     },
     {
       "word": "FACES",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MICA",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "SUPPORT",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
