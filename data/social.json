@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T03:27:41.148Z",
+  "updated_at": "2026-06-30T04:54:12.049Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 103,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 11,
+      "news_count_24h": 39,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 350,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 15
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 179,
+      "count": 172,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 171,
+      "count": 164,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 65,
+      "count": 63,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -230,32 +230,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 31,
       "category": "価格"
     },
     {
       "word": "PREDICTION",
-      "count": 31,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 29,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "ROUND",
       "count": 26,
       "category": null
     },
@@ -265,8 +255,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 24,
+      "word": "ROUND",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 25,
       "category": null
     },
     {
@@ -280,8 +275,8 @@
       "category": null
     },
     {
-      "word": "GROUP",
-      "count": 24,
+      "word": "TRUMP",
+      "count": 23,
       "category": null
     },
     {
@@ -290,18 +285,38 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "GERMANY",
       "count": 22,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "GROUP",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "KNOCKOUT",
       "count": 21,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 21,
+      "word": "MATCH",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 20,
       "category": null
     },
     {
@@ -310,27 +325,12 @@
       "category": null
     },
     {
-      "word": "MATCH",
-      "count": 19,
+      "word": "BILLION",
+      "count": 20,
       "category": null
     },
     {
-      "word": "MICA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "KNOCKOUT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "AGAINST",
       "count": 19,
       "category": null
     }
