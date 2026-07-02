@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-02T11:40:22.411Z",
+  "updated_at": "2026-07-02T12:27:38.155Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
-      "hype_score": 6,
+      "news_count_24h": 104,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 50,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 550,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
       "buzz_rank": 8
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 197,
+      "count": 202,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 185,
+      "count": 190,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 117,
+      "count": 118,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 100,
+      "count": 99,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "MARKET",
-      "count": 71,
+      "count": 69,
       "category": "相場"
     },
     {
       "word": "LAUNCHES",
-      "count": 69,
+      "count": 65,
       "category": null
     },
     {
@@ -226,22 +226,32 @@
     },
     {
       "word": "PRICE",
-      "count": 54,
+      "count": 51,
       "category": "価格"
     },
     {
       "word": "STABLECOIN",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 45,
+      "count": 47,
       "category": null
     },
     {
       "word": "JUNE",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 43,
       "category": null
     },
     {
@@ -260,18 +270,8 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 38,
+      "word": "INFLATION",
+      "count": 37,
       "category": null
     },
     {
@@ -280,22 +280,17 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 34,
+      "word": "TALKS",
+      "count": 37,
       "category": null
     },
     {
       "word": "MILLION",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 34,
       "category": null
     },
@@ -305,13 +300,18 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "CIRCLE",
       "count": 34,
       "category": null
     },
     {
-      "word": "OPEN",
+      "word": "MARKETS",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 33,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "TRADING",
       "count": 33,
       "category": null
     },
     {
-      "word": "CIRCLE",
+      "word": "OPEN",
       "count": 33,
       "category": null
     }
