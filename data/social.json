@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:20:07.987Z",
+  "updated_at": "2026-07-02T18:56:56.515Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 109,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 34,
+      "news_count_24h": 39,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 40,
+      "news_count_24h": 32,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 11,
+      "hype_score": 45,
       "buzz_rank": 7
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 6
     },
@@ -191,43 +191,48 @@
     },
     {
       "word": "CUP",
-      "count": 196,
+      "count": 194,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 124,
+      "count": 125,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 97,
+      "count": 96,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 75,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 70,
+      "count": 69,
       "category": "相場"
     },
     {
       "word": "STOCK",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 49,
+      "count": 50,
       "category": "価格"
+    },
+    {
+      "word": "JULY",
+      "count": 46,
+      "category": null
     },
     {
       "word": "JUNE",
@@ -235,17 +240,7 @@
       "category": null
     },
     {
-      "word": "JULY",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "ROUND",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 43,
       "category": null
     },
@@ -255,8 +250,23 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "RECORD",
       "count": 41,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 40,
       "category": null
     },
     {
@@ -265,18 +275,13 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 39,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 38,
+      "word": "CEO",
+      "count": 37,
       "category": null
     },
     {
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "SOLANA",
       "count": 36,
       "category": null
     },
@@ -295,22 +300,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "KNOCKOUT",
       "count": 34,
       "category": null
     },
@@ -320,13 +310,23 @@
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "STABLECOIN",
       "count": 34,
       "category": null
     },
     {
       "word": "ROBINHOOD",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "KNOCKOUT",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 33,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
