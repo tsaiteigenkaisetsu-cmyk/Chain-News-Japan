@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-02T09:42:25.427Z",
+  "updated_at": "2026-07-02T10:41:40.495Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
-      "hype_score": 5,
+      "news_count_24h": 100,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 16,
+      "news_count_24h": 48,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 27,
+      "news_count_24h": 32,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 6
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 7
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 199,
+      "count": 198,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 188,
+      "count": 187,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "IRAN",
-      "count": 96,
+      "count": 98,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "MARKET",
-      "count": 72,
+      "count": 71,
       "category": "相場"
     },
     {
       "word": "LAUNCHES",
-      "count": 64,
+      "count": 65,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -231,12 +231,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "ROUND",
-      "count": 45,
+      "count": 48,
       "category": null
     },
     {
@@ -246,7 +241,12 @@
     },
     {
       "word": "JULY",
-      "count": 43,
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "ROUND",
+      "count": 44,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -266,16 +266,6 @@
     },
     {
       "word": "TALKS",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 38,
       "category": null
     },
@@ -285,13 +275,38 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 35,
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -300,37 +315,22 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "INFLATION",
       "count": 33,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "CIRCLE",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 32,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
+      "word": "SINCE",
       "count": 32,
       "category": null
     }
