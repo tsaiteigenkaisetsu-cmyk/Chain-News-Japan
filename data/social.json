@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-03T16:11:37.039Z",
+  "updated_at": "2026-07-03T16:47:26.180Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
-      "hype_score": 10,
+      "news_count_24h": 102,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 23,
       "hype_score": 4,
       "buzz_rank": 4
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 57,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 13
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 36,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -108,15 +108,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 6
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "AMID",
-      "count": 80,
+      "count": 79,
       "category": null
     },
     {
@@ -205,29 +205,29 @@
       "category": "相場"
     },
     {
-      "word": "STOCK",
-      "count": 59,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 58,
+      "count": 61,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 55,
-      "category": "価格"
+      "word": "STOCK",
+      "count": 57,
+      "category": null
     },
     {
       "word": "TOKEN",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 54,
+      "count": 55,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 52,
+      "category": "価格"
     },
     {
       "word": "LAUNCHES",
@@ -240,32 +240,32 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 47,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 45,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "DATA",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 43,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "ROBINHOOD",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
       "count": 42,
       "category": null
     },
@@ -277,11 +277,6 @@
     {
       "word": "TRADING",
       "count": 40,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 39,
       "category": null
     },
     {
@@ -300,17 +295,32 @@
       "category": null
     },
     {
-      "word": "ROUND",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 36,
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "JUNE",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "ROUND",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 35,
       "category": null
     },
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "FED",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 33,
+      "count": 32,
       "category": null
     }
   ],
