@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T11:30:30.720Z",
+  "updated_at": "2026-07-04T11:59:06.297Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
-      "hype_score": 11,
+      "news_count_24h": 50,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 82,
+      "news_count_24h": 10,
+      "hype_score": 90,
       "buzz_rank": 4
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 10,
+      "news_count_24h": 19,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 218,
+      "count": 216,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 203,
+      "count": 201,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "FAN",
-      "count": 58,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 57,
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 56,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 53,
+      "count": 52,
       "category": "相場"
     },
     {
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "IRAN",
       "count": 39,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 39,
+      "word": "PREDICTION",
+      "count": 38,
       "category": null
     },
     {
@@ -250,7 +250,7 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "AGAINST",
       "count": 37,
       "category": null
     },
@@ -260,17 +260,17 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 35,
+      "word": "TOKENS",
+      "count": 36,
       "category": null
     },
     {
       "word": "GLOBAL",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 33,
       "category": null
     },
@@ -281,7 +281,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -305,16 +305,6 @@
       "category": null
     },
     {
-      "word": "JOBS",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "ESPORTS",
       "count": 27,
       "category": null
@@ -325,13 +315,23 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "WARNS",
       "count": 27,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "JULY",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "JOBS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 26,
       "category": null
     }
   ],
