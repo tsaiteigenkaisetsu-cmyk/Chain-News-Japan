@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T22:08:17.234Z",
+  "updated_at": "2026-07-04T22:36:40.453Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
+      "news_count_24h": 47,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 64,
+      "news_count_24h": 15,
+      "hype_score": 60,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 92,
+      "news_count_24h": 12,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 206,
+      "count": 205,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 195,
+      "count": 194,
       "category": null
     },
     {
@@ -216,17 +216,12 @@
     },
     {
       "word": "SPORTS",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "PREDICTION",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "CRYPTOS",
-      "count": 37,
       "category": null
     },
     {
@@ -240,18 +235,23 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 33,
+      "word": "CRYPTOS",
+      "count": 36,
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 33,
+      "word": "HIGHLIGHTS",
+      "count": 32,
       "category": null
     },
     {
       "word": "TOKENS",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 31,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "GROWING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "ESPORTS",
       "count": 25,
       "category": null
@@ -285,23 +290,18 @@
       "category": null
     },
     {
-      "word": "GROWING",
+      "word": "BETTING",
       "count": 24,
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "FACES",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BETTING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -315,22 +315,22 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "RUSSIAN",
       "count": 22,
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "BIGGEST",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "REPORT",
       "count": 21,
       "category": null
     }
