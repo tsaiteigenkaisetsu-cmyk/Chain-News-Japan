@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T00:10:32.993Z",
+  "updated_at": "2026-07-04T01:00:18.925Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 71,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 69,
-      "buzz_rank": 4
+      "news_count_24h": 11,
+      "hype_score": 82,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 46,
+      "news_count_24h": 28,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
-      "buzz_rank": 8
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 10
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
-      "buzz_rank": 5
+      "news_count_24h": 12,
+      "hype_score": 8,
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 204,
+      "count": 210,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 190,
+      "count": 196,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 70,
+      "count": 72,
       "category": null
     },
     {
@@ -206,32 +206,27 @@
     },
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 57,
       "category": "相場"
     },
     {
       "word": "FAN",
-      "count": 54,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 48,
+      "count": 56,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
-      "word": "AGAINST",
-      "count": 40,
+      "word": "IRAN",
+      "count": 44,
       "category": null
     },
     {
@@ -240,22 +235,27 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 39,
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "GLOBAL",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 36,
       "category": null
     },
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 35,
+      "word": "TRUMP",
+      "count": 36,
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "WARNS",
       "count": 35,
       "category": null
     },
@@ -285,17 +285,27 @@
       "category": null
     },
     {
+      "word": "ROUND",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "CRYPTOS",
       "count": 33,
       "category": null
     },
     {
-      "word": "SPORTS",
+      "word": "PREDICTION",
       "count": 32,
       "category": null
     },
     {
-      "word": "ROUND",
+      "word": "HIGHLIGHTS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
       "count": 32,
       "category": null
     },
@@ -305,7 +315,7 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
+      "word": "RECORD",
       "count": 31,
       "category": null
     },
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "JUNE",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "JOBS",
       "count": 31,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "RECORD",
+      "word": "BILLION",
       "count": 30,
       "category": null
     }
