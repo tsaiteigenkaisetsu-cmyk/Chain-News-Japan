@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T12:36:14.453Z",
+  "updated_at": "2026-07-04T13:02:57.246Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
-      "hype_score": 14,
+      "news_count_24h": 52,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -18,15 +18,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 100,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 800,
-      "buzz_rank": 16
+      "news_count_24h": 2,
+      "hype_score": 400,
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -108,16 +108,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 10,
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 213,
+      "count": 211,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 198,
+      "count": 196,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 73,
+      "count": 74,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 57,
+      "count": 55,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 53,
+      "count": 51,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 50,
       "category": "相場"
     },
     {
@@ -221,17 +221,12 @@
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 41,
       "category": "価格"
     },
     {
       "word": "SPORTS",
       "count": 40,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 39,
       "category": null
     },
     {
@@ -245,7 +240,12 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "PREDICTION",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
       "count": 36,
       "category": null
     },
@@ -255,18 +255,23 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "CRYPTOS",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 32,
       "category": null
     },
     {
@@ -280,13 +285,8 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 31,
+      "word": "ESPORTS",
+      "count": 30,
       "category": null
     },
     {
@@ -300,38 +300,38 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 29,
       "category": null
     },
     {
-      "word": "ESPORTS",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "STOCKS",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
-      "word": "KNOCKOUT",
-      "count": 25,
+      "word": "RUSSIAN",
+      "count": 24,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
-      "word": "JULY",
-      "count": 25,
+      "word": "WARNS",
+      "count": 24,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
