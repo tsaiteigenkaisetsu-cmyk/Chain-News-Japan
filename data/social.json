@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T16:14:16.485Z",
+  "updated_at": "2026-07-04T16:38:25.598Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 5
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -186,42 +186,47 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 205,
+      "count": 208,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 191,
+      "count": 194,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 52,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 39,
       "category": null
     },
     {
@@ -233,11 +238,6 @@
       "word": "PRICE",
       "count": 39,
       "category": "価格"
-    },
-    {
-      "word": "PREDICTION",
-      "count": 38,
-      "category": null
     },
     {
       "word": "HIGHLIGHTS",
@@ -291,7 +291,7 @@
     },
     {
       "word": "TRADING",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -300,13 +300,18 @@
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "ESPORTS",
       "count": 26,
       "category": null
     },
     {
-      "word": "ESPORTS",
+      "word": "JULY",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 24,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "BILLION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "FIFA",
       "count": 23,
       "category": null
     }
