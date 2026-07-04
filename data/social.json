@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T21:16:37.284Z",
+  "updated_at": "2026-07-04T21:40:17.335Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 69,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 14,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 80,
-      "buzz_rank": 2
+      "news_count_24h": 13,
+      "hype_score": 92,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 0,
       "buzz_rank": 7
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 212,
+      "count": 210,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 201,
+      "count": 199,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
@@ -216,12 +216,17 @@
     },
     {
       "word": "SPORTS",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 40,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "CRYPTOS",
+      "count": 37,
       "category": null
     },
     {
@@ -230,28 +235,23 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "IRAN",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "HIGHLIGHTS",
       "count": 34,
       "category": null
     },
     {
       "word": "GLOBAL",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 32,
+      "word": "TOKENS",
+      "count": 33,
       "category": null
     },
     {
@@ -261,17 +261,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 29,
+      "count": 27,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -280,7 +280,7 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "GROWING",
       "count": 25,
       "category": null
     },
@@ -290,22 +290,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "REPORT",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "RECORD",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "GROWING",
       "count": 23,
       "category": null
     },
@@ -317,6 +307,16 @@
     {
       "word": "RUSSIAN",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 22,
       "category": null
     },
     {
