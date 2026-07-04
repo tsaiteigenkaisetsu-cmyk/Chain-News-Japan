@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T19:35:20.165Z",
+  "updated_at": "2026-07-04T20:02:13.489Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 82,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 36,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 211,
+      "count": 214,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 199,
+      "count": 203,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
@@ -215,18 +215,23 @@
       "category": "相場"
     },
     {
+      "word": "SPORTS",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 41,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 41,
+      "count": 39,
       "category": null
     },
     {
-      "word": "SPORTS",
-      "count": 40,
+      "word": "CRYPTOS",
+      "count": 37,
       "category": null
     },
     {
@@ -240,18 +245,13 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "TOKENS",
       "count": 34,
       "category": null
     },
     {
       "word": "GLOBAL",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -265,22 +265,22 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 29,
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 28,
+      "word": "BANK",
+      "count": 29,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "REPORT",
       "count": 27,
       "category": null
     },
@@ -290,17 +290,22 @@
       "category": null
     },
     {
+      "word": "GROWING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "RUSSIAN",
       "count": 25,
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "BETTING",
       "count": 24,
       "category": null
     },
     {
-      "word": "GROWING",
+      "word": "CLASH",
       "count": 24,
       "category": null
     },
@@ -310,28 +315,23 @@
       "category": null
     },
     {
-      "word": "CLASH",
+      "word": "RECORD",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "FIFA",
       "count": 23,
       "category": null
     },
     {
       "word": "FACES",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "BETTING",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 22,
       "category": null
     }
   ],
