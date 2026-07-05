@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-05T20:16:33.491Z",
+  "updated_at": "2026-07-05T20:40:48.270Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 29,
+      "news_count_24h": 35,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 5
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 43,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 170,
+      "count": 174,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 166,
+      "count": 170,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 54,
+      "count": 56,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -220,12 +220,17 @@
       "category": null
     },
     {
+      "word": "TOKENS",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "SPORTS",
       "count": 30,
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "HIGHLIGHTS",
       "count": 29,
       "category": null
     },
@@ -235,13 +240,13 @@
       "category": "相場"
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 28,
+      "word": "CRYPTOS",
+      "count": 26,
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 26,
+      "word": "GROWING",
+      "count": 25,
       "category": null
     },
     {
@@ -250,23 +255,18 @@
       "category": null
     },
     {
-      "word": "GROWING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BETTING",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
       "word": "STAGE",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -285,7 +285,7 @@
       "category": "価格"
     },
     {
-      "word": "WHY",
+      "word": "TRUMP",
       "count": 18,
       "category": null
     },
@@ -295,13 +295,18 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "RUSSIAN",
       "count": 17,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 17,
+      "word": "KHAMENEI",
+      "count": 16,
       "category": null
     },
     {
@@ -310,17 +315,12 @@
       "category": null
     },
     {
-      "word": "ROUND",
+      "word": "SURGE",
       "count": 15,
       "category": null
     },
     {
       "word": "TRANSFER",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "KHAMENEI",
       "count": 15,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
