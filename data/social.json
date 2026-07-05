@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:10:29.466Z",
+  "updated_at": "2026-07-05T21:38:08.691Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 6
+      "news_count_24h": 8,
+      "hype_score": 38,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 200,
       "buzz_rank": 17
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 176,
+      "count": 172,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 171,
+      "count": 167,
       "category": null
     },
     {
@@ -206,23 +206,18 @@
     },
     {
       "word": "AMID",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 35,
+      "count": 33,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
     },
     {
       "word": "SPORTS",
@@ -240,9 +235,9 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 26,
-      "category": null
+      "word": "MARKET",
+      "count": 28,
+      "category": "相場"
     },
     {
       "word": "ESPORTS",
@@ -250,8 +245,13 @@
       "category": null
     },
     {
-      "word": "GROWING",
+      "word": "CRYPTOS",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "GROWING",
+      "count": 24,
       "category": null
     },
     {
@@ -265,8 +265,8 @@
       "category": null
     },
     {
-      "word": "STAGE",
-      "count": 21,
+      "word": "FIFA",
+      "count": 20,
       "category": null
     },
     {
@@ -275,13 +275,8 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "STAGE",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "BIGGEST",
-      "count": 18,
       "category": null
     },
     {
@@ -290,13 +285,18 @@
       "category": "価格"
     },
     {
+      "word": "BIGGEST",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 17,
       "category": null
     },
     {
       "word": "RUSSIAN",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
@@ -310,12 +310,17 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 16,
+      "word": "WARNS",
+      "count": 15,
       "category": null
     },
     {
       "word": "TRANSFER",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 15,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "GLOBAL",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 14,
       "category": null
     }
   ],
