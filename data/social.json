@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T07:36:44.542Z",
+  "updated_at": "2026-07-05T08:34:28.623Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 19,
+      "news_count_24h": 40,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 33,
+      "news_count_24h": 16,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
-      "buzz_rank": 6
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -63,15 +63,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -191,12 +191,12 @@
     },
     {
       "word": "CUP",
-      "count": 174,
+      "count": 175,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -216,13 +216,8 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 35,
       "category": "相場"
-    },
-    {
-      "word": "IRAN",
-      "count": 34,
-      "category": null
     },
     {
       "word": "SPORTS",
@@ -230,12 +225,17 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 29,
+      "word": "IRAN",
+      "count": 33,
       "category": null
     },
     {
       "word": "HIGHLIGHTS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "CRYPTOS",
       "count": 29,
       "category": null
     },
@@ -246,11 +246,6 @@
     },
     {
       "word": "TOKENS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
       "count": 25,
       "category": null
     },
@@ -290,6 +285,11 @@
       "category": null
     },
     {
+      "word": "GLOBAL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "BIGGEST",
       "count": 21,
       "category": null
@@ -300,22 +300,22 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "FIFA",
       "count": 20,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 20,
+      "word": "RECORD",
+      "count": 19,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "AGAINST",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FACES",
       "count": 18,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "ARGENTINA",
-      "count": 17,
+      "word": "REPORT",
+      "count": 16,
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "CLASH",
       "count": 16,
       "category": null
     }
