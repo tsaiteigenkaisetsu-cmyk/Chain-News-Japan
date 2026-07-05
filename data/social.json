@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-05T02:14:24.547Z",
+  "updated_at": "2026-07-05T03:28:26.770Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 51,
-      "hype_score": 12,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
-      "buzz_rank": 4
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -54,14 +54,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 75,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -70,18 +70,18 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 267,
-      "buzz_rank": 10
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 189,
+      "count": 188,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 180,
+      "count": 179,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 67,
+      "count": 65,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
-    },
-    {
       "word": "PREDICTION",
       "count": 38,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "SPORTS",
@@ -236,12 +236,7 @@
     },
     {
       "word": "HIGHLIGHTS",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
@@ -250,12 +245,7 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 27,
-      "category": "価格"
-    },
-    {
-      "word": "TOKEN",
+      "word": "GLOBAL",
       "count": 27,
       "category": null
     },
@@ -265,12 +255,27 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 25,
+      "word": "PRICE",
+      "count": 26,
+      "category": "価格"
+    },
+    {
+      "word": "TOKEN",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "GROWING",
+      "count": 24,
       "category": null
     },
     {
       "word": "TRUMP",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 24,
       "category": null
     },
@@ -285,22 +290,17 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "FACES",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "BETTING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "GROWING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 22,
       "category": null
     },
@@ -315,13 +315,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RECORD",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TRADING",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "EYES",
+      "count": 18,
       "category": null
     }
   ],
