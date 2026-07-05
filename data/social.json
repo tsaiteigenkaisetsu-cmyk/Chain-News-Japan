@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T12:52:31.236Z",
+  "updated_at": "2026-07-05T13:26:56.850Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 31,
+      "news_count_24h": 35,
+      "hype_score": 34,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
+      "news_count_24h": 6,
+      "hype_score": 83,
       "buzz_rank": 5
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 2,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 170,
+      "count": 172,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 166,
+      "count": 168,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PREDICTION",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -210,19 +210,19 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
+    },
+    {
       "word": "AMID",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 33,
-      "category": "相場"
     },
     {
       "word": "SPORTS",
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "CRYPTOS",
+      "word": "ESPORTS",
       "count": 26,
       "category": null
     },
     {
-      "word": "ESPORTS",
-      "count": 25,
+      "word": "CRYPTOS",
+      "count": 26,
       "category": null
     },
     {
@@ -260,12 +260,12 @@
       "category": null
     },
     {
-      "word": "RUSSIAN",
+      "word": "TRUMP",
       "count": 22,
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "RUSSIAN",
       "count": 22,
       "category": null
     },
@@ -275,18 +275,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
+      "word": "GLOBAL",
       "count": 21,
       "category": null
     },
     {
       "word": "BETTING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -300,23 +300,28 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "STAGE",
       "count": 17,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 16,
       "category": null
     },
     {
       "word": "ROUND",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "WIN",
+      "count": 15,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "EYES",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "KHAMENEI",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
