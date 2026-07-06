@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T13:55:22.458Z",
+  "updated_at": "2026-07-06T15:01:36.315Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
-      "hype_score": 9,
+      "news_count_24h": 73,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 19,
+      "news_count_24h": 34,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 26,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 14,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 100,
+      "hype_score": 167,
       "buzz_rank": 12
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -186,32 +186,37 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 166,
+      "count": 165,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 160,
+      "count": 159,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 66,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 39,
+      "count": 65,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 39,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 34,
       "category": null
     },
     {
       "word": "TOKENS",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -220,38 +225,38 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 32,
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "FIFA",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "HIGHLIGHTS",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 26,
       "category": null
     },
     {
@@ -265,7 +270,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "STRATEGY",
       "count": 23,
       "category": null
     },
@@ -275,14 +280,14 @@
       "category": null
     },
     {
-      "word": "BIGGEST",
+      "word": "CRYPTOS",
       "count": 22,
       "category": null
     },
     {
-      "word": "CRYPTOS",
-      "count": 22,
-      "category": null
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
       "word": "RECORD",
@@ -290,12 +295,17 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "BIGGEST",
       "count": 21,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "DEAL",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 20,
       "category": null
     },
@@ -305,14 +315,14 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "TOKEN",
       "count": 20,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
+      "word": "PLANS",
+      "count": 19,
+      "category": null
     },
     {
       "word": "UKRAINE",
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "BETTING",
+      "word": "OIL",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "PLANS",
-      "count": 17,
       "category": null
     }
   ],
