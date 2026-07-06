@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T18:48:14.545Z",
+  "updated_at": "2026-07-06T19:28:48.293Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 87,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 45,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 6
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 8
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 165,
+      "count": 163,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 160,
+      "count": 158,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 68,
+      "count": 70,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "TOKENS",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 38,
       "category": "相場"
     },
     {
@@ -240,23 +240,23 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "SPORTS",
       "count": 32,
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "HIGHLIGHTS",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -266,11 +266,11 @@
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
-      "word": "ESPORTS",
+      "word": "OIL",
       "count": 24,
       "category": null
     },
@@ -280,7 +280,7 @@
       "category": "価格"
     },
     {
-      "word": "OIL",
+      "word": "ESPORTS",
       "count": 23,
       "category": null
     },
@@ -295,8 +295,23 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "RUSSIAN",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 21,
       "category": null
     },
     {
@@ -306,7 +321,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -318,21 +333,6 @@
       "word": "UKRAINE",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CRYPTOS",
-      "count": 20,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
