@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T11:42:40.263Z",
+  "updated_at": "2026-07-07T12:37:30.548Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 138,
-      "hype_score": 7,
+      "news_count_24h": 135,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 167,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 0,
       "buzz_rank": 14
     },
     {
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
+      "news_count_24h": 1,
+      "hype_score": 600,
       "buzz_rank": 15
     },
     {
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 16
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 182,
+      "count": 185,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 177,
+      "count": 180,
       "category": null
     },
     {
@@ -206,21 +206,26 @@
     },
     {
       "word": "AMID",
-      "count": 55,
+      "count": 57,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 55,
       "category": "相場"
     },
     {
       "word": "STRATEGY",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "TOKENS",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "FAN",
       "count": 41,
       "category": null
     },
@@ -235,8 +240,8 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 38,
+      "word": "TOKEN",
+      "count": 35,
       "category": null
     },
     {
@@ -245,23 +250,33 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 34,
+      "word": "FACES",
+      "count": 33,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "IRAN",
       "count": 33,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 30,
+      "word": "PRICE",
+      "count": 28,
+      "category": "価格"
+    },
+    {
+      "word": "OIL",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 27,
       "category": null
     },
     {
@@ -275,21 +290,6 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
-    },
-    {
       "word": "SOLANA",
       "count": 26,
       "category": null
@@ -300,13 +300,23 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "BILLION",
       "count": 25,
       "category": null
     },
     {
       "word": "AHEAD",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 24,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "ESPORTS",
       "count": 23,
       "category": null
     }
