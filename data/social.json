@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T23:40:25.095Z",
+  "updated_at": "2026-07-07T00:11:08.687Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 14,
+      "news_count_24h": 48,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 28,
       "hype_score": 14,
       "buzz_rank": 3
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 14
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 15
+      "news_count_24h": 1,
+      "hype_score": 100,
+      "buzz_rank": 16
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 5
     },
     {
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 165,
+      "count": 166,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 160,
+      "count": 161,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 50,
       "category": null
     },
     {
       "word": "TOKENS",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -221,7 +221,12 @@
     },
     {
       "word": "FAN",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 37,
       "category": null
     },
     {
@@ -230,23 +235,18 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "HIGHLIGHTS",
       "count": 34,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "IRAN",
       "count": 32,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 31,
+      "word": "MILLION",
+      "count": 32,
       "category": null
     },
     {
@@ -265,28 +265,33 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
-    },
-    {
       "word": "ESPORTS",
       "count": 26,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "OIL",
       "count": 25,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "PRICE",
+      "count": 25,
+      "category": "価格"
+    },
+    {
+      "word": "WHY",
       "count": 24,
       "category": null
     },
     {
       "word": "PREDICTION",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 23,
       "category": null
     },
     {
@@ -301,11 +306,6 @@
     },
     {
       "word": "FACES",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "PLANS",
       "count": 22,
       "category": null
     },
@@ -320,7 +320,7 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "RECORD",
       "count": 21,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "ACCOUNTS",
+      "word": "SINCE",
       "count": 20,
       "category": null
     }
