@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T17:02:23.350Z",
+  "updated_at": "2026-07-07T17:46:45.321Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 143,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 17,
+      "news_count_24h": 40,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 250,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 189,
+      "count": 186,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 183,
+      "count": 180,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 79,
+      "count": 80,
       "category": null
     },
     {
@@ -206,27 +206,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 58,
       "category": "相場"
     },
     {
       "word": "STRATEGY",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "FIFA",
-      "count": 41,
+      "count": 45,
       "category": null
     },
     {
@@ -235,39 +230,44 @@
       "category": null
     },
     {
+      "word": "FIFA",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "FAN",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 37,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 35,
+      "word": "TOKENS",
+      "count": 37,
       "category": null
     },
     {
       "word": "FACES",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
+      "word": "IRAN",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 34,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 32,
       "category": "価格"
+    },
+    {
+      "word": "HIGHLIGHTS",
+      "count": 32,
+      "category": null
     },
     {
       "word": "WARNS",
@@ -290,12 +290,12 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "SPORTS",
       "count": 28,
       "category": null
     },
     {
-      "word": "SPORTS",
+      "word": "GLOBAL",
       "count": 28,
       "category": null
     },
@@ -325,7 +325,7 @@
       "category": null
     },
     {
-      "word": "MICA",
+      "word": "ANTHROPIC",
       "count": 26,
       "category": null
     },
