@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-07T18:31:16.627Z",
+  "updated_at": "2026-07-07T19:16:23.067Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 142,
-      "hype_score": 7,
+      "news_count_24h": 145,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 21,
+      "news_count_24h": 40,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 150,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 120,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
       "buzz_rank": 6
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 196,
+      "count": 200,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 190,
+      "count": 194,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 83,
+      "count": 87,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 62,
+      "count": 65,
       "category": null
     },
     {
@@ -220,23 +220,23 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "TOKEN",
       "count": 45,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 42,
+      "word": "FAN",
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 44,
       "category": null
     },
     {
       "word": "FIFA",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -245,13 +245,13 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 36,
+      "word": "IRAN",
+      "count": 38,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 36,
+      "word": "FACES",
+      "count": 37,
       "category": null
     },
     {
@@ -261,8 +261,13 @@
     },
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 34,
       "category": "価格"
+    },
+    {
+      "word": "OIL",
+      "count": 32,
+      "category": null
     },
     {
       "word": "HIGHLIGHTS",
@@ -275,13 +280,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "BILLION",
       "count": 31,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 31,
+      "word": "BANK",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 30,
       "category": null
     },
     {
@@ -290,23 +300,13 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "WARNS",
       "count": 30,
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "RECORD",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "UKRAINE",
       "count": 27,
       "category": null
     },
     {
       "word": "NATO",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 26,
       "category": null
     }
