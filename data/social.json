@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T21:21:25.533Z",
+  "updated_at": "2026-07-08T21:48:56.183Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 120,
+      "news_count_24h": 119,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 13,
+      "news_count_24h": 44,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 4
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 235,
+      "count": 236,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 116,
+      "count": 117,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 73,
+      "category": "相場"
+    },
+    {
       "word": "OIL",
       "count": 73,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 72,
-      "category": "相場"
     },
     {
       "word": "HORMUZ",
@@ -250,18 +250,18 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 51,
+      "word": "DEAL",
+      "count": 50,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 49,
+      "word": "TOKEN",
+      "count": 50,
       "category": null
     },
     {
       "word": "NATO",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 44,
       "category": "価格"
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 42,
-      "category": null
-    },
-    {
       "word": "ATTACKS",
       "count": 41,
       "category": null
@@ -310,13 +305,23 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "IRANS",
       "count": 39,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 39,
+      "word": "LAUNCHES",
+      "count": 38,
       "category": null
     },
     {
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "CEASEFIRE",
+      "word": "FACES",
       "count": 36,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
