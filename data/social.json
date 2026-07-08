@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:14:02.542Z",
+  "updated_at": "2026-07-08T11:54:43.050Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 123,
+      "news_count_24h": 121,
       "hype_score": 6,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 17,
+      "news_count_24h": 49,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 25,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 100,
+      "news_count_24h": 11,
+      "hype_score": 82,
       "buzz_rank": 7
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 6
     },
     {
@@ -191,62 +191,67 @@
     },
     {
       "word": "CUP",
-      "count": 186,
+      "count": 185,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 138,
+      "count": 141,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 121,
+      "count": 126,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 93,
+      "count": 92,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 77,
+      "count": 80,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 70,
+      "count": 68,
       "category": "相場"
     },
     {
       "word": "STRATEGY",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 53,
+      "count": 55,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 51,
+      "count": 54,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "NATO",
+      "count": 41,
       "category": null
     },
     {
@@ -256,32 +261,22 @@
     },
     {
       "word": "HORMUZ",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "NATO",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 37,
+      "count": 40,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 35,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 36,
       "category": null
     },
     {
@@ -290,8 +285,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 35,
+      "word": "CONFLICT",
+      "count": 34,
       "category": null
     },
     {
@@ -300,12 +295,7 @@
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "FACES",
+      "word": "STOCK",
       "count": 34,
       "category": null
     },
@@ -315,23 +305,33 @@
       "category": null
     },
     {
-      "word": "UKRAINE",
+      "word": "BANK",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 31,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 31,
+      "word": "UKRAINE",
+      "count": 30,
       "category": null
     },
     {
       "word": "TOKENS",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 29,
       "category": null
     }
   ],
