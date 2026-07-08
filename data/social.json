@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T01:28:42.439Z",
+  "updated_at": "2026-07-08T02:27:16.111Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 134,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 180,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 150,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 197,
+      "count": 196,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 192,
+      "count": 191,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 92,
       "category": null
     },
     {
@@ -200,28 +205,23 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 87,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 61,
+      "count": 63,
       "category": "相場"
     },
     {
       "word": "TRUMP",
+      "count": 61,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 60,
       "category": null
     },
     {
       "word": "STRATEGY",
       "count": 58,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 52,
       "category": null
     },
     {
@@ -235,19 +235,19 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 41,
-      "category": "価格"
+      "word": "OIL",
+      "count": 43,
+      "category": null
     },
     {
       "word": "FAN",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 40,
-      "category": null
+      "word": "PRICE",
+      "count": 41,
+      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -256,22 +256,22 @@
     },
     {
       "word": "FACES",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
-      "word": "FIFA",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "HIGHLIGHTS",
-      "count": 34,
+      "word": "WARNS",
+      "count": 35,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 33,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 34,
       "category": null
     },
     {
@@ -280,7 +280,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "SALE",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HIGHLIGHTS",
       "count": 32,
       "category": null
     },
@@ -291,32 +296,27 @@
     },
     {
       "word": "SPORTS",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "TOKENS",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "SALE",
       "count": 31,
       "category": null
     },
     {
       "word": "GLOBAL",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "NATO",
       "count": 29,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "NATO",
-      "count": 28,
       "category": null
     },
     {
