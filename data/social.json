@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T04:52:02.826Z",
+  "updated_at": "2026-07-08T05:55:51.426Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 18,
+      "news_count_24h": 46,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 40,
+      "news_count_24h": 21,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 21,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,52 +186,52 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 183,
+      "count": 186,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 178,
+      "count": 180,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 105,
+      "count": 107,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 92,
+      "count": 95,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 81,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 63,
+      "count": 85,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 63,
+      "count": 65,
       "category": "相場"
     },
     {
+      "word": "TRUMP",
+      "count": 64,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -240,23 +240,23 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 42,
       "category": "価格"
     },
     {
-      "word": "FAN",
+      "word": "TENSIONS",
       "count": 41,
       "category": null
     },
     {
       "word": "TRADING",
       "count": 41,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 39,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "BANK",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -280,58 +280,58 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "FIFA",
       "count": 33,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 30,
+      "word": "RECORD",
+      "count": 31,
       "category": null
     },
     {
       "word": "NATO",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 30,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
+      "word": "PLANS",
       "count": 29,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "TOKENS",
       "count": 29,
       "category": null
     },
     {
       "word": "STOCKS",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "PLANS",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 27,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
