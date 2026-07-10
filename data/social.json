@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T01:45:12.432Z",
+  "updated_at": "2026-07-10T02:45:23.383Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
+      "news_count_24h": 121,
       "hype_score": 3,
       "buzz_rank": 1
     },
@@ -52,16 +52,16 @@
       "symbol": "ADA",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 138,
-      "buzz_rank": 9
+      "news_count_24h": 7,
+      "hype_score": 157,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 236,
+      "count": 232,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 181,
+      "count": 178,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 116,
+      "count": 115,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 95,
+      "count": 92,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "OIL",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 50,
+      "count": 47,
       "category": null
     },
     {
@@ -270,14 +270,19 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "PRICE",
       "count": 44,
+      "category": "価格"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 43,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "GLOBAL",
       "count": 43,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -285,27 +290,17 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 42,
+      "word": "OPENAI",
+      "count": 41,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 40,
       "category": null
     },
     {
-      "word": "ATTACKS",
+      "word": "WARNS",
       "count": 40,
       "category": null
     },
@@ -315,7 +310,7 @@
       "category": null
     },
     {
-      "word": "CEASEFIRE",
+      "word": "ATTACKS",
       "count": 39,
       "category": null
     },
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "CEASEFIRE",
       "count": 37,
       "category": null
     },
     {
-      "word": "NATO",
-      "count": 37,
+      "word": "STOCK",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 36,
       "category": null
     }
   ],
