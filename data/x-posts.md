@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/07/10 08:57 JST
-- ソーシャル更新: 2026/07/10 08:43 JST
+- 生成時刻: 2026/07/10 13:51 JST
+- ソーシャル更新: 2026/07/10 13:10 JST
 - 総ニュース件数: 2000件
 - Reddit モード: rss
 
@@ -12,8 +12,8 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース123件 / SNS0
-2位 ETH ニュース31件 / SNS0
+1位 BTC ニュース121件 / SNS0
+2位 ETH ニュース30件 / SNS0
 3位 SOL ニュース24件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
@@ -31,7 +31,7 @@ https://chain-news-japan-webappjp.vercel.app
 いま強いテーマは IRAN / AMID / WORLD。
 注目通貨は BTC / ETH / SOL。
 
-現時点では BTC が先頭で、ニュース123件 / SNS0です。
+現時点では BTC が先頭で、ニュース121件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
@@ -45,7 +45,7 @@ https://chain-news-japan-webappjp.vercel.app
 きょう伸びた通貨を Hype スコア順で振り返ります。
 1位 DOGE Hype 400 / ニュース1件
 2位 DOT Hype 300 / ニュース2件
-3位 USDC Hype 200 / ニュース0件
+3位 USDT Hype 200 / ニュース0件
 
 SNS反応量は一部フォールバックを含む集計です。
 明日の動きを見る前のチェック用に。
