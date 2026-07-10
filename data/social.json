@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T16:05:24.176Z",
+  "updated_at": "2026-07-10T16:49:21.480Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 91,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,16 +16,16 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 34,
-      "buzz_rank": 3
+      "news_count_24h": 33,
+      "hype_score": 30,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 17,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 9,
+      "news_count_24h": 21,
+      "hype_score": 10,
       "buzz_rank": 4
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
+      "news_count_24h": 1,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 138,
+      "count": 139,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 134,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 119,
+      "count": 135,
       "category": null
     },
     {
@@ -205,43 +200,43 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 108,
+      "category": null
+    },
+    {
       "word": "AMID",
-      "count": 107,
+      "count": 93,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 67,
+      "count": 69,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 62,
-      "category": null
-    },
-    {
       "word": "BANK",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 48,
+      "word": "TRUMP",
+      "count": 52,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 47,
+      "count": 46,
       "category": "価格"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 44,
-      "category": null
     },
     {
       "word": "CHAIN",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 43,
       "category": null
     },
     {
@@ -255,7 +250,7 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "TENSIONS",
       "count": 41,
       "category": null
     },
@@ -265,13 +260,8 @@
       "category": null
     },
     {
-      "word": "STRIKES",
+      "word": "GLOBAL",
       "count": 40,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 39,
       "category": null
     },
     {
@@ -280,13 +270,28 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "MILLION",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 39,
       "category": null
     },
     {
       "word": "ROBINHOOD",
-      "count": 37,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "FEDERAL",
+      "count": 35,
       "category": null
     },
     {
@@ -300,8 +305,13 @@
       "category": null
     },
     {
-      "word": "FEDERAL",
-      "count": 34,
+      "word": "FINAL",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 33,
       "category": null
     },
     {
@@ -310,28 +320,18 @@
       "category": null
     },
     {
+      "word": "SPORTS",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "WARNS",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "CFTC",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "FINAL",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "SPORTS",
-      "count": 31,
       "category": null
     }
   ],
