@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T18:47:35.572Z",
+  "updated_at": "2026-07-10T19:19:23.791Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
-      "hype_score": 7,
+      "news_count_24h": 93,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 31,
+      "news_count_24h": 31,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 143,
-      "buzz_rank": 8
+      "news_count_24h": 8,
+      "hype_score": 125,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 9,
+      "hype_score": 4,
       "buzz_rank": 4
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 146,
+      "count": 148,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 142,
+      "count": 144,
       "category": null
     },
     {
@@ -201,22 +201,22 @@
     },
     {
       "word": "IRAN",
-      "count": 87,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 69,
+      "count": 81,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 68,
+      "count": 65,
       "category": "相場"
     },
     {
       "word": "BANK",
-      "count": 60,
+      "count": 62,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 62,
       "category": null
     },
     {
@@ -225,32 +225,27 @@
       "category": "価格"
     },
     {
+      "word": "TOKEN",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "TOKENS",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "FAN",
       "count": 39,
       "category": null
     },
     {
-      "word": "STRIKES",
+      "word": "TRADING",
       "count": 39,
       "category": null
     },
@@ -260,33 +255,18 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "FEDERAL",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "CHAIN",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 37,
       "category": null
     },
     {
@@ -295,18 +275,38 @@
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 35,
+      "word": "DEAL",
+      "count": 37,
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "CHAIN",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "FINAL",
       "count": 34,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 32,
+      "word": "GLOBAL",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
+      "count": 33,
       "category": null
     },
     {
@@ -315,22 +315,22 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "ESPORTS",
       "count": 31,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "JULY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "SPORTS",
       "count": 31,
       "category": null
     }
