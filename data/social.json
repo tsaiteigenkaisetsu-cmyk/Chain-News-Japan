@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-11T18:47:52.365Z",
+  "updated_at": "2026-07-11T19:17:11.041Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 6,
+      "news_count_24h": 53,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 125,
+      "news_count_24h": 7,
+      "hype_score": 143,
       "buzz_rank": 6
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 143,
+      "count": 141,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 139,
+      "count": 137,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 88,
+      "count": 89,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 42,
       "category": "相場"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 29,
       "category": null
@@ -252,16 +257,6 @@
     {
       "word": "SPORTS",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 27,
       "category": null
     },
     {
@@ -275,17 +270,7 @@
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "REAL",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "RECORD",
+      "word": "LAUNCHES",
       "count": 26,
       "category": null
     },
@@ -300,12 +285,12 @@
       "category": null
     },
     {
-      "word": "FEDERAL",
+      "word": "HYNIX",
       "count": 26,
       "category": null
     },
     {
-      "word": "HYNIX",
+      "word": "FINAL",
       "count": 26,
       "category": null
     },
@@ -320,7 +305,12 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "REAL",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 25,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "AGAINST",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "FEDERAL",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
