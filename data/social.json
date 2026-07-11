@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:46:58.670Z",
+  "updated_at": "2026-07-11T17:12:13.888Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 59,
+      "news_count_24h": 57,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
-      "buzz_rank": 5
+      "news_count_24h": 14,
+      "hype_score": 14,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
+      "news_count_24h": 16,
+      "hype_score": 31,
       "buzz_rank": 3
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 143,
+      "count": 142,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 138,
+      "count": 137,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 93,
+      "count": 95,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 48,
       "category": "相場"
     },
     {
       "word": "TOKEN",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -225,12 +225,17 @@
       "category": "価格"
     },
     {
-      "word": "PREDICTION",
+      "word": "TRUMP",
       "count": 33,
       "category": null
     },
     {
       "word": "BANK",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 33,
       "category": null
     },
@@ -241,21 +246,11 @@
     },
     {
       "word": "ESPORTS",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 29,
       "category": null
     },
@@ -270,7 +265,7 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "RECORD",
       "count": 28,
       "category": null
     },
@@ -280,22 +275,27 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 28,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "REAL",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
       "count": 27,
       "category": null
     },
     {
       "word": "GLOBAL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "REAL",
       "count": 27,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
+      "word": "AGAINST",
       "count": 24,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
