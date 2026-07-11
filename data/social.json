@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T10:05:45.985Z",
+  "updated_at": "2026-07-11T10:36:32.070Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 69,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 23,
+      "news_count_24h": 25,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 5
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 22,
+      "news_count_24h": 22,
+      "hype_score": 23,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 7
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 146,
+      "count": 144,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 142,
+      "count": 140,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 109,
+      "count": 107,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -230,13 +230,13 @@
       "category": "価格"
     },
     {
-      "word": "TRUMP",
+      "word": "BANK",
       "count": 39,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 39,
+      "word": "TRUMP",
+      "count": 37,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "FEDERAL",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "CHIP",
       "count": 28,
       "category": null
@@ -325,11 +330,6 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "REAL",
       "count": 27,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
