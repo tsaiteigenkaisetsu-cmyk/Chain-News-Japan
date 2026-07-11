@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T20:31:53.209Z",
+  "updated_at": "2026-07-11T20:55:40.774Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 142,
+      "count": 145,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 138,
+      "count": 141,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
-    },
-    {
       "word": "TOKENS",
       "count": 39,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -231,6 +231,11 @@
     },
     {
       "word": "ESPORTS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 31,
       "category": null
     },
@@ -240,13 +245,13 @@
       "category": null
     },
     {
-      "word": "SPORTS",
-      "count": 30,
+      "word": "AMID",
+      "count": 29,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 30,
+      "word": "SPORTS",
+      "count": 29,
       "category": null
     },
     {
@@ -266,11 +271,6 @@
     },
     {
       "word": "PREDICTION",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 27,
       "category": null
     },
@@ -300,13 +300,8 @@
       "category": null
     },
     {
-      "word": "HYNIX",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 24,
+      "word": "BETTING",
+      "count": 23,
       "category": null
     },
     {
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 22,
+      "word": "LAUNCHES",
+      "count": 23,
       "category": null
     },
     {
-      "word": "BETTING",
+      "word": "HYNIX",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HIGHLIGHTS",
       "count": 22,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
