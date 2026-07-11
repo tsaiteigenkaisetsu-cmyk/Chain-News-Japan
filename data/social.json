@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T01:28:48.621Z",
+  "updated_at": "2026-07-11T02:27:11.375Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 85,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 11
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -201,12 +201,12 @@
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 58,
       "category": "相場"
     },
     {
       "word": "BANK",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 41,
       "category": "価格"
     },
     {
@@ -235,8 +235,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 39,
+      "word": "LAUNCHES",
+      "count": 38,
       "category": null
     },
     {
@@ -245,8 +245,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
+      "word": "AMID",
+      "count": 38,
       "category": null
     },
     {
@@ -275,17 +275,17 @@
       "category": null
     },
     {
-      "word": "ESPORTS",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "HYNIX",
       "count": 33,
       "category": null
     },
     {
       "word": "ROBINHOOD",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "ESPORTS",
       "count": 33,
       "category": null
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 30,
       "category": null
@@ -320,18 +325,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 27,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
