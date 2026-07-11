@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:06:53.428Z",
+  "updated_at": "2026-07-11T23:30:36.612Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 16,
+      "news_count_24h": 42,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 11
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 143,
+      "count": 142,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 139,
+      "count": 138,
       "category": null
     },
     {
@@ -200,12 +200,12 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 47,
+      "word": "TOKEN",
+      "count": 45,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "FAN",
       "count": 45,
       "category": null
     },
@@ -225,17 +225,17 @@
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 33,
+      "word": "SPORTS",
+      "count": 32,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
-      "word": "SPORTS",
+      "word": "TOKENS",
       "count": 31,
       "category": null
     },
@@ -260,17 +260,12 @@
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "BETTING",
       "count": 25,
       "category": null
     },
@@ -285,13 +280,8 @@
       "category": null
     },
     {
-      "word": "FOOTBALL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BETTING",
-      "count": 24,
+      "word": "FINAL",
+      "count": 25,
       "category": null
     },
     {
@@ -305,8 +295,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 24,
+      "word": "FOOTBALL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 23,
       "category": null
     },
     {
@@ -315,8 +310,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "PREDICTION",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
