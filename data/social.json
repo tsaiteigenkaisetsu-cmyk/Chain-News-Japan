@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:30:36.612Z",
+  "updated_at": "2026-07-11T23:57:20.342Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 26,
+      "news_count_24h": 21,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
+      "news_count_24h": 13,
+      "hype_score": 46,
       "buzz_rank": 3
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,26 +186,26 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 142,
+      "count": 140,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 138,
+      "count": 136,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 87,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 45,
+      "count": 84,
       "category": null
     },
     {
       "word": "FAN",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 45,
       "category": null
     },
@@ -216,12 +216,17 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 36,
       "category": "相場"
     },
     {
+      "word": "IRAN",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -230,18 +235,18 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
+      "word": "AMID",
       "count": 31,
       "category": null
     },
     {
-      "word": "ESPORTS",
+      "word": "TOKENS",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "ESPORTS",
+      "count": 29,
       "category": null
     },
     {
@@ -250,22 +255,17 @@
       "category": null
     },
     {
-      "word": "RUN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "BETTING",
+      "word": "HIGHLIGHTS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "RUN",
       "count": 25,
       "category": null
     },
@@ -275,13 +275,13 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 25,
+      "word": "FINAL",
+      "count": 24,
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 25,
+      "word": "BETTING",
+      "count": 24,
       "category": null
     },
     {
@@ -295,23 +295,28 @@
       "category": null
     },
     {
-      "word": "FOOTBALL",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 23,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "FOOTBALL",
       "count": 23,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 23,
+      "word": "LAUNCHES",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 22,
       "category": null
     },
     {
@@ -322,11 +327,6 @@
     {
       "word": "CHAIN",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 21,
       "category": null
     },
     {
