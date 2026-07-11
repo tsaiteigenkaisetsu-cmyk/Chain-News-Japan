@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T03:41:07.568Z",
+  "updated_at": "2026-07-11T04:48:21.867Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 82,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 33,
+      "news_count_24h": 29,
+      "hype_score": 34,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 4,
+      "hype_score": 0,
       "buzz_rank": 4
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 147,
+      "count": 148,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 143,
+      "count": 144,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 56,
       "category": "相場"
     },
     {
@@ -215,24 +215,24 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "TOKEN",
-      "count": 46,
+      "count": 48,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 42,
-      "category": "価格"
+      "word": "FAN",
+      "count": 47,
+      "category": null
     },
     {
       "word": "TOKENS",
       "count": 41,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 41,
+      "category": "価格"
     },
     {
       "word": "AMID",
@@ -242,6 +242,11 @@
     {
       "word": "LAUNCHES",
       "count": 38,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 37,
       "category": null
     },
     {
@@ -255,18 +260,13 @@
       "category": null
     },
     {
-      "word": "CHAIN",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "CHAIN",
+      "count": 34,
       "category": null
     },
     {
@@ -280,22 +280,17 @@
       "category": null
     },
     {
-      "word": "ESPORTS",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 33,
       "category": null
     },
     {
-      "word": "SPORTS",
+      "word": "ROBINHOOD",
       "count": 32,
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "SPORTS",
       "count": 32,
       "category": null
     },
@@ -305,12 +300,7 @@
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
+      "word": "ESPORTS",
       "count": 31,
       "category": null
     },
@@ -325,13 +315,23 @@
       "category": null
     },
     {
+      "word": "FINAL",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 29,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 28,
+      "count": 27,
       "category": null
     }
   ],
