@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T19:45:32.862Z",
+  "updated_at": "2026-07-11T20:10:39.011Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 50,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 36,
+      "news_count_24h": 16,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 143,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -81,15 +81,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 600,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
+      "news_count_24h": 2,
+      "hype_score": 100,
       "buzz_rank": 9
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -106,18 +106,18 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 141,
+      "count": 143,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 137,
+      "count": 139,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 87,
+      "count": 89,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 44,
+      "count": 46,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 40,
       "category": "相場"
     },
     {
@@ -226,12 +226,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -250,6 +245,11 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 29,
       "category": null
@@ -260,22 +260,27 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 27,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "RUN",
       "count": 26,
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "SOLANA",
       "count": 26,
       "category": null
     },
@@ -285,17 +290,12 @@
       "category": null
     },
     {
-      "word": "RUN",
-      "count": 25,
+      "word": "TRADING",
+      "count": 26,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "REAL",
       "count": 25,
       "category": null
     },
@@ -310,28 +310,28 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "AGAINST",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "REAL",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "CHAIN",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 23,
       "category": null
     },
     {
       "word": "GLOBAL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "FEDERAL",
-      "count": 23,
+      "count": 22,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
