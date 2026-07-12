@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T01:08:54.178Z",
+  "updated_at": "2026-07-12T01:58:11.805Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 16,
+      "news_count_24h": 42,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 30,
+      "news_count_24h": 21,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 149,
+      "count": 155,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 145,
+      "count": 151,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 84,
+      "count": 83,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 49,
+      "count": 52,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 46,
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 38,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 37,
       "category": null
     },
     {
@@ -235,18 +235,13 @@
       "category": null
     },
     {
-      "word": "SPORTS",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "TOKENS",
       "count": 32,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 30,
+      "word": "SPORTS",
+      "count": 31,
       "category": null
     },
     {
@@ -256,7 +251,17 @@
     },
     {
       "word": "RUN",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "HIGHLIGHTS",
+      "count": 26,
       "category": null
     },
     {
@@ -265,28 +270,18 @@
       "category": null
     },
     {
-      "word": "HIGHLIGHTS",
+      "word": "FINAL",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 25,
       "category": null
     },
     {
       "word": "DEAL",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "FINAL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BETTING",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 24,
       "category": null
     },
     {
@@ -310,22 +305,27 @@
       "category": null
     },
     {
-      "word": "ENGLAND",
-      "count": 22,
+      "word": "BETTING",
+      "count": 23,
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "QUARTERFINAL",
       "count": 22,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "ENGLAND",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
