@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T19:33:01.887Z",
+  "updated_at": "2026-07-12T19:58:49.139Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 13,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 16,
+      "hype_score": 6,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 160,
-      "category": null
-    },
-    {
-      "word": "CUP",
       "count": 157,
       "category": null
     },
     {
+      "word": "CUP",
+      "count": 154,
+      "category": null
+    },
+    {
       "word": "IRAN",
-      "count": 133,
+      "count": 134,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 113,
+      "count": 115,
       "category": null
     },
     {
@@ -211,47 +211,47 @@
     },
     {
       "word": "TENSIONS",
-      "count": 55,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 50,
+      "count": 56,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 49,
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 47,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 49,
+      "count": 46,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 39,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 31,
       "category": null
     },
     {
       "word": "ENGLAND",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 30,
       "category": null
     },
     {
@@ -265,14 +265,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 26,
-      "category": "相場"
-    },
-    {
       "word": "MILITARY",
       "count": 25,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
     },
     {
       "word": "IRANIAN",
@@ -285,19 +285,9 @@
       "category": null
     },
     {
-      "word": "RUN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 23,
       "category": "価格"
-    },
-    {
-      "word": "RECORD",
-      "count": 23,
-      "category": null
     },
     {
       "word": "HIGHLIGHTS",
@@ -320,7 +310,17 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "STRIKE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "RUN",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
