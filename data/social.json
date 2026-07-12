@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T21:27:23.032Z",
+  "updated_at": "2026-07-12T21:47:58.591Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 40,
-      "hype_score": 23,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 55,
+      "news_count_24h": 12,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 148,
+      "count": 147,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 145,
+      "count": 144,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 138,
+      "count": 142,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 121,
+      "count": 123,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -216,32 +216,32 @@
     },
     {
       "word": "HORMUZ",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 50,
+      "count": 52,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "FAN",
       "count": 43,
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "CONFLICT",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -255,28 +255,33 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "IRANIAN",
       "count": 26,
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 26,
+      "word": "TOKENS",
+      "count": 25,
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "AGAINST",
       "count": 25,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 24,
       "category": "相場"
     },
     {
-      "word": "TOKENS",
-      "count": 25,
+      "word": "UKRAINE",
+      "count": 23,
       "category": null
     },
     {
@@ -292,11 +297,6 @@
     {
       "word": "HIGHLIGHTS",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "UKRAINE",
-      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
