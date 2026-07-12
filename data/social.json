@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:57:20.342Z",
+  "updated_at": "2026-07-12T00:28:24.445Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 17,
+      "news_count_24h": 43,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 12,
+      "hype_score": 50,
       "buzz_rank": 3
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -63,15 +63,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 2,
+      "hype_score": 50,
       "buzz_rank": 8
     },
     {
@@ -81,14 +81,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -126,16 +126,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 16
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 140,
+      "count": 145,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 136,
+      "count": 141,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "FAN",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -211,16 +211,26 @@
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 36,
       "category": "価格"
     },
     {
+      "word": "IRAN",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 36,
+      "count": 35,
       "category": "相場"
     },
     {
-      "word": "IRAN",
+      "word": "AMID",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
       "count": 33,
       "category": null
     },
@@ -230,18 +240,8 @@
       "category": null
     },
     {
-      "word": "SPORTS",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "TOKENS",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "GLOBAL",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "AGAINST",
       "count": 23,
       "category": null
@@ -310,16 +315,6 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 22,
       "category": null
@@ -327,6 +322,11 @@
     {
       "word": "CHAIN",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "ENGLAND",
+      "count": 21,
       "category": null
     },
     {
