@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T10:40:07.604Z",
+  "updated_at": "2026-07-12T11:11:12.366Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 15,
+      "news_count_24h": 40,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 67,
+      "news_count_24h": 10,
+      "hype_score": 60,
       "buzz_rank": 5
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,27 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 169,
+      "count": 168,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 165,
+      "count": 164,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 94,
+      "count": 96,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 76,
+      "count": 80,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 74,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 54,
+      "count": 72,
       "category": null
     },
     {
@@ -220,23 +215,33 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 53,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "TENSIONS",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "ENGLAND",
+      "count": 31,
       "category": null
     },
     {
@@ -250,13 +255,13 @@
       "category": "相場"
     },
     {
-      "word": "ENGLAND",
+      "word": "RUN",
       "count": 30,
       "category": null
     },
     {
-      "word": "RUN",
-      "count": 30,
+      "word": "TOKENS",
+      "count": 29,
       "category": null
     },
     {
@@ -265,18 +270,18 @@
       "category": "価格"
     },
     {
-      "word": "SPORTS",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
+      "word": "IRANIAN",
       "count": 28,
       "category": null
     },
     {
-      "word": "IRANIAN",
-      "count": 27,
+      "word": "SPORTS",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "ESPORTS",
+      "count": 26,
       "category": null
     },
     {
@@ -285,7 +290,12 @@
       "category": null
     },
     {
-      "word": "ESPORTS",
+      "word": "RECORD",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
       "count": 25,
       "category": null
     },
@@ -295,43 +305,33 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "FOOTBALL",
       "count": 24,
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "FINAL",
       "count": 23,
       "category": null
     },
     {
-      "word": "FINAL",
+      "word": "CONFLICT",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 21,
       "category": null
     },
     {
       "word": "CHAIN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "QUARTERFINAL",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "BETTING",
-      "count": 22,
+      "count": 21,
       "category": null
     }
   ],
