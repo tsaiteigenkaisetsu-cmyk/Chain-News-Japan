@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T16:57:04.663Z",
+  "updated_at": "2026-07-12T17:23:54.618Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 22,
+      "news_count_24h": 37,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 6,
+      "news_count_24h": 15,
+      "hype_score": 7,
       "buzz_rank": 4
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 172,
+      "count": 171,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 168,
+      "count": 167,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 122,
+      "count": 126,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 100,
+      "count": 105,
       "category": null
     },
     {
@@ -216,22 +216,27 @@
     },
     {
       "word": "FAN",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 47,
+      "count": 52,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 47,
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 48,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 45,
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 40,
       "category": null
     },
     {
@@ -240,8 +245,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 38,
+      "word": "ENGLAND",
+      "count": 32,
       "category": null
     },
     {
@@ -250,8 +255,8 @@
       "category": null
     },
     {
-      "word": "ENGLAND",
-      "count": 31,
+      "word": "RUN",
+      "count": 29,
       "category": null
     },
     {
@@ -261,11 +266,6 @@
     },
     {
       "word": "AGAINST",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "RUN",
       "count": 28,
       "category": null
     },
@@ -300,23 +300,18 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 24,
+      "category": "価格"
+    },
+    {
       "word": "SPORTS",
       "count": 24,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
-    },
-    {
       "word": "MILITARY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "UKRAINE",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -333,6 +328,11 @@
       "word": "GROWING",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
