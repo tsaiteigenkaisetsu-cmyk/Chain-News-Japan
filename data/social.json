@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T22:32:55.240Z",
+  "updated_at": "2026-07-12T22:55:34.197Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 80,
+      "hype_score": 100,
       "buzz_rank": 7
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 148,
+      "count": 147,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 142,
+      "count": 141,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 139,
+      "count": 138,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "MARKETS",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "FAN",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "IRANS",
       "count": 24,
       "category": null
@@ -280,8 +275,8 @@
       "category": "相場"
     },
     {
-      "word": "HIGHLIGHTS",
-      "count": 23,
+      "word": "AGAINST",
+      "count": 24,
       "category": null
     },
     {
@@ -290,8 +285,13 @@
       "category": null
     },
     {
+      "word": "HIGHLIGHTS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TOKENS",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
