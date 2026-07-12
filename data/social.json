@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T00:28:24.445Z",
+  "updated_at": "2026-07-12T01:08:54.178Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 29,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 200,
+      "news_count_24h": 6,
+      "hype_score": 167,
       "buzz_rank": 6
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 145,
+      "count": 149,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 141,
+      "count": 145,
       "category": null
     },
     {
@@ -201,23 +201,28 @@
     },
     {
       "word": "FAN",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 45,
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 37,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
-    },
-    {
-      "word": "IRAN",
-      "count": 35,
-      "category": null
     },
     {
       "word": "MARKET",
@@ -225,8 +230,8 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 33,
+      "word": "TRUMP",
+      "count": 34,
       "category": null
     },
     {
@@ -235,13 +240,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 33,
+      "word": "TOKENS",
+      "count": 32,
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 31,
+      "word": "BANK",
+      "count": 30,
       "category": null
     },
     {
@@ -250,8 +255,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 29,
+      "word": "RUN",
+      "count": 27,
       "category": null
     },
     {
@@ -261,11 +266,6 @@
     },
     {
       "word": "HIGHLIGHTS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "RUN",
       "count": 25,
       "category": null
     },
@@ -295,7 +295,7 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
+      "word": "PREDICTION",
       "count": 23,
       "category": null
     },
@@ -307,6 +307,16 @@
     {
       "word": "FOOTBALL",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "ENGLAND",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 22,
       "category": null
     },
     {
@@ -323,16 +333,6 @@
       "word": "CHAIN",
       "count": 22,
       "category": null
-    },
-    {
-      "word": "ENGLAND",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "GROWING",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
