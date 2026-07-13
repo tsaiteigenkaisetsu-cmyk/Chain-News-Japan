@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T18:51:12.577Z",
+  "updated_at": "2026-07-13T19:26:04.860Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 12,
+      "news_count_24h": 81,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 9,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 6
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 18,
+      "hype_score": 11,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 23,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 286,
+      "count": 292,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 264,
+      "count": 269,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 142,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 120,
+      "count": 146,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 118,
+      "count": 121,
+      "category": null
+    },
+    {
+      "word": "WORLD",
+      "count": 119,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 118,
+      "count": 117,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 103,
+      "count": 104,
       "category": null
     },
     {
@@ -231,27 +231,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 67,
+      "count": 71,
       "category": null
     },
     {
       "word": "IRANIAN",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
       "word": "UKRAINE",
-      "count": 47,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -260,32 +255,37 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
+    },
+    {
       "word": "DRONE",
       "count": 40,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
-    },
-    {
       "word": "STRIKE",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "RUSSIAN",
-      "count": 36,
+      "count": 39,
       "category": null
     },
     {
       "word": "MISSILE",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "RUSSIAN",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "IRANS",
       "count": 36,
       "category": null
     },
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "SENATE",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 28,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "ENGLAND",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "SENATE",
-      "count": 27,
       "category": null
     }
   ],
