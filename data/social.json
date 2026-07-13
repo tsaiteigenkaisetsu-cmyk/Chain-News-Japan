@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T14:54:26.942Z",
+  "updated_at": "2026-07-13T15:51:30.635Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 77,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 262,
+      "count": 264,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 231,
+      "count": 237,
       "category": null
     },
     {
@@ -206,32 +206,32 @@
     },
     {
       "word": "CUP",
-      "count": 123,
+      "count": 124,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 101,
+      "count": 105,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 90,
+      "count": 94,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 73,
+      "count": 75,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 65,
+      "count": 68,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
@@ -246,12 +246,17 @@
     },
     {
       "word": "IRANIAN",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
       "word": "UKRAINE",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 39,
       "category": null
     },
     {
@@ -260,28 +265,28 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "STRIKE",
       "count": 38,
       "category": null
     },
     {
-      "word": "STRIKE",
+      "word": "MARKET",
       "count": 37,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "TOKEN",
-      "count": 37,
+      "count": 36,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
     },
     {
       "word": "RUSSIAN",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "MISSILE",
+      "count": 33,
       "category": null
     },
     {
@@ -295,17 +300,12 @@
       "category": null
     },
     {
-      "word": "MISSILE",
-      "count": 32,
+      "word": "ENGLAND",
+      "count": 30,
       "category": null
     },
     {
       "word": "FAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ENGLAND",
       "count": 30,
       "category": null
     },
@@ -315,22 +315,22 @@
       "category": "価格"
     },
     {
-      "word": "WEEK",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "WAR",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "ATTACKS",
+      "word": "WEEK",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "RUSSIA",
       "count": 25,
       "category": null
     }
