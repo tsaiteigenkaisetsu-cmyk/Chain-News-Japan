@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T04:35:49.508Z",
+  "updated_at": "2026-07-14T05:30:29.043Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 90,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 23,
+      "news_count_24h": 42,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 17,
+      "news_count_24h": 38,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 15
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -191,12 +191,12 @@
     },
     {
       "word": "AMID",
-      "count": 302,
+      "count": 298,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 162,
+      "count": 160,
       "category": null
     },
     {
@@ -221,22 +221,22 @@
     },
     {
       "word": "STRIKES",
-      "count": 78,
+      "count": 76,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 74,
+      "count": 70,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 72,
+      "count": 68,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
@@ -246,32 +246,32 @@
     },
     {
       "word": "IRANIAN",
-      "count": 58,
+      "count": 56,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 50,
       "category": "相場"
     },
     {
       "word": "UKRAINE",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "TARGETS",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "RUSSIAN",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
@@ -291,7 +291,7 @@
     },
     {
       "word": "PRICES",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -301,11 +301,6 @@
     },
     {
       "word": "ACT",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "MISSILE",
       "count": 34,
       "category": null
     },
@@ -320,18 +315,23 @@
       "category": null
     },
     {
+      "word": "MISSILE",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "ATTACKS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "CHAIN",
       "count": 31,
       "category": null
     },
     {
       "word": "WEEK",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "WAR",
-      "count": 30,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
