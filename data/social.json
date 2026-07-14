@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T10:14:06.965Z",
+  "updated_at": "2026-07-14T10:54:43.269Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 12,
+      "news_count_24h": 97,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 23,
+      "news_count_24h": 47,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -27,14 +27,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
       "hype_score": 13,
-      "buzz_rank": 6
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 15,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 7
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 24,
+      "hype_score": 8,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 24,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -126,23 +126,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 324,
+      "count": 332,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 302,
+      "count": 306,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 169,
+      "count": 173,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 121,
+      "count": 120,
       "category": null
     },
     {
@@ -216,42 +216,42 @@
     },
     {
       "word": "CONFLICT",
-      "count": 91,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 74,
+      "count": 92,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 74,
+      "count": 77,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 75,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 72,
+      "count": 73,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 64,
+      "count": 65,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 53,
+      "count": 55,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 54,
       "category": "相場"
     },
     {
@@ -265,12 +265,22 @@
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "PRICES",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 41,
+      "category": "価格"
+    },
+    {
+      "word": "UKRAINE",
       "count": 41,
       "category": null
     },
     {
-      "word": "UKRAINE",
+      "word": "TARGETS",
       "count": 41,
       "category": null
     },
@@ -280,12 +290,7 @@
       "category": null
     },
     {
-      "word": "TARGETS",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "PRICES",
+      "word": "SENATE",
       "count": 40,
       "category": null
     },
@@ -295,12 +300,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "DRONE",
       "count": 39,
-      "category": "価格"
+      "category": null
     },
     {
-      "word": "RUSSIAN",
+      "word": "MISSILE",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 38,
       "category": null
     },
@@ -310,27 +320,17 @@
       "category": null
     },
     {
-      "word": "DRONE",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "RUSSIAN",
       "count": 36,
       "category": null
     },
     {
-      "word": "MISSILE",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "WEEK",
       "count": 31,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "BANK",
       "count": 31,
       "category": null
     }
