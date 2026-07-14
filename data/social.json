@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T19:14:57.197Z",
+  "updated_at": "2026-07-14T19:48:30.887Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 109,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 9,
+      "news_count_24h": 30,
+      "hype_score": 10,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 21,
+      "hype_score": 5,
       "buzz_rank": 6
     },
     {
@@ -191,32 +191,37 @@
     },
     {
       "word": "AMID",
-      "count": 310,
+      "count": 301,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 184,
+      "count": 180,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 160,
+      "count": 159,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 131,
+      "count": 130,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 126,
+      "count": 125,
+      "category": null
+    },
+    {
+      "word": "WORLD",
+      "count": 98,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 97,
+      "count": 94,
       "category": null
     },
     {
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "WORLD",
-      "count": 91,
+      "word": "CUP",
+      "count": 92,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 88,
-      "category": null
-    },
-    {
-      "word": "CUP",
-      "count": 85,
+      "count": 92,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "MARKET",
-      "count": 62,
+      "count": 61,
       "category": "相場"
     },
     {
@@ -260,23 +260,18 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "INFLATION",
       "count": 57,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "ACT",
       "count": 56,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 55,
-      "category": null
-    },
-    {
-      "word": "IRANIAN",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
@@ -285,13 +280,8 @@
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 49,
+      "word": "IRANIAN",
+      "count": 50,
       "category": null
     },
     {
@@ -310,13 +300,18 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 44,
+      "word": "SENATE",
+      "count": 47,
       "category": null
     },
     {
-      "word": "MISSILE",
-      "count": 43,
+      "word": "IRANS",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 44,
       "category": null
     },
     {
@@ -325,8 +320,13 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "MISSILE",
       "count": 42,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 41,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
