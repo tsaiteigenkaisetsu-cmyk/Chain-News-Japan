@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T00:50:50.458Z",
+  "updated_at": "2026-07-14T01:28:21.887Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 91,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 25,
       "hype_score": 8,
       "buzz_rank": 5
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,67 +186,67 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 322,
+      "count": 328,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 297,
+      "count": 299,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 164,
+      "count": 165,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 136,
+      "count": 137,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 113,
+      "count": 114,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 101,
+      "count": 103,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 94,
+      "count": 89,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 92,
+      "count": 87,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 84,
+      "count": 85,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 79,
+      "count": 81,
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "OIL",
       "count": 60,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 58,
+      "word": "IRANIAN",
+      "count": 60,
       "category": null
     },
     {
@@ -265,6 +265,16 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "RUSSIAN",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "DRONE",
       "count": 43,
       "category": null
@@ -275,8 +285,8 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 42,
+      "word": "TARGETS",
+      "count": 41,
       "category": null
     },
     {
@@ -285,18 +295,13 @@
       "category": null
     },
     {
-      "word": "RUSSIAN",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "TARGETS",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "SENATE",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 34,
       "category": null
     },
     {
@@ -305,19 +310,14 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "WAR",
       "count": 32,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 32,
-      "category": "価格"
+      "word": "ATTACKS",
+      "count": 31,
+      "category": null
     },
     {
       "word": "ISRAEL",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "PRICE",
       "count": 31,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "CLARITY",
-      "count": 30,
+      "word": "WARNS",
+      "count": 31,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
