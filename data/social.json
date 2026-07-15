@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:26:12.699Z",
+  "updated_at": "2026-07-15T16:55:16.063Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
+      "news_count_24h": 84,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 23,
       "hype_score": 9,
       "buzz_rank": 4
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 16,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 259,
+      "count": 256,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 206,
+      "count": 207,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 164,
+      "count": 165,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 157,
+      "count": 158,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 131,
+      "count": 130,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 123,
+      "count": 124,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 106,
+      "count": 102,
       "category": null
     },
     {
@@ -226,17 +226,17 @@
     },
     {
       "word": "OIL",
-      "count": 84,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 77,
+      "count": 83,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 77,
+      "count": 78,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 76,
       "category": null
     },
     {
@@ -246,28 +246,28 @@
     },
     {
       "word": "DATA",
-      "count": 65,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
-      "count": 61,
+      "count": 67,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 59,
+      "count": 62,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 54,
+      "word": "MILITARY",
+      "count": 62,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 56,
       "category": "価格"
+    },
+    {
+      "word": "PRICES",
+      "count": 53,
+      "category": null
     },
     {
       "word": "FINAL",
@@ -275,7 +275,17 @@
       "category": null
     },
     {
+      "word": "FAN",
+      "count": 48,
+      "category": null
+    },
+    {
       "word": "TARGETS",
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 47,
       "category": null
     },
@@ -285,37 +295,22 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 47,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 45,
+      "count": 46,
       "category": "相場"
     },
     {
-      "word": "BANK",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 44,
+      "word": "IRANS",
+      "count": 45,
       "category": null
     },
     {
       "word": "IRANIAN",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 44,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "CPI",
       "count": 43,
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "TOKEN",
       "count": 42,
       "category": null
     }
