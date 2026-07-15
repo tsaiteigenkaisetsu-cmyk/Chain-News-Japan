@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:01:26.168Z",
+  "updated_at": "2026-07-15T22:27:50.253Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 90,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 59,
+      "news_count_24h": 21,
+      "hype_score": 62,
       "buzz_rank": 5
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 19,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 252,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 187,
+      "count": 250,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 181,
+      "count": 186,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 185,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 174,
+      "count": 179,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 133,
+      "count": 134,
       "category": null
     },
     {
@@ -231,17 +231,12 @@
     },
     {
       "word": "OIL",
-      "count": 69,
+      "count": 68,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 66,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 61,
+      "count": 64,
       "category": null
     },
     {
@@ -255,8 +250,13 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 60,
+      "category": null
+    },
+    {
       "word": "FINAL",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -271,23 +271,23 @@
     },
     {
       "word": "FAN",
-      "count": 51,
+      "count": 54,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 49,
-      "category": "相場"
-    },
-    {
       "word": "ENGLAND",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICES",
-      "count": 47,
+      "count": 48,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 48,
+      "category": "相場"
     },
     {
       "word": "ACT",
@@ -300,8 +300,18 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "FED",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "SEMI",
+      "count": 43,
       "category": null
     },
     {
@@ -310,27 +320,17 @@
       "category": null
     },
     {
-      "word": "CPI",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 42,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 42,
       "category": null
     },
     {
-      "word": "SEMI",
+      "word": "CPI",
       "count": 42,
       "category": null
     },
     {
-      "word": "WARSH",
+      "word": "CLARITY",
       "count": 41,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
