@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:55:16.063Z",
+  "updated_at": "2026-07-15T17:27:43.313Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
-      "hype_score": 10,
+      "hype_score": 5,
       "buzz_rank": 6
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 9,
+      "news_count_24h": 24,
+      "hype_score": 8,
       "buzz_rank": 4
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 25,
+      "news_count_24h": 18,
+      "hype_score": 22,
       "buzz_rank": 7
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,57 +186,57 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 256,
+      "count": 254,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 207,
+      "count": 206,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 165,
+      "count": 164,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 158,
+      "count": 157,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 130,
+      "count": 131,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 124,
+      "count": 123,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 102,
+      "count": 99,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 101,
+      "count": 99,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 83,
+      "count": 81,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 78,
+      "count": 76,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 76,
+      "count": 74,
       "category": null
     },
     {
@@ -251,41 +251,41 @@
     },
     {
       "word": "STRIKES",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 56,
+      "count": 55,
       "category": "価格"
     },
     {
       "word": "PRICES",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "FINAL",
-      "count": 50,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "TARGETS",
-      "count": 48,
+      "count": 52,
       "category": null
     },
     {
       "word": "ACT",
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "FINAL",
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 47,
+      "category": "相場"
+    },
+    {
+      "word": "TARGETS",
       "count": 47,
       "category": null
     },
@@ -295,9 +295,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "BANK",
       "count": 46,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "IRANIAN",
+      "count": 46,
+      "category": null
     },
     {
       "word": "IRANS",
@@ -305,13 +310,18 @@
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "FAN",
       "count": 45,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "CLARITY",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 43,
       "category": null
     },
     {
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "CPI",
       "count": 43,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 42,
       "category": null
     }
   ],
