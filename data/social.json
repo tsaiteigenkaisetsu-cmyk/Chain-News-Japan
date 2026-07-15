@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:49:59.632Z",
+  "updated_at": "2026-07-15T23:16:11.550Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
-      "hype_score": 14,
+      "news_count_24h": 52,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 6
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 62,
-      "buzz_rank": 5
+      "news_count_24h": 23,
+      "hype_score": 57,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 69,
-      "buzz_rank": 8
+      "news_count_24h": 14,
+      "hype_score": 64,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 9,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 20,
-      "buzz_rank": 7
+      "news_count_24h": 14,
+      "hype_score": 21,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 0,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 10
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 246,
+      "count": 247,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 192,
+      "count": 195,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 185,
+      "count": 188,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 182,
+      "count": 185,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 134,
+      "count": 135,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 117,
+      "count": 118,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 96,
+      "count": 97,
       "category": null
     },
     {
@@ -226,17 +226,17 @@
     },
     {
       "word": "INFLATION",
-      "count": 73,
+      "count": 72,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 65,
+      "count": 64,
       "category": null
     },
     {
@@ -245,24 +245,24 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 60,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 58,
       "category": "価格"
+    },
+    {
+      "word": "MILITARY",
+      "count": 58,
+      "category": null
     },
     {
       "word": "STRAIT",
@@ -276,7 +276,7 @@
     },
     {
       "word": "ENGLAND",
-      "count": 52,
+      "count": 54,
       "category": null
     },
     {
@@ -290,17 +290,22 @@
       "category": null
     },
     {
+      "word": "SEMI",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 45,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 45,
+      "word": "ARGENTINA",
+      "count": 44,
       "category": null
     },
     {
-      "word": "SEMI",
+      "word": "PRICES",
       "count": 44,
       "category": null
     },
@@ -310,18 +315,13 @@
       "category": null
     },
     {
-      "word": "JUNE",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 43,
       "category": null
     },
     {
-      "word": "ARGENTINA",
-      "count": 42,
+      "word": "JUNE",
+      "count": 43,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
