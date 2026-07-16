@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T06:34:16.433Z",
+  "updated_at": "2026-07-16T07:26:56.436Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
       "news_count_24h": 96,
-      "hype_score": 15,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 5
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 52,
+      "news_count_24h": 24,
+      "hype_score": 54,
       "buzz_rank": 4
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 235,
+      "count": 238,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 190,
+      "count": 188,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 183,
+      "count": 181,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 169,
+      "count": 172,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 136,
+      "count": 138,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 107,
+      "count": 108,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 97,
+      "count": 96,
       "category": null
     },
     {
@@ -225,28 +225,28 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 64,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 63,
+      "category": null
+    },
+    {
       "word": "STRIKES",
       "count": 63,
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 62,
+      "category": null
+    },
+    {
       "word": "FINAL",
       "count": 62,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 62,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 62,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 61,
       "category": null
     },
     {
@@ -261,36 +261,36 @@
     },
     {
       "word": "PRICE",
-      "count": 57,
+      "count": 56,
       "category": "価格"
     },
     {
       "word": "FAN",
-      "count": 57,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 49,
-      "category": "相場"
-    },
-    {
-      "word": "ENGLAND",
-      "count": 49,
+      "count": 56,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 45,
+      "word": "MARKET",
+      "count": 48,
+      "category": "相場"
+    },
+    {
+      "word": "ENGLAND",
+      "count": 47,
       "category": null
     },
     {
       "word": "ACT",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "PRICES",
       "count": 45,
       "category": null
     },
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 43,
       "category": null
@@ -320,17 +315,22 @@
       "category": null
     },
     {
-      "word": "TARGETS",
-      "count": 41,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TARGETS",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 40,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
