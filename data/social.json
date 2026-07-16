@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-16T21:58:08.266Z",
+  "updated_at": "2026-07-16T22:25:23.459Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 98,
-      "hype_score": 8,
+      "hype_score": 6,
       "buzz_rank": 1
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 89,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "binancecoin",
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 10
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 210,
+      "count": 205,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 177,
+      "count": 178,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 164,
+      "count": 161,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 158,
+      "count": 154,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 114,
+      "count": 112,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 89,
+      "count": 88,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 81,
+      "count": 77,
       "category": null
     },
     {
@@ -226,31 +226,31 @@
     },
     {
       "word": "STRIKES",
-      "count": 64,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 60,
-      "category": null
-    },
-    {
-      "word": "FINAL",
-      "count": 59,
+      "count": 63,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 58,
+      "count": 59,
       "category": "相場"
     },
     {
-      "word": "MILITARY",
-      "count": 57,
+      "word": "FINAL",
+      "count": 58,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 58,
       "category": null
     },
     {
       "word": "OIL",
+      "count": 55,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
       "count": 54,
       "category": null
     },
@@ -261,12 +261,12 @@
     },
     {
       "word": "FAN",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -290,17 +290,12 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 44,
+      "word": "AGAINST",
+      "count": 43,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 43,
       "category": null
     },
@@ -320,18 +315,23 @@
       "category": null
     },
     {
-      "word": "TARGETS",
-      "count": 36,
+      "word": "HORMUZ",
+      "count": 38,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "TARGETS",
       "count": 36,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 35,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
