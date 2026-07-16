@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T04:45:44.284Z",
+  "updated_at": "2026-07-16T05:44:37.416Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 14,
+      "news_count_24h": 97,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 16,
+      "news_count_24h": 52,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 5
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 10
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 241,
+      "count": 234,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 192,
+      "count": 190,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 185,
+      "count": 183,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 173,
+      "count": 168,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "TENSIONS",
-      "count": 110,
+      "count": 106,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 100,
+      "count": 98,
       "category": null
     },
     {
@@ -225,12 +225,7 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 64,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
+      "word": "STRIKES",
       "count": 63,
       "category": null
     },
@@ -240,18 +235,28 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 62,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 62,
+      "category": null
+    },
+    {
       "word": "FINAL",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 62,
-      "category": null
+      "word": "PRICE",
+      "count": 57,
+      "category": "価格"
     },
     {
-      "word": "MILITARY",
-      "count": 58,
+      "word": "CONFLICT",
+      "count": 57,
       "category": null
     },
     {
@@ -260,18 +265,13 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 57,
+      "word": "MILITARY",
+      "count": 55,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 56,
-      "category": "価格"
-    },
-    {
       "word": "ENGLAND",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -285,23 +285,18 @@
       "category": "相場"
     },
     {
-      "word": "ACT",
-      "count": 46,
+      "word": "PRICES",
+      "count": 45,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 46,
+      "word": "ACT",
+      "count": 45,
       "category": null
     },
     {
       "word": "FED",
       "count": 45,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 44,
       "category": null
     },
     {
@@ -311,16 +306,16 @@
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 43,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "SEMI",
       "count": 41,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "TARGETS",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 40,
       "category": null
     }
