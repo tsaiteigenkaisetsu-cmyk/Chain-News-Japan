@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T15:57:47.521Z",
+  "updated_at": "2026-07-17T16:31:16.552Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 98,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 12
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 202,
+      "count": 198,
       "category": null
     },
     {
@@ -196,47 +196,47 @@
     },
     {
       "word": "WORLD",
-      "count": 132,
+      "count": 127,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 123,
+      "count": 119,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 110,
+      "count": 107,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 90,
+      "count": 88,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 76,
+      "count": 74,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 69,
+      "count": 68,
       "category": "相場"
     },
     {
       "word": "STRIKES",
-      "count": 69,
+      "count": 68,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
@@ -245,27 +245,27 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 45,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 44,
       "category": null
     },
     {
-      "word": "FAN",
+      "word": "TRADING",
       "count": 44,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 43,
+      "word": "DEAL",
+      "count": 42,
       "category": null
     },
     {
-      "word": "FINAL",
+      "word": "FAN",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 42,
       "category": null
     },
@@ -275,18 +275,13 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 41,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 40,
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 40,
+      "word": "FINAL",
+      "count": 39,
       "category": null
     },
     {
@@ -300,7 +295,7 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "CHINA",
       "count": 37,
       "category": null
     },
@@ -310,27 +305,32 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 36,
+      "word": "ACT",
+      "count": 37,
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "ARGENTINA",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
-      "count": 35,
+      "word": "MILITARY",
+      "count": 37,
       "category": null
     },
     {
       "word": "RECORD",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 34,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
