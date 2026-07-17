@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T23:35:55.219Z",
+  "updated_at": "2026-07-17T00:00:41.304Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 204,
+      "count": 206,
       "category": null
     },
     {
@@ -196,27 +196,27 @@
     },
     {
       "word": "WORLD",
-      "count": 155,
+      "count": 154,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 147,
+      "count": 146,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 112,
+      "count": 114,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 90,
+      "count": 91,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 72,
       "category": null
     },
     {
@@ -235,28 +235,28 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 57,
-      "category": "相場"
-    },
-    {
       "word": "CONFLICT",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 56,
+      "category": "相場"
+    },
+    {
       "word": "INFLATION",
+      "count": 54,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
       "count": 53,
       "category": null
     },
     {
       "word": "FINAL",
       "count": 53,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
-      "count": 52,
       "category": null
     },
     {
@@ -270,17 +270,17 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 45,
       "category": null
     },
     {
       "word": "DATA",
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 45,
       "category": null
     },
@@ -300,13 +300,13 @@
       "category": null
     },
     {
-      "word": "ARGENTINA",
+      "word": "HITS",
       "count": 41,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 40,
+      "word": "ARGENTINA",
+      "count": 41,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 37,
+      "word": "WARNS",
+      "count": 36,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "HORMUZ",
       "count": 36,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
