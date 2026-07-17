@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T18:57:48.337Z",
+  "updated_at": "2026-07-17T19:29:00.521Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
-      "hype_score": 7,
+      "news_count_24h": 88,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 167,
+      "news_count_24h": 7,
+      "hype_score": 143,
       "buzz_rank": 9
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 184,
+      "count": 183,
       "category": null
     },
     {
@@ -196,12 +196,7 @@
     },
     {
       "word": "WORLD",
-      "count": 116,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 107,
+      "count": 115,
       "category": null
     },
     {
@@ -210,8 +205,13 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 103,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
-      "count": 82,
+      "count": 83,
       "category": null
     },
     {
@@ -221,18 +221,18 @@
     },
     {
       "word": "TRUMP",
-      "count": 68,
+      "count": 67,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 66,
-      "category": "相場"
     },
     {
       "word": "STRIKES",
       "count": 65,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 65,
+      "category": "相場"
     },
     {
       "word": "CONFLICT",
@@ -246,7 +246,7 @@
     },
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -265,17 +265,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "CHINA",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
+      "word": "FINAL",
       "count": 38,
       "category": null
     },
@@ -285,13 +275,13 @@
       "category": null
     },
     {
-      "word": "FINAL",
+      "word": "CHINA",
       "count": 38,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 38,
+      "word": "RECORD",
+      "count": 37,
       "category": null
     },
     {
@@ -305,12 +295,22 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 36,
+      "word": "WARNS",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 37,
       "category": null
     },
     {
       "word": "FAN",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 36,
       "category": null
     },
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "OPEN",
-      "count": 33,
+      "word": "GLOBAL",
+      "count": 32,
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 33,
+      "word": "IRANIAN",
+      "count": 32,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
