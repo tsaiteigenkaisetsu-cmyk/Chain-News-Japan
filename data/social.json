@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T11:00:11.999Z",
+  "updated_at": "2026-07-17T11:38:03.348Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 9,
+      "news_count_24h": 95,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 39,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -27,23 +27,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 72,
-      "buzz_rank": 5
+      "news_count_24h": 21,
+      "hype_score": 62,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 6
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 25,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 207,
+      "count": 204,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 179,
+      "count": 182,
       "category": null
     },
     {
@@ -211,32 +211,27 @@
     },
     {
       "word": "TENSIONS",
-      "count": 94,
+      "count": 93,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 78,
+      "count": 76,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 72,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 66,
+      "count": 70,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 66,
+      "count": 65,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 61,
+      "word": "CONFLICT",
+      "count": 64,
       "category": null
     },
     {
@@ -245,18 +240,28 @@
       "category": "相場"
     },
     {
+      "word": "OIL",
+      "count": 60,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 51,
       "category": null
     },
     {
       "word": "INFLATION",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 48,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "FINAL",
+      "count": 47,
       "category": null
     },
     {
@@ -276,27 +281,22 @@
     },
     {
       "word": "FAN",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "FINAL",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 45,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 44,
       "category": null
     },
     {
       "word": "DEAL",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 41,
       "category": null
     },
     {
@@ -306,7 +306,7 @@
     },
     {
       "word": "CEO",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "ARGENTINA",
       "count": 36,
       "category": null
     },
     {
-      "word": "ARGENTINA",
+      "word": "IRANS",
       "count": 36,
       "category": null
     }
