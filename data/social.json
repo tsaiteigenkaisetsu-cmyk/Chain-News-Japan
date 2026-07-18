@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-18T20:12:51.657Z",
+  "updated_at": "2026-07-18T20:32:30.029Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 23,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -186,42 +186,42 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 130,
+      "count": 131,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 121,
+      "count": 117,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 88,
+      "count": 87,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 80,
+      "count": 79,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 66,
+      "count": 64,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 61,
+      "count": 60,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 52,
       "category": "相場"
     },
     {
       "word": "STRIKES",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
@@ -251,31 +251,36 @@
     },
     {
       "word": "IRANIAN",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "FINAL",
       "count": 33,
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 30,
+      "word": "FINAL",
+      "count": 32,
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "GLOBAL",
       "count": 29,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "HORMUZ",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "IRANS",
       "count": 27,
       "category": null
     },
@@ -285,37 +290,27 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 26,
       "category": null
     },
     {
       "word": "GULF",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 23,
+      "word": "HITS",
+      "count": 25,
       "category": null
     },
     {
       "word": "BANK",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 23,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "STOCKS",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
