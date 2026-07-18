@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T00:09:17.786Z",
+  "updated_at": "2026-07-18T00:50:59.502Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
+      "news_count_24h": 70,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 23,
-      "buzz_rank": 3
+      "news_count_24h": 27,
+      "hype_score": 22,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 9
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -191,32 +191,32 @@
     },
     {
       "word": "AMID",
-      "count": 162,
+      "count": 164,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 97,
+      "count": 95,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 92,
+      "count": 91,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 89,
+      "count": 88,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 81,
+      "count": 82,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 69,
+      "count": 71,
       "category": "価格"
     },
     {
@@ -226,17 +226,17 @@
     },
     {
       "word": "STRIKES",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 59,
+      "count": 57,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "IRANS",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 35,
       "category": null
@@ -300,12 +295,12 @@
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "STOCK",
       "count": 34,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "IRANS",
       "count": 34,
       "category": null
     },
@@ -315,8 +310,8 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 32,
+      "word": "IRANIAN",
+      "count": 33,
       "category": null
     },
     {
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "GULF",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
       "count": 30,
       "category": null
     },
     {
-      "word": "GULF",
-      "count": 30,
+      "word": "HORMUZ",
+      "count": 29,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
