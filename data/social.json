@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T07:42:11.681Z",
+  "updated_at": "2026-07-19T08:33:37.240Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 26,
+      "news_count_24h": 32,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 50,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,42 +186,47 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 112,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 100,
+      "count": 115,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 99,
+      "count": 101,
+      "category": null
+    },
+    {
+      "word": "WORLD",
+      "count": 101,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 96,
+      "count": 97,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "TENSIONS",
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 47,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 45,
+      "count": 43,
       "category": "相場"
     },
     {
-      "word": "STRIKES",
-      "count": 44,
+      "word": "CONFLICT",
+      "count": 37,
       "category": null
     },
     {
@@ -230,8 +235,8 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 36,
+      "word": "OIL",
+      "count": 34,
       "category": null
     },
     {
@@ -240,13 +245,8 @@
       "category": "価格"
     },
     {
-      "word": "OIL",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "IRANIAN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -256,12 +256,7 @@
     },
     {
       "word": "CHINA",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 26,
+      "count": 30,
       "category": null
     },
     {
@@ -275,6 +270,16 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "CLARITY",
       "count": 24,
       "category": null
@@ -285,18 +290,28 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MILITARY",
-      "count": 21,
+      "count": 23,
       "category": null
     },
     {
       "word": "TARGETS",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 19,
       "category": null
     },
     {
@@ -310,27 +325,12 @@
       "category": null
     },
     {
-      "word": "IRANS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "DIGITAL",
       "count": 19,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "TECH",
       "count": 18,
       "category": null
     }
