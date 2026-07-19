@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T14:08:27.276Z",
+  "updated_at": "2026-07-19T14:40:03.035Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 22,
       "buzz_rank": 1
     },
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 70,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
+      "news_count_24h": 10,
+      "hype_score": 30,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 44,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 4
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 112,
+      "count": 107,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "CUP",
-      "count": 98,
+      "count": 99,
       "category": null
     },
     {
@@ -206,37 +206,32 @@
     },
     {
       "word": "MARKETS",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 48,
+      "count": 50,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 46,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 44,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 40,
       "category": "相場"
     },
     {
-      "word": "TRUMP",
+      "word": "FINAL",
       "count": 37,
       "category": null
     },
     {
-      "word": "FINAL",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 35,
+      "word": "TRUMP",
+      "count": 37,
       "category": null
     },
     {
@@ -245,18 +240,28 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 31,
-      "category": "価格"
+      "word": "CONFLICT",
+      "count": 34,
+      "category": null
     },
     {
       "word": "OIL",
-      "count": 29,
+      "count": 30,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 29,
+      "category": "価格"
     },
     {
       "word": "SPORTS",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 24,
       "category": null
     },
     {
@@ -265,18 +270,8 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MILITARY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 21,
+      "count": 23,
       "category": null
     },
     {
@@ -290,17 +285,32 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "IRANS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "DRONE",
       "count": 20,
       "category": null
     },
     {
       "word": "MILLION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "MISSILE",
       "count": 19,
       "category": null
     },
     {
-      "word": "DRONE",
+      "word": "CHINA",
       "count": 19,
       "category": null
     },
@@ -315,23 +325,13 @@
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "MISSILE",
+      "word": "FACES",
       "count": 18,
       "category": null
     },
     {
       "word": "ENGLAND",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 17,
       "category": null
     }
   ],
