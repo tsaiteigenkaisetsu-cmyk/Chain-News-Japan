@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T12:58:05.710Z",
+  "updated_at": "2026-07-19T13:33:48.119Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 117,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 88,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
+      "news_count_24h": 9,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 180,
+      "news_count_24h": 4,
+      "hype_score": 225,
       "buzz_rank": 9
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "WORLD",
-      "count": 100,
+      "count": 99,
       "category": null
     },
     {
@@ -201,7 +201,12 @@
     },
     {
       "word": "AMID",
-      "count": 85,
+      "count": 87,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 53,
       "category": null
     },
     {
@@ -210,14 +215,14 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 50,
+      "word": "TENSIONS",
+      "count": 44,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 43,
-      "category": null
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
     },
     {
       "word": "TRUMP",
@@ -225,9 +230,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
+      "word": "CONFLICT",
+      "count": 36,
+      "category": null
     },
     {
       "word": "IRANIAN",
@@ -235,32 +240,22 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 34,
-      "category": "価格"
-    },
-    {
       "word": "FINAL",
       "count": 34,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 33,
+      "category": "価格"
+    },
+    {
       "word": "OIL",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "SPORTS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CHINA",
       "count": 25,
       "category": null
     },
@@ -275,8 +270,8 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 22,
+      "word": "CHINA",
+      "count": 23,
       "category": null
     },
     {
@@ -285,13 +280,18 @@
       "category": null
     },
     {
+      "word": "GLOBAL",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 21,
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 21,
+      "word": "JORDAN",
+      "count": 20,
       "category": null
     },
     {
@@ -300,12 +300,17 @@
       "category": null
     },
     {
-      "word": "JORDAN",
+      "word": "CLARITY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "IRANS",
       "count": 19,
       "category": null
     },
     {
-      "word": "MISSILE",
+      "word": "KUWAIT",
       "count": 18,
       "category": null
     },
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "MISSILE",
       "count": 18,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "DRONE",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
