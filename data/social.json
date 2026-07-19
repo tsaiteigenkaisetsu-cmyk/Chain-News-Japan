@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-19T00:54:22.553Z",
+  "updated_at": "2026-07-19T01:30:16.057Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 19,
+      "news_count_24h": 31,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 7,
+      "hype_score": 57,
       "buzz_rank": 3
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 43,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 129,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 113,
+      "count": 111,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 107,
+      "count": 105,
       "category": null
     },
     {
@@ -205,48 +205,43 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 53,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 52,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 48,
+      "count": 49,
       "category": "相場"
     },
     {
+      "word": "TENSIONS",
+      "count": 49,
+      "category": null
+    },
+    {
       "word": "STRIKES",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 38,
+      "count": 39,
       "category": "価格"
     },
     {
-      "word": "IRANIAN",
-      "count": 36,
+      "word": "TRUMP",
+      "count": 39,
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 34,
+      "word": "IRANIAN",
+      "count": 35,
       "category": null
     },
     {
@@ -260,8 +255,8 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 27,
+      "word": "CHINA",
+      "count": 30,
       "category": null
     },
     {
@@ -270,22 +265,22 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "SPORTS",
       "count": 24,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "IRANS",
+      "word": "CLARITY",
       "count": 23,
       "category": null
     },
@@ -295,12 +290,12 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "STRAIT",
       "count": 22,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "IRANS",
       "count": 22,
       "category": null
     },
@@ -310,8 +305,8 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 22,
+      "word": "STOCK",
+      "count": 21,
       "category": null
     },
     {
@@ -320,12 +315,17 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "HORMUZ",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 20,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "STOCKS",
       "count": 20,
       "category": null
     },
