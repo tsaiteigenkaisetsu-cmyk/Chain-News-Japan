@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T15:08:14.229Z",
+  "updated_at": "2026-07-19T15:35:56.363Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 22,
+      "news_count_24h": 39,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 105,
+      "count": 104,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 100,
+      "count": 101,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 97,
+      "count": 98,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 87,
+      "count": 86,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "STRIKES",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -220,27 +220,27 @@
       "category": null
     },
     {
+      "word": "FINAL",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 39,
+      "count": 37,
       "category": "相場"
     },
     {
-      "word": "FINAL",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "IRANIAN",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 35,
       "category": null
     },
     {
       "word": "CONFLICT",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 34,
       "category": null
     },
@@ -261,12 +261,7 @@
     },
     {
       "word": "RECORD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -290,16 +285,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "IRANS",
       "count": 19,
       "category": null
@@ -310,18 +295,18 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "CHINA",
       "count": 19,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "ACT",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 18,
       "category": null
     },
     {
@@ -330,8 +315,23 @@
       "category": null
     },
     {
-      "word": "ENGLAND",
+      "word": "BANK",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 17,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
