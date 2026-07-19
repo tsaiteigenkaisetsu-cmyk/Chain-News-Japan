@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T18:49:05.164Z",
+  "updated_at": "2026-07-19T19:22:08.791Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 23,
+      "news_count_24h": 34,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 10,
+      "hype_score": 70,
       "buzz_rank": 3
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 27,
-      "buzz_rank": 4
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 30,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "WORLD",
+      "count": 111,
+      "category": null
+    },
+    {
+      "word": "CUP",
       "count": 109,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 109,
-      "category": null
-    },
-    {
-      "word": "CUP",
-      "count": 106,
+      "count": 108,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 85,
+      "count": 84,
       "category": null
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "FINAL",
       "count": 47,
       "category": null
     },
     {
-      "word": "FINAL",
+      "word": "TENSIONS",
       "count": 46,
       "category": null
     },
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "IRANIAN",
       "count": 33,
       "category": null
     },
     {
-      "word": "IRANIAN",
-      "count": 33,
+      "word": "CONFLICT",
+      "count": 32,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 28,
-      "category": null
+      "word": "PRICE",
+      "count": 27,
+      "category": "価格"
     },
     {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
+      "word": "OIL",
+      "count": 27,
+      "category": null
     },
     {
       "word": "MILITARY",
@@ -270,23 +270,18 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "KUWAIT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "DRONE",
+      "word": "AGAINST",
       "count": 19,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 18,
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "KUWAIT",
+      "count": 19,
       "category": null
     },
     {
@@ -300,28 +295,33 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 18,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "DRONE",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 17,
       "category": null
     },
     {
       "word": "IRANS",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FIFA",
+      "count": 16,
       "category": null
     },
     {
