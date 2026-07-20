@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:47:35.018Z",
+  "updated_at": "2026-07-20T15:31:03.459Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
+      "news_count_24h": 69,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 29,
+      "news_count_24h": 24,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 37,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 14,
+      "hype_score": 36,
       "buzz_rank": 6
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 152,
+      "count": 151,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "AMID",
-      "count": 103,
+      "count": 104,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 83,
+      "count": 84,
       "category": null
     },
     {
@@ -225,48 +225,53 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 44,
       "category": "相場"
     },
     {
-      "word": "OIL",
-      "count": 41,
-      "category": null
-    },
-    {
       "word": "CONFLICT",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "IRANIAN",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 29,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 28,
       "category": null
     },
     {
@@ -275,42 +280,47 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 26,
+      "word": "WHY",
+      "count": 27,
       "category": null
     },
     {
       "word": "JORDAN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 25,
+      "count": 27,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "IRANS",
+      "word": "STRAIT",
       "count": 25,
       "category": null
     },
     {
       "word": "TOKEN",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
       "count": 24,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "GLOBAL",
       "count": 24,
       "category": null
     },
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "FAN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "DRONE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 24,
       "category": null
     }
