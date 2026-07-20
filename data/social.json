@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T10:35:00.817Z",
+  "updated_at": "2026-07-20T11:31:55.016Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 8,
+      "news_count_24h": 54,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 43,
+      "news_count_24h": 17,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 20,
+      "news_count_24h": 18,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 900,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 450,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 140,
+      "count": 144,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 125,
+      "count": 127,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 120,
+      "count": 122,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 99,
+      "count": 100,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 75,
+      "count": 76,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "FINAL",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -226,37 +226,42 @@
     },
     {
       "word": "OIL",
-      "count": 38,
+      "count": 40,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "IRANIAN",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 34,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 27,
+      "count": 28,
       "category": "価格"
     },
     {
       "word": "MISSILE",
-      "count": 26,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "JORDAN",
+      "count": 27,
       "category": null
     },
     {
@@ -265,13 +270,33 @@
       "category": null
     },
     {
-      "word": "JORDAN",
-      "count": 26,
+      "word": "RECORD",
+      "count": 25,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 24,
+      "word": "AGAINST",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "IRANS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
+      "count": 22,
       "category": null
     },
     {
@@ -280,12 +305,12 @@
       "category": null
     },
     {
-      "word": "ESCALATING",
+      "word": "SPAIN",
       "count": 21,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "ESCALATING",
       "count": 21,
       "category": null
     },
@@ -295,43 +320,18 @@
       "category": null
     },
     {
-      "word": "SPORTS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "IRANS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "DRONE",
       "count": 20,
       "category": null
     },
     {
-      "word": "SPAIN",
+      "word": "TOKEN",
       "count": 20,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 19,
+      "count": 20,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
