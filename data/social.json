@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T00:54:51.714Z",
+  "updated_at": "2026-07-20T01:31:08.650Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 14,
+      "news_count_24h": 38,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 131,
+      "count": 130,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 127,
+      "count": 126,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 120,
+      "count": 121,
       "category": null
     },
     {
@@ -206,27 +206,27 @@
     },
     {
       "word": "MARKETS",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
       "word": "FINAL",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "IRANIAN",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -236,17 +236,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "JORDAN",
-      "count": 27,
+      "count": 29,
       "category": null
     },
     {
@@ -255,19 +250,24 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 27,
-      "category": "相場"
+      "word": "JORDAN",
+      "count": 26,
+      "category": null
     },
     {
-      "word": "MISSILE",
-      "count": 25,
-      "category": null
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
     },
     {
       "word": "PRICE",
       "count": 25,
       "category": "価格"
+    },
+    {
+      "word": "MISSILE",
+      "count": 24,
+      "category": null
     },
     {
       "word": "SPORTS",
@@ -295,8 +295,8 @@
       "category": null
     },
     {
-      "word": "KUWAIT",
-      "count": 20,
+      "word": "LAUNCHES",
+      "count": 19,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "FIFA",
+      "word": "KUWAIT",
       "count": 19,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "ESCALATING",
       "count": 18,
       "category": null
     },
     {
-      "word": "ESCALATING",
+      "word": "GLOBAL",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
