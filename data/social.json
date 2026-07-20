@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T02:27:46.193Z",
+  "updated_at": "2026-07-20T03:47:15.343Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 18,
+      "news_count_24h": 36,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
-      "buzz_rank": 4
+      "news_count_24h": 12,
+      "hype_score": 25,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 25,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "WORLD",
-      "count": 128,
+      "count": 129,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 124,
+      "count": 125,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "AMID",
-      "count": 84,
+      "count": 81,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 64,
+      "count": 67,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 56,
+      "count": 53,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "IRANIAN",
-      "count": 35,
+      "count": 33,
       "category": null
     },
     {
@@ -235,29 +235,34 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 30,
+      "word": "OIL",
+      "count": 31,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "TRUMP",
       "count": 29,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "JORDAN",
       "count": 27,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 26,
       "category": "相場"
+    },
+    {
+      "word": "JORDAN",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 25,
+      "category": "価格"
     },
     {
       "word": "MISSILE",
@@ -265,23 +270,28 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 24,
-      "category": "価格"
-    },
-    {
       "word": "SPORTS",
       "count": 24,
       "category": null
     },
     {
-      "word": "DRONE",
+      "word": "SPAIN",
       "count": 21,
       "category": null
     },
     {
-      "word": "SPAIN",
-      "count": 21,
+      "word": "RECORD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "DRONE",
+      "count": 20,
       "category": null
     },
     {
@@ -310,16 +320,6 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FAN",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 19,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "ESCALATING",
+      "word": "FIFA",
       "count": 18,
       "category": null
     }
