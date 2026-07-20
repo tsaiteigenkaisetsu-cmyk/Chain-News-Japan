@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T18:55:44.259Z",
+  "updated_at": "2026-07-20T19:31:46.375Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 91,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 163,
+      "count": 162,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 141,
+      "count": 139,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 137,
+      "count": 136,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 110,
+      "count": 108,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 96,
+      "count": 98,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 74,
+      "count": 73,
       "category": null
     },
     {
       "word": "FINAL",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -235,14 +235,14 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
+      "word": "PREDICTION",
       "count": 42,
-      "category": "価格"
+      "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "PRICE",
       "count": 41,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "MILLION",
@@ -251,7 +251,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "MILITARY",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "GLOBAL",
       "count": 26,
       "category": null
@@ -311,11 +316,6 @@
     },
     {
       "word": "DRONE",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 25,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
