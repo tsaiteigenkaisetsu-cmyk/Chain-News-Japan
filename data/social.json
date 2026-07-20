@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T13:57:28.749Z",
+  "updated_at": "2026-07-20T14:47:35.018Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 70,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 30,
+      "news_count_24h": 21,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 0,
+      "hype_score": 42,
       "buzz_rank": 6
     },
     {
@@ -63,14 +63,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 18,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 150,
+      "count": 152,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 137,
+      "count": 139,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 132,
+      "count": 134,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 105,
+      "count": 103,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 85,
+      "count": 83,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "FINAL",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -225,18 +225,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 44,
+      "category": "相場"
+    },
+    {
       "word": "OIL",
       "count": 41,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
+      "word": "CONFLICT",
+      "count": 39,
+      "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 40,
+      "word": "IRANIAN",
+      "count": 33,
       "category": null
     },
     {
@@ -245,27 +250,22 @@
       "category": "価格"
     },
     {
-      "word": "IRANIAN",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "RECORD",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 29,
       "category": null
     },
@@ -275,8 +275,28 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "JORDAN",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "GLOBAL",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 25,
       "category": null
     },
     {
@@ -285,8 +305,23 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 25,
+      "word": "TOKEN",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "SPAIN",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "FAN",
+      "count": 24,
       "category": null
     },
     {
@@ -295,43 +330,8 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SPORTS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "SPAIN",
-      "count": 22,
       "category": null
     }
   ],
