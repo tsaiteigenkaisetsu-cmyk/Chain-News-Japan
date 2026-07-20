@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T08:25:50.545Z",
+  "updated_at": "2026-07-20T09:36:08.779Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 13,
+      "news_count_24h": 46,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,52 +186,52 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 131,
+      "count": 136,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 127,
+      "count": 126,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 122,
+      "count": 121,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 93,
+      "count": 96,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 72,
+      "count": 74,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 62,
+      "count": 65,
       "category": null
     },
     {
       "word": "FINAL",
-      "count": 51,
+      "count": 49,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 47,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 37,
+      "count": 46,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 35,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 36,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "MARKET",
-      "count": 30,
+      "count": 32,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 28,
+      "count": 31,
       "category": null
     },
     {
@@ -260,23 +260,18 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 25,
+      "category": "価格"
+    },
+    {
       "word": "MISSILE",
       "count": 25,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
-    },
-    {
-      "word": "IRANS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "RECORD",
-      "count": 22,
+      "count": 24,
       "category": null
     },
     {
@@ -285,13 +280,23 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "IRANS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "DRONE",
       "count": 21,
       "category": null
     },
     {
-      "word": "SPAIN",
-      "count": 21,
+      "word": "GLOBAL",
+      "count": 20,
       "category": null
     },
     {
@@ -300,38 +305,33 @@
       "category": null
     },
     {
-      "word": "KUWAIT",
+      "word": "HORMUZ",
       "count": 20,
       "category": null
     },
     {
-      "word": "FAN",
+      "word": "SPAIN",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 19,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TARGETS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
