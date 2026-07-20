@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-20T09:36:08.779Z",
+  "updated_at": "2026-07-20T10:35:00.817Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 11,
+      "news_count_24h": 50,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 11,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 400,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "tron",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 136,
+      "count": 140,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 126,
+      "count": 125,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 121,
+      "count": 120,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 96,
+      "count": 99,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 74,
+      "count": 75,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 65,
+      "count": 67,
       "category": null
     },
     {
@@ -221,17 +221,17 @@
     },
     {
       "word": "STRIKES",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "CONFLICT",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -241,12 +241,22 @@
     },
     {
       "word": "MARKET",
-      "count": 32,
+      "count": 33,
       "category": "相場"
     },
     {
       "word": "TRUMP",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 27,
+      "category": "価格"
+    },
+    {
+      "word": "MISSILE",
+      "count": 26,
       "category": null
     },
     {
@@ -260,27 +270,32 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
-    },
-    {
-      "word": "MISSILE",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "RECORD",
       "count": 24,
       "category": null
     },
     {
-      "word": "SPORTS",
+      "word": "PREDICTION",
       "count": 22,
       "category": null
     },
     {
+      "word": "ESCALATING",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "MILLION",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SPORTS",
       "count": 21,
       "category": null
     },
@@ -290,22 +305,22 @@
       "category": null
     },
     {
+      "word": "STRAIT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "DRONE",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "GLOBAL",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ESCALATING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 20,
       "category": null
     },
@@ -315,22 +330,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "WHY",
       "count": 19,
       "category": null
     }
