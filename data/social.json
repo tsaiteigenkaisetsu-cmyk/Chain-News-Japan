@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T18:23:52.469Z",
+  "updated_at": "2026-07-21T18:53:05.600Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 93,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 57,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 18
     },
     {
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 177,
+      "count": 179,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 137,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 94,
+      "count": 136,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 94,
+      "count": 93,
+      "category": null
+    },
+    {
+      "word": "WORLD",
+      "count": 92,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 89,
+      "count": 87,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 77,
+      "count": 76,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 70,
+      "count": 72,
       "category": "相場"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "MILLION",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
@@ -236,17 +236,17 @@
     },
     {
       "word": "PRICE",
-      "count": 54,
+      "count": 53,
       "category": "価格"
     },
     {
       "word": "STRIKES",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -290,13 +290,18 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "HORMUZ",
       "count": 34,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 34,
+      "word": "HITS",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 33,
       "category": null
     },
     {
@@ -305,17 +310,7 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "WEEK",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "FINAL",
       "count": 31,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "STOCKS",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "FINAL",
       "count": 29,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
