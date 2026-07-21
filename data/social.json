@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T12:10:15.565Z",
+  "updated_at": "2026-07-21T12:46:32.309Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
+      "news_count_24h": 91,
       "hype_score": 5,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 17,
+      "news_count_24h": 53,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 9
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 174,
+      "count": 171,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 119,
+      "count": 124,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 105,
+      "count": 106,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 102,
+      "count": 103,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 91,
+      "count": 92,
       "category": null
     },
     {
@@ -216,37 +216,37 @@
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 61,
       "category": "相場"
     },
     {
       "word": "OIL",
-      "count": 51,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 48,
+      "count": 56,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 48,
+      "count": 49,
       "category": "価格"
     },
     {
-      "word": "STRIKES",
+      "word": "TRUMP",
       "count": 47,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 44,
       "category": null
     },
     {
       "word": "FINAL",
       "count": 44,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 43,
       "category": null
     },
     {
@@ -266,12 +266,12 @@
     },
     {
       "word": "STOCK",
-      "count": 34,
+      "count": 36,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
@@ -281,6 +281,16 @@
     },
     {
       "word": "HITS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 31,
       "category": null
     },
@@ -290,28 +300,18 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "IRANIAN",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 28,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "IRANIAN",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "MISSILE",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -320,18 +320,18 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 27,
+      "word": "STRAIT",
+      "count": 26,
       "category": null
     },
     {
-      "word": "ATTACKS",
-      "count": 25,
+      "word": "TRADING",
+      "count": 26,
       "category": null
     },
     {
-      "word": "JORDAN",
-      "count": 25,
+      "word": "MISSILE",
+      "count": 26,
       "category": null
     }
   ],
