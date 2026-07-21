@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T18:53:05.600Z",
+  "updated_at": "2026-07-21T19:26:18.632Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 4,
+      "news_count_24h": 91,
+      "hype_score": 5,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 4
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
       "buzz_rank": 7
     },
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 3,
+      "news_count_24h": 32,
+      "hype_score": 0,
       "buzz_rank": 3
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 179,
+      "count": 182,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 136,
+      "count": 137,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 93,
-      "category": null
-    },
-    {
-      "word": "WORLD",
       "count": 92,
       "category": null
     },
     {
-      "word": "CUP",
+      "word": "WORLD",
       "count": 87,
       "category": null
     },
     {
+      "word": "CUP",
+      "count": 81,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
-      "count": 76,
+      "count": 77,
       "category": null
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "word": "MILLION",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 53,
+      "count": 52,
       "category": "価格"
     },
     {
       "word": "STRIKES",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -261,21 +261,21 @@
     },
     {
       "word": "ACT",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
       "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 37,
+      "count": 39,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 36,
       "category": null
     },
@@ -301,7 +301,7 @@
     },
     {
       "word": "WHY",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "ATTACKS",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 30,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "FINAL",
+      "word": "IRANIAN",
       "count": 29,
       "category": null
     }
