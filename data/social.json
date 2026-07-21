@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-21T15:37:12.775Z",
+  "updated_at": "2026-07-21T16:08:39.464Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 3,
+      "news_count_24h": 91,
+      "hype_score": 4,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
+      "news_count_24h": 55,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 46,
+      "news_count_24h": 23,
+      "hype_score": 52,
       "buzz_rank": 4
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 8
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 176,
+      "count": 180,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 128,
+      "count": 132,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 96,
+      "count": 94,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "MARKET",
-      "count": 63,
+      "count": 64,
       "category": "相場"
     },
     {
@@ -226,22 +226,27 @@
     },
     {
       "word": "TRUMP",
-      "count": 54,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 52,
+      "count": 58,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 54,
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 53,
+      "category": null
+    },
+    {
       "word": "STRIKES",
-      "count": 47,
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 40,
       "category": null
     },
     {
@@ -250,17 +255,17 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
       "count": 38,
       "category": null
     },
@@ -270,8 +275,13 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 37,
+      "word": "LAUNCHES",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 35,
       "category": null
     },
     {
@@ -280,17 +290,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "HITS",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 34,
       "category": null
     },
@@ -311,26 +311,26 @@
     },
     {
       "word": "TRADING",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "WEEK",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "IRANIAN",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
       "word": "STRAIT",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "IRANIAN",
       "count": 28,
       "category": null
     }
