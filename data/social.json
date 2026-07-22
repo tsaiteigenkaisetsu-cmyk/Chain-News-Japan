@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T15:22:32.454Z",
+  "updated_at": "2026-07-22T15:57:32.903Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 100,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 5
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -186,37 +186,47 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 152,
+      "count": 155,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 130,
+      "count": 129,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 70,
+      "count": 73,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 67,
+      "count": 66,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 62,
+      "count": 63,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 61,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 60,
       "category": "相場"
     },
     {
-      "word": "TENSIONS",
-      "count": 59,
+      "word": "OIL",
+      "count": 55,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 54,
       "category": null
     },
     {
@@ -225,73 +235,53 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 52,
-      "category": null
-    },
-    {
       "word": "STRIKES",
       "count": 48,
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "WORLD",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
-      "word": "LAUNCHES",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "MILITARY",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "CUP",
       "count": 38,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 36,
+      "word": "CUP",
+      "count": 37,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 34,
+      "word": "CONFLICT",
+      "count": 35,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 33,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 31,
+      "word": "TREASURY",
+      "count": 32,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 31,
+      "word": "STOCK",
+      "count": 32,
       "category": null
     },
     {
@@ -300,22 +290,32 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 30,
+      "word": "HITS",
+      "count": 29,
       "category": null
     },
     {
       "word": "SENATE",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 28,
       "category": null
     },
     {
       "word": "PRICES",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "ATTACKS",
       "count": 27,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "ETHICS",
+      "word": "STOCKS",
       "count": 27,
       "category": null
     }
