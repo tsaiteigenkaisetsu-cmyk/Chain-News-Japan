@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T03:41:50.320Z",
+  "updated_at": "2026-07-22T04:51:37.450Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 95,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 49,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 8,
       "buzz_rank": 4
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 133,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 6
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 25,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 168,
+      "count": 167,
       "category": null
     },
     {
@@ -196,37 +196,37 @@
     },
     {
       "word": "MARKETS",
-      "count": 79,
+      "count": 80,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 75,
+      "count": 73,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 69,
+      "count": 67,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 60,
+      "count": 58,
       "category": null
     },
     {
       "word": "CUP",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
@@ -240,18 +240,23 @@
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 49,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 49,
       "category": "価格"
     },
     {
+      "word": "STRIKES",
+      "count": 48,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 44,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 41,
       "category": null
     },
     {
@@ -260,18 +265,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "CONFLICT",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 38,
       "category": null
     },
     {
@@ -280,17 +280,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
+      "word": "HITS",
       "count": 35,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "BILLION",
       "count": 35,
       "category": null
     },
@@ -300,13 +295,13 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "HORMUZ",
       "count": 34,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 32,
+      "word": "TREASURY",
+      "count": 34,
       "category": null
     },
     {
@@ -315,8 +310,8 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 30,
+      "word": "TOKEN",
+      "count": 32,
       "category": null
     },
     {
@@ -333,6 +328,11 @@
       "word": "RECORD",
       "count": 30,
       "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 29,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
