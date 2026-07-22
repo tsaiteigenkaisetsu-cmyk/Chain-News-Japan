@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T20:11:50.454Z",
+  "updated_at": "2026-07-22T20:40:41.607Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 24,
+      "news_count_24h": 32,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 149,
+      "count": 148,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 130,
+      "count": 129,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 83,
+      "count": 81,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 73,
+      "count": 71,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 72,
+      "count": 70,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 63,
+      "count": 62,
       "category": "相場"
     },
     {
@@ -236,12 +236,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 45,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -250,8 +245,13 @@
       "category": "価格"
     },
     {
-      "word": "SENATE",
-      "count": 35,
+      "word": "STRIKES",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 36,
       "category": null
     },
     {
@@ -260,18 +260,18 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
+      "word": "SENATE",
       "count": 34,
       "category": null
     },
     {
-      "word": "ETHICS",
+      "word": "MILITARY",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 32,
       "category": null
     },
     {
@@ -285,18 +285,18 @@
       "category": null
     },
     {
+      "word": "ETHICS",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 30,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 30,
+      "word": "PRICES",
+      "count": 29,
       "category": null
     },
     {
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "TREASURY",
       "count": 29,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "DIGITAL",
       "count": 28,
       "category": null
     },
     {
-      "word": "DIGITAL",
+      "word": "HITS",
       "count": 28,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
