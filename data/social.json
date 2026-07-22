@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T20:40:41.607Z",
+  "updated_at": "2026-07-22T21:11:06.357Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 10,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 14
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 23,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 148,
+      "count": 150,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 129,
+      "count": 133,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 81,
+      "count": 80,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
@@ -215,18 +215,18 @@
       "category": "相場"
     },
     {
-      "word": "OIL",
-      "count": 61,
+      "word": "TENSIONS",
+      "count": 60,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "OIL",
       "count": 59,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
@@ -235,14 +235,14 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 44,
-      "category": null
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
     },
     {
-      "word": "PRICE",
+      "word": "LAUNCHES",
       "count": 43,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "STRIKES",
@@ -251,7 +251,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 36,
+      "count": 38,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "SENATE",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -285,8 +285,18 @@
       "category": null
     },
     {
-      "word": "ETHICS",
-      "count": 31,
+      "word": "WARNS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 30,
       "category": null
     },
     {
@@ -295,27 +305,17 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "ETHICS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 29,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 29,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "TOKENIZED",
       "count": 28,
       "category": null
     }
