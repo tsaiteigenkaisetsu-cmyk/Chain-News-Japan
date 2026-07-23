@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T03:12:55.585Z",
+  "updated_at": "2026-07-23T04:24:20.849Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 89,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 21,
+      "news_count_24h": 36,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 22,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
-      "buzz_rank": 3
+      "news_count_24h": 18,
+      "hype_score": 6,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 40,
+      "hype_score": 20,
       "buzz_rank": 11
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -191,17 +191,17 @@
     },
     {
       "word": "AMID",
-      "count": 135,
+      "count": 136,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 82,
+      "count": 85,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 74,
+      "count": 76,
       "category": null
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 65,
+      "word": "TENSIONS",
+      "count": 64,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "OIL",
       "count": 63,
       "category": null
     },
@@ -236,12 +236,12 @@
     },
     {
       "word": "PRICE",
-      "count": 47,
+      "count": 48,
       "category": "価格"
     },
     {
       "word": "STRIKES",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "CONFLICT",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "SENATE",
       "count": 32,
       "category": null
@@ -280,12 +275,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "PRICES",
       "count": 30,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TRADING",
       "count": 30,
       "category": null
     },
@@ -300,22 +295,22 @@
       "category": null
     },
     {
+      "word": "DIGITAL",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 29,
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MILITARY",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 28,
       "category": null
     },
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 27,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
