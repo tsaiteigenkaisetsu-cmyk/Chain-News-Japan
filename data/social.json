@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T15:13:03.733Z",
+  "updated_at": "2026-07-23T15:56:12.744Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 89,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 78,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 10,
+      "hype_score": 30,
       "buzz_rank": 6
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 131,
+      "count": 126,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 123,
+      "count": 121,
       "category": null
     },
     {
@@ -205,11 +205,6 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 67,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 65,
       "category": null
@@ -220,13 +215,18 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 62,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 53,
+      "count": 50,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 50,
+      "count": 48,
       "category": null
     },
     {
@@ -235,23 +235,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "DEAL",
       "count": 42,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 41,
       "category": "価格"
     },
     {
-      "word": "DEAL",
-      "count": 41,
-      "category": null
-    },
-    {
       "word": "WARNS",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -260,13 +255,23 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 34,
+      "word": "LAUNCHES",
+      "count": 33,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 34,
+      "word": "CONFLICT",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
+      "count": 30,
       "category": null
     },
     {
@@ -275,12 +280,7 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "PRICES",
+      "word": "SAUDI",
       "count": 29,
       "category": null
     },
@@ -290,23 +290,18 @@
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "TARGETS",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "PRICES",
       "count": 27,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 26,
+      "word": "WORLD",
+      "count": 27,
       "category": null
     },
     {
@@ -315,7 +310,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "FACES",
       "count": 25,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "EARNINGS",
       "count": 24,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "OPENAI",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "MIDDLE",
       "count": 24,
       "category": null
     }
