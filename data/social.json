@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-23T22:10:21.175Z",
+  "updated_at": "2026-07-23T22:36:07.020Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
-      "hype_score": 8,
+      "news_count_24h": 105,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 20,
+      "news_count_24h": 39,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 14,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 10,
+      "hype_score": 30,
       "buzz_rank": 6
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 11
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 131,
+      "count": 133,
       "category": null
     },
     {
@@ -200,23 +200,23 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 73,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 72,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 72,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 63,
+      "count": 64,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
@@ -255,12 +255,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PRICES",
       "count": 33,
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "MARKETS",
       "count": 32,
       "category": null
     },
@@ -276,12 +276,17 @@
     },
     {
       "word": "CEO",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 27,
       "category": null
     },
     {
@@ -310,6 +315,16 @@
       "category": null
     },
     {
+      "word": "SENATE",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "MIDDLE",
       "count": 25,
       "category": null
@@ -317,21 +332,6 @@
     {
       "word": "EAST",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "SURGE",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "SENATE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 24,
       "category": null
     }
   ],
