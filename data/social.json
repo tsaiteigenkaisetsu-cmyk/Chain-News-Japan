@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T05:35:13.024Z",
+  "updated_at": "2026-07-23T06:29:42.464Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 22,
+      "news_count_24h": 38,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 24,
-      "buzz_rank": 4
+      "news_count_24h": 16,
+      "hype_score": 25,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 145,
+      "count": 141,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 134,
+      "count": 132,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 84,
+      "count": 86,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 76,
+      "count": 78,
       "category": null
     },
     {
@@ -210,19 +210,19 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "MARKET",
       "count": 63,
+      "category": "相場"
+    },
+    {
+      "word": "TENSIONS",
+      "count": 62,
       "category": null
     },
     {
       "word": "OIL",
       "count": 62,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 62,
-      "category": "相場"
     },
     {
       "word": "MARKETS",
@@ -240,13 +240,13 @@
       "category": "価格"
     },
     {
-      "word": "STRIKES",
-      "count": 45,
+      "word": "LAUNCHES",
+      "count": 46,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 44,
+      "word": "STRIKES",
+      "count": 41,
       "category": null
     },
     {
@@ -256,12 +256,17 @@
     },
     {
       "word": "ETHICS",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "WORLD",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 32,
       "category": null
     },
     {
@@ -276,22 +281,7 @@
     },
     {
       "word": "MILITARY",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -305,12 +295,22 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "DIGITAL",
       "count": 29,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "PRICES",
       "count": 29,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 27,
+      "word": "TARGETS",
+      "count": 26,
       "category": null
     }
   ],
