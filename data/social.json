@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:59:50.326Z",
+  "updated_at": "2026-07-23T23:27:12.321Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 105,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 21,
+      "news_count_24h": 37,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
+      "news_count_24h": 4,
+      "hype_score": 50,
       "buzz_rank": 11
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -196,17 +196,17 @@
     },
     {
       "word": "CLARITY",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 73,
+      "count": 74,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 72,
+      "count": 73,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 45,
       "category": "価格"
     },
     {
@@ -286,12 +286,7 @@
     },
     {
       "word": "SURGE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "ATTACKS",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -302,6 +297,11 @@
     {
       "word": "TOKENIZED",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "ATTACKS",
+      "count": 26,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
