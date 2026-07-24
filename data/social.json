@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T12:58:30.211Z",
+  "updated_at": "2026-07-24T13:42:00.668Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 97,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 27,
+      "news_count_24h": 24,
+      "hype_score": 29,
       "buzz_rank": 3
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 130,
+      "count": 129,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 122,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 76,
+      "count": 123,
       "category": null
     },
     {
@@ -205,23 +200,28 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 74,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 65,
+      "count": 63,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 49,
       "category": "価格"
     },
     {
@@ -236,12 +236,7 @@
     },
     {
       "word": "DEAL",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 35,
+      "count": 38,
       "category": null
     },
     {
@@ -250,17 +245,22 @@
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 33,
+      "word": "WARNS",
+      "count": 34,
       "category": null
     },
     {
-      "word": "STRIKES",
+      "word": "SAUDI",
       "count": 32,
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "CEO",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 31,
       "category": null
     },
@@ -275,27 +275,32 @@
       "category": null
     },
     {
-      "word": "ATTACKS",
+      "word": "PRICES",
       "count": 30,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 30,
+      "word": "ATTACKS",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 27,
+      "category": "規制"
+    },
+    {
+      "word": "TARGETS",
+      "count": 27,
       "category": null
     },
     {
       "word": "MILITARY",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "SURGE",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "TARGETS",
       "count": 27,
       "category": null
     },
@@ -305,32 +310,27 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "MIDDLE",
       "count": 26,
       "category": null
     },
     {
       "word": "EAST",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 26,
-      "category": "取引所"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 26,
       "category": null
     }
