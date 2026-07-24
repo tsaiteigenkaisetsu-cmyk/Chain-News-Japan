@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:20:13.907Z",
+  "updated_at": "2026-07-24T21:47:27.449Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 89,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 132,
+      "count": 130,
       "category": null
     },
     {
@@ -195,29 +195,34 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 72,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 71,
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 71,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 68,
+      "count": 67,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 63,
+      "count": 64,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 44,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -231,13 +236,8 @@
     },
     {
       "word": "SAUDI",
-      "count": 40,
+      "count": 39,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -260,23 +260,18 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 32,
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "CONFLICT",
       "count": 31,
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 30,
+      "word": "PRICES",
+      "count": 31,
       "category": null
     },
     {
@@ -290,18 +285,23 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 29,
       "category": null
     },
     {
-      "word": "SEA",
+      "word": "ATTACKS",
       "count": 28,
       "category": null
     },
     {
-      "word": "ATTACKS",
-      "count": 28,
+      "word": "SEA",
+      "count": 27,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "IRANIAN",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 26,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "EXCHANGE",
-      "count": 26,
-      "category": "取引所"
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "TARGETS",
       "count": 25,
       "category": null
     }
