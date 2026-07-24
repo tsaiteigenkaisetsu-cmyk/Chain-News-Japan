@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:39:48.489Z",
+  "updated_at": "2026-07-24T23:10:00.304Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 86,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 23,
+      "news_count_24h": 32,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
-      "buzz_rank": 7
+      "news_count_24h": 9,
+      "hype_score": 33,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 6
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 128,
+      "count": 127,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 109,
+      "count": 108,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 67,
+      "word": "OIL",
+      "count": 66,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 65,
+      "word": "TENSIONS",
+      "count": 66,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 31,
       "category": null
@@ -267,6 +272,11 @@
     {
       "word": "STRIKES",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "ATTACKS",
+      "count": 30,
       "category": null
     },
     {
@@ -280,18 +290,13 @@
       "category": null
     },
     {
-      "word": "ATTACKS",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 29,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 29,
+      "word": "SEA",
+      "count": 28,
       "category": null
     },
     {
@@ -305,13 +310,13 @@
       "category": "取引所"
     },
     {
-      "word": "SEA",
+      "word": "SURGE",
       "count": 27,
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 27,
+      "word": "ROBINHOOD",
+      "count": 26,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "WARNS",
       "count": 26,
       "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 26,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
