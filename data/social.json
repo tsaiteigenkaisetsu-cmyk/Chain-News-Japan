@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T18:39:51.868Z",
+  "updated_at": "2026-07-24T19:13:08.471Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 94,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
+      "news_count_24h": 18,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 44,
+      "news_count_24h": 13,
+      "hype_score": 54,
       "buzz_rank": 4
     },
     {
@@ -45,15 +45,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
+      "news_count_24h": 10,
+      "hype_score": 30,
       "buzz_rank": 6
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 133,
+      "count": 132,
       "category": null
     },
     {
@@ -195,13 +195,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 73,
+      "word": "TENSIONS",
+      "count": 72,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 72,
+      "word": "OIL",
+      "count": 71,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 69,
+      "count": 67,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "MILLION",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 32,
       "category": null
@@ -270,13 +275,13 @@
       "category": null
     },
     {
-      "word": "DOWN",
-      "count": 31,
+      "word": "STRIKES",
+      "count": 30,
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 31,
+      "word": "MILITARY",
+      "count": 29,
       "category": null
     },
     {
@@ -290,7 +295,7 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "BANK",
       "count": 28,
       "category": null
     },
@@ -305,27 +310,22 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 27,
       "category": null
     },
     {
-      "word": "ETHICS",
+      "word": "GOOGLE",
       "count": 26,
       "category": null
     },
     {
       "word": "SEA",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 26,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
