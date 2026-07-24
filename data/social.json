@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-24T18:02:14.275Z",
+  "updated_at": "2026-07-24T18:39:51.868Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 97,
-      "hype_score": 8,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 21,
+      "news_count_24h": 32,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 47,
+      "news_count_24h": 16,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 130,
+      "count": 133,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 120,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 73,
+      "count": 121,
       "category": null
     },
     {
@@ -206,22 +201,27 @@
     },
     {
       "word": "TENSIONS",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "TRUMP",
+      "count": 70,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 69,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 69,
+      "count": 65,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 45,
       "category": "価格"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "DEAL",
-      "count": 39,
+      "count": 41,
       "category": null
     },
     {
@@ -255,28 +255,28 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "BITMEX",
       "count": 33,
       "category": null
     },
     {
-      "word": "BITMEX",
+      "word": "CEO",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 31,
       "category": null
     },
     {
       "word": "STRIKES",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 30,
       "category": null
     },
     {
@@ -290,22 +290,22 @@
       "category": null
     },
     {
+      "word": "MILITARY",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "SURGE",
       "count": 28,
       "category": null
     },
     {
-      "word": "ETHICS",
+      "word": "WARNS",
       "count": 27,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "SEA",
       "count": 27,
       "category": null
     },
@@ -320,19 +320,19 @@
       "category": null
     },
     {
-      "word": "MILITARY",
-      "count": 27,
+      "word": "ETHICS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "SEA",
+      "count": 26,
       "category": null
     },
     {
       "word": "EXCHANGE",
       "count": 26,
       "category": "取引所"
-    },
-    {
-      "word": "GOOGLE",
-      "count": 25,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
