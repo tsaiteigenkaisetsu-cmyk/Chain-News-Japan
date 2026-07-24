@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:48:22.386Z",
+  "updated_at": "2026-07-24T20:25:26.670Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 89,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 19,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
-      "buzz_rank": 6
+      "news_count_24h": 7,
+      "hype_score": 43,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,15 +72,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 700,
+      "hype_score": 300,
       "buzz_rank": 16
     },
     {
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 134,
+      "count": 133,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 120,
+      "count": 117,
       "category": null
     },
     {
@@ -200,48 +200,48 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 71,
+      "word": "OIL",
+      "count": 70,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 71,
+      "word": "TRUMP",
+      "count": 69,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 65,
+      "count": 64,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 43,
       "category": "価格"
     },
     {
       "word": "DEAL",
-      "count": 43,
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 40,
       "category": "相場"
     },
     {
       "word": "SAUDI",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -255,28 +255,33 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "BITMEX",
       "count": 33,
       "category": null
     },
     {
-      "word": "DOWN",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "STRIKES",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 29,
       "category": null
     },
     {
@@ -290,12 +295,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "TRADING",
       "count": 28,
       "category": null
     },
@@ -305,12 +305,17 @@
       "category": null
     },
     {
+      "word": "SEA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 27,
       "category": null
     },
     {
-      "word": "GOOGLE",
+      "word": "COINBASE",
       "count": 26,
       "category": null
     },
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "SEA",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "EXCHANGE",
       "count": 26,
       "category": "取引所"
     },
     {
-      "word": "LAUNCHES",
+      "word": "TARGETS",
       "count": 25,
       "category": null
     }
