@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:47:27.449Z",
+  "updated_at": "2026-07-24T22:15:01.851Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 85,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 130,
+      "count": 128,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 113,
+      "count": 109,
       "category": null
     },
     {
@@ -201,22 +201,22 @@
     },
     {
       "word": "TENSIONS",
-      "count": 71,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 67,
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 65,
+      "category": null
+    },
+    {
       "word": "CLARITY",
-      "count": 66,
+      "count": 64,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 64,
+      "count": 62,
       "category": null
     },
     {
@@ -225,18 +225,18 @@
       "category": "相場"
     },
     {
+      "word": "DEAL",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 42,
       "category": "価格"
     },
     {
-      "word": "DEAL",
-      "count": 41,
-      "category": null
-    },
-    {
       "word": "SAUDI",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -270,17 +270,12 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 30,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PRICES",
       "count": 30,
       "category": null
     },
@@ -291,6 +286,11 @@
     },
     {
       "word": "BANK",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 29,
       "category": null
     },
@@ -310,14 +310,14 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 27,
+      "word": "STRATEGY",
+      "count": 26,
       "category": null
     },
     {
-      "word": "IRANIAN",
+      "word": "EXCHANGE",
       "count": 26,
-      "category": null
+      "category": "取引所"
     },
     {
       "word": "COINBASE",
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "TARGETS",
-      "count": 25,
+      "word": "HIT",
+      "count": 26,
       "category": null
     }
   ],
