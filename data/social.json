@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T17:27:58.810Z",
+  "updated_at": "2026-07-24T18:02:14.275Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
+      "news_count_24h": 97,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 23,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 19,
+      "hype_score": 16,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 39,
+      "news_count_24h": 15,
+      "hype_score": 47,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 132,
+      "count": 130,
       "category": null
     },
     {
@@ -195,23 +195,23 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 74,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 73,
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 73,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 71,
+      "count": 69,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
+    },
+    {
       "word": "MARKET",
       "count": 43,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
     },
     {
       "word": "DEAL",
@@ -245,18 +245,18 @@
       "category": null
     },
     {
+      "word": "CONFLICT",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "PRICES",
       "count": 34,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -295,6 +295,16 @@
       "category": null
     },
     {
+      "word": "ETHICS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "SEA",
       "count": 27,
       "category": null
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "EXCHANGE",
       "count": 26,
       "category": "取引所"
     },
     {
-      "word": "TARGETS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ETHICS",
+      "word": "GOOGLE",
       "count": 25,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
