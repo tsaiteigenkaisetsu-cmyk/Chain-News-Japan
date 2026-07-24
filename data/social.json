@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T04:53:10.286Z",
+  "updated_at": "2026-07-24T05:55:13.741Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 9,
+      "news_count_24h": 108,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 21,
+      "news_count_24h": 37,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 13,
-      "buzz_rank": 3
+      "news_count_24h": 22,
+      "hype_score": 14,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 30,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "AMID",
-      "count": 121,
+      "count": 124,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "OIL",
-      "count": 76,
+      "count": 77,
       "category": null
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 64,
+      "count": 65,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 45,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 45,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 43,
-      "category": "相場"
     },
     {
       "word": "DEAL",
@@ -241,7 +241,12 @@
     },
     {
       "word": "CONFLICT",
-      "count": 38,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 36,
       "category": null
     },
     {
@@ -250,28 +255,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "PRICES",
+      "word": "SAUDI",
       "count": 33,
       "category": null
     },
     {
-      "word": "SAUDI",
+      "word": "PRICES",
       "count": 32,
       "category": null
     },
     {
       "word": "SURGE",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 29,
       "category": null
     },
     {
@@ -285,17 +280,32 @@
       "category": null
     },
     {
+      "word": "ATTACKS",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 28,
       "category": null
     },
     {
-      "word": "ETHICS",
+      "word": "MILITARY",
       "count": 27,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ETHICS",
       "count": 27,
       "category": null
     },
@@ -305,7 +315,7 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "BITMEX",
       "count": 26,
       "category": null
     },
@@ -323,16 +333,6 @@
       "word": "SEC",
       "count": 26,
       "category": "規制"
-    },
-    {
-      "word": "ATTACKS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "GOOGLE",
-      "count": 25,
-      "category": null
     }
   ],
   "stats": {
