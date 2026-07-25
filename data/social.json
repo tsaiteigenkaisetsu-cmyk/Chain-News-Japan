@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T18:13:30.556Z",
+  "updated_at": "2026-07-25T18:36:27.191Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
-      "buzz_rank": 7
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,22 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 102,
+      "count": 100,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 80,
+      "count": 78,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 66,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 47,
       "category": null
     },
     {
@@ -215,18 +210,28 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "MARKETS",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 29,
       "category": null
     },
     {
@@ -238,11 +243,6 @@
       "word": "MARKET",
       "count": 28,
       "category": "相場"
-    },
-    {
-      "word": "DOWN",
-      "count": 28,
-      "category": null
     },
     {
       "word": "SAUDI",
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "IRANIAN",
       "count": 22,
       "category": null
@@ -291,11 +286,11 @@
     },
     {
       "word": "CEO",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
-      "word": "PUSH",
+      "word": "MILLION",
       "count": 21,
       "category": null
     },
@@ -310,7 +305,7 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "PUSH",
       "count": 20,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "ATTACKS",
-      "count": 20,
+      "word": "STRIKE",
+      "count": 19,
       "category": null
     },
     {
-      "word": "STRIKE",
+      "word": "ATTACKS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RUSSIAN",
       "count": 19,
       "category": null
     }
