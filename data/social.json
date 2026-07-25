@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T10:29:46.614Z",
+  "updated_at": "2026-07-25T10:58:56.517Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
-      "hype_score": 14,
+      "news_count_24h": 67,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 109,
+      "count": 110,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 92,
+      "count": 93,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "OIL",
       "count": 58,
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 56,
+      "word": "TENSIONS",
+      "count": 57,
       "category": null
     },
     {
@@ -221,31 +221,26 @@
     },
     {
       "word": "DEAL",
-      "count": 39,
+      "count": 37,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 35,
       "category": "価格"
     },
     {
-      "word": "DOWN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 33,
-      "category": null
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
     },
     {
       "word": "SAUDI",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "DOWN",
       "count": 33,
       "category": null
     },
@@ -256,17 +251,22 @@
     },
     {
       "word": "STRIKES",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "ATTACKS",
       "count": 30,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "ATTACKS",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -275,8 +275,13 @@
       "category": null
     },
     {
-      "word": "BITMEX",
-      "count": 28,
+      "word": "CONFLICT",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "SEA",
+      "count": 27,
       "category": null
     },
     {
@@ -285,28 +290,23 @@
       "category": null
     },
     {
-      "word": "SEA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "ROBINHOOD",
-      "count": 26,
+      "word": "BITMEX",
+      "count": 27,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "STRATEGY",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 24,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "MINING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SURGE",
       "count": 23,
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "ROBINHOOD",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TECH",
       "count": 23,
       "category": null
     }
