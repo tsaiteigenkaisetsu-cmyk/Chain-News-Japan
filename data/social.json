@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T16:34:33.464Z",
+  "updated_at": "2026-07-25T16:58:30.641Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 26,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 175,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 300,
+      "hype_score": 100,
       "buzz_rank": 12
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -186,31 +186,21 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 104,
+      "count": 103,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 81,
+      "count": 80,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 67,
+      "count": 66,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 47,
       "category": null
     },
@@ -220,9 +210,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
+      "word": "ACT",
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 46,
+      "category": null
     },
     {
       "word": "MARKETS",
@@ -240,32 +235,32 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 28,
+      "word": "SAUDI",
+      "count": 27,
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 27,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
-      "count": 28,
+      "count": 27,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "SAUDI",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
@@ -285,8 +280,13 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "CEO",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 23,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PUSH",
       "count": 21,
       "category": null
@@ -325,13 +320,18 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "SENATE",
       "count": 20,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 20,
+      "word": "STRIKE",
+      "count": 19,
       "category": null
     }
   ],
