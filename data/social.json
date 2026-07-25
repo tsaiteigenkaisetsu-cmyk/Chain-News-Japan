@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-25T15:48:13.164Z",
+  "updated_at": "2026-07-25T16:12:38.224Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
-      "hype_score": 20,
+      "news_count_24h": 47,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 19,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -41,11 +41,11 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 900,
-      "buzz_rank": 12
+      "hype_score": 800,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 11
+      "news_count_24h": 1,
+      "hype_score": 500,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 66,
+      "count": 68,
       "category": null
     },
     {
@@ -216,23 +216,13 @@
     },
     {
       "word": "TENSIONS",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
-    },
-    {
-      "word": "DOWN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 30,
-      "category": null
     },
     {
       "word": "PRICE",
@@ -242,6 +232,21 @@
     {
       "word": "MARKETS",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 28,
       "category": null
     },
     {
@@ -255,17 +260,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 27,
+      "word": "TRADING",
+      "count": 26,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 26,
       "category": null
     },
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "PUSH",
       "count": 22,
       "category": null
@@ -316,6 +311,11 @@
     },
     {
       "word": "WHY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 21,
       "category": null
     },
