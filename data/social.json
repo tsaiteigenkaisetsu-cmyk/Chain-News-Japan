@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T12:28:12.939Z",
+  "updated_at": "2026-07-26T12:58:13.272Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 28,
+      "news_count_24h": 30,
+      "hype_score": 27,
       "buzz_rank": 1
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "solana",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 7
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 4
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 73,
+      "count": 70,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "AMID",
-      "count": 43,
+      "count": 40,
       "category": null
     },
     {
@@ -206,12 +206,7 @@
     },
     {
       "word": "STRIKES",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -220,13 +215,18 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "ACT",
       "count": 29,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 29,
+      "word": "TENSIONS",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 28,
       "category": null
     },
     {
@@ -235,18 +235,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 24,
       "category": "相場"
     },
     {
-      "word": "SAUDI",
-      "count": 24,
+      "word": "TRADING",
+      "count": 23,
       "category": null
     },
     {
@@ -255,24 +250,19 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 19,
+      "word": "SAUDI",
+      "count": 21,
       "category": null
     },
     {
-      "word": "RUSSIA",
-      "count": 19,
+      "word": "TOKEN",
+      "count": 20,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 18,
+      "count": 19,
       "category": "価格"
-    },
-    {
-      "word": "MILLION",
-      "count": 18,
-      "category": null
     },
     {
       "word": "WHY",
@@ -280,22 +270,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "RUSSIA",
       "count": 18,
       "category": null
     },
     {
       "word": "TECH",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "OPEN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PUSH",
       "count": 18,
       "category": null
     },
@@ -310,12 +290,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "MILLION",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "OPEN",
       "count": 17,
       "category": null
     },
     {
       "word": "NVIDIA",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "PUSH",
       "count": 17,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "MILITARY",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 16,
       "category": null
     }
