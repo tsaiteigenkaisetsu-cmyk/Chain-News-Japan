@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T08:56:33.610Z",
+  "updated_at": "2026-07-26T09:41:31.993Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 32,
+      "news_count_24h": 29,
+      "hype_score": 31,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 10,
+      "hype_score": 70,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 700,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 350,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 6
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 79,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 57,
+      "count": 76,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 57,
+      "count": 55,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 54,
       "category": null
     },
     {
@@ -206,37 +206,37 @@
     },
     {
       "word": "TENSIONS",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "DOWN",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -251,23 +251,8 @@
     },
     {
       "word": "RUSSIA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
     },
     {
       "word": "SEA",
@@ -275,12 +260,27 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "DEAL",
       "count": 20,
       "category": null
     },
     {
+      "word": "TALKS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "DATA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
       "count": 19,
       "category": null
     },
@@ -300,12 +300,12 @@
       "category": null
     },
     {
-      "word": "WORLD",
+      "word": "PRICE",
       "count": 18,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "TALKS",
+      "word": "WORLD",
       "count": 18,
       "category": null
     },
@@ -315,14 +315,14 @@
       "category": null
     },
     {
-      "word": "RUSSIAN",
-      "count": 18,
+      "word": "TOKEN",
+      "count": 17,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "SENATE",
       "count": 17,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "NVIDIA",
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "RUSSIAN",
       "count": 17,
       "category": null
     }
