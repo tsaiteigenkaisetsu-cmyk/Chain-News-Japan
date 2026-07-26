@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T15:47:34.126Z",
+  "updated_at": "2026-07-26T16:12:57.146Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -201,12 +201,7 @@
     },
     {
       "word": "AMID",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 30,
+      "count": 35,
       "category": null
     },
     {
@@ -215,14 +210,14 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
-    },
-    {
-      "word": "OIL",
-      "count": 25,
-      "category": null
     },
     {
       "word": "TRADING",
@@ -230,14 +225,19 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 23,
+      "word": "OIL",
+      "count": 24,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "TENSIONS",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
       "word": "SAUDI",
@@ -245,17 +245,12 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
-    },
-    {
-      "word": "SEA",
-      "count": 19,
+      "word": "CLARITY",
+      "count": 21,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "SEA",
       "count": 19,
       "category": null
     },
@@ -270,8 +265,13 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "TRADERS",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "RUSSIA",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
       "count": 14,
       "category": null
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "TOP",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "RED",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "BILLION",
+      "word": "TALKS",
       "count": 13,
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "TOP",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "RED",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
