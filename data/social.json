@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T20:14:27.248Z",
+  "updated_at": "2026-07-26T20:36:26.696Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 56,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 3
+      "news_count_24h": 10,
+      "hype_score": 10,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -186,17 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 39,
+      "count": 42,
       "category": null
     },
     {
       "word": "MARKETS",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 32,
       "category": null
     },
     {
@@ -206,11 +211,6 @@
     },
     {
       "word": "STRIKES",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 31,
       "category": null
     },
@@ -225,12 +225,17 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 19,
       "category": "価格"
     },
     {
-      "word": "TOKEN",
+      "word": "SEA",
       "count": 18,
       "category": null
     },
@@ -245,13 +250,13 @@
       "category": null
     },
     {
-      "word": "SEA",
+      "word": "HORMUZ",
       "count": 17,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 17,
+      "word": "TRADERS",
+      "count": 16,
       "category": null
     },
     {
@@ -271,7 +276,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 13,
       "category": null
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "EXCHANGE",
+      "count": 12,
+      "category": "取引所"
+    },
+    {
       "word": "RUSSIAN",
       "count": 12,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "TOKENS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "ATTACKS",
       "count": 12,
       "category": null
     }
