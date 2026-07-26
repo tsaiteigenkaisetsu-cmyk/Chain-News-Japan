@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-26T00:56:44.662Z",
+  "updated_at": "2026-07-26T01:34:41.854Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 31,
-      "hype_score": 26,
+      "hype_score": 29,
       "buzz_rank": 1
     },
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 30,
+      "hype_score": 20,
       "buzz_rank": 3
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
-      "buzz_rank": 6
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 86,
+      "count": 87,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "TENSIONS",
-      "count": 41,
+      "count": 39,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 37,
+      "word": "STRIKES",
+      "count": 36,
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 36,
+      "word": "OIL",
+      "count": 35,
       "category": null
     },
     {
@@ -230,14 +230,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 29,
+      "category": "相場"
+    },
+    {
       "word": "DOWN",
       "count": 28,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 27,
-      "category": "相場"
     },
     {
       "word": "SAUDI",
@@ -251,22 +251,17 @@
     },
     {
       "word": "PRICE",
-      "count": 24,
+      "count": 23,
       "category": "価格"
     },
     {
       "word": "TRADING",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "DEAL",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "OPEN",
-      "count": 20,
       "category": null
     },
     {
@@ -282,6 +277,16 @@
     {
       "word": "IRANIAN",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "TECH",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "OPEN",
+      "count": 19,
       "category": null
     },
     {
@@ -310,11 +315,6 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CONFLICT",
       "count": 18,
       "category": null
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "TECH",
-      "count": 18,
+      "word": "HITS",
+      "count": 17,
       "category": null
     }
   ],
