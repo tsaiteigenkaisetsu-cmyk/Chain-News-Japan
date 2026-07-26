@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T19:17:05.301Z",
+  "updated_at": "2026-07-26T19:45:46.675Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 32,
+      "news_count_24h": 30,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 61,
+      "count": 59,
       "category": null
     },
     {
@@ -196,8 +196,18 @@
     },
     {
       "word": "TRUMP",
-      "count": 38,
+      "count": 37,
       "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 30,
+      "category": "相場"
     },
     {
       "word": "STRIKES",
@@ -205,22 +215,12 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 29,
-      "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 29,
+      "word": "DOWN",
+      "count": 24,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "DOWN",
       "count": 23,
       "category": null
     },
@@ -230,17 +230,17 @@
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 19,
       "category": "価格"
     },
     {
       "word": "TOKEN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "SAUDI",
       "count": 18,
       "category": null
     },
@@ -270,17 +270,17 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 15,
       "category": null
     },
     {
       "word": "TRADERS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
       "count": 15,
       "category": null
     },
@@ -305,13 +305,13 @@
       "category": null
     },
     {
-      "word": "TOKENS",
+      "word": "RUSSIA",
       "count": 13,
       "category": null
     },
     {
-      "word": "RUSSIA",
-      "count": 13,
+      "word": "WARNS",
+      "count": 12,
       "category": null
     },
     {
@@ -320,12 +320,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "RED",
       "count": 12,
       "category": null
     },
     {
-      "word": "RED",
+      "word": "TOKENS",
       "count": 12,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
