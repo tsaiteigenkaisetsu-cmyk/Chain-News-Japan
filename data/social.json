@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T00:57:34.419Z",
+  "updated_at": "2026-07-27T01:35:51.888Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 32,
+      "news_count_24h": 32,
+      "hype_score": 31,
       "buzz_rank": 1
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 64,
+      "count": 65,
       "category": null
     },
     {
@@ -200,6 +200,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "STRIKES",
       "count": 30,
       "category": null
@@ -210,14 +215,14 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 26,
       "category": "相場"
+    },
+    {
+      "word": "TRADING",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TOKEN",
@@ -230,17 +235,17 @@
       "category": "価格"
     },
     {
-      "word": "DOWN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "CLARITY",
       "count": 18,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "DOWN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 17,
       "category": null
     },
@@ -260,11 +265,6 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MILITARY",
       "count": 15,
       "category": null
@@ -280,7 +280,7 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "BILLION",
       "count": 14,
       "category": null
     },
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TRADERS",
       "count": 13,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "EXCHANGE",
       "count": 11,
-      "category": null
+      "category": "取引所"
     },
     {
-      "word": "SHIBA",
+      "word": "ACT",
       "count": 11,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
