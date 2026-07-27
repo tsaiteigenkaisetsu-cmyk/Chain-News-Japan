@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-27T06:27:33.520Z",
+  "updated_at": "2026-07-27T07:44:45.772Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 20,
+      "news_count_24h": 46,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 13,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -124,18 +124,18 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 74,
+      "count": 80,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -216,11 +216,21 @@
     },
     {
       "word": "MARKET",
-      "count": 29,
+      "count": 30,
       "category": "相場"
     },
     {
+      "word": "TOKEN",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "CLARITY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
       "count": 20,
       "category": null
     },
@@ -230,12 +240,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
+      "word": "TENSIONS",
       "count": 19,
       "category": null
     },
@@ -251,21 +256,31 @@
     },
     {
       "word": "PRICE",
-      "count": 18,
+      "count": 17,
       "category": "価格"
     },
     {
-      "word": "TENSIONS",
-      "count": 17,
+      "word": "BILLION",
+      "count": 16,
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 17,
+      "word": "TALKS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 16,
       "category": null
     },
     {
       "word": "SEA",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SAUDI",
       "count": 16,
       "category": null
     },
@@ -275,22 +290,17 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "CEO",
+      "word": "PRICES",
       "count": 14,
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "ACT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 14,
       "category": null
     },
@@ -300,14 +310,9 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ACT",
+      "word": "EXCHANGE",
       "count": 13,
-      "category": null
+      "category": "取引所"
     },
     {
       "word": "WARNS",
@@ -328,11 +333,6 @@
       "word": "RUSSIA",
       "count": 13,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 12,
-      "category": "相場"
     }
   ],
   "stats": {
