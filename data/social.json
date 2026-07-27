@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T17:54:09.563Z",
+  "updated_at": "2026-07-27T18:26:54.343Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 11,
+      "news_count_24h": 78,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 36,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 14,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
+      "news_count_24h": 9,
+      "hype_score": 33,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 101,
+      "count": 104,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 50,
+      "count": 52,
       "category": null
     },
     {
@@ -211,22 +211,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 39,
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 28,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 29,
+      "count": 28,
       "category": "価格"
     },
     {
-      "word": "TALKS",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -235,18 +235,28 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "STRIKES",
       "count": 25,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "HORMUZ",
+      "count": 23,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 22,
+      "word": "WEEK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 21,
       "category": null
     },
     {
@@ -256,11 +266,6 @@
     },
     {
       "word": "STRATEGY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 20,
       "category": null
     },
@@ -275,8 +280,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
+      "word": "CLARITY",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "INVESTORS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 19,
       "category": null
     },
     {
@@ -290,12 +305,7 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
+      "word": "NVIDIA",
       "count": 18,
       "category": null
     },
@@ -305,34 +315,24 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "CEO",
       "count": 18,
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 18,
+      "word": "TRADERS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 17,
       "category": null
     },
     {
       "word": "EXCHANGE",
       "count": 17,
       "category": "取引所"
-    },
-    {
-      "word": "MILITARY",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "SHARES",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
