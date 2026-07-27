@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T23:30:51.684Z",
+  "updated_at": "2026-07-27T23:58:06.269Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 10,
+      "news_count_24h": 19,
+      "hype_score": 11,
       "buzz_rank": 3
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -231,12 +231,17 @@
     },
     {
       "word": "CLARITY",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "TRADING",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 25,
       "category": null
     },
     {
@@ -260,17 +265,12 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "ACT",
       "count": 23,
       "category": null
     },
     {
       "word": "PRICES",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 22,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": "取引所"
     },
     {
-      "word": "STRIKES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 20,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "STRIKES",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "INVESTORS",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
