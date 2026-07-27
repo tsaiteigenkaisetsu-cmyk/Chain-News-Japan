@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T21:16:27.796Z",
+  "updated_at": "2026-07-27T21:43:57.511Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 20,
+      "news_count_24h": 42,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 109,
+      "count": 108,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 55,
+      "count": 57,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 47,
+      "count": 49,
       "category": "相場"
     },
     {
@@ -206,12 +206,17 @@
     },
     {
       "word": "MARKETS",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
       "word": "TRUMP",
       "count": 39,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 30,
       "category": null
     },
     {
@@ -221,12 +226,12 @@
     },
     {
       "word": "TENSIONS",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 28,
+      "word": "TOKEN",
+      "count": 26,
       "category": null
     },
     {
@@ -240,16 +245,6 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 24,
       "category": null
@@ -257,6 +252,16 @@
     {
       "word": "BILLION",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 22,
       "category": null
     },
     {
@@ -270,6 +275,16 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "PREDICTION",
       "count": 21,
       "category": null
@@ -280,29 +295,14 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 21,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "EXCHANGE",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 20,
-      "category": null
+      "category": "取引所"
     },
     {
       "word": "PRICES",
@@ -310,8 +310,18 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 20,
+      "word": "DATA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 19,
       "category": null
     },
     {
@@ -323,16 +333,6 @@
       "word": "ACT",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "NVIDIA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
