@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T01:35:51.888Z",
+  "updated_at": "2026-07-27T02:31:24.298Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 31,
+      "news_count_24h": 30,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 6
+      "news_count_24h": 4,
+      "hype_score": 75,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 65,
+      "count": 66,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 40,
       "category": null
     },
     {
@@ -195,22 +200,17 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "OIL",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 30,
+      "count": 32,
       "category": null
     },
     {
       "word": "AMID",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 29,
       "category": null
     },
@@ -235,17 +235,17 @@
       "category": "価格"
     },
     {
-      "word": "CLARITY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "DOWN",
       "count": 18,
       "category": null
     },
     {
       "word": "HORMUZ",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 17,
       "category": null
     },
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "TRADERS",
       "count": 13,
       "category": null
@@ -305,12 +310,17 @@
       "category": null
     },
     {
-      "word": "ATTACKS",
+      "word": "ACT",
       "count": 12,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "EXCHANGE",
+      "count": 12,
+      "category": "取引所"
+    },
+    {
+      "word": "ATTACKS",
       "count": 12,
       "category": null
     },
@@ -323,16 +333,6 @@
       "word": "TOKENS",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 11,
-      "category": "取引所"
-    },
-    {
-      "word": "ACT",
-      "count": 11,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
