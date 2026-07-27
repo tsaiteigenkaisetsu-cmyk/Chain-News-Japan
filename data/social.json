@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T22:11:46.995Z",
+  "updated_at": "2026-07-27T22:38:09.491Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 11,
+      "news_count_24h": 86,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 109,
+      "count": 111,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKETS",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 22,
       "category": null
@@ -275,11 +280,6 @@
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 22,
       "category": null
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "STRIKES",
       "count": 21,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": "取引所"
     },
     {
-      "word": "SAUDI",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 20,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "SAUDI",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
