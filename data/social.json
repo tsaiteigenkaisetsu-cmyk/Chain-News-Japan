@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T05:13:32.005Z",
+  "updated_at": "2026-07-27T06:27:33.520Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 23,
+      "news_count_24h": 44,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
-      "buzz_rank": 3
+      "news_count_24h": 12,
+      "hype_score": 42,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -186,16 +186,16 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 73,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 41,
+      "count": 74,
       "category": null
     },
     {
       "word": "MARKETS",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 41,
       "category": null
     },
@@ -211,13 +211,18 @@
     },
     {
       "word": "STRIKES",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 29,
       "category": "相場"
+    },
+    {
+      "word": "CLARITY",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -227,11 +232,6 @@
     {
       "word": "TOKEN",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 19,
       "category": null
     },
     {
@@ -245,7 +245,7 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "HORMUZ",
       "count": 18,
       "category": null
     },
@@ -270,7 +270,12 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "TRADERS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 15,
       "category": null
     },
@@ -280,7 +285,17 @@
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 14,
       "category": null
     },
@@ -290,12 +305,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "PRICES",
+      "word": "ACT",
       "count": 13,
       "category": null
     },
@@ -310,11 +320,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "FAN",
       "count": 13,
       "category": null
@@ -325,14 +330,9 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "RALLY",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 12,
-      "category": "取引所"
+      "category": "相場"
     }
   ],
   "stats": {
