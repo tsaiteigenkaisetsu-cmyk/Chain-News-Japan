@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T03:55:02.220Z",
+  "updated_at": "2026-07-27T05:13:32.005Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 29,
+      "news_count_24h": 40,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
+      "news_count_24h": 10,
+      "hype_score": 50,
       "buzz_rank": 3
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 200,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 65,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 40,
+      "count": 73,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 41,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 30,
+      "count": 32,
       "category": null
     },
     {
       "word": "STRIKES",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 28,
       "category": "相場"
     },
     {
@@ -230,9 +230,19 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "HORMUZ",
       "count": 19,
-      "category": "価格"
+      "category": null
+    },
+    {
+      "word": "MILITARY",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 19,
+      "category": null
     },
     {
       "word": "CLARITY",
@@ -240,17 +250,12 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "PRICE",
       "count": 18,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "TENSIONS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 17,
       "category": null
     },
@@ -260,13 +265,13 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "SEA",
       "count": 16,
       "category": null
     },
     {
-      "word": "SEA",
-      "count": 16,
+      "word": "STRAIT",
+      "count": 15,
       "category": null
     },
     {
@@ -275,8 +280,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 15,
+      "word": "TRADERS",
+      "count": 14,
       "category": null
     },
     {
@@ -285,12 +290,27 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "WHY",
       "count": 14,
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "PRICES",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "TOKENS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 13,
       "category": null
     },
@@ -305,11 +325,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "ACT",
       "count": 12,
       "category": null
@@ -318,21 +333,6 @@
       "word": "EXCHANGE",
       "count": 12,
       "category": "取引所"
-    },
-    {
-      "word": "ATTACKS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
