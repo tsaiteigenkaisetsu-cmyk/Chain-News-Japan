@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T01:14:12.333Z",
+  "updated_at": "2026-07-28T01:58:57.562Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -191,22 +191,22 @@
     },
     {
       "word": "AMID",
-      "count": 59,
+      "count": 58,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 53,
       "category": "相場"
     },
     {
       "word": "OIL",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -235,13 +235,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TRADING",
       "count": 26,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 26,
+      "word": "PRICES",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 25,
       "category": null
     },
     {
@@ -250,7 +255,7 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "STRATEGY",
       "count": 24,
       "category": null
     },
@@ -262,11 +267,6 @@
     {
       "word": "TOKEN",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 23,
       "category": null
     },
     {
@@ -285,27 +285,22 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
       "count": 22,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 20,
+      "word": "FED",
+      "count": 21,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "WHY",
       "count": 20,
       "category": null
     },
@@ -320,18 +315,23 @@
       "category": null
     },
     {
+      "word": "BITMART",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
