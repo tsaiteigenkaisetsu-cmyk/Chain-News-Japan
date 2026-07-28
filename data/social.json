@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T17:59:44.482Z",
+  "updated_at": "2026-07-28T18:38:47.414Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
+      "news_count_24h": 69,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 7
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 30,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 112,
+      "count": 114,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 68,
+      "count": 70,
       "category": "相場"
     },
     {
-      "word": "OIL",
-      "count": 54,
+      "word": "TRUMP",
+      "count": 56,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 53,
+      "word": "OIL",
+      "count": 55,
       "category": null
     },
     {
@@ -220,23 +220,23 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "FED",
       "count": 39,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 34,
+      "count": 36,
       "category": "価格"
     },
     {
       "word": "TALKS",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 30,
       "category": null
@@ -257,6 +262,11 @@
     {
       "word": "STOCKS",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 28,
       "category": null
     },
     {
@@ -270,7 +280,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "NVIDIA",
       "count": 27,
       "category": null
     },
@@ -280,18 +290,18 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 26,
+      "word": "WARNS",
+      "count": 25,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 26,
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 26,
+      "word": "CEO",
+      "count": 25,
       "category": null
     },
     {
@@ -305,32 +315,22 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "BANK",
       "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WHY",
+      "word": "CHIP",
       "count": 24,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "INFRASTRUCTURE",
       "count": 24,
       "category": null
     },
     {
       "word": "WORLD",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "CHIP",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
