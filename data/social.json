@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-28T01:58:57.562Z",
+  "updated_at": "2026-07-28T03:13:04.666Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 84,
-      "hype_score": 10,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 19,
+      "news_count_24h": 45,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 67,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 200,
       "buzz_rank": 19
     },
     {
@@ -191,13 +191,18 @@
     },
     {
       "word": "AMID",
-      "count": 58,
+      "count": 60,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 55,
       "category": "相場"
+    },
+    {
+      "word": "MARKETS",
+      "count": 48,
+      "category": null
     },
     {
       "word": "OIL",
@@ -205,13 +210,8 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -221,22 +221,17 @@
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
       "word": "TENSIONS",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
       "word": "CLARITY",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 26,
       "category": null
     },
     {
@@ -252,6 +247,16 @@
     {
       "word": "PREDICTION",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 24,
       "category": null
     },
     {
@@ -295,12 +300,7 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
+      "word": "WEEK",
       "count": 20,
       "category": null
     },
@@ -315,22 +315,22 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "ATTENTION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "BITMART",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STRIKES",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
