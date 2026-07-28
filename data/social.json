@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-28T08:13:27.822Z",
+  "updated_at": "2026-07-28T09:13:59.495Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
+      "news_count_24h": 78,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
+      "news_count_24h": 42,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 5
+      "news_count_24h": 8,
+      "hype_score": 25,
+      "buzz_rank": 7
     },
     {
       "coin_id": "solana",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
+      "news_count_24h": 5,
+      "hype_score": 80,
       "buzz_rank": 10
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 33,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 110,
+      "count": 111,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 58,
+      "count": 60,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "OIL",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -225,6 +225,11 @@
       "category": "価格"
     },
     {
+      "word": "PREDICTION",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 29,
       "category": null
@@ -232,11 +237,6 @@
     {
       "word": "CLARITY",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 28,
       "category": null
     },
     {
@@ -252,6 +252,11 @@
     {
       "word": "PRICES",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
@@ -271,11 +276,6 @@
     },
     {
       "word": "NVIDIA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 23,
       "category": null
     },
@@ -305,8 +305,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
+      "word": "DATA",
+      "count": 19,
       "category": null
     },
     {
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 18,
+      "word": "MILLION",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
