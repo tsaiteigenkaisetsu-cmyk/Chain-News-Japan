@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T18:36:54.978Z",
+  "updated_at": "2026-07-29T19:03:17.537Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
-      "hype_score": 17,
+      "news_count_24h": 72,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 14,
+      "news_count_24h": 38,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 3
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 11
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 97,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 65,
-      "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 62,
+      "count": 95,
       "category": null
     },
     {
       "word": "FED",
-      "count": 61,
+      "count": 64,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 64,
+      "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 63,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "word": "ACT",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -251,12 +251,12 @@
     },
     {
       "word": "RATE",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -265,7 +265,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TRADING",
       "count": 29,
       "category": null
     },
@@ -275,13 +275,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WARNS",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "CHIP",
-      "count": 27,
       "category": null
     },
     {
@@ -290,8 +285,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "CHIP",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 25,
       "category": null
     },
     {
@@ -305,13 +305,13 @@
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "WORLD",
       "count": 23,
       "category": null
     },
     {
-      "word": "WORLD",
-      "count": 23,
+      "word": "STRATEGY",
+      "count": 22,
       "category": null
     },
     {
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "JULY",
       "count": 22,
       "category": null
     },
     {
-      "word": "APPLE",
-      "count": 22,
+      "word": "AGAINST",
+      "count": 21,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
