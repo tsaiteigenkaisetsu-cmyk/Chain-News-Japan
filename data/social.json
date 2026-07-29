@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-29T06:52:14.656Z",
+  "updated_at": "2026-07-29T07:52:28.563Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
-      "hype_score": 12,
+      "news_count_24h": 72,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 14,
+      "news_count_24h": 34,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 25,
+      "news_count_24h": 27,
+      "hype_score": 26,
       "buzz_rank": 3
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 21,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,57 +186,52 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 107,
+      "count": 102,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 75,
+      "count": 73,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 67,
+      "count": 65,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "FED",
       "count": 44,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 40,
-      "category": "価格"
+      "word": "FED",
+      "count": 43,
+      "category": null
     },
     {
       "word": "CLARITY",
-      "count": 39,
+      "count": 40,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 39,
+      "category": "価格"
     },
     {
       "word": "ACT",
       "count": 39,
-      "category": null
-    },
-    {
-      "word": "TALKS",
-      "count": 33,
       "category": null
     },
     {
@@ -245,8 +240,18 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TALKS",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 30,
       "category": null
     },
     {
@@ -256,26 +261,11 @@
     },
     {
       "word": "PREDICTION",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 29,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
       "count": 27,
       "category": null
     },
@@ -295,12 +285,12 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "INFRASTRUCTURE",
       "count": 26,
       "category": null
     },
     {
-      "word": "INFRASTRUCTURE",
+      "word": "NVIDIA",
       "count": 26,
       "category": null
     },
@@ -315,12 +305,22 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 25,
       "category": null
     },
     {
       "word": "LAUNCHES",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
       "count": 25,
       "category": null
     },
