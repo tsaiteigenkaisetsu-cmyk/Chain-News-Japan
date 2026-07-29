@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:03:17.537Z",
+  "updated_at": "2026-07-29T19:38:31.874Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 71,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 13,
+      "news_count_24h": 37,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
+      "news_count_24h": 3,
+      "hype_score": 167,
       "buzz_rank": 12
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 75,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 5
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 7
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,47 +186,47 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 95,
+      "count": 91,
       "category": null
     },
     {
       "word": "FED",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 64,
+      "count": 66,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 50,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 45,
+      "count": 52,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 47,
       "category": "価格"
     },
     {
+      "word": "CLARITY",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "ACT",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
@@ -236,22 +236,22 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 34,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 35,
       "category": null
     },
     {
@@ -275,12 +275,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 28,
+      "word": "HIKE",
+      "count": 26,
       "category": null
     },
     {
-      "word": "HIKE",
+      "word": "CEO",
       "count": 26,
       "category": null
     },
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 25,
+      "word": "WARNS",
+      "count": 24,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -305,8 +305,18 @@
       "category": null
     },
     {
+      "word": "SENATE",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "WORLD",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 22,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "MEETING",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "JULY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 21,
       "category": null
     }
   ],
