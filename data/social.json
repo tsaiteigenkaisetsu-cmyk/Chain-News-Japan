@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T20:12:09.314Z",
+  "updated_at": "2026-07-29T20:35:36.813Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
-      "hype_score": 18,
+      "news_count_24h": 70,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 167,
+      "hype_score": 100,
       "buzz_rank": 12
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 5
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 91,
+      "count": 92,
       "category": null
     },
     {
       "word": "FED",
-      "count": 68,
+      "count": 67,
       "category": null
     },
     {
@@ -201,22 +201,17 @@
     },
     {
       "word": "AMID",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 52,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 45,
+      "count": 53,
       "category": null
     },
     {
@@ -225,13 +220,18 @@
       "category": "価格"
     },
     {
+      "word": "CLARITY",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "ACT",
-      "count": 42,
+      "count": 40,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
@@ -245,12 +245,17 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 34,
+      "word": "DATA",
+      "count": 35,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "RATE",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 34,
       "category": null
     },
@@ -260,12 +265,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 32,
+      "word": "HIKE",
+      "count": 28,
       "category": null
     },
     {
-      "word": "HIKE",
+      "word": "PREDICTION",
       "count": 28,
       "category": null
     },
@@ -275,7 +280,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "EARNINGS",
       "count": 27,
       "category": null
     },
@@ -286,22 +291,22 @@
     },
     {
       "word": "WARNS",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "CHIP",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
       "count": 25,
       "category": null
     },
     {
       "word": "STOCKS",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 23,
       "category": null
     },
     {
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "JULY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WORLD",
       "count": 22,
       "category": null
     }
