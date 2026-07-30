@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T20:47:57.309Z",
+  "updated_at": "2026-07-30T21:17:22.808Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 13,
+      "news_count_24h": 92,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 50,
-      "buzz_rank": 3
+      "news_count_24h": 17,
+      "hype_score": 53,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 17,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
@@ -196,17 +196,17 @@
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 55,
       "category": "相場"
     },
     {
       "word": "MARKETS",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 47,
+      "count": 48,
       "category": "価格"
     },
     {
@@ -226,12 +226,17 @@
     },
     {
       "word": "DATA",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "AMID",
       "count": 38,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 36,
       "category": null
     },
     {
@@ -245,38 +250,28 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 35,
+      "word": "OIL",
+      "count": 33,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "EARNINGS",
       "count": 32,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 31,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 28,
+      "count": 31,
       "category": null
     },
     {
@@ -285,8 +280,18 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 26,
       "category": null
     },
     {
@@ -300,6 +305,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 25,
       "category": null
@@ -310,28 +320,18 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 24,
+      "word": "RECORD",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 23,
       "category": null
     },
     {
       "word": "RATE",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "HOLDS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 21,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
