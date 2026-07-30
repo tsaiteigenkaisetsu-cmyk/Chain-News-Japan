@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-30T19:50:04.258Z",
+  "updated_at": "2026-07-30T20:22:54.504Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 86,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 6
+      "news_count_24h": 11,
+      "hype_score": 18,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -191,18 +191,18 @@
     },
     {
       "word": "FED",
-      "count": 67,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 53,
+      "count": 65,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 51,
       "category": "相場"
+    },
+    {
+      "word": "MARKETS",
+      "count": 51,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -216,47 +216,42 @@
     },
     {
       "word": "MILLION",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 41,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "REVENUE",
       "count": 34,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "OIL",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 30,
       "category": null
     },
     {
@@ -267,6 +262,11 @@
     {
       "word": "TRADING",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 28,
       "category": null
     },
     {
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RUSSIA",
       "count": 25,
       "category": null
     },
     {
-      "word": "RUSSIA",
-      "count": 24,
+      "word": "CEO",
+      "count": 25,
       "category": null
     },
     {
@@ -325,7 +325,7 @@
       "category": null
     },
     {
-      "word": "SAUDI",
+      "word": "HOLDS",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
