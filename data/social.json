@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T22:40:34.831Z",
+  "updated_at": "2026-07-30T23:10:58.805Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 60,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -185,12 +185,12 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
-      "count": 66,
+      "word": "FED",
+      "count": 65,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "IRAN",
       "count": 65,
       "category": null
     },
@@ -201,18 +201,18 @@
     },
     {
       "word": "MARKETS",
-      "count": 52,
+      "count": 51,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 46,
-      "category": "価格"
     },
     {
       "word": "LAUNCHES",
       "count": 46,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
     },
     {
       "word": "MILLION",
@@ -221,7 +221,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -235,18 +235,18 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 38,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "ACT",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "EARNINGS",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "STRATEGY",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
