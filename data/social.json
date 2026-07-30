@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:46:39.506Z",
+  "updated_at": "2026-07-30T02:45:45.458Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,23 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 86,
+      "count": 85,
       "category": null
     },
     {
       "word": "FED",
-      "count": 69,
+      "count": 67,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 60,
+      "count": 58,
       "category": "相場"
-    },
-    {
-      "word": "MARKETS",
-      "count": 56,
-      "category": null
     },
     {
       "word": "TRUMP",
@@ -210,13 +205,18 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "MARKETS",
       "count": 54,
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 50,
+      "category": null
+    },
+    {
       "word": "PRICE",
-      "count": 45,
+      "count": 44,
       "category": "価格"
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "RATE",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -286,12 +286,7 @@
     },
     {
       "word": "HIKE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "CHIP",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -300,7 +295,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "CHIP",
       "count": 24,
       "category": null
     },
@@ -310,8 +305,8 @@
       "category": null
     },
     {
-      "word": "DIGITAL",
-      "count": 22,
+      "word": "STOCKS",
+      "count": 23,
       "category": null
     },
     {
@@ -320,7 +315,7 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "DIGITAL",
       "count": 21,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "SENATE",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
