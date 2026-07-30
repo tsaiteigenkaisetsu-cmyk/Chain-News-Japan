@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-30T23:10:58.805Z",
+  "updated_at": "2026-07-30T23:37:30.841Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
-      "hype_score": 13,
+      "news_count_24h": 93,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 24,
+      "news_count_24h": 39,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "IRAN",
-      "count": 65,
+      "count": 64,
       "category": null
     },
     {
@@ -205,23 +205,23 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 46,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 45,
       "category": "価格"
     },
     {
-      "word": "MILLION",
-      "count": 44,
+      "word": "LAUNCHES",
+      "count": 45,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 43,
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 44,
       "category": null
     },
     {
@@ -236,17 +236,17 @@
     },
     {
       "word": "TRUMP",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 38,
       "category": null
     },
     {
       "word": "REVENUE",
       "count": 38,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 37,
       "category": null
     },
     {
@@ -280,17 +280,17 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 26,
       "category": null
     },
     {
       "word": "CEO",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 26,
       "category": null
     },
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 24,
       "category": null
@@ -328,11 +333,6 @@
       "word": "ROBINHOOD",
       "count": 24,
       "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 23,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
