@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T09:21:07.287Z",
+  "updated_at": "2026-07-31T10:18:10.918Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 13,
+      "news_count_24h": 98,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
-      "buzz_rank": 3
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 64,
-      "buzz_rank": 4
+      "news_count_24h": 13,
+      "hype_score": 69,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,22 +191,32 @@
     },
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 60,
       "category": "相場"
     },
     {
       "word": "FED",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 47,
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
+    },
+    {
+      "word": "AMID",
+      "count": 44,
       "category": null
     },
     {
@@ -215,23 +225,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
-    },
-    {
-      "word": "AMID",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 43,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 40,
       "category": null
     },
     {
@@ -245,18 +240,23 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 36,
+      "word": "CLARITY",
+      "count": 38,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "TRUMP",
       "count": 35,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 33,
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 34,
       "category": null
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "EARNINGS",
-      "count": 32,
+      "word": "TRADING",
+      "count": 30,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
+      "word": "EARNINGS",
+      "count": 30,
       "category": null
     },
     {
@@ -286,12 +286,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
@@ -305,13 +300,18 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "COINBASE",
       "count": 25,
       "category": null
     },
     {
-      "word": "HOLDS",
-      "count": 23,
+      "word": "RECORD",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 24,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "REPORT",
       "count": 22,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "HOLDS",
       "count": 22,
       "category": null
     },
     {
-      "word": "RUSSIA",
+      "word": "ROBINHOOD",
       "count": 22,
       "category": null
     }
