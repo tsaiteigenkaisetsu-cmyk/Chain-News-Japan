@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T07:17:16.146Z",
+  "updated_at": "2026-07-31T08:16:57.627Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 95,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 32,
+      "news_count_24h": 26,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 13
+      "news_count_24h": 1,
+      "hype_score": 500,
+      "buzz_rank": 15
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 250,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 60,
-      "category": null
+      "word": "MARKET",
+      "count": 59,
+      "category": "相場"
     },
     {
-      "word": "MARKET",
-      "count": 58,
-      "category": "相場"
+      "word": "FED",
+      "count": 59,
+      "category": null
     },
     {
       "word": "MARKETS",
@@ -211,7 +211,12 @@
     },
     {
       "word": "MILLION",
-      "count": 45,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 42,
       "category": null
     },
     {
@@ -230,18 +235,13 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 37,
+      "word": "STOCK",
+      "count": 38,
       "category": null
     },
     {
       "word": "REVENUE",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -250,18 +250,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TRUMP",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 33,
       "category": null
     },
     {
       "word": "OIL",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 32,
       "category": null
     },
     {
@@ -275,13 +275,13 @@
       "category": null
     },
     {
-      "word": "RATES",
-      "count": 28,
+      "word": "CEO",
+      "count": 29,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 28,
+      "word": "RATES",
+      "count": 29,
       "category": null
     },
     {
@@ -295,7 +295,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "COINBASE",
       "count": 26,
       "category": null
     },
@@ -310,27 +310,27 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 24,
+      "word": "HOLDS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 23,
       "category": null
     },
     {
       "word": "RUSSIA",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "REPORT",
+      "word": "RECORD",
       "count": 22,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
