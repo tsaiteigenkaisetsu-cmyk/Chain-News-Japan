@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T21:32:25.947Z",
+  "updated_at": "2026-07-31T21:58:10.817Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 101,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 31,
+      "news_count_24h": 26,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 54,
       "category": "相場"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "IRAN",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "FED",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -240,13 +240,8 @@
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "OIL",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -255,7 +250,7 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "INFLATION",
       "count": 30,
       "category": null
     },
@@ -266,6 +261,11 @@
     },
     {
       "word": "COINBASE",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 28,
       "category": null
     },
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 26,
       "category": null
@@ -300,8 +295,18 @@
       "category": null
     },
     {
+      "word": "REVENUE",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "COLDCARD",
+      "count": 21,
       "category": null
     },
     {
@@ -310,28 +315,23 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "COLDCARD",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "FACES",
       "count": 20,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 20,
+      "word": "PUSH",
+      "count": 19,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 20,
+      "word": "PREDICTION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "CHINA",
+      "count": 19,
       "category": null
     }
   ],
