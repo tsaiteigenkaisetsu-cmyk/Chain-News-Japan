@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-31T11:12:07.757Z",
+  "updated_at": "2026-07-31T11:57:01.891Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
-      "hype_score": 10,
+      "news_count_24h": 104,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 16,
+      "hype_score": 6,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -90,15 +90,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 7
     },
     {
@@ -106,18 +106,18 @@
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 167,
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -185,43 +185,43 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
-      "count": 62,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 61,
       "category": "相場"
     },
     {
-      "word": "FED",
-      "count": 54,
+      "word": "IRAN",
+      "count": 57,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 49,
+      "word": "FED",
+      "count": 52,
       "category": null
     },
     {
       "word": "MILLION",
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 48,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 46,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 45,
       "category": "価格"
     },
     {
-      "word": "DATA",
-      "count": 45,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -246,7 +246,12 @@
     },
     {
       "word": "STOCK",
-      "count": 35,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 34,
       "category": null
     },
     {
@@ -260,17 +265,7 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "EARNINGS",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "RATES",
       "count": 29,
       "category": null
     },
@@ -285,8 +280,8 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 27,
+      "word": "RATES",
+      "count": 28,
       "category": null
     },
     {
@@ -295,22 +290,27 @@
       "category": null
     },
     {
+      "word": "INFLATION",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 26,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "STRATEGY",
       "count": 25,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 24,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "HOLDS",
       "count": 22,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "REPORT",
       "count": 22,
       "category": null
     }
