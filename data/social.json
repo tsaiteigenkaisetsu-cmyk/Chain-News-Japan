@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-01T06:02:49.731Z",
+  "updated_at": "2026-08-01T07:01:07.196Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 13,
+      "news_count_24h": 81,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 41,
       "category": null
     },
     {
@@ -231,16 +231,16 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
       "word": "COINBASE",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 30,
       "category": null
     },
@@ -295,17 +295,17 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "REVENUE",
       "count": 22,
       "category": null
     },
     {
       "word": "FACES",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 20,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "YEARS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
