@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T23:19:19.809Z",
+  "updated_at": "2026-08-01T23:44:49.161Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 7
     },
     {
@@ -215,13 +215,13 @@
       "category": "価格"
     },
     {
-      "word": "TRUMP",
+      "word": "STOCK",
       "count": 26,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 26,
+      "word": "TRUMP",
+      "count": 25,
       "category": null
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 18,
       "category": null
@@ -266,6 +261,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
