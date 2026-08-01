@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:12:10.890Z",
+  "updated_at": "2026-08-01T13:51:07.928Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 83,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 11
     },
     {
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -190,28 +190,18 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 45,
-      "category": "相場"
+      "word": "BILLION",
+      "count": 42,
+      "category": null
     },
     {
-      "word": "BILLION",
-      "count": 44,
-      "category": null
+      "word": "MARKET",
+      "count": 41,
+      "category": "相場"
     },
     {
       "word": "IRAN",
       "count": 41,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 36,
       "category": null
     },
     {
@@ -220,7 +210,12 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "MILLION",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 34,
       "category": null
     },
@@ -230,18 +225,23 @@
       "category": "価格"
     },
     {
+      "word": "LAUNCHES",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "TREASURY",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -255,12 +255,12 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 26,
+      "word": "EARNINGS",
+      "count": 25,
       "category": null
     },
     {
-      "word": "EARNINGS",
+      "word": "OIL",
       "count": 25,
       "category": null
     },
@@ -275,12 +275,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "LOSS",
       "count": 22,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "TRADING",
       "count": 22,
       "category": null
     },
@@ -290,23 +290,38 @@
       "category": null
     },
     {
-      "word": "LOSS",
+      "word": "INFLATION",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 20,
       "category": null
     },
     {
       "word": "DEAL",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "PLAN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRADERS",
+      "count": 17,
       "category": null
     },
     {
@@ -316,21 +331,6 @@
     },
     {
       "word": "DESPITE",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "PLAN",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FACES",
       "count": 17,
       "category": null
     }
