@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-01T14:49:52.714Z",
+  "updated_at": "2026-08-01T15:19:21.240Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 15,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 66,
-      "hype_score": 23,
+      "news_count_24h": 64,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 30,
+      "news_count_24h": 9,
+      "hype_score": 33,
       "buzz_rank": 5
     },
     {
@@ -97,18 +97,18 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 200,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 37,
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 33,
+      "word": "STOCK",
+      "count": 32,
       "category": null
     },
     {
@@ -220,7 +220,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "MILLION",
       "count": 31,
       "category": null
     },
@@ -251,17 +251,22 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "EARNINGS",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
       "word": "OIL",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 22,
       "category": null
     },
     {
@@ -271,16 +276,11 @@
     },
     {
       "word": "CLARITY",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
       "count": 21,
       "category": null
     },
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "PLAN",
       "count": 18,
       "category": null
@@ -310,12 +305,17 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 17,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "TOKEN",
       "count": 17,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "MARKETS",
       "count": 17,
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "TRADING",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
