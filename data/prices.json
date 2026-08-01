@@ -1,27 +1,57 @@
 [
   {
-    "coin_id": "ethereum",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 293842,
-    "price_usd": 1866.43,
-    "change_24h": -1.5587764556278816,
+    "coin_id": "bitcoin",
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 9928076,
+    "price_usd": 63061,
+    "change_24h": -0.2540634587970221,
     "change_7d": 0,
-    "market_cap_jpy": 35461515070570.766,
-    "volume_24h_jpy": 933634945658.0886
+    "market_cap_jpy": 199199398256725.28,
+    "volume_24h_jpy": 2856433412736.647
+  },
+  {
+    "coin_id": "solana",
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 11468.67,
+    "price_usd": 72.85,
+    "change_24h": -1.9874804946522389,
+    "change_7d": 0,
+    "market_cap_jpy": 6664198106787.664,
+    "volume_24h_jpy": 165174255454.4351
+  },
+  {
+    "coin_id": "dogecoin",
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 11.03,
+    "price_usd": 0.070089,
+    "change_24h": -0.2580521682822721,
+    "change_7d": 0,
+    "market_cap_jpy": 1713797133607.919,
+    "volume_24h_jpy": 61212611422.76325
+  },
+  {
+    "coin_id": "ethereum",
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 294494,
+    "price_usd": 1870.57,
+    "change_24h": -0.7953841115312041,
+    "change_7d": 0,
+    "market_cap_jpy": 35540853585915.266,
+    "volume_24h_jpy": 799039420260.2478
   },
   {
     "coin_id": "near",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 262.17,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 262.94,
     "price_usd": 1.67,
-    "change_24h": -0.9647470851429425,
+    "change_24h": -1.9000143493207813,
     "change_7d": 0,
-    "market_cap_jpy": 341452531396.55756,
-    "volume_24h_jpy": 23708110649.716908
+    "market_cap_jpy": 342440335062.1563,
+    "volume_24h_jpy": 21819014290.712036
   },
   {
     "coin_id": "matic-network",
-    "captured_at": "2026-08-01T13:50:20.982Z",
+    "captured_at": "2026-08-01T14:25:39.464Z",
     "price_jpy": 19.86,
     "price_usd": 0.126156,
     "change_24h": 0,
@@ -31,172 +61,142 @@
   },
   {
     "coin_id": "chainlink",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 1274.4,
-    "price_usd": 8.09,
-    "change_24h": -2.0197691595827347,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 1275.16,
+    "price_usd": 8.1,
+    "change_24h": -1.0096549442827982,
     "change_7d": 0,
-    "market_cap_jpy": 953380954497.1866,
-    "volume_24h_jpy": 25989121121.90915
+    "market_cap_jpy": 953980952665.6136,
+    "volume_24h_jpy": 22810549344.06582
   },
   {
     "coin_id": "litecoin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 6962.58,
-    "price_usd": 44.23,
-    "change_24h": -3.086800790771923,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 6951.74,
+    "price_usd": 44.16,
+    "change_24h": -2.987661575235484,
     "change_7d": 0,
-    "market_cap_jpy": 539234292131.13275,
-    "volume_24h_jpy": 25855416232.439415
-  },
-  {
-    "coin_id": "dogecoin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 11.01,
-    "price_usd": 0.069952,
-    "change_24h": -0.2763596675962037,
-    "change_7d": 0,
-    "market_cap_jpy": 1710420827649.4617,
-    "volume_24h_jpy": 67403620291.220604
-  },
-  {
-    "coin_id": "solana",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 11472.61,
-    "price_usd": 72.87,
-    "change_24h": -1.8323469295142125,
-    "change_7d": 0,
-    "market_cap_jpy": 6666486974608.944,
-    "volume_24h_jpy": 182198101991.9147
+    "market_cap_jpy": 538435201992.2905,
+    "volume_24h_jpy": 25050643391.612705
   },
   {
     "coin_id": "shiba-inu",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 0.00077694,
-    "price_usd": 0.00000493,
-    "change_24h": 4.554211838278892,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 0.00078109,
+    "price_usd": 0.00000496,
+    "change_24h": 5.365267902640317,
     "change_7d": 0,
-    "market_cap_jpy": 457803351118.24084,
-    "volume_24h_jpy": 26186422654.736443
-  },
-  {
-    "coin_id": "bitcoin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 9919977,
-    "price_usd": 63010,
-    "change_24h": -1.8376965645745664,
-    "change_7d": 0,
-    "market_cap_jpy": 199036896016168.72,
-    "volume_24h_jpy": 3294821172390.61
+    "market_cap_jpy": 460325256928.3816,
+    "volume_24h_jpy": 25906696403.062984
   },
   {
     "coin_id": "uniswap",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 644.54,
-    "price_usd": 4.09,
-    "change_24h": -6.51252061514984,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 648.73,
+    "price_usd": 4.12,
+    "change_24h": -5.710799496889907,
     "change_7d": 0,
-    "market_cap_jpy": 402747306540.5462,
-    "volume_24h_jpy": 42046166774.178986
+    "market_cap_jpy": 405423165789.74054,
+    "volume_24h_jpy": 41314182103.33143
   },
   {
     "coin_id": "ripple",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 167.29,
-    "price_usd": 1.063,
-    "change_24h": -1.7662327744163357,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 167.48,
+    "price_usd": 1.064,
+    "change_24h": -1.1129279027313639,
     "change_7d": 0,
-    "market_cap_jpy": 10461126672107.602,
-    "volume_24h_jpy": 131689914316.08264
+    "market_cap_jpy": 10472999668975.068,
+    "volume_24h_jpy": 115230875751.13156
   },
   {
     "coin_id": "avalanche-2",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 998.75,
-    "price_usd": 6.34,
-    "change_24h": -2.365145147152228,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 1000.46,
+    "price_usd": 6.35,
+    "change_24h": -1.8744168086222108,
     "change_7d": 0,
-    "market_cap_jpy": 431233032205.8442,
-    "volume_24h_jpy": 18490173747.452072
+    "market_cap_jpy": 432016077976.9378,
+    "volume_24h_jpy": 16228123326.463007
   },
   {
     "coin_id": "staked-ether",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 293871,
-    "price_usd": 1866.62,
-    "change_24h": -1.477201354420328,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 294379,
+    "price_usd": 1869.85,
+    "change_24h": -0.7956287995248729,
     "change_7d": 0,
-    "market_cap_jpy": 2762309831366.107,
-    "volume_24h_jpy": 1345190627.4781063
+    "market_cap_jpy": 2767130129283.235,
+    "volume_24h_jpy": 1275635616.517124
   },
   {
     "coin_id": "wrapped-bitcoin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 9925096,
-    "price_usd": 63042,
-    "change_24h": -1.8012319732133446,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 9930292,
+    "price_usd": 63076,
+    "change_24h": -0.34488474333025515,
     "change_7d": 0,
-    "market_cap_jpy": 1152623028416.8794,
-    "volume_24h_jpy": 13112550787.72764
+    "market_cap_jpy": 1153267878141.4275,
+    "volume_24h_jpy": 12504053258.259716
   },
   {
     "coin_id": "usd-coin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 157.37,
-    "price_usd": 0.999587,
-    "change_24h": -1.3156452319649328,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 157.38,
+    "price_usd": 0.99964,
+    "change_24h": -1.1199717045788122,
     "change_7d": 0,
-    "market_cap_jpy": 11322180563366.719,
-    "volume_24h_jpy": 1260972018141.801
+    "market_cap_jpy": 11322565668093.064,
+    "volume_24h_jpy": 1115596317260.6033
   },
   {
     "coin_id": "cardano",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 27.68,
-    "price_usd": 0.175811,
-    "change_24h": 2.018885892765059,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 27.34,
+    "price_usd": 0.173658,
+    "change_24h": 2.1163736125003245,
     "change_7d": 0,
-    "market_cap_jpy": 1033505044331.6492,
-    "volume_24h_jpy": 48978386451.901825
+    "market_cap_jpy": 1020949084105.8551,
+    "volume_24h_jpy": 46521269136.435104
   },
   {
     "coin_id": "tron",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 51.62,
-    "price_usd": 0.327898,
-    "change_24h": -0.9168672549145696,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 51.64,
+    "price_usd": 0.32803,
+    "change_24h": -0.7450134498243467,
     "change_7d": 0,
-    "market_cap_jpy": 4898329670882.512,
-    "volume_24h_jpy": 54292678463.38443
+    "market_cap_jpy": 4900589090191.373,
+    "volume_24h_jpy": 51009852811.40921
   },
   {
     "coin_id": "tether",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 157.3,
-    "price_usd": 0.999169,
-    "change_24h": -1.304475278110849,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 157.31,
+    "price_usd": 0.99919,
+    "change_24h": -1.1102838864081446,
     "change_7d": 0,
-    "market_cap_jpy": 28858652903682.348,
-    "volume_24h_jpy": 4994074933687.878
+    "market_cap_jpy": 28859608680439.12,
+    "volume_24h_jpy": 4454420128162.028
   },
   {
     "coin_id": "polkadot",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 121.19,
-    "price_usd": 0.769764,
-    "change_24h": 0.32822260283270327,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 121.04,
+    "price_usd": 0.768856,
+    "change_24h": 1.0317440116497651,
     "change_7d": 0,
-    "market_cap_jpy": 205533355765.18927,
-    "volume_24h_jpy": 10567956042.81055
+    "market_cap_jpy": 205280156606.8065,
+    "volume_24h_jpy": 9664427919.536802
   },
   {
     "coin_id": "binancecoin",
-    "captured_at": "2026-08-01T13:50:20.982Z",
-    "price_jpy": 90989,
-    "price_usd": 577.94,
-    "change_24h": -3.1208589990461717,
+    "captured_at": "2026-08-01T14:25:39.464Z",
+    "price_jpy": 91101,
+    "price_usd": 578.66,
+    "change_24h": -2.352762738026416,
     "change_7d": 0,
-    "market_cap_jpy": 12116524167637.715,
-    "volume_24h_jpy": 93313323020.96184
+    "market_cap_jpy": 12132945106767.857,
+    "volume_24h_jpy": 89237855491.32549
   }
 ]

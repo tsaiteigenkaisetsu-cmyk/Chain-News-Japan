@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-01T13:51:07.928Z",
+  "updated_at": "2026-08-01T14:26:24.577Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
-      "hype_score": 21,
+      "news_count_24h": 66,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 30,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 0,
+      "hype_score": 14,
       "buzz_rank": 7
     },
     {
@@ -99,25 +99,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 13
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 58,
+      "count": 55,
       "category": null
     },
     {
@@ -195,19 +195,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 41,
-      "category": "相場"
-    },
-    {
       "word": "IRAN",
       "count": 41,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 36,
-      "category": null
+      "word": "MARKET",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -215,33 +210,43 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
+      "word": "DATA",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 29,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "TREASURY",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "COLDCARD",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 27,
       "category": null
     },
     {
@@ -250,27 +255,12 @@
       "category": null
     },
     {
-      "word": "COLDCARD",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "OIL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 24,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "EARNINGS",
       "count": 23,
       "category": null
     },
@@ -280,18 +270,18 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "CLARITY",
       "count": 22,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 21,
+      "word": "ACT",
+      "count": 22,
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 21,
+      "word": "TENSIONS",
+      "count": 20,
       "category": null
     },
     {
@@ -300,8 +290,18 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "INFLATION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 18,
       "category": null
     },
     {
@@ -315,22 +315,22 @@
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "FACES",
       "count": 17,
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "DOWN",
       "count": 17,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
     {
-      "word": "DESPITE",
+      "word": "REPORT",
       "count": 17,
       "category": null
     }
