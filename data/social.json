@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-01T18:22:41.645Z",
+  "updated_at": "2026-08-01T18:45:32.286Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 17,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
       "news_count_24h": 52,
-      "hype_score": 33,
+      "hype_score": 31,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 12,
+      "hype_score": 50,
       "buzz_rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 120,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 60,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -235,22 +235,17 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
       "count": 23,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "COINBASE",
       "count": 23,
       "category": null
     },
     {
-      "word": "EARNINGS",
+      "word": "STRATEGY",
       "count": 22,
       "category": null
     },
@@ -265,13 +260,18 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "EARNINGS",
       "count": 20,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "DEAL",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 18,
       "category": null
     },
     {
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 17,
       "category": null
@@ -306,6 +301,11 @@
     },
     {
       "word": "MARKETS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 16,
       "category": null
     },
