@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T10:13:58.925Z",
+  "updated_at": "2026-08-01T10:49:42.912Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 73,
       "hype_score": 16,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 38,
+      "news_count_24h": 22,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,22 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 48,
       "category": "相場"
     },
     {
       "word": "BILLION",
       "count": 44,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 42,
       "category": null
     },
     {
@@ -215,8 +210,13 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "INFLATION",
       "count": 29,
       "category": null
@@ -255,22 +260,17 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "EARNINGS",
       "count": 28,
       "category": null
     },
     {
-      "word": "COLDCARD",
+      "word": "MARKETS",
       "count": 27,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "COLDCARD",
       "count": 27,
       "category": null
     },
@@ -280,13 +280,13 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 25,
+      "word": "ACT",
+      "count": 24,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 25,
+      "word": "CLARITY",
+      "count": 23,
       "category": null
     },
     {
@@ -295,8 +295,8 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 21,
+      "word": "LOSS",
+      "count": 20,
       "category": null
     },
     {
@@ -310,8 +310,8 @@
       "category": null
     },
     {
-      "word": "LOSS",
-      "count": 19,
+      "word": "REVENUE",
+      "count": 20,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "CHINA",
+      "word": "DESPITE",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
