@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T09:29:08.676Z",
+  "updated_at": "2026-08-01T10:13:58.925Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
+      "news_count_24h": 75,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 6,
+      "news_count_24h": 15,
+      "hype_score": 7,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 51,
+      "count": 50,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -215,19 +215,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 38,
-      "category": "価格"
-    },
-    {
       "word": "STOCK",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "PRICE",
       "count": 35,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "LAUNCHES",
@@ -235,8 +230,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 30,
+      "word": "TREASURY",
+      "count": 34,
       "category": null
     },
     {
@@ -245,13 +240,18 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "TRUMP",
       "count": 30,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "INFLATION",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 28,
       "category": null
     },
     {
@@ -265,17 +265,17 @@
       "category": null
     },
     {
+      "word": "COLDCARD",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 27,
       "category": null
     },
     {
-      "word": "COLDCARD",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "OIL",
+      "word": "FED",
       "count": 26,
       "category": null
     },
@@ -291,7 +291,7 @@
     },
     {
       "word": "TRADING",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "LOSS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 19,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "LOSS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
+      "word": "CHINA",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
