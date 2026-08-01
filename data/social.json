@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-01T03:44:49.725Z",
+  "updated_at": "2026-08-01T04:57:39.631Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 11,
+      "news_count_24h": 93,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 82,
+      "hype_score": 27,
       "buzz_rank": 6
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 11
+      "news_count_24h": 5,
+      "hype_score": 60,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -196,7 +196,7 @@
     },
     {
       "word": "BILLION",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 31,
+      "word": "COINBASE",
+      "count": 30,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "MARKETS",
       "count": 30,
       "category": null
     },
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 28,
       "category": null
@@ -280,8 +275,13 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "ACT",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "FACES",
       "count": 20,
       "category": null
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 19,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "YEARS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
