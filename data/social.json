@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T14:42:21.941Z",
+  "updated_at": "2026-08-02T15:09:47.134Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 36,
+      "news_count_24h": 41,
+      "hype_score": 37,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 125,
       "buzz_rank": 7
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 5
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -191,12 +191,12 @@
     },
     {
       "word": "AMID",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -215,19 +215,14 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 19,
       "category": "価格"
-    },
-    {
-      "word": "DEAL",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 17,
-      "category": null
     },
     {
       "word": "STOCK",
@@ -235,29 +230,14 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "TENSIONS",
       "count": 16,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 16,
+      "count": 15,
       "category": "相場"
-    },
-    {
-      "word": "TREASURY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 15,
-      "category": null
     },
     {
       "word": "WHY",
@@ -272,6 +252,26 @@
     {
       "word": "STRATEGY",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 14,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 12,
       "category": null
@@ -328,11 +333,6 @@
       "word": "INFRASTRUCTURE",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
