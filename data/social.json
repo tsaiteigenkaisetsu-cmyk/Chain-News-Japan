@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:23:23.031Z",
+  "updated_at": "2026-08-02T18:45:49.702Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 33,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 9
+      "news_count_24h": 4,
+      "hype_score": 75,
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "COLDCARD",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -245,24 +245,14 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 15,
-      "category": "価格"
-    },
-    {
       "word": "TOKEN",
       "count": 14,
       "category": null
     },
     {
-      "word": "STRIKE",
+      "word": "PRICE",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 14,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "WARNS",
@@ -285,7 +275,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "STRIKE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 13,
       "category": null
     },
@@ -295,12 +290,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WALL",
+      "word": "NEXT",
       "count": 12,
       "category": null
     },
@@ -308,6 +298,16 @@
       "word": "INFRASTRUCTURE",
       "count": 12,
       "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 11,
+      "category": "セキュリティ"
     },
     {
       "word": "WALLET",
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "LOSS",
       "count": 11,
       "category": null
     },
     {
-      "word": "STREET",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ISRAEL",
+      "word": "WALL",
       "count": 11,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
