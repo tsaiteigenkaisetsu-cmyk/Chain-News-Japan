@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T11:29:06.472Z",
+  "updated_at": "2026-08-02T11:57:40.703Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 46,
+      "news_count_24h": 40,
+      "hype_score": 43,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 36,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 150,
+      "hype_score": 75,
       "buzz_rank": 8
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 5
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "tron",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 61,
+      "count": 60,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 31,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
@@ -210,19 +210,19 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 20,
+      "count": 21,
       "category": "価格"
     },
     {
       "word": "MARKET",
       "count": 20,
       "category": "相場"
+    },
+    {
+      "word": "STOCK",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TENSIONS",
@@ -235,13 +235,18 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 18,
+      "word": "HIT",
+      "count": 17,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 18,
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 17,
       "category": null
     },
     {
@@ -250,17 +255,7 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 16,
       "category": null
     },
@@ -275,12 +270,22 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "WHY",
       "count": 15,
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "CONFLICT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 15,
       "category": null
     },
@@ -290,17 +295,12 @@
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "JULY",
+      "word": "AUGUST",
       "count": 14,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "JULY",
       "count": 14,
       "category": null
     },
@@ -310,8 +310,18 @@
       "category": null
     },
     {
-      "word": "FED",
+      "word": "INFLATION",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "WALL",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STREET",
+      "count": 13,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "STRIKE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 13,
       "category": null
     }
