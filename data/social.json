@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-02T12:49:31.267Z",
+  "updated_at": "2026-08-02T13:26:09.437Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 17,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
       "news_count_24h": 43,
-      "hype_score": 40,
+      "hype_score": 37,
       "buzz_rank": 1
     },
     {
@@ -18,15 +18,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 120,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 8,
+      "hype_score": 50,
       "buzz_rank": 3
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 75,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 125,
-      "buzz_rank": 9
+      "news_count_24h": 5,
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 4
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -185,12 +185,12 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
-      "count": 55,
+      "word": "IRAN",
+      "count": 54,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "AMID",
       "count": 54,
       "category": null
     },
@@ -201,17 +201,17 @@
     },
     {
       "word": "COLDCARD",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 21,
+      "count": 20,
       "category": "価格"
     },
     {
@@ -235,12 +235,17 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 18,
+      "word": "DEAL",
+      "count": 17,
       "category": null
     },
     {
       "word": "STRATEGY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 17,
       "category": null
     },
@@ -256,11 +261,6 @@
     },
     {
       "word": "HIT",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 16,
       "category": null
     },
@@ -285,17 +285,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "AGAINST",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "AUGUST",
       "count": 14,
       "category": null
     },
@@ -315,7 +305,7 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "AUGUST",
       "count": 13,
       "category": null
     },
@@ -325,13 +315,23 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "JULY",
       "count": 13,
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "TOKEN",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "RUSSIA",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 12,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 3,
-    "reddit_reused_previous": 17,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
