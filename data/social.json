@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:59:53.021Z",
+  "updated_at": "2026-08-02T23:27:45.309Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,18 +7,18 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 31,
+      "news_count_24h": 47,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 150,
-      "buzz_rank": 6
+      "hype_score": 0,
+      "buzz_rank": 7
     },
     {
       "coin_id": "ripple",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 100,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 80,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -215,11 +215,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "STRIKES",
       "count": 18,
       "category": null
@@ -230,18 +225,23 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 15,
+      "word": "MILLION",
+      "count": 18,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 14,
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 15,
+      "category": "価格"
+    },
+    {
+      "word": "MARKETS",
+      "count": 15,
       "category": null
     },
     {
@@ -250,18 +250,23 @@
       "category": "相場"
     },
     {
+      "word": "TOKEN",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 14,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 14,
-      "category": "価格"
-    },
-    {
       "word": "STRATEGY",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 13,
       "category": null
     },
     {
@@ -275,6 +280,11 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "CONFLICT",
       "count": 12,
       "category": null
@@ -285,17 +295,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MILITARY",
+      "word": "TALKS",
       "count": 11,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "MILITARY",
       "count": 11,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "ATTACK",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ACTION",
-      "count": 10,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
