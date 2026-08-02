@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-02T10:57:31.885Z",
+  "updated_at": "2026-08-02T11:29:06.472Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 0,
+      "news_count_24h": 37,
+      "hype_score": 46,
       "buzz_rank": 1
     },
     {
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 86,
-      "buzz_rank": 4
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
@@ -215,24 +215,14 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 21,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 20,
       "category": "価格"
     },
     {
-      "word": "DEAL",
-      "count": 19,
-      "category": null
+      "word": "MARKET",
+      "count": 20,
+      "category": "相場"
     },
     {
       "word": "TENSIONS",
@@ -245,17 +235,17 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "STRATEGY",
       "count": 18,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 17,
+      "word": "DEAL",
+      "count": 18,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "MILLION",
       "count": 17,
       "category": null
     },
@@ -265,7 +255,7 @@
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "MARKETS",
       "count": 16,
       "category": null
     },
@@ -275,8 +265,23 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 15,
       "category": null
     },
     {
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 14,
       "category": null
@@ -312,6 +312,11 @@
     {
       "word": "FED",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 13,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "WEEK",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "DOWN",
       "count": 13,
       "category": null
     }
