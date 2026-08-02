@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:39:11.672Z",
+  "updated_at": "2026-08-02T10:20:21.130Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 49,
+      "news_count_24h": 39,
+      "hype_score": 46,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 75,
+      "news_count_24h": 7,
+      "hype_score": 86,
       "buzz_rank": 5
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,15 +81,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 600,
       "buzz_rank": 12
     },
     {
@@ -124,16 +124,16 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -186,38 +186,28 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 33,
+      "count": 36,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "COLDCARD",
       "count": 26,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
+      "word": "COLDCARD",
+      "count": 25,
+      "category": null
     },
     {
       "word": "MILLION",
@@ -225,18 +215,28 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 22,
+      "category": "相場"
+    },
+    {
       "word": "STOCK",
       "count": 22,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "TENSIONS",
       "count": 19,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 18,
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
+    },
+    {
+      "word": "TREASURY",
+      "count": 19,
       "category": null
     },
     {
@@ -255,23 +255,33 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 17,
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 15,
       "category": null
     },
     {
@@ -285,22 +295,22 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "INFLATION",
       "count": 15,
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "DATA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "JULY",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 14,
       "category": null
     },
@@ -310,29 +320,19 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "EXCHANGE",
       "count": 13,
       "category": "取引所"
-    },
-    {
-      "word": "AGAINST",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "JULY",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "PLAN",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "LOSS",
-      "count": 13,
-      "category": null
     }
   ],
   "stats": {
