@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:43:42.799Z",
+  "updated_at": "2026-08-03T04:01:45.489Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
-      "hype_score": 26,
+      "news_count_24h": 56,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 167,
+      "hype_score": 133,
       "buzz_rank": 9
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 16,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
+      "news_count_24h": 8,
+      "hype_score": 38,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 300,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -126,16 +126,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -200,18 +200,23 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
+      "word": "COLDCARD",
       "count": 24,
       "category": null
     },
     {
-      "word": "COLDCARD",
+      "word": "DEAL",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -220,19 +225,14 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 16,
+      "category": "相場"
     },
     {
       "word": "MARKETS",
@@ -245,14 +245,19 @@
       "category": "価格"
     },
     {
+      "word": "WHY",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 15,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 15,
-      "category": "相場"
+      "word": "YEN",
+      "count": 14,
+      "category": null
     },
     {
       "word": "TOKEN",
@@ -265,9 +270,9 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 14,
-      "category": null
+      "word": "EXPLOIT",
+      "count": 13,
+      "category": "セキュリティ"
     },
     {
       "word": "TALKS",
@@ -285,19 +290,9 @@
       "category": null
     },
     {
-      "word": "YEN",
-      "count": 12,
+      "word": "STRATEGY",
+      "count": 13,
       "category": null
-    },
-    {
-      "word": "AUGUST",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "EXPLOIT",
-      "count": 12,
-      "category": "セキュリティ"
     },
     {
       "word": "WALLET",
@@ -315,12 +310,17 @@
       "category": null
     },
     {
-      "word": "ATTACK",
+      "word": "MODEL",
       "count": 11,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "AUGUST",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "ATTACK",
       "count": 11,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "MILITARY",
+      "word": "ETFS",
       "count": 11,
       "category": null
     }
