@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-03T16:37:26.519Z",
+  "updated_at": "2026-08-03T17:22:11.935Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 16,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 129,
-      "hype_score": 12,
+      "news_count_24h": 133,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -18,14 +18,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 21,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 35,
-      "buzz_rank": 4
+      "news_count_24h": 20,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 13
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 167,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,41 +186,51 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 83,
+      "count": 85,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 59,
+      "count": 62,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 52,
+      "count": 50,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "COLDCARD",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 32,
       "category": "相場"
     },
     {
       "word": "OIL",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
       "word": "STRATEGY",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 26,
       "category": null
     },
@@ -230,17 +240,7 @@
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "TALKS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -253,6 +253,11 @@
       "word": "PRICE",
       "count": 22,
       "category": "価格"
+    },
+    {
+      "word": "SELLS",
+      "count": 20,
+      "category": null
     },
     {
       "word": "BILLION",
@@ -275,17 +280,7 @@
       "category": null
     },
     {
-      "word": "SELLS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "SOUTH",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
       "count": 19,
       "category": null
     },
@@ -295,8 +290,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TENSIONS",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 17,
       "category": null
     },
     {
@@ -310,8 +315,8 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 17,
+      "word": "INTERVENTION",
+      "count": 16,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "ETF",
       "count": 15,
       "category": "ETF"
-    },
-    {
-      "word": "CONFLICT",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
