@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-04T12:19:54.072Z",
+  "updated_at": "2026-08-04T13:07:57.067Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 119,
-      "hype_score": 12,
+      "news_count_24h": 115,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 13,
+      "news_count_24h": 29,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -124,18 +124,18 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 48,
+      "category": "相場"
+    },
+    {
       "word": "COLDCARD",
       "count": 47,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 47,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -226,28 +226,23 @@
     },
     {
       "word": "DEAL",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "MARKETS",
       "count": 31,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TALKS",
       "count": 30,
-      "category": "価格"
+      "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PRICE",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 27,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "YEN",
@@ -255,12 +250,22 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 24,
+      "word": "BILLION",
+      "count": 25,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TREASURY",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STRIKES",
       "count": 23,
       "category": null
     },
@@ -270,13 +275,18 @@
       "category": null
     },
     {
-      "word": "STRIKES",
-      "count": 23,
+      "word": "CLARITY",
+      "count": 22,
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 21,
+      "word": "SELLS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
       "category": null
     },
     {
@@ -285,22 +295,17 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SOUTH",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
+      "word": "ACT",
       "count": 20,
       "category": null
     },
     {
-      "word": "SELLS",
+      "word": "PRICES",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 20,
       "category": null
     },
@@ -310,8 +315,8 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 20,
+      "word": "RECORD",
+      "count": 19,
       "category": null
     },
     {
@@ -320,12 +325,7 @@
       "category": "セキュリティ"
     },
     {
-      "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "PRICES",
+      "word": "SOUTH",
       "count": 19,
       "category": null
     },
