@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T05:55:11.479Z",
+  "updated_at": "2026-08-04T06:47:20.586Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 131,
-      "hype_score": 11,
+      "news_count_24h": 128,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 80,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -191,21 +191,21 @@
     },
     {
       "word": "TRUMP",
-      "count": 67,
+      "count": 66,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 51,
-      "category": null
-    },
-    {
-      "word": "COLDCARD",
-      "count": 43,
+      "count": 53,
       "category": null
     },
     {
       "word": "AMID",
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "COLDCARD",
       "count": 43,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 18,
       "category": null
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "HITS",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 16,
       "category": null
     }
   ],
