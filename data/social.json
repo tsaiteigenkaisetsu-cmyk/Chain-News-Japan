@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T21:56:30.874Z",
+  "updated_at": "2026-08-04T22:58:46.776Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 107,
       "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 20,
+      "news_count_24h": 31,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 37,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 22,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,42 +186,47 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 90,
+      "count": 85,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 71,
+      "count": 73,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 64,
+      "count": 62,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 60,
+      "count": 58,
       "category": "相場"
     },
     {
       "word": "COLDCARD",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 42,
+      "count": 49,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 41,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 38,
       "category": null
     },
     {
       "word": "STRATEGY",
       "count": 37,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 36,
       "category": null
     },
     {
@@ -235,23 +240,23 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 34,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 32,
       "category": null
     },
     {
@@ -260,13 +265,13 @@
       "category": "価格"
     },
     {
-      "word": "HORMUZ",
-      "count": 32,
+      "word": "YEN",
+      "count": 31,
       "category": null
     },
     {
-      "word": "YEN",
-      "count": 32,
+      "word": "CLARITY",
+      "count": 29,
       "category": null
     },
     {
@@ -280,13 +285,13 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 28,
+      "word": "RECORD",
+      "count": 27,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 28,
+      "word": "ACT",
+      "count": 26,
       "category": null
     },
     {
@@ -295,23 +300,13 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "EARNINGS",
       "count": 24,
       "category": null
     },
     {
-      "word": "JAPAN",
-      "count": 24,
+      "word": "STRAIT",
+      "count": 23,
       "category": null
     },
     {
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "PRICES",
       "count": 23,
       "category": null
     },
     {
       "word": "DEMAND",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 23,
       "category": null
     }
