@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T21:04:34.507Z",
+  "updated_at": "2026-08-05T22:17:41.177Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 97,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 47,
-      "buzz_rank": 4
+      "news_count_24h": 13,
+      "hype_score": 54,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -72,16 +72,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 167,
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,22 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 68,
+      "count": 70,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 61,
+      "count": 59,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 53,
       "category": "相場"
     },
     {
       "word": "HORMUZ",
-      "count": 41,
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 39,
       "category": null
     },
     {
@@ -210,8 +215,8 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 38,
+      "word": "TRUMP",
+      "count": 36,
       "category": null
     },
     {
@@ -220,18 +225,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 35,
+      "word": "DEAL",
+      "count": 34,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -245,28 +245,28 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "REVENUE",
       "count": 30,
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 29,
+      "word": "EARNINGS",
+      "count": 30,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
-      "word": "EARNINGS",
-      "count": 29,
+      "word": "BILLION",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 28,
       "category": null
     },
     {
@@ -275,18 +275,18 @@
       "category": "価格"
     },
     {
-      "word": "STRATEGY",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "SHARES",
       "count": 27,
       "category": null
     },
     {
       "word": "TALKS",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 26,
       "category": null
     },
     {
@@ -295,8 +295,13 @@
       "category": "ETF"
     },
     {
-      "word": "RECORD",
-      "count": 25,
+      "word": "OIL",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 24,
       "category": null
     },
     {
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 22,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "BANK",
       "count": 21,
       "category": null
     }
