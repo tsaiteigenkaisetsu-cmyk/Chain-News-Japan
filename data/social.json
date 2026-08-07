@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-07T11:26:17.754Z",
+  "updated_at": "2026-08-07T12:06:44.137Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
-      "hype_score": 12,
+      "news_count_24h": 68,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
-      "hype_score": 44,
+      "hype_score": 39,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 80,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 73,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 6
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
+      "word": "IRAN",
+      "count": 53,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 51,
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 50,
-      "category": null
-    },
-    {
       "word": "CLARITY",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -210,23 +210,28 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TRUMP",
       "count": 34,
-      "category": "価格"
-    },
-    {
-      "word": "ACT",
-      "count": 33,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "ACT",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 33,
+      "category": "価格"
+    },
+    {
+      "word": "HORMUZ",
       "count": 32,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 30,
+      "word": "REPORT",
+      "count": 26,
       "category": null
     },
     {
@@ -235,38 +240,33 @@
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "STRAIT",
       "count": 25,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 24,
-      "category": "ETF"
-    },
-    {
-      "word": "REPORT",
+      "word": "REVENUE",
       "count": 24,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "DEAL",
       "count": 23,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 21,
-      "category": null
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
     },
     {
       "word": "STOCK",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -315,24 +315,24 @@
       "category": null
     },
     {
-      "word": "AUGUST",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "COLDCARD",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "FEDS",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 16,
+      "category": "セキュリティ"
     }
   ],
   "stats": {
