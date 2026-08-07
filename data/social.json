@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-07T14:34:40.070Z",
+  "updated_at": "2026-08-07T15:29:05.778Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
-      "hype_score": 11,
+      "news_count_24h": 73,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 20,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 16,
+      "hype_score": 6,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
+      "news_count_24h": 9,
+      "hype_score": 100,
       "buzz_rank": 5
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -185,68 +185,68 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
-      "count": 54,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 52,
+      "count": 50,
       "category": "相場"
     },
     {
-      "word": "CLARITY",
-      "count": 43,
+      "word": "IRAN",
+      "count": 47,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 39,
+      "word": "CLARITY",
+      "count": 45,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 34,
+      "word": "AMID",
+      "count": 35,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 32,
+      "word": "MILLION",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 30,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 30,
       "category": "価格"
     },
     {
-      "word": "REPORT",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 25,
+      "word": "HORMUZ",
+      "count": 26,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "JULY",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 22,
       "category": null
     },
     {
@@ -255,32 +255,17 @@
       "category": "ETF"
     },
     {
-      "word": "LAUNCHES",
-      "count": 21,
+      "word": "DATA",
+      "count": 22,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 21,
+      "word": "FEDS",
+      "count": 22,
       "category": null
     },
     {
       "word": "DOWN",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "JULY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 21,
       "category": null
     },
@@ -290,32 +275,42 @@
       "category": null
     },
     {
-      "word": "OMAN",
-      "count": 21,
+      "word": "STRAIT",
+      "count": 20,
       "category": null
     },
     {
-      "word": "FEDS",
-      "count": 20,
+      "word": "TRADING",
+      "count": 19,
       "category": null
     },
     {
       "word": "VOTE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "RECORD",
       "count": 19,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "SENATE",
       "count": 19,
       "category": null
     },
     {
-      "word": "SHARES",
+      "word": "REVENUE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "RATE",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
       "count": 18,
       "category": null
     },
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "DEAL",
       "count": 18,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 18,
+      "word": "JOBS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 17,
       "category": null
     }
   ],
