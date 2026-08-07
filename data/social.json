@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:21:45.091Z",
+  "updated_at": "2026-08-07T23:53:54.377Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 26,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -221,7 +221,7 @@
     },
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 35,
       "category": "価格"
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "VOLUME",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "FED",
       "count": 20,
       "category": null
@@ -328,11 +333,6 @@
       "word": "FEDS",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
