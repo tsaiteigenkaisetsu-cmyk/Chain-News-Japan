@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T09:42:46.560Z",
+  "updated_at": "2026-08-07T10:33:50.995Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
-      "hype_score": 13,
+      "news_count_24h": 66,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -79,7 +79,7 @@
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 300,
       "buzz_rank": 14
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -185,53 +185,58 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
-      "count": 51,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 48,
+      "count": 51,
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 41,
+      "word": "IRAN",
+      "count": 50,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 39,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 40,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 34,
       "category": "価格"
     },
     {
+      "word": "ACT",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 30,
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 28,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
       "word": "REVENUE",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -240,12 +245,7 @@
       "category": "ETF"
     },
     {
-      "word": "BILLION",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
+      "word": "STOCK",
       "count": 25,
       "category": null
     },
@@ -255,22 +255,22 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "STRAIT",
       "count": 23,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "SENATE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 21,
       "category": null
     },
@@ -280,27 +280,7 @@
       "category": null
     },
     {
-      "word": "CIRCLE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "SHARES",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "COLDCARD",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
       "count": 20,
       "category": null
     },
@@ -310,7 +290,7 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "DEAL",
       "count": 19,
       "category": null
     },
@@ -320,18 +300,38 @@
       "category": null
     },
     {
+      "word": "EARNINGS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "CIRCLE",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "VOTE",
       "count": 18,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "COLDCARD",
       "count": 18,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "DIGITAL",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 17,
       "category": null
     }
   ],
