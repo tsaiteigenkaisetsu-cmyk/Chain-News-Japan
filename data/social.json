@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-07T05:18:17.979Z",
+  "updated_at": "2026-08-07T06:35:58.549Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
-      "hype_score": 15,
+      "news_count_24h": 74,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
@@ -36,15 +36,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 100,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 75,
       "buzz_rank": 8
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 54,
+      "count": 53,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 40,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TRUMP",
       "count": 27,
       "category": null
     },
@@ -240,7 +240,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "BILLION",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 26,
       "category": null
     },
@@ -250,8 +255,13 @@
       "category": "ETF"
     },
     {
-      "word": "BILLION",
-      "count": 25,
+      "word": "REPORT",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 21,
       "category": null
     },
     {
@@ -265,22 +275,7 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RECORD",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 21,
       "category": null
     },
@@ -290,22 +285,22 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 20,
       "category": null
     },
     {
-      "word": "AUGUST",
-      "count": 19,
+      "word": "EARNINGS",
+      "count": 20,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "DATA",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
       "count": 19,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "OIL",
       "count": 18,
       "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 18,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
