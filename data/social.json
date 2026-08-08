@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:06:24.909Z",
+  "updated_at": "2026-08-08T11:38:43.723Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 17,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
+      "news_count_24h": 9,
+      "hype_score": 100,
       "buzz_rank": 6
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,28 +186,23 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 38,
+      "count": 36,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "MARKET",
       "count": 36,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -215,14 +210,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 33,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 28,
-      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -235,9 +230,9 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "PRICE",
       "count": 27,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "SENATE",
@@ -245,14 +240,19 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 25,
+      "word": "DATA",
+      "count": 26,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 24,
+      "count": 25,
       "category": "ETF"
+    },
+    {
+      "word": "REPORT",
+      "count": 24,
+      "category": null
     },
     {
       "word": "JULY",
@@ -270,17 +270,7 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 22,
       "category": null
     },
@@ -290,8 +280,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 20,
+      "word": "TREASURY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 21,
       "category": null
     },
     {
@@ -315,22 +310,27 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FED",
       "count": 18,
       "category": null
     },
     {
       "word": "STRAIT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 17,
       "category": null
     }
