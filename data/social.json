@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-08T14:21:03.971Z",
+  "updated_at": "2026-08-08T14:54:56.700Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 65,
-      "hype_score": 17,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 15,
+      "news_count_24h": 21,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -196,22 +196,22 @@
     },
     {
       "word": "ACT",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 36,
+      "count": 40,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 36,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 35,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 32,
       "category": "相場"
     },
     {
@@ -225,19 +225,9 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
-      "count": 25,
+      "count": 27,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
     },
     {
       "word": "ETF",
@@ -250,7 +240,7 @@
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "MILLION",
       "count": 24,
       "category": null
     },
@@ -260,18 +250,38 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 23,
+      "category": "価格"
+    },
+    {
       "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "JULY",
       "count": 23,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STRAIT",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
       "category": null
     },
     {
@@ -280,27 +290,12 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "DATA",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "VOLUME",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 19,
       "category": null
     },
     {
       "word": "DOWN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 19,
       "category": null
     },
@@ -315,8 +310,18 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 17,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "SEPTEMBER",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
