@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:38:43.723Z",
+  "updated_at": "2026-08-08T12:02:23.116Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
+      "news_count_24h": 70,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
+      "news_count_24h": 13,
+      "hype_score": 15,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -216,23 +216,18 @@
     },
     {
       "word": "MILLION",
-      "count": 31,
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 28,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 28,
       "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 27,
-      "category": "価格"
     },
     {
       "word": "SENATE",
@@ -243,6 +238,11 @@
       "word": "DATA",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 26,
+      "category": "価格"
     },
     {
       "word": "ETF",
@@ -280,22 +280,22 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "DOWN",
       "count": 20,
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "VOTE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 19,
       "category": null
     },
