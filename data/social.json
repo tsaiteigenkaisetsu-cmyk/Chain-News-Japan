@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-08T07:59:45.411Z",
+  "updated_at": "2026-08-08T08:53:43.006Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
       "news_count_24h": 83,
-      "hype_score": 16,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 17,
+      "news_count_24h": 22,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
-      "hype_score": 7,
+      "hype_score": 14,
       "buzz_rank": 5
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 90,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -133,16 +133,16 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 38,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 38,
       "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 37,
+      "category": null
     },
     {
       "word": "ACT",
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "DATA",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 26,
+      "count": 25,
       "category": "ETF"
     },
     {
@@ -260,28 +260,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 24,
+      "word": "SENATE",
+      "count": 23,
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
       "word": "CEO",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 21,
       "category": null
     },
     {
@@ -295,6 +285,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "VOLUME",
       "count": 20,
       "category": null
@@ -305,12 +300,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "LAUNCHES",
       "count": 19,
       "category": null
     },
     {
-      "word": "VOTE",
+      "word": "WARNS",
       "count": 19,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "VOTE",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
