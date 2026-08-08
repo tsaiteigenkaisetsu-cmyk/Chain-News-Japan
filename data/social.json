@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-08T05:26:58.452Z",
+  "updated_at": "2026-08-08T06:05:11.831Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
-      "hype_score": 11,
+      "news_count_24h": 84,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 18,
+      "news_count_24h": 23,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 100,
+      "news_count_24h": 10,
+      "hype_score": 90,
       "buzz_rank": 7
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 400,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -190,11 +190,6 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 39,
       "category": null
@@ -203,6 +198,11 @@
       "word": "MARKET",
       "count": 39,
       "category": "相場"
+    },
+    {
+      "word": "IRAN",
+      "count": 38,
+      "category": null
     },
     {
       "word": "ACT",
@@ -251,7 +251,7 @@
     },
     {
       "word": "STOCK",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -270,17 +270,22 @@
       "category": null
     },
     {
-      "word": "DOWN",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 22,
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DOWN",
       "count": 21,
       "category": null
     },
@@ -290,32 +295,17 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "VOLUME",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "RATE",
       "count": 20,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "WARNS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FED",
       "count": 19,
       "category": null
     },
@@ -325,7 +315,17 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "EXCHANGES",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 18,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
