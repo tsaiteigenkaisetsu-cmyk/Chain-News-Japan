@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:09:04.692Z",
+  "updated_at": "2026-08-09T13:58:56.641Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -235,16 +235,6 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 16,
-      "category": "相場"
-    },
-    {
-      "word": "CHAIN",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 16,
       "category": "価格"
@@ -265,22 +255,27 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 15,
+      "category": "相場"
+    },
+    {
+      "word": "CHAIN",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 16,
+      "count": 15,
       "category": "ETF"
     },
     {
       "word": "JOBS",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
       "word": "SANCTIONS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "RATE",
       "count": 15,
       "category": null
     },
@@ -290,7 +285,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "RATE",
       "count": 14,
       "category": null
     },
@@ -305,22 +300,12 @@
       "category": null
     },
     {
-      "word": "JULY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "TALKS",
       "count": 13,
       "category": null
     },
     {
-      "word": "VOLUME",
+      "word": "DATA",
       "count": 13,
       "category": null
     },
@@ -330,8 +315,23 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "REPORTS",
+      "count": 12,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
