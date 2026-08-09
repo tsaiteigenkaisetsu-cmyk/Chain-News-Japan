@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:38:09.915Z",
+  "updated_at": "2026-08-09T12:00:21.567Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 24,
+      "news_count_24h": 39,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 23,
-      "buzz_rank": 2
+      "news_count_24h": 12,
+      "hype_score": 25,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "CLARITY",
-      "count": 32,
+      "count": 30,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 31,
+      "count": 29,
       "category": null
     },
     {
@@ -216,37 +216,37 @@
     },
     {
       "word": "HORMUZ",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "JOBS",
       "count": 23,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 21,
+      "word": "JOBS",
+      "count": 22,
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "SENATE",
       "count": 20,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "JULY",
       "count": 19,
       "category": null
     },
     {
       "word": "TREASURY",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 18,
       "category": null
     },
     {
@@ -263,11 +263,6 @@
       "word": "MARKET",
       "count": 17,
       "category": "相場"
-    },
-    {
-      "word": "REPORT",
-      "count": 17,
-      "category": null
     },
     {
       "word": "CHAIN",
@@ -300,17 +295,27 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 15,
       "category": null
     },
     {
+      "word": "REPORT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "VOLUME",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "INFLATION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 14,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "DOWN",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "ATTACKS",
-      "count": 13,
       "category": null
     }
   ],
