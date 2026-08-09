@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:54:11.238Z",
+  "updated_at": "2026-08-09T18:20:30.023Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 150,
-      "buzz_rank": 5
+      "news_count_24h": 7,
+      "hype_score": 129,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -201,12 +201,7 @@
     },
     {
       "word": "HORMUZ",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 24,
+      "count": 27,
       "category": null
     },
     {
@@ -215,8 +210,13 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "ACT",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 22,
       "category": null
     },
     {
@@ -226,8 +226,18 @@
     },
     {
       "word": "SENATE",
-      "count": 17,
+      "count": 16,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
+    },
+    {
+      "word": "MARKET",
+      "count": 13,
+      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -250,26 +260,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 12,
-      "category": "相場"
-    },
-    {
       "word": "TALKS",
       "count": 12,
       "category": null
@@ -280,23 +270,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 12,
-      "category": "価格"
-    },
-    {
       "word": "EXCHANGES",
       "count": 12,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 12,
-      "category": "ETF"
-    },
-    {
       "word": "SANCTIONS",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 11,
       "category": null
     },
     {
@@ -315,6 +300,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 11,
       "category": null
@@ -325,12 +315,22 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 11,
       "category": null
     },
     {
       "word": "CHAIN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "MEDIA",
       "count": 11,
       "category": null
     }
