@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:20:30.023Z",
+  "updated_at": "2026-08-09T19:08:43.600Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,11 +14,11 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 3
+      "news_count_24h": 5,
+      "hype_score": 80,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -81,24 +81,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 45,
+      "count": 38,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 28,
+      "count": 31,
       "category": null
     },
     {
@@ -205,17 +200,22 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 24,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "CLARITY",
       "count": 23,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "ACT",
       "count": 22,
       "category": null
     },
@@ -225,8 +225,13 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "SENATE",
-      "count": 16,
+      "count": 14,
       "category": null
     },
     {
@@ -240,23 +245,13 @@
       "category": "相場"
     },
     {
-      "word": "BILLION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 13,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 13,
+      "word": "MILLION",
+      "count": 12,
       "category": null
     },
     {
@@ -270,21 +265,6 @@
       "category": null
     },
     {
-      "word": "EXCHANGES",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SANCTIONS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "MANCHESTER",
       "count": 11,
       "category": null
@@ -295,22 +275,17 @@
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "ETFS",
       "count": 11,
       "category": null
     },
     {
       "word": "SINCE",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 11,
       "category": null
     },
@@ -332,6 +307,31 @@
     {
       "word": "MEDIA",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "NEARLY",
+      "count": 10,
       "category": null
     }
   ],
