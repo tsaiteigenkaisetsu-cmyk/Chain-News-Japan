@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T19:08:43.600Z",
+  "updated_at": "2026-08-09T19:48:53.597Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 39,
+      "news_count_24h": 40,
+      "hype_score": 35,
       "buzz_rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 129,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,26 +186,21 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 38,
+      "count": 36,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 27,
+      "count": 29,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 26,
+      "count": 24,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "HORMUZ",
       "count": 24,
       "category": null
     },
@@ -220,18 +215,18 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 22,
+      "word": "STRAIT",
+      "count": 21,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 14,
+      "word": "TRUMP",
+      "count": 21,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 14,
+      "count": 15,
       "category": null
     },
     {
@@ -245,8 +240,8 @@
       "category": "相場"
     },
     {
-      "word": "CEO",
-      "count": 13,
+      "word": "BILLION",
+      "count": 12,
       "category": null
     },
     {
@@ -255,22 +250,17 @@
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "CEO",
       "count": 12,
       "category": null
     },
     {
-      "word": "BIP",
-      "count": 12,
-      "category": null
+      "word": "PRICE",
+      "count": 11,
+      "category": "価格"
     },
     {
       "word": "MANCHESTER",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 11,
       "category": null
     },
@@ -300,7 +290,17 @@
       "category": null
     },
     {
+      "word": "TALKS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "CHAIN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "BIP",
       "count": 11,
       "category": null
     },
@@ -310,17 +310,12 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "VOTE",
+      "word": "WARNS",
       "count": 10,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "VOTE",
       "count": 10,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "NEARLY",
+      "word": "INFRASTRUCTURE",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
