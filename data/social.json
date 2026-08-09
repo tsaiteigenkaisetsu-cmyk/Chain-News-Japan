@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T09:53:05.015Z",
+  "updated_at": "2026-08-09T10:19:41.599Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 4
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
-    },
-    {
       "word": "JOBS",
       "count": 23,
       "category": null
@@ -243,6 +238,11 @@
       "word": "JULY",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 20,
+      "category": "相場"
     },
     {
       "word": "WARNS",
@@ -275,19 +275,9 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 17,
       "category": "価格"
-    },
-    {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
     },
     {
       "word": "RATE",
@@ -295,14 +285,14 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TENSIONS",
       "count": 16,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "ETF",
       "count": 16,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "DOWN",
@@ -315,7 +305,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "FED",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 15,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "CHAIN",
       "count": 14,
       "category": null
     },
     {
-      "word": "CHAIN",
+      "word": "DATA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "VOTE",
       "count": 14,
       "category": null
     }
