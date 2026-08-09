@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T16:54:34.247Z",
+  "updated_at": "2026-08-09T17:20:31.138Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 38,
+      "news_count_24h": 38,
+      "hype_score": 37,
       "buzz_rank": 1
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,16 +186,16 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 39,
+      "count": 37,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "ACT",
       "count": 26,
       "category": null
     },
@@ -205,18 +205,18 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 24,
+      "word": "HORMUZ",
+      "count": 26,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 23,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 24,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "SENATE",
       "count": 19,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 19,
+      "word": "TREASURY",
+      "count": 17,
       "category": null
     },
     {
@@ -240,32 +240,17 @@
       "category": null
     },
     {
-      "word": "SANCTIONS",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "EXCHANGES",
       "count": 14,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 13,
+      "word": "SANCTIONS",
+      "count": 14,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TALKS",
       "count": 13,
       "category": null
     },
@@ -275,12 +260,22 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
+      "word": "WARNS",
       "count": 12,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "VOTE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 12,
       "category": null
     },
@@ -293,6 +288,11 @@
       "word": "MARKET",
       "count": 12,
       "category": "相場"
+    },
+    {
+      "word": "TALKS",
+      "count": 12,
+      "category": null
     },
     {
       "word": "BIP",
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "MANCHESTER",
+      "word": "MILLION",
       "count": 11,
       "category": null
     },
