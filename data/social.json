@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:13:26.810Z",
+  "updated_at": "2026-08-09T15:46:43.721Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 35,
+      "news_count_24h": 39,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 10,
+      "hype_score": 20,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -186,21 +186,16 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 46,
+      "count": 44,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 26,
       "category": null
     },
@@ -210,12 +205,17 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "ACT",
       "count": 25,
       "category": null
     },
     {
       "word": "STRAIT",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 24,
       "category": null
     },
@@ -226,7 +226,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -236,27 +236,7 @@
     },
     {
       "word": "CEO",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "PRICE",
       "count": 16,
-      "category": "価格"
-    },
-    {
-      "word": "WARNS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "EXCHANGES",
-      "count": 15,
       "category": null
     },
     {
@@ -265,9 +245,29 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "WARNS",
       "count": 14,
-      "category": "ETF"
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 14,
+      "category": "価格"
+    },
+    {
+      "word": "EXCHANGES",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 13,
+      "category": null
     },
     {
       "word": "TENSIONS",
@@ -287,16 +287,6 @@
     {
       "word": "CHAIN",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "NEARLY",
-      "count": 12,
       "category": null
     },
     {
@@ -320,17 +310,27 @@
       "category": null
     },
     {
-      "word": "INFRASTRUCTURE",
+      "word": "STOCK",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
+    },
+    {
+      "word": "REPORT",
       "count": 11,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "MANCHESTER",
       "count": 11,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "NEARLY",
       "count": 11,
       "category": null
     }
