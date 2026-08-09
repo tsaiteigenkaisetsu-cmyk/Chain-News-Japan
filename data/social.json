@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T17:20:31.138Z",
+  "updated_at": "2026-08-09T17:54:11.238Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 37,
+      "news_count_24h": 36,
+      "hype_score": 39,
       "buzz_rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 43,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 129,
+      "news_count_24h": 6,
+      "hype_score": 150,
       "buzz_rank": 5
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 6
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -195,13 +195,8 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
@@ -210,13 +205,18 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 25,
+      "word": "ACT",
+      "count": 24,
       "category": null
     },
     {
       "word": "STRAIT",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 23,
       "category": null
     },
     {
@@ -226,27 +226,12 @@
     },
     {
       "word": "SENATE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 17,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "EXCHANGES",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "SANCTIONS",
-      "count": 14,
+      "word": "BILLION",
+      "count": 13,
       "category": null
     },
     {
@@ -255,22 +240,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "CEO",
       "count": 13,
-      "category": "価格"
-    },
-    {
-      "word": "WARNS",
-      "count": 12,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 12,
+      "word": "TREASURY",
+      "count": 13,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "MILLION",
       "count": 12,
       "category": null
     },
@@ -300,9 +280,39 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
+    },
+    {
+      "word": "EXCHANGES",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 12,
       "category": "ETF"
+    },
+    {
+      "word": "SANCTIONS",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "MANCHESTER",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 11,
+      "category": null
     },
     {
       "word": "ETFS",
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 11,
       "category": null
     },
     {
       "word": "CHAIN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "MEDIA",
       "count": 11,
       "category": null
     }
