@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T21:18:59.801Z",
+  "updated_at": "2026-08-09T21:54:38.090Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 129,
+      "hype_score": 43,
       "buzz_rank": 4
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "matic-network",
@@ -185,64 +185,69 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
+      "word": "AMID",
       "count": 31,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "IRAN",
       "count": 30,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "CLARITY",
       "count": 23,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 21,
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 20,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 15,
+      "count": 12,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 12,
-      "category": "ETF"
+      "word": "VOTE",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 11,
+      "category": null
     },
     {
       "word": "BILLION",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 11,
-      "category": "相場"
     },
     {
       "word": "MANCHESTER",
@@ -270,9 +275,9 @@
       "category": null
     },
     {
-      "word": "VOTE",
+      "word": "ETF",
       "count": 10,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "ETFS",
@@ -281,16 +286,6 @@
     },
     {
       "word": "SINCE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 10,
       "category": null
     },
@@ -305,17 +300,7 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "TRANSFERS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "NEARLY",
       "count": 9,
       "category": null
     },
@@ -323,6 +308,16 @@
       "word": "PRICE",
       "count": 9,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 9,
+      "category": "相場"
+    },
+    {
+      "word": "NVIDIA",
+      "count": 9,
+      "category": null
     },
     {
       "word": "HYPERLIQUID",
@@ -333,6 +328,11 @@
       "word": "RUSSIA",
       "count": 8,
       "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 8,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
