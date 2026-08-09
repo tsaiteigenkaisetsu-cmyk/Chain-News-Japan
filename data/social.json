@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-09T19:48:53.597Z",
+  "updated_at": "2026-08-09T20:16:15.960Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 35,
+      "news_count_24h": 39,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 80,
+      "news_count_24h": 6,
+      "hype_score": 67,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 36,
+      "count": 33,
       "category": null
     },
     {
@@ -195,12 +195,12 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 24,
+      "word": "HORMUZ",
+      "count": 25,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "DEAL",
       "count": 24,
       "category": null
     },
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "STRAIT",
       "count": 22,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 21,
+      "word": "ACT",
+      "count": 22,
       "category": null
     },
     {
@@ -245,19 +245,14 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 12,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "MILLION",
       "count": 11,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "MANCHESTER",
@@ -266,16 +261,6 @@
     },
     {
       "word": "ETFS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 11,
       "category": null
     },
@@ -295,11 +280,6 @@
       "category": null
     },
     {
-      "word": "CHAIN",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "BIP",
       "count": 11,
       "category": null
@@ -310,12 +290,17 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TREASURY",
       "count": 10,
       "category": null
     },
     {
       "word": "VOTE",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SINCE",
       "count": 10,
       "category": null
     },
@@ -330,8 +315,23 @@
       "category": null
     },
     {
+      "word": "CHAIN",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "NVIDIA",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 9,
+      "category": "価格"
+    },
+    {
+      "word": "RUSSIA",
+      "count": 9,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
