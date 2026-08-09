@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:18:39.628Z",
+  "updated_at": "2026-08-09T22:55:42.476Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 33,
+      "news_count_24h": 37,
+      "hype_score": 32,
       "buzz_rank": 1
     },
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 25,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
+      "news_count_24h": 8,
+      "hype_score": 38,
       "buzz_rank": 4
     },
     {
@@ -186,26 +186,26 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 31,
+      "count": 34,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 30,
+      "count": 32,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 23,
+      "count": 27,
       "category": null
     },
     {
       "word": "STRAIT",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 23,
       "category": null
     },
@@ -225,12 +225,17 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TRUMP",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "TALKS",
       "count": 12,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "BILLION",
       "count": 12,
       "category": null
     },
@@ -260,6 +265,11 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 10,
       "category": "相場"
@@ -268,11 +278,6 @@
       "word": "CHAIN",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
     },
     {
       "word": "ETFS",
@@ -295,8 +300,13 @@
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 10,
+      "word": "SOLANA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 9,
       "category": null
     },
     {
@@ -310,27 +320,17 @@
       "category": "価格"
     },
     {
-      "word": "MILLION",
+      "word": "ETF",
       "count": 9,
+      "category": "ETF"
+    },
+    {
+      "word": "DATA",
+      "count": 8,
       "category": null
     },
     {
       "word": "HYPERLIQUID",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "RUSSIA",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 8,
       "category": null
     }
