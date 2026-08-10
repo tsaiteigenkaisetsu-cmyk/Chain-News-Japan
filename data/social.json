@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T04:47:43.532Z",
+  "updated_at": "2026-08-10T06:03:28.050Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 30,
+      "news_count_24h": 54,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -18,15 +18,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 63,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 33,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "STRAIT",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -220,6 +220,16 @@
       "category": null
     },
     {
+      "word": "BIP",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 14,
       "category": null
@@ -230,7 +240,7 @@
       "category": null
     },
     {
-      "word": "BIP",
+      "word": "TENSIONS",
       "count": 13,
       "category": null
     },
@@ -240,22 +250,17 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 12,
       "category": "相場"
     },
     {
-      "word": "TENSIONS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "ETFS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 12,
       "category": null
     },
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "MANCHESTER",
       "count": 11,
       "category": null
     },
     {
-      "word": "MANCHESTER",
-      "count": 11,
+      "word": "DATA",
+      "count": 10,
       "category": null
     },
     {
@@ -310,27 +315,22 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 9,
+      "category": "価格"
+    },
+    {
+      "word": "CEO",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "INFLATION",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 9,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "INFRASTRUCTURE",
       "count": 9,
       "category": null
     }
