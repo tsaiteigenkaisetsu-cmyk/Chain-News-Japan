@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-10T06:03:28.050Z",
+  "updated_at": "2026-08-10T07:58:34.119Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 26,
+      "news_count_24h": 61,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,16 +16,16 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
-      "buzz_rank": 5
+      "news_count_24h": 12,
+      "hype_score": 42,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -50,11 +50,11 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 6
+      "hype_score": 100,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,58 +186,63 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BIP",
-      "count": 15,
+      "count": 23,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 14,
+      "count": 18,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 14,
+      "word": "DEAL",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BIP",
+      "count": 16,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 14,
+      "count": 15,
       "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 14,
+      "category": "相場"
     },
     {
       "word": "TENSIONS",
@@ -250,14 +255,34 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
+    },
+    {
+      "word": "REPORT",
       "count": 12,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "OPEN",
       "count": 12,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 12,
+      "category": null
     },
     {
       "word": "ETFS",
@@ -265,27 +290,7 @@
       "category": null
     },
     {
-      "word": "OPEN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 11,
-      "category": "ETF"
-    },
-    {
-      "word": "SINCE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "MILLION",
+      "word": "DATA",
       "count": 11,
       "category": null
     },
@@ -295,13 +300,8 @@
       "category": null
     },
     {
-      "word": "MANCHESTER",
+      "word": "SINCE",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 10,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 9,
-      "category": "価格"
-    },
-    {
-      "word": "CEO",
+      "word": "WHY",
       "count": 9,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "BANK",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "CHINESE",
       "count": 9,
       "category": null
     }
