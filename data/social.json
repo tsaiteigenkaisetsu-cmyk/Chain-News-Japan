@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:47:44.527Z",
+  "updated_at": "2026-08-10T11:35:36.651Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 78,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 23,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 200,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -81,14 +81,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -195,18 +195,18 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "CLARITY",
       "count": 27,
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STRAIT",
-      "count": 25,
+      "count": 23,
       "category": null
     },
     {
@@ -215,22 +215,32 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 20,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 20,
+      "word": "BIP",
+      "count": 19,
       "category": null
     },
     {
-      "word": "BIP",
+      "word": "MARKET",
       "count": 18,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "MILLION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 15,
       "category": null
     },
@@ -240,9 +250,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 15,
-      "category": "相場"
+      "word": "ETF",
+      "count": 14,
+      "category": "ETF"
     },
     {
       "word": "RECORD",
@@ -255,22 +265,22 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OPEN",
+      "word": "DATA",
       "count": 13,
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "RATE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
       "count": 13,
       "category": null
     },
@@ -280,12 +290,7 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WEEK",
+      "word": "OPEN",
       "count": 12,
       "category": null
     },
@@ -295,9 +300,9 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "SENATE",
       "count": 12,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "AGAINST",
@@ -315,24 +320,19 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "CHAIN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TALKS",
+      "word": "REVENUE",
       "count": 11,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 10,
+      "count": 11,
       "category": "価格"
+    },
+    {
+      "word": "CHAIN",
+      "count": 11,
+      "category": null
     }
   ],
   "stats": {
