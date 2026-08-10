@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T11:35:36.651Z",
+  "updated_at": "2026-08-10T12:27:30.873Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
-      "hype_score": 17,
+      "news_count_24h": 83,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 6
     },
     {
       "coin_id": "ripple",
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 23,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 67,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 10
     },
     {
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 8
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 39,
+      "count": 41,
       "category": null
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 23,
       "category": null
@@ -215,13 +220,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "MARKET",
       "count": 21,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "DEAL",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -230,17 +235,12 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 18,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "RATE",
       "count": 15,
       "category": null
     },
@@ -250,12 +250,12 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "TRUMP",
       "count": 14,
-      "category": "ETF"
+      "category": null
     },
     {
-      "word": "RECORD",
+      "word": "WEEK",
       "count": 14,
       "category": null
     },
@@ -265,17 +265,37 @@
       "category": null
     },
     {
+      "word": "ETFS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SENATE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 13,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WEEK",
+      "word": "RECORD",
       "count": 13,
       "category": null
     },
@@ -285,9 +305,19 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "RESERVE",
       "count": 12,
       "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
     },
     {
       "word": "OPEN",
@@ -295,42 +325,12 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SENATE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "VOTE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
+      "word": "INVESTORS",
       "count": 11,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 11,
-      "category": "価格"
-    },
-    {
-      "word": "CHAIN",
+      "word": "FUNDS",
       "count": 11,
       "category": null
     }
