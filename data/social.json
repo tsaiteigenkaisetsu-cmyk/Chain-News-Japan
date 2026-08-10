@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T23:54:21.910Z",
+  "updated_at": "2026-08-10T00:46:06.784Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 33,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 600,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 300,
+      "buzz_rank": 9
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 24,
+      "count": 28,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 23,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 25,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -230,8 +230,28 @@
       "category": null
     },
     {
+      "word": "BIP",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "VOTE",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 11,
       "category": null
     },
     {
@@ -246,11 +266,6 @@
     },
     {
       "word": "TALKS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "VOTE",
       "count": 11,
       "category": null
     },
@@ -270,11 +285,6 @@
       "category": null
     },
     {
-      "word": "BIP",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 10,
       "category": "ETF"
@@ -290,27 +300,27 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "INFRASTRUCTURE",
       "count": 10,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "NVIDIA",
       "count": 9,
       "category": null
     },
     {
       "word": "SOLANA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 9,
       "category": null
     },
@@ -322,16 +332,6 @@
     {
       "word": "WHY",
       "count": 9,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 8,
       "category": null
     }
   ],
