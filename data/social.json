@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-10T19:29:51.494Z",
+  "updated_at": "2026-08-10T20:10:59.227Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 112,
-      "hype_score": 11,
+      "news_count_24h": 113,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 7
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 133,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -205,17 +205,27 @@
       "category": "相場"
     },
     {
+      "word": "STRATEGY",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "CLARITY",
       "count": 25,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "BILLION",
       "count": 24,
       "category": null
     },
     {
-      "word": "BIP",
+      "word": "PRICE",
+      "count": 23,
+      "category": "価格"
+    },
+    {
+      "word": "DEAL",
       "count": 23,
       "category": null
     },
@@ -230,28 +240,18 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 22,
+      "word": "BIP",
+      "count": 21,
       "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -261,6 +261,11 @@
     },
     {
       "word": "HITS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
       "count": 17,
       "category": null
     },
@@ -275,8 +280,18 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "STOCK",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 15,
       "category": null
     },
     {
@@ -295,17 +310,17 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WEEK",
+      "word": "INVESTORS",
       "count": 14,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "DEMAND",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 14,
       "category": null
     },
@@ -317,21 +332,6 @@
     {
       "word": "TRADING",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OPEN",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "CHIP",
-      "count": 13,
       "category": null
     }
   ],
