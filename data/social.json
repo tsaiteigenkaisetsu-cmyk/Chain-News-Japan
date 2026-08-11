@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T19:16:18.875Z",
+  "updated_at": "2026-08-11T20:06:50.333Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 28,
       "hype_score": 21,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 41,
+      "news_count_24h": 18,
+      "hype_score": 39,
       "buzz_rank": 4
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -190,28 +190,33 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "IRAN",
       "count": 43,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 43,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 40,
+      "word": "MILLION",
+      "count": 43,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 37,
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 36,
       "category": null
     },
     {
@@ -220,12 +225,12 @@
       "category": "価格"
     },
     {
-      "word": "DATA",
+      "word": "DEAL",
       "count": 35,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STOCK",
       "count": 34,
       "category": null
     },
@@ -235,13 +240,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "HORMUZ",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "HITS",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -285,6 +285,21 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 22,
       "category": null
@@ -295,8 +310,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 22,
+      "word": "INFLATION",
+      "count": 21,
       "category": null
     },
     {
@@ -305,13 +320,8 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 21,
+      "word": "SOLANA",
+      "count": 20,
       "category": null
     },
     {
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 19,
+      "count": 20,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
