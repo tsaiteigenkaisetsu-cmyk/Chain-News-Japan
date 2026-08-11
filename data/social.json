@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-11T09:34:18.435Z",
+  "updated_at": "2026-08-11T10:27:46.247Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 119,
-      "hype_score": 8,
+      "news_count_24h": 121,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 13,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 33,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -190,37 +190,37 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 34,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 34,
+      "word": "BILLION",
+      "count": 32,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 32,
       "category": "相場"
     },
     {
       "word": "STRATEGY",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "DEAL",
       "count": 30,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 29,
-      "category": "価格"
-    },
-    {
-      "word": "DEAL",
+      "word": "TRUMP",
       "count": 29,
       "category": null
     },
@@ -230,13 +230,18 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "PRICE",
       "count": 28,
+      "category": "価格"
+    },
+    {
+      "word": "CLARITY",
+      "count": 27,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 27,
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -245,13 +250,18 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "HITS",
+      "count": 21,
       "category": null
     },
     {
       "word": "BIP",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
       "category": null
     },
     {
@@ -265,43 +275,43 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "OIL",
       "count": 19,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SURGE",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "OPENAI",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 17,
+      "word": "OPEN",
+      "count": 16,
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 17,
+      "word": "CHAIN",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 16,
       "category": null
     },
     {
@@ -315,23 +325,13 @@
       "category": null
     },
     {
-      "word": "CHAIN",
-      "count": 15,
+      "word": "SURGE",
+      "count": 16,
       "category": null
     },
     {
-      "word": "OPEN",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
-      "count": 15,
+      "word": "RATE",
+      "count": 16,
       "category": null
     }
   ],
