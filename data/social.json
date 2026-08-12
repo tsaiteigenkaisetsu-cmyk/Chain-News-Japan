@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T10:40:50.150Z",
+  "updated_at": "2026-08-12T11:30:29.629Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 120,
+      "news_count_24h": 117,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 67,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 80,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -190,19 +190,19 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "MARKET",
       "count": 44,
+      "category": "相場"
+    },
+    {
+      "word": "TRUMP",
+      "count": 43,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 43,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 44,
-      "category": "相場"
     },
     {
       "word": "STRATEGY",
@@ -211,13 +211,8 @@
     },
     {
       "word": "IRAN",
-      "count": 39,
+      "count": 37,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 39,
-      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -225,18 +220,23 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "PRICE",
       "count": 36,
+      "category": "価格"
+    },
+    {
+      "word": "DATA",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 34,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -246,12 +246,12 @@
     },
     {
       "word": "HORMUZ",
-      "count": 28,
+      "count": 26,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -260,14 +260,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 25,
-      "category": "ETF"
-    },
-    {
       "word": "SEC",
       "count": 25,
       "category": "規制"
+    },
+    {
+      "word": "TRADING",
+      "count": 24,
+      "category": null
     },
     {
       "word": "BANK",
@@ -280,8 +280,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 22,
+      "word": "ETF",
+      "count": 24,
+      "category": "ETF"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 23,
       "category": null
     },
     {
@@ -290,17 +295,12 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
+      "word": "CPI",
       "count": 21,
       "category": null
     },
     {
-      "word": "CPI",
+      "word": "SOLANA",
       "count": 21,
       "category": null
     },
@@ -310,17 +310,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "EXPLOIT",
-      "count": 20,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "SOLANA",
+      "word": "SINCE",
       "count": 20,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "LOSS",
+      "word": "DEMAND",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CASH",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
