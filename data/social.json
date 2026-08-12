@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T04:26:05.771Z",
+  "updated_at": "2026-08-12T05:52:52.451Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 124,
-      "hype_score": 11,
+      "news_count_24h": 121,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -43,17 +43,17 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 80,
+      "news_count_24h": 6,
+      "hype_score": 67,
       "buzz_rank": 9
     },
     {
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 13
     },
@@ -72,16 +72,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 54,
+      "count": 52,
       "category": null
     },
     {
@@ -216,37 +216,32 @@
     },
     {
       "word": "IRAN",
-      "count": 39,
+      "count": 37,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 38,
+      "count": 37,
       "category": "価格"
     },
     {
       "word": "BILLION",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 35,
+      "count": 33,
       "category": null
     },
     {
       "word": "HITS",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 30,
       "category": null
     },
     {
@@ -260,9 +255,19 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 24,
+      "count": 25,
       "category": "ETF"
+    },
+    {
+      "word": "SEC",
+      "count": 24,
+      "category": "規制"
     },
     {
       "word": "OIL",
@@ -271,11 +276,6 @@
     },
     {
       "word": "REPORTS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BIP",
       "count": 24,
       "category": null
     },
@@ -295,12 +295,7 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
-      "word": "TOKENIZED",
+      "word": "CPI",
       "count": 22,
       "category": null
     },
@@ -310,13 +305,8 @@
       "category": null
     },
     {
-      "word": "CPI",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 21,
+      "word": "BIP",
+      "count": 22,
       "category": null
     },
     {
@@ -325,12 +315,22 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "RECORD",
       "count": 20,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "CEO",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
