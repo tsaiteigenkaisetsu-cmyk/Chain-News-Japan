@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-12T20:22:50.963Z",
+  "updated_at": "2026-08-12T21:09:24.109Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 107,
-      "hype_score": 10,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 29,
       "buzz_rank": 8
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 46,
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 45,
+      "word": "BILLION",
+      "count": 42,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 41,
+      "word": "AMID",
+      "count": 42,
       "category": null
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 37,
+      "word": "DATA",
+      "count": 36,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "IRAN",
       "count": 36,
       "category": null
     },
@@ -226,13 +226,13 @@
     },
     {
       "word": "DEAL",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TRADING",
       "count": 33,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "KALSHI",
@@ -240,19 +240,24 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "SEC",
-      "count": 31,
+      "count": 32,
       "category": "規制"
     },
     {
       "word": "ETF",
-      "count": 30,
+      "count": 32,
       "category": "ETF"
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
+    },
+    {
+      "word": "TREASURY",
+      "count": 30,
+      "category": null
     },
     {
       "word": "CPI",
@@ -260,8 +265,8 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 29,
+      "word": "REPORTS",
+      "count": 26,
       "category": null
     },
     {
@@ -270,17 +275,17 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "RECORD",
+      "word": "REVENUE",
       "count": 24,
       "category": null
     },
@@ -290,42 +295,37 @@
       "category": null
     },
     {
-      "word": "REPORTS",
+      "word": "JULY",
       "count": 23,
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "HITS",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "INFLATION",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 21,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "CFTC",
-      "count": 21,
+      "word": "CEO",
+      "count": 23,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "MARKETS",
       "count": 21,
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "LOSS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "FACES",
       "count": 20,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
