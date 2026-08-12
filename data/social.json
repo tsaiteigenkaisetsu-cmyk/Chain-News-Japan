@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-12T02:37:51.737Z",
+  "updated_at": "2026-08-12T04:26:05.771Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
       "news_count_24h": 124,
-      "hype_score": 10,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 25,
+      "news_count_24h": 26,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -225,23 +225,28 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 36,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCK",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 35,
       "category": null
     },
     {
       "word": "HITS",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 30,
       "category": null
     },
     {
@@ -255,24 +260,9 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 25,
-      "category": "ETF"
-    },
-    {
-      "word": "BIP",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 24,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "OIL",
@@ -285,7 +275,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "BIP",
       "count": 24,
       "category": null
     },
@@ -295,9 +285,19 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 22,
+      "word": "ANTHROPIC",
+      "count": 23,
       "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 22,
+      "category": "規制"
     },
     {
       "word": "TOKENIZED",
@@ -310,7 +310,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "CPI",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 21,
       "category": null
     },
@@ -320,19 +325,14 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SINCE",
+      "word": "INFLATION",
       "count": 20,
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "FACES",
       "count": 20,
-      "category": "規制"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
