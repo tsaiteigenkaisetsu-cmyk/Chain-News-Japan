@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T14:02:15.488Z",
+  "updated_at": "2026-08-13T15:06:56.493Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 9,
+      "news_count_24h": 93,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 11,
-      "buzz_rank": 4
+      "news_count_24h": 20,
+      "hype_score": 10,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 29,
-      "buzz_rank": 2
+      "news_count_24h": 20,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 400,
+      "news_count_24h": 2,
+      "hype_score": 200,
       "buzz_rank": 11
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -185,14 +185,19 @@
   ],
   "trend_words": [
     {
-      "word": "MILLION",
-      "count": 43,
+      "word": "MARKET",
+      "count": 45,
+      "category": "相場"
+    },
+    {
+      "word": "DATA",
+      "count": 42,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 43,
-      "category": "相場"
+      "word": "MILLION",
+      "count": 41,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -201,22 +206,17 @@
     },
     {
       "word": "BILLION",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 36,
+      "count": 39,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 35,
+      "count": 36,
       "category": "ETF"
     },
     {
@@ -226,22 +226,12 @@
     },
     {
       "word": "CEO",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "CPI",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "KALSHI",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 30,
+      "count": 32,
       "category": null
     },
     {
@@ -260,8 +250,23 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "STOCK",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "CPI",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
       "category": null
     },
     {
@@ -275,32 +280,32 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "IRAN",
       "count": 26,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "DEAL",
       "count": 25,
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "MARKETS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "JULY",
       "count": 22,
       "category": null
     },
@@ -310,12 +315,12 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "JULY",
       "count": 21,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "NEXT",
       "count": 20,
       "category": null
     },
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 20,
+      "word": "DEMAND",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
