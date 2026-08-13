@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T09:55:50.450Z",
+  "updated_at": "2026-08-13T10:55:11.123Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 6,
+      "news_count_24h": 98,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,26 +16,26 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
-      "buzz_rank": 4
+      "news_count_24h": 21,
+      "hype_score": 14,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 25,
+      "news_count_24h": 23,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 400,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "avalanche-2",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 13
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -106,16 +106,16 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -186,28 +186,28 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 46,
+      "count": 45,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 40,
+      "count": 42,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 39,
       "category": "価格"
+    },
+    {
+      "word": "AMID",
+      "count": 37,
+      "category": null
     },
     {
       "word": "ETF",
@@ -216,12 +216,12 @@
     },
     {
       "word": "TRADING",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "CPI",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -230,43 +230,38 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 33,
-      "category": "規制"
-    },
-    {
-      "word": "IRAN",
+      "word": "STOCK",
       "count": 33,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "SEC",
       "count": 32,
+      "category": "規制"
+    },
+    {
+      "word": "CEO",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 31,
       "category": null
     },
     {
       "word": "KALSHI",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "BANK",
       "count": 30,
       "category": null
     },
     {
       "word": "REVENUE",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 29,
       "category": null
     },
     {
@@ -280,17 +275,12 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "SOLANA",
       "count": 27,
       "category": null
     },
     {
-      "word": "JULY",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
+      "word": "TRUMP",
       "count": 26,
       "category": null
     },
@@ -300,7 +290,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "JULY",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 23,
       "category": null
     },
@@ -310,28 +305,33 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "HITS",
       "count": 22,
       "category": null
     },
     {
-      "word": "DEMAND",
-      "count": 20,
+      "word": "MARKETS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 22,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "INVESTORS",
-      "count": 20,
+      "word": "DEMAND",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FALLS",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
