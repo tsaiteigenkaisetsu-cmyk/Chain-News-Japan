@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T22:22:24.409Z",
+  "updated_at": "2026-08-13T23:08:52.630Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 35,
-      "buzz_rank": 3
+      "news_count_24h": 16,
+      "hype_score": 38,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -190,19 +190,14 @@
       "category": "相場"
     },
     {
+      "word": "DATA",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 44,
       "category": "価格"
-    },
-    {
-      "word": "DATA",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 41,
-      "category": null
     },
     {
       "word": "BILLION",
@@ -210,13 +205,18 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 37,
+      "count": 36,
       "category": "ETF"
     },
     {
       "word": "AMID",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -235,23 +235,28 @@
       "category": null
     },
     {
+      "word": "KALSHI",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 27,
       "category": null
     },
     {
-      "word": "KALSHI",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
+      "word": "RECORD",
       "count": 25,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "INFLATION",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -260,17 +265,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
+      "word": "TRADING",
       "count": 24,
       "category": null
     },
@@ -280,7 +275,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "SOLANA",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 23,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "DEMAND",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "REPORTS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DEMAND",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
