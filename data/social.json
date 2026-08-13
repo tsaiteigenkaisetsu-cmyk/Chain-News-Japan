@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T18:07:49.482Z",
+  "updated_at": "2026-08-13T19:17:06.290Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 9,
+      "news_count_24h": 92,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 9,
+      "news_count_24h": 26,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
-      "buzz_rank": 6
+      "news_count_24h": 18,
+      "hype_score": 33,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 133,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 400,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 49,
       "category": "相場"
     },
     {
@@ -200,18 +200,18 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 42,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 42,
-      "category": null
-    },
-    {
       "word": "AMID",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -220,32 +220,27 @@
       "category": "ETF"
     },
     {
-      "word": "REVENUE",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "SEC",
-      "count": 32,
+      "count": 33,
       "category": "規制"
     },
     {
+      "word": "REVENUE",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "KALSHI",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
       "word": "CPI",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 28,
       "category": null
     },
@@ -255,27 +250,22 @@
       "category": null
     },
     {
+      "word": "INFLATION",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 26,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "RECORD",
       "count": 25,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "CEO",
       "count": 25,
       "category": null
     },
@@ -285,17 +275,27 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "REPORTS",
-      "count": 22,
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
       "word": "CFTC",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 22,
       "category": null
     },
@@ -305,33 +305,33 @@
       "category": null
     },
     {
+      "word": "FED",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "JULY",
       "count": 21,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "NEXT",
+      "word": "REPORTS",
       "count": 20,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "DEMAND",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "INVESTORS",
+      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
