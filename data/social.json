@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T19:17:06.290Z",
+  "updated_at": "2026-08-13T20:01:10.324Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 92,
-      "hype_score": 11,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 8,
+      "news_count_24h": 28,
+      "hype_score": 7,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 33,
+      "news_count_24h": 17,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 48,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 44,
-      "category": "価格"
     },
     {
       "word": "DATA",
       "count": 44,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -211,7 +211,7 @@
     },
     {
       "word": "AMID",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -235,42 +235,37 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "CPI",
       "count": 28,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "STOCK",
       "count": 27,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "CEO",
       "count": 26,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "BANK",
       "count": 26,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 25,
+      "word": "INFLATION",
+      "count": 24,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "CFTC",
       "count": 24,
       "category": null
     },
@@ -280,7 +275,12 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "DEAL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 23,
       "category": null
     },
@@ -290,12 +290,12 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "STOCKS",
       "count": 22,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "TOKENIZED",
       "count": 22,
       "category": null
     },
@@ -320,13 +320,13 @@
       "category": null
     },
     {
-      "word": "DEMAND",
+      "word": "NEXT",
       "count": 19,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 18,
+      "word": "DEMAND",
+      "count": 19,
       "category": null
     },
     {
