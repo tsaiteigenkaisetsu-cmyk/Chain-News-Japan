@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T00:06:06.560Z",
+  "updated_at": "2026-08-13T02:41:13.837Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 104,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -36,16 +36,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
+      "word": "MARKET",
+      "count": 48,
+      "category": "相場"
+    },
+    {
       "word": "AMID",
       "count": 46,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 46,
-      "category": "相場"
-    },
-    {
       "word": "BILLION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -205,8 +205,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 37,
+      "word": "MILLION",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 36,
       "category": null
     },
     {
@@ -215,12 +220,7 @@
       "category": "ETF"
     },
     {
-      "word": "DEAL",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "IRAN",
+      "word": "STOCK",
       "count": 35,
       "category": null
     },
@@ -230,33 +230,33 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 34,
-      "category": "規制"
-    },
-    {
-      "word": "MILLION",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "KALSHI",
       "count": 33,
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 33,
+      "category": "規制"
+    },
+    {
+      "word": "DEAL",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "CPI",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "REVENUE",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 27,
       "category": null
@@ -277,11 +282,6 @@
     {
       "word": "RECORD",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 26,
       "category": null
     },
     {
@@ -305,17 +305,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MARKETS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 22,
       "category": null
     },
@@ -325,12 +315,22 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "HITS",
       "count": 21,
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "DEMAND",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "FALLS",
       "count": 20,
       "category": null
     }
