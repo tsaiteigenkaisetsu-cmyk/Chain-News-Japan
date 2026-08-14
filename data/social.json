@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-14T13:25:14.399Z",
+  "updated_at": "2026-08-14T14:29:54.968Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 13,
+      "news_count_24h": 70,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 21,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 43,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -185,18 +185,23 @@
   ],
   "trend_words": [
     {
-      "word": "MARKET",
-      "count": 47,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
       "count": 46,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "MARKET",
       "count": 45,
+      "category": "相場"
+    },
+    {
+      "word": "DATA",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 40,
       "category": null
     },
     {
@@ -205,23 +210,18 @@
       "category": "価格"
     },
     {
-      "word": "BILLION",
-      "count": 38,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 37,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 33,
+      "count": 35,
       "category": "ETF"
     },
     {
       "word": "REVENUE",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -231,22 +231,27 @@
     },
     {
       "word": "CEO",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "FED",
-      "count": 23,
+      "word": "BANK",
+      "count": 22,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -255,22 +260,12 @@
       "category": null
     },
     {
-      "word": "JULY",
+      "word": "FED",
       "count": 22,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 21,
       "category": null
     },
@@ -280,17 +275,12 @@
       "category": null
     },
     {
-      "word": "KALSHI",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "JULY",
       "count": 20,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "TREASURY",
       "count": 20,
       "category": null
     },
@@ -300,17 +290,12 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "LOSS",
       "count": 19,
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "PREDICTION",
       "count": 19,
       "category": null
     },
@@ -320,17 +305,32 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 18,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "KALSHI",
       "count": 17,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "DEAL",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
