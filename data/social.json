@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:23:42.939Z",
+  "updated_at": "2026-08-14T09:31:35.034Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
-      "hype_score": 21,
+      "news_count_24h": 69,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 40,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
+      "hype_score": 50,
       "buzz_rank": 9
     },
     {
@@ -99,14 +99,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 500,
       "buzz_rank": 15
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 49,
       "category": "相場"
     },
     {
       "word": "DATA",
-      "count": 47,
+      "count": 45,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -205,8 +205,13 @@
       "category": "価格"
     },
     {
+      "word": "AMID",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "BILLION",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -216,31 +221,21 @@
     },
     {
       "word": "ETF",
-      "count": 35,
+      "count": 33,
       "category": "ETF"
     },
     {
-      "word": "AMID",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "SEC",
-      "count": 26,
+      "count": 27,
       "category": "規制"
     },
     {
+      "word": "IRAN",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "CEO",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 26,
       "category": null
     },
@@ -250,12 +245,17 @@
       "category": null
     },
     {
-      "word": "KALSHI",
+      "word": "SOLANA",
       "count": 25,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "STOCKS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 24,
       "category": null
     },
@@ -270,18 +270,18 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "JULY",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "KALSHI",
+      "count": 22,
       "category": null
     },
     {
@@ -292,6 +292,16 @@
     {
       "word": "CPI",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
       "category": null
     },
     {
@@ -310,17 +320,7 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "RATE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 19,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DEMAND",
+      "word": "NEXT",
       "count": 19,
       "category": null
     }
