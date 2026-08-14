@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:01:14.442Z",
+  "updated_at": "2026-08-14T08:23:42.939Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 20,
+      "news_count_24h": 68,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 7,
+      "news_count_24h": 29,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 33,
-      "buzz_rank": 3
+      "news_count_24h": 15,
+      "hype_score": 40,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -191,18 +191,18 @@
     },
     {
       "word": "DATA",
-      "count": 45,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 41,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 41,
-      "category": "価格"
-    },
-    {
-      "word": "MILLION",
       "count": 40,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -210,33 +210,18 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 37,
+      "word": "REVENUE",
+      "count": 35,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 36,
+      "count": 35,
       "category": "ETF"
     },
     {
-      "word": "REVENUE",
+      "word": "AMID",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 26,
       "category": null
     },
     {
@@ -245,13 +230,38 @@
       "category": "規制"
     },
     {
-      "word": "KALSHI",
+      "word": "CEO",
       "count": 26,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "KALSHI",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 24,
       "category": null
     },
     {
@@ -265,8 +275,8 @@
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 24,
+      "word": "STOCKS",
+      "count": 23,
       "category": null
     },
     {
@@ -275,28 +285,18 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "CPI",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 22,
       "category": null
     },
     {
+      "word": "CPI",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -307,6 +307,16 @@
     {
       "word": "FUND",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RATE",
+      "count": 19,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "DEMAND",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RATE",
-      "count": 18,
       "category": null
     }
   ],
