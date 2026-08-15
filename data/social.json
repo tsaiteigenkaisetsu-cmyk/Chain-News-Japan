@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-15T16:08:09.504Z",
+  "updated_at": "2026-08-15T16:37:25.638Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 63,
-      "hype_score": 16,
+      "news_count_24h": 61,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 26,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
-      "buzz_rank": 3
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
-      "buzz_rank": 5
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
-    },
-    {
       "word": "IRAN",
       "count": 34,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 33,
+      "category": "相場"
     },
     {
       "word": "AMID",
@@ -206,17 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -225,24 +215,34 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "BILLION",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 23,
       "category": null
     },
     {
       "word": "STAKE",
-      "count": 24,
+      "count": 23,
       "category": "ステーキング"
-    },
-    {
-      "word": "REVENUE",
-      "count": 24,
-      "category": null
     },
     {
       "word": "SEC",
       "count": 23,
       "category": "規制"
+    },
+    {
+      "word": "REVENUE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 23,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -261,16 +261,16 @@
     },
     {
       "word": "WARNS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 19,
       "category": null
     },
     {
       "word": "IPO",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 18,
       "category": null
     },
@@ -285,13 +285,8 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "STRATEGY",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 17,
       "category": null
     },
     {
@@ -305,8 +300,8 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 16,
+      "word": "ANTHROPIC",
+      "count": 17,
       "category": null
     },
     {
@@ -331,6 +326,11 @@
     },
     {
       "word": "SOLANA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "AUDIT",
       "count": 15,
       "category": null
     }
