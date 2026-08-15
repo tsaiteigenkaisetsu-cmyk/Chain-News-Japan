@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T17:36:21.486Z",
+  "updated_at": "2026-08-15T17:53:27.904Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 54,
       "hype_score": 20,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
+      "news_count_24h": 17,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
-      "buzz_rank": 7
+      "news_count_24h": 6,
+      "hype_score": 67,
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -235,22 +235,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 21,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
-    },
-    {
-      "word": "CEO",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -260,9 +250,14 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 18,
+      "word": "CEO",
+      "count": 19,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 18,
+      "category": "価格"
     },
     {
       "word": "STRATEGY",
@@ -271,6 +266,11 @@
     },
     {
       "word": "BINANCE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 17,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 15,
       "category": null
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "FUND",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 14,
       "category": null
     }
   ],
