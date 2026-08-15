@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:48:58.746Z",
+  "updated_at": "2026-08-15T08:12:21.574Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 85,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
+      "news_count_24h": 1,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "SEC",
-      "count": 27,
+      "count": 26,
       "category": "規制"
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 17,
       "category": null
@@ -333,6 +328,11 @@
       "word": "AUGUST",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "DIGITAL",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
