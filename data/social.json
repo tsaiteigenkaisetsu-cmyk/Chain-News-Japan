@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:17:00.554Z",
+  "updated_at": "2026-08-15T04:49:51.591Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 21,
       "buzz_rank": 2
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
-      "buzz_rank": 3
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 6
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "tron",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 45,
+      "count": 44,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 43,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 43,
       "category": "相場"
-    },
-    {
-      "word": "DATA",
-      "count": 42,
-      "category": null
     },
     {
       "word": "PRICE",
@@ -220,11 +220,6 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 28,
       "category": "規制"
@@ -233,6 +228,11 @@
       "word": "ETF",
       "count": 28,
       "category": "ETF"
+    },
+    {
+      "word": "BANK",
+      "count": 27,
+      "category": null
     },
     {
       "word": "IRAN",
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "TREASURY",
       "count": 18,
       "category": null
@@ -302,6 +297,16 @@
     {
       "word": "OPENAI",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 17,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "INFLATION",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "LARGEST",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
