@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T11:29:12.265Z",
+  "updated_at": "2026-08-15T11:49:48.351Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 21,
+      "news_count_24h": 26,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 2,
+      "hype_score": 150,
       "buzz_rank": 11
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MILLION",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -226,21 +226,16 @@
     },
     {
       "word": "ETF",
-      "count": 26,
+      "count": 27,
       "category": "ETF"
     },
     {
       "word": "SEC",
-      "count": 25,
+      "count": 24,
       "category": "規制"
     },
     {
       "word": "BANK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "FUND",
       "count": 24,
       "category": null
     },
@@ -250,12 +245,12 @@
       "category": "ステーキング"
     },
     {
-      "word": "TRUMP",
-      "count": 21,
+      "word": "FUND",
+      "count": 23,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "TRUMP",
       "count": 21,
       "category": null
     },
@@ -265,8 +260,18 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "SHARES",
+      "count": 19,
       "category": null
     },
     {
@@ -275,17 +280,7 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SHARES",
       "count": 18,
       "category": null
     },
@@ -296,6 +291,11 @@
     },
     {
       "word": "TREASURY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 17,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "DIGITAL",
       "count": 16,
       "category": null
@@ -333,6 +328,11 @@
       "word": "AUDIT",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "INFLATION",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
