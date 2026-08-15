@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:37:25.638Z",
+  "updated_at": "2026-08-15T16:56:32.452Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
-      "buzz_rank": 8
+      "news_count_24h": 8,
+      "hype_score": 50,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 33,
       "category": "相場"
+    },
+    {
+      "word": "IRAN",
+      "count": 33,
+      "category": null
     },
     {
       "word": "AMID",
@@ -206,16 +206,21 @@
     },
     {
       "word": "MILLION",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "STAKE",
+      "count": 24,
+      "category": "ステーキング"
+    },
+    {
+      "word": "BILLION",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "BANK",
       "count": 24,
       "category": null
     },
@@ -225,32 +230,27 @@
       "category": null
     },
     {
-      "word": "STAKE",
-      "count": 23,
-      "category": "ステーキング"
-    },
-    {
       "word": "SEC",
       "count": 23,
       "category": "規制"
     },
     {
-      "word": "REVENUE",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 22,
+      "count": 21,
       "category": "価格"
     },
     {
       "word": "TRADING",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
       "count": 21,
       "category": null
     },
@@ -265,21 +265,6 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TETHER",
       "count": 18,
       "category": null
@@ -290,7 +275,17 @@
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "IPO",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 17,
       "category": null
     },
@@ -300,13 +295,28 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
       "word": "FUND",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 15,
       "category": null
     },
     {
@@ -321,16 +331,6 @@
     },
     {
       "word": "AUGUST",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AUDIT",
       "count": 15,
       "category": null
     }
