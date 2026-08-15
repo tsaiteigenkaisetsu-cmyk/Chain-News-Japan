@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-15T20:33:38.500Z",
+  "updated_at": "2026-08-15T20:52:36.857Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
-      "hype_score": 19,
+      "news_count_24h": 51,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -190,6 +190,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
+    },
+    {
       "word": "AMID",
       "count": 31,
       "category": null
@@ -200,23 +205,23 @@
       "category": "相場"
     },
     {
-      "word": "ETF",
-      "count": 31,
-      "category": "ETF"
-    },
-    {
       "word": "MILLION",
       "count": 27,
       "category": null
     },
     {
-      "word": "STAKE",
+      "word": "TRUMP",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "STAKE",
+      "count": 25,
       "category": "ステーキング"
     },
     {
-      "word": "TRUMP",
-      "count": 24,
+      "word": "BANK",
+      "count": 23,
       "category": null
     },
     {
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 18,
       "category": "価格"
+    },
+    {
+      "word": "REVENUE",
+      "count": 18,
+      "category": null
     },
     {
       "word": "STRATEGY",
