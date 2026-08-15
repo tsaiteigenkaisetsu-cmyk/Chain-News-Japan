@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:41:30.738Z",
+  "updated_at": "2026-08-15T06:00:57.976Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 86,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 20,
+      "news_count_24h": 31,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 38,
       "category": "価格"
     },
     {
@@ -220,24 +220,29 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 29,
+      "category": "規制"
+    },
+    {
       "word": "ETF",
       "count": 29,
       "category": "ETF"
     },
     {
-      "word": "SEC",
-      "count": 28,
-      "category": "規制"
-    },
-    {
       "word": "BANK",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "STAKE",
+      "count": 24,
+      "category": "ステーキング"
     },
     {
       "word": "FUND",
@@ -248,11 +253,6 @@
       "word": "STRATEGY",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "STAKE",
-      "count": 23,
-      "category": "ステーキング"
     },
     {
       "word": "IPO",
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 17,
       "category": null
@@ -333,6 +328,11 @@
       "word": "INFLATION",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "LARGEST",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
