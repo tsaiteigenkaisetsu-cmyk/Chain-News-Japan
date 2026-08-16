@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T23:30:41.653Z",
+  "updated_at": "2026-08-16T23:49:39.412Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 29,
+      "news_count_24h": 33,
+      "hype_score": 27,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 100,
+      "hype_score": 88,
       "buzz_rank": 4
     },
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -206,12 +206,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 13,
       "category": null
     },
     {
@@ -240,17 +245,7 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 12,
       "category": null
     },
@@ -261,11 +256,6 @@
     },
     {
       "word": "CONFLICT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 11,
       "category": null
     },
@@ -285,7 +275,22 @@
       "category": "価格"
     },
     {
+      "word": "DATA",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BINANCE",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 10,
       "category": null
     },
@@ -311,11 +316,6 @@
     },
     {
       "word": "WHAT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 9,
       "category": null
     },
