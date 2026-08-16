@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T13:59:49.369Z",
+  "updated_at": "2026-08-16T14:32:21.407Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -36,15 +36,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 80,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
+      "news_count_24h": 3,
+      "hype_score": 200,
       "buzz_rank": 10
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
+      "news_count_24h": 6,
+      "hype_score": 33,
       "buzz_rank": 7
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 2
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -195,19 +195,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 29,
-      "category": "相場"
-    },
-    {
       "word": "TRUMP",
       "count": 26,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 25,
-      "category": "ETF"
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
     },
     {
       "word": "STAKE",
@@ -215,32 +210,27 @@
       "category": "ステーキング"
     },
     {
-      "word": "BANK",
-      "count": 19,
-      "category": null
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
     },
     {
       "word": "PRICE",
-      "count": 18,
+      "count": 19,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 17,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 18,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 17,
       "category": null
     },
@@ -250,8 +240,18 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "WARNS",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 15,
       "category": null
     },
     {
@@ -265,8 +265,8 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 14,
+      "word": "CEO",
+      "count": 15,
       "category": null
     },
     {
@@ -290,17 +290,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
+      "word": "OPENAI",
       "count": 12,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "BINANCE",
       "count": 12,
       "category": null
     },
@@ -320,13 +315,18 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "STRATEGY",
       "count": 11,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "REVENUE",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "CITY",
+      "count": 10,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
