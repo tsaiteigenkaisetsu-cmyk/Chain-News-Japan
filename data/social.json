@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-16T18:51:50.394Z",
+  "updated_at": "2026-08-16T19:11:03.907Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 40,
+      "news_count_24h": 24,
+      "hype_score": 46,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 3
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -191,17 +191,17 @@
     },
     {
       "word": "AMID",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 23,
       "category": "相場"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 14,
       "category": null
@@ -255,18 +260,18 @@
       "category": null
     },
     {
-      "word": "STAKE",
-      "count": 14,
-      "category": "ステーキング"
-    },
-    {
       "word": "ANTHROPIC",
       "count": 13,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "STAKE",
       "count": 13,
+      "category": "ステーキング"
+    },
+    {
+      "word": "CITY",
+      "count": 12,
       "category": null
     },
     {
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "CITY",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "CONFLICT",
       "count": 11,
       "category": null
@@ -307,6 +307,11 @@
     {
       "word": "BANK",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "MANCHESTER",
+      "count": 10,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "DEAL",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 9,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
