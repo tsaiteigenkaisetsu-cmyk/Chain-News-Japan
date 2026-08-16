@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T22:31:17.779Z",
+  "updated_at": "2026-08-16T22:51:17.831Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 114,
-      "buzz_rank": 6
+      "news_count_24h": 8,
+      "hype_score": 100,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -99,16 +99,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -200,22 +200,22 @@
       "category": "相場"
     },
     {
+      "word": "ETF",
+      "count": 18,
+      "category": "ETF"
+    },
+    {
       "word": "TRUMP",
       "count": 17,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
-    },
-    {
-      "word": "AGAINST",
-      "count": 14,
+      "word": "MILLION",
+      "count": 15,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "AGAINST",
       "count": 14,
       "category": null
     },
@@ -280,6 +280,11 @@
       "category": "価格"
     },
     {
+      "word": "BINANCE",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 10,
       "category": null
@@ -321,11 +326,6 @@
     },
     {
       "word": "SCORES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
       "count": 9,
       "category": null
     },
