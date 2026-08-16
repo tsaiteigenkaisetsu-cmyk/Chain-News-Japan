@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:07:23.414Z",
+  "updated_at": "2026-08-16T21:31:42.468Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 38,
+      "news_count_24h": 27,
+      "hype_score": 37,
       "buzz_rank": 1
     },
     {
@@ -23,20 +23,20 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 89,
-      "buzz_rank": 3
+      "news_count_24h": 7,
+      "hype_score": 114,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 43,
+      "count": 40,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
@@ -211,36 +211,26 @@
     },
     {
       "word": "MILLION",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 15,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "AGAINST",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 13,
       "category": null
     },
     {
       "word": "HORMUZ",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 13,
-      "category": "価格"
-    },
-    {
-      "word": "WORLD",
       "count": 13,
       "category": null
     },
@@ -250,19 +240,14 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "CITY",
       "count": 12,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
     },
     {
       "word": "WHY",
@@ -285,18 +270,23 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 11,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "WARNS",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 10,
       "category": null
     },
     {
@@ -305,12 +295,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "DEAL",
       "count": 10,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "WORLD",
       "count": 10,
       "category": null
     },
@@ -331,6 +321,16 @@
     },
     {
       "word": "SCORES",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 9,
       "category": null
     }
