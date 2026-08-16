@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T16:42:34.085Z",
+  "updated_at": "2026-08-16T17:01:18.093Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 42,
+      "news_count_24h": 25,
+      "hype_score": 40,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
-      "buzz_rank": 6
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 18,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -195,18 +195,18 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
+    },
+    {
       "word": "TRUMP",
       "count": 26,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
-    },
-    {
       "word": "ETF",
-      "count": 20,
+      "count": 21,
       "category": "ETF"
     },
     {
@@ -215,9 +215,9 @@
       "category": null
     },
     {
-      "word": "STAKE",
-      "count": 17,
-      "category": "ステーキング"
+      "word": "CEO",
+      "count": 16,
+      "category": null
     },
     {
       "word": "DATA",
@@ -235,24 +235,19 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 15,
-      "category": "価格"
-    },
-    {
       "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "PRICE",
       "count": 15,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "CEO",
+      "word": "STAKE",
       "count": 15,
-      "category": null
+      "category": "ステーキング"
     },
     {
       "word": "AGAINST",
@@ -260,12 +255,12 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "TENSIONS",
       "count": 14,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "BILLION",
       "count": 14,
       "category": null
     },
@@ -280,13 +275,13 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 12,
+      "word": "OPENAI",
+      "count": 13,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 12,
+      "word": "STOCKS",
+      "count": 11,
       "category": null
     },
     {
@@ -295,7 +290,17 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "REVENUE",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 11,
       "category": null
     },
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 11,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "STRATEGY",
       "count": 10,
       "category": null
     }
