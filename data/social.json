@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T11:51:01.441Z",
+  "updated_at": "2026-08-16T12:11:26.153Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 32,
+      "news_count_24h": 33,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 50,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 60,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 18,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,7 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 38,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 33,
       "category": null
     },
     {
@@ -195,13 +200,8 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 28,
+      "count": 27,
       "category": "ETF"
     },
     {
@@ -210,14 +210,19 @@
       "category": null
     },
     {
+      "word": "STAKE",
+      "count": 23,
+      "category": "ステーキング"
+    },
+    {
       "word": "BANK",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "STAKE",
+      "word": "MILLION",
       "count": 22,
-      "category": "ステーキング"
+      "category": null
     },
     {
       "word": "BILLION",
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "TRADING",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -250,17 +250,17 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 16,
       "category": null
     },
     {
       "word": "SOLANA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 15,
       "category": null
     },
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 14,
       "category": null
@@ -295,8 +290,8 @@
       "category": null
     },
     {
-      "word": "SHARES",
-      "count": 13,
+      "word": "REVENUE",
+      "count": 14,
       "category": null
     },
     {
@@ -316,6 +311,11 @@
     },
     {
       "word": "IPO",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "SHARES",
       "count": 12,
       "category": null
     },
