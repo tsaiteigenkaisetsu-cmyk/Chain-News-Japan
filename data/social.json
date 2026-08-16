@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T20:32:59.388Z",
+  "updated_at": "2026-08-16T20:52:09.887Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 46,
+      "news_count_24h": 25,
+      "hype_score": 44,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 3
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -200,27 +200,27 @@
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 18,
+      "word": "TRUMP",
+      "count": 19,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "MILLION",
       "count": 16,
       "category": null
     },
     {
       "word": "AGAINST",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 15,
       "category": null
     },
@@ -235,11 +235,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 14,
-      "category": "価格"
-    },
-    {
       "word": "CEO",
       "count": 14,
       "category": null
@@ -250,27 +245,27 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "PRICE",
       "count": 13,
+      "category": "価格"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 12,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
       "word": "BANK",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 12,
       "category": null
     },
@@ -285,6 +280,11 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 11,
       "category": null
@@ -293,16 +293,6 @@
       "word": "TOKENIZED",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STAKE",
-      "count": 11,
-      "category": "ステーキング"
     },
     {
       "word": "SOLANA",
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "THAN",
+      "word": "FACES",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "SCORES",
       "count": 9,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
