@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-16T06:01:49.471Z",
+  "updated_at": "2026-08-16T06:53:58.652Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 28,
+      "news_count_24h": 31,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 67,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 4
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -235,18 +235,13 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 19,
+      "count": 20,
       "category": "価格"
     },
     {
-      "word": "STRATEGY",
-      "count": 18,
+      "word": "DATA",
+      "count": 20,
       "category": null
     },
     {
@@ -255,13 +250,18 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "WARNS",
       "count": 17,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "STRATEGY",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 16,
       "category": null
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "word": "WHAT",
-      "count": 14,
+      "count": 15,
       "category": null
     },
     {
