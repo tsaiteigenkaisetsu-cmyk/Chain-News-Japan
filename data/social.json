@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:21:14.974Z",
+  "updated_at": "2026-08-16T07:50:35.369Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 29,
+      "news_count_24h": 30,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 0,
+      "hype_score": 14,
       "buzz_rank": 6
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -220,17 +220,12 @@
       "category": "ステーキング"
     },
     {
-      "word": "MILLION",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 22,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "MILLION",
       "count": 21,
       "category": null
     },
@@ -240,8 +235,13 @@
       "category": "価格"
     },
     {
+      "word": "TRADING",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "DATA",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -290,14 +290,14 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 16,
-      "category": "規制"
-    },
-    {
       "word": "WHAT",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
     },
     {
       "word": "AUGUST",
