@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T17:39:48.451Z",
+  "updated_at": "2026-08-17T18:03:36.868Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 87,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 900,
+      "hype_score": 800,
       "buzz_rank": 13
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -201,17 +201,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "HORMUZ",
       "count": 21,
       "category": null
@@ -247,11 +252,6 @@
     {
       "word": "WEEK",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 20,
       "category": null
     },
     {
@@ -265,12 +265,22 @@
       "category": "価格"
     },
     {
-      "word": "STRAIT",
+      "word": "OIL",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 18,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "ACT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
       "count": 18,
       "category": null
     },
@@ -280,23 +290,18 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "DEAL",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 17,
       "category": null
     },
     {
       "word": "CONFLICT",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 15,
       "category": null
     },
     {
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "LAUNCHES",
       "count": 14,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "RATE",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 14,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
