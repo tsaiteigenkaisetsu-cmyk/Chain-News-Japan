@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T15:53:37.753Z",
+  "updated_at": "2026-08-17T16:11:29.272Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
+      "news_count_24h": 79,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 47,
+      "news_count_24h": 16,
+      "hype_score": 44,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -106,18 +106,18 @@
       "symbol": "LTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 200,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
+      "word": "AMID",
+      "count": 56,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 56,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 53,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 38,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -205,14 +205,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 27,
-      "category": "ETF"
-    },
-    {
       "word": "TRUMP",
       "count": 26,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 26,
+      "category": "ETF"
     },
     {
       "word": "DATA",
@@ -230,14 +230,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 21,
-      "category": "価格"
-    },
-    {
       "word": "WEEK",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 20,
+      "category": "価格"
     },
     {
       "word": "WHY",
@@ -265,12 +265,27 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "STRAIT",
       "count": 16,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "DEAL",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "HIT",
       "count": 15,
       "category": null
     },
@@ -280,32 +295,32 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "OIL",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 13,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "SALES",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "RATE",
       "count": 13,
       "category": null
     },
     {
       "word": "NVIDIA",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 13,
       "category": null
     },
@@ -317,21 +332,6 @@
     {
       "word": "HITS",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "PLANS",
-      "count": 12,
       "category": null
     }
   ],
