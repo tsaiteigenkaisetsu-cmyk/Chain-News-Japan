@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T11:13:12.515Z",
+  "updated_at": "2026-08-17T11:40:14.680Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
-      "buzz_rank": 5
+      "news_count_24h": 10,
+      "hype_score": 70,
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -45,15 +45,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 75,
       "buzz_rank": 8
     },
     {
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 53,
+      "count": 55,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 52,
       "category": null
     },
     {
@@ -225,18 +225,28 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 17,
+      "category": "価格"
+    },
+    {
       "word": "STOCK",
       "count": 16,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 16,
-      "category": "価格"
-    },
-    {
       "word": "CONFLICT",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 15,
       "category": null
     },
     {
@@ -252,16 +262,6 @@
     {
       "word": "WHY",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 14,
       "category": null
     },
     {
@@ -295,6 +295,26 @@
       "category": null
     },
     {
+      "word": "RATE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WORLD",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 12,
       "category": null
@@ -311,26 +331,6 @@
     },
     {
       "word": "HITS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WORLD",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TALKS",
       "count": 11,
       "category": null
     }
