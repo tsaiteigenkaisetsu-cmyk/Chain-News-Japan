@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-16T23:49:39.412Z",
+  "updated_at": "2026-08-17T00:25:07.711Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 27,
+      "news_count_24h": 34,
+      "hype_score": 29,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
+      "news_count_24h": 9,
+      "hype_score": 78,
       "buzz_rank": 4
     },
     {
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -191,31 +191,36 @@
     },
     {
       "word": "AMID",
-      "count": 34,
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 24,
       "category": "相場"
     },
     {
       "word": "ETF",
-      "count": 21,
+      "count": 22,
       "category": "ETF"
     },
     {
-      "word": "TRUMP",
+      "word": "MILLION",
       "count": 16,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "TRUMP",
       "count": 15,
       "category": null
     },
     {
       "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 13,
       "category": null
     },
@@ -232,6 +237,11 @@
     {
       "word": "AGAINST",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 12,
       "category": null
     },
     {
@@ -255,7 +265,7 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "OPENAI",
       "count": 11,
       "category": null
     },
@@ -270,32 +280,12 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 11,
-      "category": "価格"
-    },
-    {
-      "word": "DATA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
+      "word": "DEAL",
       "count": 10,
       "category": null
     },
     {
       "word": "BINANCE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 10,
       "category": null
     },
@@ -310,8 +300,23 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 10,
+      "category": "価格"
+    },
+    {
       "word": "WORLD",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 9,
       "category": null
     },
     {
@@ -320,17 +325,12 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "FACES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SCORES",
       "count": 9,
       "category": null
     }
