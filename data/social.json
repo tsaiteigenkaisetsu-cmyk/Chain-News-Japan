@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-17T04:02:26.441Z",
+  "updated_at": "2026-08-17T04:53:14.526Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 24,
+      "news_count_24h": 39,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 36,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 5
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 64,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -195,17 +195,22 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
+    },
+    {
       "word": "ETF",
       "count": 25,
       "category": "ETF"
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
+      "word": "TRUMP",
+      "count": 17,
+      "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "HORMUZ",
       "count": 16,
       "category": null
     },
@@ -215,13 +220,8 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "STRAIT",
-      "count": 14,
+      "count": 15,
       "category": null
     },
     {
@@ -230,13 +230,23 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 14,
+      "word": "CONFLICT",
+      "count": 13,
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "DATA",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
+    },
+    {
+      "word": "OPENAI",
+      "count": 12,
       "category": null
     },
     {
@@ -270,17 +280,7 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 11,
-      "category": "価格"
-    },
-    {
       "word": "BILLION",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 11,
       "category": null
     },
@@ -292,6 +292,11 @@
     {
       "word": "WARNS",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 10,
       "category": null
     },
     {
@@ -321,11 +326,6 @@
     },
     {
       "word": "MILITARY",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 9,
       "category": null
     },
