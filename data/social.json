@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T18:52:27.860Z",
+  "updated_at": "2026-08-17T19:18:21.868Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 92,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 38,
+      "news_count_24h": 22,
+      "hype_score": 36,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
-      "buzz_rank": 6
+      "news_count_24h": 14,
+      "hype_score": 7,
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 37,
+      "news_count_24h": 20,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 9
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 61,
+      "count": 63,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 43,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 36,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -216,13 +216,13 @@
     },
     {
       "word": "STRATEGY",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "GOLD",
       "count": 24,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "STOCK",
@@ -230,14 +230,19 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
       "word": "HORMUZ",
       "count": 23,
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 23,
-      "category": null
+      "word": "PRICE",
+      "count": 22,
+      "category": "価格"
     },
     {
       "word": "TREASURY",
@@ -253,11 +258,6 @@
       "word": "TENSIONS",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 21,
-      "category": "価格"
     },
     {
       "word": "WEEK",
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 18,
       "category": null
@@ -290,27 +295,22 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "CONFLICT",
       "count": 17,
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 16,
+      "word": "HIT",
+      "count": 17,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "JULY",
-      "count": 14,
+      "word": "BINANCE",
+      "count": 15,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 14,
+      "word": "NVIDIA",
+      "count": 15,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "BOND",
       "count": 14,
       "category": null
     }
