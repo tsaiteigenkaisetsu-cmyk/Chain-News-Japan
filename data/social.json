@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-17T20:03:29.252Z",
+  "updated_at": "2026-08-17T20:36:54.586Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 92,
-      "hype_score": 9,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -185,23 +185,23 @@
   ],
   "trend_words": [
     {
-      "word": "IRAN",
+      "word": "AMID",
       "count": 64,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "IRAN",
       "count": 63,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 45,
+      "count": 44,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 37,
+      "count": 35,
       "category": null
     },
     {
@@ -220,23 +220,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TREASURY",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
       "count": 24,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "GOLD",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 23,
       "category": null
     },
     {
@@ -245,17 +240,27 @@
       "category": "ETF"
     },
     {
-      "word": "HORMUZ",
+      "word": "PRICE",
+      "count": 23,
+      "category": "価格"
+    },
+    {
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "TENSIONS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 21,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "WEEK",
       "count": 21,
       "category": null
     },
@@ -265,27 +270,27 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "STRAIT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 18,
+      "count": 20,
       "category": null
     },
     {
       "word": "ACT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 18,
       "category": null
     },
@@ -295,13 +300,13 @@
       "category": null
     },
     {
-      "word": "CONFLICT",
+      "word": "HIT",
       "count": 17,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 17,
+      "word": "REVENUE",
+      "count": 16,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "LAUNCHES",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
