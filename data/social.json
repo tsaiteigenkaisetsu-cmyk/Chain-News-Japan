@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T22:11:17.030Z",
+  "updated_at": "2026-08-17T22:40:38.071Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 98,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 800,
+      "hype_score": 600,
       "buzz_rank": 13
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -106,16 +106,16 @@
       "symbol": "LTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 200,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 300,
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 27,
       "category": null
@@ -225,13 +230,8 @@
       "category": "ETF"
     },
     {
-      "word": "TREASURY",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -260,6 +260,11 @@
       "category": "価格"
     },
     {
+      "word": "HITS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 21,
       "category": null
@@ -276,11 +281,6 @@
     },
     {
       "word": "CONFLICT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 19,
       "category": null
     },
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 17,
       "category": null
@@ -322,11 +327,6 @@
     {
       "word": "HIT",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 16,
       "category": null
     },
     {
