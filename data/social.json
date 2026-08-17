@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T10:18:47.414Z",
+  "updated_at": "2026-08-17T10:53:02.446Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 58,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 70,
-      "buzz_rank": 6
+      "news_count_24h": 11,
+      "hype_score": 64,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -176,10 +176,10 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
@@ -191,41 +191,41 @@
     },
     {
       "word": "AMID",
-      "count": 45,
+      "count": 47,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 34,
+      "count": 35,
       "category": "相場"
     },
     {
       "word": "ETF",
-      "count": 25,
+      "count": 28,
       "category": "ETF"
     },
     {
       "word": "MILLION",
-      "count": 20,
+      "count": 23,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 18,
+      "count": 22,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 18,
+      "count": 20,
       "category": null
     },
     {
-      "word": "STRAIT",
+      "word": "PRICE",
+      "count": 16,
+      "category": "価格"
+    },
+    {
+      "word": "HORMUZ",
       "count": 16,
       "category": null
     },
@@ -235,14 +235,19 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 15,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 15,
-      "category": "価格"
+      "word": "GOLD",
+      "count": 14,
+      "category": null
     },
     {
       "word": "CEO",
@@ -250,22 +255,22 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STRAIT",
       "count": 14,
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "BILLION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "GOLD",
       "count": 13,
       "category": null
     },
@@ -280,12 +285,17 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 12,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "WARNS",
       "count": 12,
       "category": null
     },
@@ -305,32 +315,22 @@
       "category": null
     },
     {
+      "word": "WORLD",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "SAFEPAL",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "RATE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 11,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
