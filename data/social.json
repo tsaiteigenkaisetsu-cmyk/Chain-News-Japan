@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:59:05.921Z",
+  "updated_at": "2026-08-18T09:42:37.506Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 100,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 28,
+      "news_count_24h": 28,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 1100,
       "buzz_rank": 13
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 67,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 9
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 68,
+      "count": 72,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 50,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -220,8 +220,13 @@
       "category": "ETF"
     },
     {
-      "word": "DATA",
-      "count": 29,
+      "word": "HORMUZ",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 28,
       "category": null
     },
     {
@@ -230,8 +235,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 27,
+      "word": "DATA",
+      "count": 28,
       "category": null
     },
     {
@@ -245,8 +250,18 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "TENSIONS",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 24,
+      "category": "価格"
+    },
+    {
+      "word": "STRAIT",
+      "count": 24,
       "category": null
     },
     {
@@ -255,14 +270,14 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 24,
+      "word": "DEAL",
+      "count": 23,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
+      "word": "WHY",
+      "count": 22,
+      "category": null
     },
     {
       "word": "HITS",
@@ -280,23 +295,18 @@
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DEAL",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 19,
       "category": null
     },
     {
@@ -305,28 +315,18 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ACT",
+      "word": "HIT",
       "count": 18,
       "category": null
     },
     {
-      "word": "BOND",
+      "word": "OPENAI",
       "count": 18,
       "category": null
     },
     {
       "word": "CONFLICT",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 17,
       "category": null
     },
     {
