@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T02:50:02.742Z",
+  "updated_at": "2026-08-18T03:32:54.382Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
+      "news_count_24h": 101,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -191,12 +191,12 @@
     },
     {
       "word": "AMID",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 48,
+      "count": 47,
       "category": "相場"
     },
     {
@@ -225,18 +225,23 @@
       "category": "ETF"
     },
     {
+      "word": "GOLD",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 27,
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "TENSIONS",
       "count": 26,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 25,
+      "word": "HORMUZ",
+      "count": 24,
       "category": null
     },
     {
@@ -250,13 +255,8 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 22,
+      "count": 23,
       "category": "価格"
     },
     {
@@ -275,23 +275,28 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "STRAIT",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "RATE",
       "count": 19,
       "category": null
     },
     {
       "word": "OPENAI",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 18,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "ACT",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
