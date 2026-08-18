@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:12:04.558Z",
+  "updated_at": "2026-08-18T21:37:56.724Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 113,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
-      "count": 77,
-      "category": null
-    },
-    {
       "word": "IRAN",
       "count": 77,
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 76,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 55,
+      "count": 53,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "STOCK",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -250,14 +250,14 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 29,
+      "category": "規制"
+    },
+    {
       "word": "PRICE",
       "count": 29,
       "category": "価格"
-    },
-    {
-      "word": "SEC",
-      "count": 28,
-      "category": "規制"
     },
     {
       "word": "HITS",
@@ -285,6 +285,16 @@
       "category": null
     },
     {
+      "word": "ACT",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 26,
       "category": null
@@ -295,22 +305,17 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 25,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "LAUNCHES",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 24,
       "category": null
     },
@@ -325,11 +330,6 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "GOLD",
       "count": 23,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
