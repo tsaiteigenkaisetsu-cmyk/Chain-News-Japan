@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T19:46:22.173Z",
+  "updated_at": "2026-08-18T19:59:55.967Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 35,
+      "news_count_24h": 24,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 28,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 9
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,27 +186,32 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 76,
+      "count": 77,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 72,
+      "count": 74,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 50,
+      "count": 51,
       "category": "相場"
     },
     {
       "word": "TREASURY",
-      "count": 39,
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 38,
       "category": null
     },
     {
@@ -215,18 +220,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 37,
+      "word": "DATA",
+      "count": 36,
       "category": null
     },
     {
       "word": "STRATEGY",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -255,6 +255,11 @@
       "category": "価格"
     },
     {
+      "word": "OIL",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 28,
       "category": null
@@ -270,8 +275,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 27,
+      "word": "HIT",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 26,
       "category": null
     },
     {
@@ -295,18 +305,18 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BOND",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "REVENUE",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 23,
       "category": null
     },
     {
@@ -315,24 +325,14 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "GOLD",
+      "word": "ACT",
       "count": 22,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 21,
+      "count": 22,
       "category": "規制"
-    },
-    {
-      "word": "TALKS",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
