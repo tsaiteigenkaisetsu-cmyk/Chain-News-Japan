@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:18:59.732Z",
+  "updated_at": "2026-08-18T07:11:13.914Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
+      "news_count_24h": 105,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 48,
+      "count": 49,
       "category": "相場"
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "STRATEGY",
       "count": 27,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 26,
+      "word": "GOLD",
+      "count": 27,
       "category": null
     },
     {
@@ -255,17 +255,32 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 23,
       "category": "価格"
     },
     {
-      "word": "BILLION",
+      "word": "RATE",
       "count": 22,
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "WEEK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -280,27 +295,12 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "STRAIT",
       "count": 20,
       "category": null
     },
     {
       "word": "OPENAI",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 20,
       "category": null
     },
@@ -312,6 +312,11 @@
     {
       "word": "CONFLICT",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 17,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "HIT",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "BOND",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
