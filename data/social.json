@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T14:44:26.682Z",
+  "updated_at": "2026-08-19T15:13:35.893Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 97,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 42,
+      "news_count_24h": 23,
+      "hype_score": 43,
       "buzz_rank": 3
     },
     {
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 550,
+      "hype_score": 350,
       "buzz_rank": 11
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 8,
+      "hype_score": 50,
       "buzz_rank": 7
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,23 +186,23 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 80,
+      "count": 79,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 68,
+      "count": 66,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 46,
+      "category": "規制"
     },
     {
       "word": "TRUMP",
       "count": 46,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 45,
-      "category": "規制"
     },
     {
       "word": "TREASURY",
@@ -211,8 +211,13 @@
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 39,
       "category": "相場"
+    },
+    {
+      "word": "MILLION",
+      "count": 37,
+      "category": null
     },
     {
       "word": "STOCK",
@@ -230,18 +235,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
@@ -250,8 +245,18 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -265,17 +270,12 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "REVENUE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
       "count": 26,
       "category": null
     },
@@ -295,12 +295,7 @@
       "category": null
     },
     {
-      "word": "RULES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ACT",
+      "word": "HORMUZ",
       "count": 25,
       "category": null
     },
@@ -310,13 +305,13 @@
       "category": "価格"
     },
     {
-      "word": "STRAIT",
+      "word": "ACT",
       "count": 24,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 24,
+      "word": "CEO",
+      "count": 23,
       "category": null
     },
     {
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 22,
+      "word": "STRAIT",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 23,
       "category": null
     }
   ],
