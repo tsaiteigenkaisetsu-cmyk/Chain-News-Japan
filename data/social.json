@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T23:31:42.365Z",
+  "updated_at": "2026-08-19T23:51:48.969Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 109,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 25,
+      "news_count_24h": 29,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -205,13 +205,13 @@
       "category": "規制"
     },
     {
-      "word": "TREASURY",
+      "word": "STOCK",
       "count": 39,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 38,
+      "word": "TREASURY",
+      "count": 39,
       "category": null
     },
     {
@@ -255,12 +255,12 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 28,
+      "word": "BILLION",
+      "count": 27,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "IPO",
       "count": 27,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
