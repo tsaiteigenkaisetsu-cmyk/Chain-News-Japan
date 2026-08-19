@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T10:39:31.697Z",
+  "updated_at": "2026-08-19T11:02:19.274Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
+      "news_count_24h": 101,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 4,
+      "news_count_24h": 29,
+      "hype_score": 3,
       "buzz_rank": 2
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 367,
+      "news_count_24h": 2,
+      "hype_score": 550,
       "buzz_rank": 11
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 8
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -191,28 +191,38 @@
     },
     {
       "word": "IRAN",
-      "count": 74,
+      "count": 73,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 52,
+      "count": 50,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 43,
       "category": "相場"
     },
     {
-      "word": "STOCK",
+      "word": "DEAL",
       "count": 39,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STOCK",
       "count": 38,
       "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 37,
+      "category": "規制"
     },
     {
       "word": "TREASURY",
@@ -220,28 +230,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 36,
-      "category": "規制"
-    },
-    {
       "word": "STRATEGY",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "TENSIONS",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 32,
       "category": null
     },
     {
@@ -255,8 +255,8 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 28,
+      "word": "LAUNCHES",
+      "count": 27,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "HORMUZ",
       "count": 27,
       "category": null
     },
@@ -280,17 +280,27 @@
       "category": "価格"
     },
     {
+      "word": "RIPPLE",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "ACT",
       "count": 26,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "OIL",
       "count": 26,
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "REVENUE",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 25,
       "category": null
     },
@@ -300,38 +310,28 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 24,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "HITS",
       "count": 24,
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "RULES",
       "count": 22,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 21,
+      "word": "AUGUST",
+      "count": 22,
       "category": null
     }
   ],
