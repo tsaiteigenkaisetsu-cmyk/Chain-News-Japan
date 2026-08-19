@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-19T16:04:36.955Z",
+  "updated_at": "2026-08-19T16:41:13.257Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 98,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 40,
+      "news_count_24h": 26,
+      "hype_score": 38,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -45,15 +45,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 400,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 8
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -106,16 +106,16 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 25,
       "buzz_rank": 9
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,47 +186,42 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 79,
+      "count": 76,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 65,
+      "count": 62,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 46,
+      "count": 45,
       "category": "規制"
     },
     {
-      "word": "TRUMP",
-      "count": 46,
+      "word": "TREASURY",
+      "count": 42,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 44,
+      "word": "TRUMP",
+      "count": 41,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 39,
       "category": "相場"
     },
     {
       "word": "STOCK",
-      "count": 37,
+      "count": 39,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 36,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 35,
       "category": null
     },
     {
@@ -236,12 +231,12 @@
     },
     {
       "word": "BOND",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 30,
+      "word": "DATA",
+      "count": 32,
       "category": null
     },
     {
@@ -250,9 +245,29 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 27,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 27,
+      "category": "価格"
     },
     {
       "word": "RIPPLE",
@@ -260,42 +275,12 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
-    },
-    {
       "word": "MARKETS",
       "count": 26,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "BANK",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
       "count": 25,
       "category": null
     },
@@ -305,33 +290,48 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "RULES",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HIT",
+      "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "YIELDS",
+      "word": "HITS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 22,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "HIT",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 21,
       "category": null
     }
   ],
