@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:34:21.453Z",
+  "updated_at": "2026-08-19T11:55:03.872Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 102,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 8,
+      "hype_score": 50,
       "buzz_rank": 7
     },
     {
@@ -186,33 +186,33 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 76,
+      "count": 75,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 49,
+      "count": 47,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 42,
       "category": "相場"
     },
     {
-      "word": "DEAL",
+      "word": "SEC",
       "count": 39,
-      "category": null
+      "category": "規制"
     },
     {
-      "word": "SEC",
+      "word": "DEAL",
       "count": 38,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "STOCK",
@@ -231,12 +231,7 @@
     },
     {
       "word": "DATA",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -250,22 +245,27 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "IPO",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 27,
+      "count": 30,
       "category": null
     },
     {
       "word": "LAUNCHES",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 27,
       "category": null
     },
@@ -280,23 +280,13 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "HORMUZ",
       "count": 26,
       "category": null
     },
     {
       "word": "OIL",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 26,
-      "category": "価格"
-    },
-    {
-      "word": "STRAIT",
-      "count": 25,
       "category": null
     },
     {
@@ -310,14 +300,14 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "STRAIT",
       "count": 24,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "PRICE",
       "count": 24,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "RULES",
@@ -327,6 +317,16 @@
     {
       "word": "AUGUST",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 22,
       "category": null
     },
     {
