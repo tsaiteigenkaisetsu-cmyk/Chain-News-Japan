@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19T21:34:13.080Z",
+  "updated_at": "2026-08-19T21:54:53.134Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 13,
+      "news_count_24h": 103,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 28,
+      "news_count_24h": 26,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 100,
+      "news_count_24h": 5,
+      "hype_score": 80,
       "buzz_rank": 9
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "IRAN",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -210,7 +210,7 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "STOCK",
       "count": 38,
       "category": null
     },
@@ -220,7 +220,7 @@
       "category": "相場"
     },
     {
-      "word": "STOCK",
+      "word": "MILLION",
       "count": 37,
       "category": null
     },
@@ -241,7 +241,7 @@
     },
     {
       "word": "PRICE",
-      "count": 29,
+      "count": 30,
       "category": "価格"
     },
     {
@@ -265,8 +265,8 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 26,
+      "word": "TRADING",
+      "count": 25,
       "category": null
     },
     {
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TENSIONS",
       "count": 25,
       "category": null
     },
@@ -295,7 +295,17 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "LAUNCHES",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RULES",
       "count": 23,
       "category": null
     },
@@ -305,17 +315,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RULES",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
