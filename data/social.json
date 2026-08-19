@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T11:02:19.274Z",
+  "updated_at": "2026-08-19T11:34:21.453Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 43,
+      "news_count_24h": 24,
+      "hype_score": 42,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 8
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 79,
+      "count": 76,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 73,
+      "count": 71,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -210,6 +210,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 38,
+      "category": "規制"
+    },
+    {
       "word": "STOCK",
       "count": 38,
       "category": null
@@ -220,38 +225,43 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 37,
-      "category": "規制"
-    },
-    {
       "word": "TREASURY",
       "count": 37,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
+      "word": "DATA",
       "count": 33,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 32,
+      "word": "STRATEGY",
+      "count": 33,
       "category": null
     },
     {
       "word": "BOND",
-      "count": 31,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 32,
       "category": null
     },
     {
       "word": "IPO",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 27,
       "category": null
     },
     {
@@ -270,21 +280,6 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 27,
-      "category": "価格"
-    },
-    {
-      "word": "RIPPLE",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "ACT",
       "count": 26,
       "category": null
@@ -295,17 +290,22 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 26,
+      "category": "価格"
+    },
+    {
+      "word": "STRAIT",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 25,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
       "count": 25,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RULES",
       "count": 23,
       "category": null
     },
     {
-      "word": "RULES",
-      "count": 22,
+      "word": "AUGUST",
+      "count": 23,
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "PROPOSES",
       "count": 22,
       "category": null
     }
