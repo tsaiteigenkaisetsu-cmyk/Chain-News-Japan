@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T02:56:00.037Z",
+  "updated_at": "2026-08-19T03:40:03.861Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 31,
+      "news_count_24h": 27,
+      "hype_score": 30,
       "buzz_rank": 3
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 9
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -185,12 +185,12 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
+      "word": "IRAN",
       "count": 80,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "AMID",
       "count": 80,
       "category": null
     },
@@ -230,24 +230,19 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 35,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "SEC",
-      "count": 33,
+      "count": 34,
       "category": "規制"
-    },
-    {
-      "word": "HORMUZ",
-      "count": 32,
-      "category": null
     },
     {
       "word": "HITS",
@@ -255,14 +250,14 @@
       "category": null
     },
     {
-      "word": "BOND",
-      "count": 30,
+      "word": "HORMUZ",
+      "count": 31,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "BOND",
       "count": 30,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "HIT",
@@ -275,17 +270,22 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 29,
+      "category": "価格"
+    },
+    {
       "word": "IPO",
       "count": 28,
       "category": null
     },
     {
-      "word": "STRAIT",
-      "count": 28,
+      "word": "LAUNCHES",
+      "count": 27,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "STRAIT",
       "count": 27,
       "category": null
     },
@@ -315,12 +315,12 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "BANK",
       "count": 24,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "PLANS",
       "count": 24,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
