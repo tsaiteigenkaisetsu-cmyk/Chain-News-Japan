@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T17:53:12.099Z",
+  "updated_at": "2026-08-20T18:17:46.162Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 118,
       "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 17,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
       "buzz_rank": 4
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -191,17 +191,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 68,
+      "count": 67,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 58,
       "category": "相場"
     },
     {
       "word": "TREASURY",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -220,18 +220,13 @@
       "category": "規制"
     },
     {
-      "word": "ACT",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 37,
       "category": "価格"
     },
     {
-      "word": "CLARITY",
-      "count": 35,
+      "word": "ACT",
+      "count": 37,
       "category": null
     },
     {
@@ -240,12 +235,27 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 29,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "IPO",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
       "count": 28,
       "category": null
     },
@@ -260,13 +270,18 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 27,
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 27,
+      "word": "SINCE",
+      "count": 26,
       "category": null
     },
     {
@@ -275,24 +290,9 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 25,
       "category": "相場"
-    },
-    {
-      "word": "SINCE",
-      "count": 24,
-      "category": null
     },
     {
       "word": "RIPPLE",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "SHORT",
       "count": 20,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "WARNS",
       "count": 20,
       "category": null
     }
