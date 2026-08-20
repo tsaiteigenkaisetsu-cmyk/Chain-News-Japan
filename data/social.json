@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-20T21:58:15.433Z",
+  "updated_at": "2026-08-20T22:25:23.916Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 16,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
-      "hype_score": 15,
+      "news_count_24h": 104,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 30,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 0,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 58,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 41,
       "category": "価格"
     },
     {
@@ -230,14 +230,14 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "BILLION",
       "count": 31,
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "CFTC",
       "count": 30,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "RALLY",
@@ -250,14 +250,14 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "STOCK",
       "count": 30,
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "SEC",
       "count": 29,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "DATA",
@@ -266,11 +266,6 @@
     },
     {
       "word": "CEO",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
       "count": 28,
       "category": null
     },
@@ -285,13 +280,18 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 25,
+      "word": "HYPERLIQUID",
+      "count": 27,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 24,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 25,
       "category": null
     },
     {
@@ -300,12 +300,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "NEXT",
+      "word": "ECONOMIC",
       "count": 21,
       "category": null
     },
@@ -315,8 +310,18 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 20,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 20,
       "category": null
     }
