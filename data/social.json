@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T22:25:23.916Z",
+  "updated_at": "2026-08-20T22:52:21.014Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 14,
+      "news_count_24h": 102,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 23,
+      "news_count_24h": 28,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 10,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -185,12 +185,12 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
-      "count": 68,
+      "word": "TRUMP",
+      "count": 67,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "AMID",
       "count": 67,
       "category": null
     },
@@ -206,12 +206,12 @@
     },
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 47,
+      "count": 44,
       "category": null
     },
     {
@@ -255,18 +255,18 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 29,
-      "category": "規制"
-    },
-    {
       "word": "DATA",
       "count": 28,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "SEC",
       "count": 28,
+      "category": "規制"
+    },
+    {
+      "word": "CEO",
+      "count": 27,
       "category": null
     },
     {
@@ -285,18 +285,23 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 25,
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 21,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "FED",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 20,
       "category": null
     }
