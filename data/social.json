@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T16:57:16.629Z",
+  "updated_at": "2026-08-20T17:24:36.801Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 116,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 17,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 567,
+      "hype_score": 533,
       "buzz_rank": 13
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 6,
+      "hype_score": 83,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 7
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 65,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -206,22 +206,22 @@
     },
     {
       "word": "IRAN",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 44,
+      "count": 45,
       "category": "規制"
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "STOCK",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -240,12 +240,7 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "BOND",
+      "word": "SOLANA",
       "count": 29,
       "category": null
     },
@@ -255,7 +250,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "BOND",
       "count": 28,
       "category": null
     },
@@ -265,12 +260,22 @@
       "category": null
     },
     {
+      "word": "DEAL",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "RULES",
       "count": 26,
       "category": null
     },
@@ -280,19 +285,14 @@
       "category": null
     },
     {
-      "word": "RULES",
+      "word": "RALLY",
       "count": 25,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "SINCE",
       "count": 24,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 24,
-      "category": "相場"
     },
     {
       "word": "RIPPLE",
@@ -310,18 +310,18 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 23,
+      "word": "TOKENIZED",
+      "count": 22,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "WHY",
       "count": 21,
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 20,
+      "word": "LAUNCHES",
+      "count": 21,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "REVENUE",
       "count": 19,
       "category": null
     }
