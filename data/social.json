@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:23:07.442Z",
+  "updated_at": "2026-08-20T15:54:26.434Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 114,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 7
     },
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 80,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 66,
+      "count": 68,
       "category": null
     },
     {
@@ -196,13 +196,18 @@
     },
     {
       "word": "TREASURY",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 46,
+      "count": 47,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 46,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -210,33 +215,33 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 45,
-      "category": "相場"
-    },
-    {
       "word": "SEC",
-      "count": 44,
+      "count": 45,
       "category": "規制"
     },
     {
       "word": "ACT",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 33,
+      "count": 36,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 34,
       "category": "価格"
     },
     {
+      "word": "CLARITY",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 32,
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 30,
       "category": null
     },
     {
@@ -245,12 +250,12 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 28,
+      "word": "IPO",
+      "count": 29,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "HYPERLIQUID",
       "count": 28,
       "category": null
     },
@@ -260,12 +265,12 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 28,
+      "word": "BOND",
+      "count": 27,
       "category": null
     },
     {
-      "word": "BOND",
+      "word": "DEAL",
       "count": 26,
       "category": null
     },
@@ -275,27 +280,12 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "RULES",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
@@ -305,7 +295,22 @@
       "category": "相場"
     },
     {
+      "word": "RIPPLE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "CFTC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 21,
       "category": null
     },
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "COINBASE",
       "count": 20,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "MARKETS",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 19,
       "category": null
     }
   ],
