@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:06:22.113Z",
+  "updated_at": "2026-08-20T10:42:12.744Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 118,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -191,23 +191,23 @@
     },
     {
       "word": "TRUMP",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 50,
+      "count": 51,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 44,
+      "category": "規制"
     },
     {
       "word": "TREASURY",
       "count": 44,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 43,
-      "category": "規制"
     },
     {
       "word": "MILLION",
@@ -221,17 +221,22 @@
     },
     {
       "word": "STOCK",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "ACT",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 30,
       "category": null
     },
     {
@@ -240,12 +245,32 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "CLARITY",
       "count": 29,
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "IPO",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 28,
+      "category": "価格"
+    },
+    {
+      "word": "BILLION",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
       "count": 26,
       "category": null
     },
@@ -255,22 +280,12 @@
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "TOKENIZED",
       "count": 25,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
@@ -285,12 +300,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -300,37 +310,27 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "NETWORK",
+      "word": "TENSIONS",
       "count": 21,
       "category": null
     },
     {
-      "word": "TALKS",
+      "word": "CFTC",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 20,
       "category": null
     },
     {
       "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRADE",
       "count": 20,
       "category": null
     }
