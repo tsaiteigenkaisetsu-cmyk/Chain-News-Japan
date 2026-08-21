@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:41:45.787Z",
+  "updated_at": "2026-08-21T23:00:49.500Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 122,
+      "news_count_24h": 120,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "BOND",
       "count": 25,
       "category": null
@@ -267,6 +262,11 @@
     {
       "word": "NEXT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -306,13 +306,8 @@
     },
     {
       "word": "SEC",
-      "count": 22,
+      "count": 21,
       "category": "規制"
-    },
-    {
-      "word": "RECORD",
-      "count": 22,
-      "category": null
     },
     {
       "word": "WARNS",
@@ -333,6 +328,11 @@
       "word": "CEO",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
