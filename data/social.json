@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T22:09:51.107Z",
+  "updated_at": "2026-08-21T22:41:45.787Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 40,
-      "hype_score": 15,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 11,
+      "news_count_24h": 22,
+      "hype_score": 9,
       "buzz_rank": 4
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
-      "count": 70,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 68,
       "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 67,
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -205,18 +205,18 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 50,
-      "category": null
-    },
-    {
       "word": "TREASURY",
       "count": 49,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "IRAN",
       "count": 48,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 47,
       "category": "相場"
     },
     {
@@ -241,6 +241,11 @@
     },
     {
       "word": "SINCE",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 30,
       "category": null
     },
@@ -250,8 +255,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 27,
+      "word": "STOCK",
+      "count": 25,
       "category": null
     },
     {
@@ -266,26 +271,16 @@
     },
     {
       "word": "ETFS",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
       "count": 23,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "HYPERLIQUID",
       "count": 23,
       "category": null
     },
@@ -295,17 +290,12 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
-      "word": "WARNS",
-      "count": 22,
+      "word": "HITS",
+      "count": 23,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "IPO",
       "count": 22,
       "category": null
     },
@@ -315,7 +305,17 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "SEC",
+      "count": 22,
+      "category": "規制"
+    },
+    {
+      "word": "RECORD",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 21,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": "ETF"
     },
     {
-      "word": "DEBT",
+      "word": "CEO",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
