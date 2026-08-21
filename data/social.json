@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T23:00:49.500Z",
+  "updated_at": "2026-08-21T23:32:20.775Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 80,
+      "hype_score": 220,
       "buzz_rank": 11
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 53,
+      "count": 51,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 48,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 47,
       "category": "相場"
+    },
+    {
+      "word": "IRAN",
+      "count": 46,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -245,13 +245,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "ACT",
       "count": 30,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 30,
+      "word": "SOLANA",
+      "count": 29,
       "category": null
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "ETFS",
       "count": 24,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 24,
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
@@ -295,34 +295,19 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 22,
+      "category": "規制"
+    },
+    {
       "word": "IPO",
       "count": 22,
       "category": null
     },
     {
       "word": "FUND",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 21,
-      "category": "規制"
-    },
-    {
-      "word": "WARNS",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ECONOMIC",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
     },
     {
       "word": "CEO",
@@ -333,6 +318,21 @@
       "word": "RIPPLE",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SHORT",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
