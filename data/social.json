@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:04:14.387Z",
+  "updated_at": "2026-08-21T07:02:09.879Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 100,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 23,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 29,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
+      "news_count_24h": 4,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -133,17 +133,17 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 17,
       "buzz_rank": 10
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 61,
       "category": "相場"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "MILLION",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
@@ -221,17 +221,12 @@
     },
     {
       "word": "RALLY",
-      "count": 36,
+      "count": 37,
       "category": "相場"
     },
     {
       "word": "ACT",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 33,
       "category": null
     },
     {
@@ -241,27 +236,32 @@
     },
     {
       "word": "BILLION",
-      "count": 31,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 32,
       "category": null
     },
     {
       "word": "HYPERLIQUID",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 29,
       "category": null
     },
     {
       "word": "BOND",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 27,
       "category": null
     },
     {
@@ -275,23 +275,28 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "DEAL",
       "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SINCE",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 23,
       "category": null
     },
     {
@@ -301,6 +306,16 @@
     },
     {
       "word": "FUND",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "SHORT",
       "count": 22,
       "category": null
     },
@@ -317,21 +332,6 @@
     {
       "word": "NEXT",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 21,
       "category": null
     }
   ],
