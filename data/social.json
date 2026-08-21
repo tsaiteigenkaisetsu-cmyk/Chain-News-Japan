@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-21T13:52:39.555Z",
+  "updated_at": "2026-08-21T14:21:34.351Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
-      "hype_score": 13,
+      "news_count_24h": 108,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 9,
+      "news_count_24h": 25,
+      "hype_score": 8,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
+      "news_count_24h": 8,
+      "hype_score": 63,
       "buzz_rank": 7
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 133,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -190,18 +190,18 @@
       "category": "相場"
     },
     {
+      "word": "AMID",
+      "count": 66,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 66,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 64,
-      "category": null
-    },
-    {
       "word": "TREASURY",
-      "count": 61,
+      "count": 59,
       "category": null
     },
     {
@@ -225,28 +225,28 @@
       "category": "相場"
     },
     {
-      "word": "BILLION",
+      "word": "CFTC",
       "count": 37,
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "ACT",
       "count": 36,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 35,
+      "word": "BILLION",
+      "count": 36,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
@@ -255,12 +255,17 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "SINCE",
       "count": 27,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "HITS",
       "count": 26,
       "category": null
     },
@@ -276,12 +281,7 @@
     },
     {
       "word": "STOCK",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -290,27 +290,27 @@
       "category": null
     },
     {
+      "word": "FUND",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 23,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
+      "word": "SURGE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 22,
       "category": null
     },
     {
       "word": "NEXT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SURGE",
       "count": 22,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "FUND",
+      "word": "WHY",
       "count": 22,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RECORD",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
