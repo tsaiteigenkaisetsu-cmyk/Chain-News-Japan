@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T15:42:18.561Z",
+  "updated_at": "2026-08-21T16:04:44.576Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 109,
       "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 19,
+      "news_count_24h": 37,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
+      "news_count_24h": 8,
+      "hype_score": 63,
       "buzz_rank": 7
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 8
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "TRUMP",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
@@ -196,22 +196,27 @@
     },
     {
       "word": "AMID",
-      "count": 63,
+      "count": 65,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 55,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 51,
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 46,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
-      "count": 48,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -220,13 +225,8 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 45,
-      "category": "相場"
-    },
-    {
       "word": "CFTC",
-      "count": 37,
+      "count": 39,
       "category": null
     },
     {
@@ -251,22 +251,22 @@
     },
     {
       "word": "HYPERLIQUID",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "SINCE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
       "word": "SHORT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 24,
       "category": null
     },
     {
@@ -290,8 +290,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "DEAL",
+      "count": 23,
       "category": null
     },
     {
@@ -310,8 +310,8 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 22,
+      "word": "CEO",
+      "count": 21,
       "category": null
     },
     {
@@ -320,7 +320,7 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "DATA",
       "count": 21,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "RIPPLE",
-      "count": 20,
+      "word": "TRADING",
+      "count": 21,
       "category": null
     }
   ],
