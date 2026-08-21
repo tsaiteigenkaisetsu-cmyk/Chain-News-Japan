@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T14:21:34.351Z",
+  "updated_at": "2026-08-21T14:59:08.500Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 109,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 21,
+      "news_count_24h": 35,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 29,
       "hype_score": 3,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
+      "news_count_24h": 7,
+      "hype_score": 71,
       "buzz_rank": 7
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,13 +186,8 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 69,
+      "count": 68,
       "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 66,
-      "category": null
     },
     {
       "word": "TRUMP",
@@ -200,18 +195,23 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 64,
+      "category": null
+    },
+    {
       "word": "TREASURY",
-      "count": 59,
+      "count": 58,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 48,
+      "count": 47,
       "category": "価格"
     },
     {
@@ -246,17 +246,12 @@
     },
     {
       "word": "SOLANA",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "HYPERLIQUID",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 27,
+      "count": 31,
       "category": null
     },
     {
@@ -270,13 +265,28 @@
       "category": null
     },
     {
-      "word": "SHORT",
-      "count": 26,
+      "word": "BOND",
+      "count": 25,
       "category": null
     },
     {
-      "word": "BOND",
+      "word": "SHORT",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "FUND",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 24,
       "category": null
     },
     {
@@ -290,22 +300,12 @@
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "SURGE",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RECORD",
       "count": 22,
       "category": null
     },
@@ -315,23 +315,23 @@
       "category": null
     },
     {
-      "word": "ECONOMIC",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DEAL",
       "count": 22,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 22,
+      "word": "ECONOMIC",
+      "count": 21,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "WHY",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 20,
       "category": null
     }
   ],
