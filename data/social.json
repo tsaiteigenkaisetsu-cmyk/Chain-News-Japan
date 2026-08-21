@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T00:00:17.985Z",
+  "updated_at": "2026-08-21T01:51:09.010Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 106,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 26,
-      "buzz_rank": 3
+      "news_count_24h": 30,
+      "hype_score": 23,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 4,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 11
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 200,
+      "news_count_24h": 3,
+      "hype_score": 133,
       "buzz_rank": 13
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
-      "word": "TRUMP",
-      "count": 68,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 68,
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 67,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 59,
+      "count": 60,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MILLION",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
@@ -220,19 +220,24 @@
       "category": "価格"
     },
     {
+      "word": "CFTC",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "ACT",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "RALLY",
       "count": 31,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -240,18 +245,13 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 30,
-      "category": "相場"
-    },
-    {
-      "word": "BOND",
-      "count": 30,
+      "word": "STOCK",
+      "count": 29,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
+      "word": "DATA",
+      "count": 28,
       "category": null
     },
     {
@@ -260,23 +260,18 @@
       "category": "規制"
     },
     {
-      "word": "DATA",
+      "word": "BOND",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
       "count": 27,
       "category": null
     },
     {
       "word": "SOLANA",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
-      "count": 26,
       "category": null
     },
     {
@@ -290,18 +285,33 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 24,
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ECONOMIC",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 21,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "WHY",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 19,
       "category": null
     }
   ],
