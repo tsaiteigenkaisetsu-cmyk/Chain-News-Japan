@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:53:27.478Z",
+  "updated_at": "2026-08-21T22:09:51.107Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 121,
+      "news_count_24h": 122,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
+      "news_count_24h": 40,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
+      "news_count_24h": 9,
+      "hype_score": 56,
       "buzz_rank": 7
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 9
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -196,12 +196,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 51,
+      "count": 53,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -225,33 +225,33 @@
       "category": "価格"
     },
     {
-      "word": "CFTC",
+      "word": "BILLION",
       "count": 35,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "CFTC",
       "count": 34,
       "category": null
     },
     {
       "word": "CLARITY",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 29,
+      "count": 32,
       "category": null
     },
     {
       "word": "SINCE",
-      "count": 29,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 30,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -265,18 +265,18 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "ETFS",
       "count": 25,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 23,
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 24,
       "category": null
     },
     {
@@ -315,13 +315,13 @@
       "category": null
     },
     {
-      "word": "ECONOMIC",
+      "word": "IPO",
       "count": 21,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 20,
+      "word": "ECONOMIC",
+      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
