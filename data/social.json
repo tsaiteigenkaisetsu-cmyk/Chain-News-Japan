@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-22T13:59:07.370Z",
+  "updated_at": "2026-08-22T14:30:54.705Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 16,
+      "news_count_24h": 80,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 29,
+      "news_count_24h": 26,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
-      "buzz_rank": 4
+      "news_count_24h": 16,
+      "hype_score": 19,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 13,
+      "hype_score": 15,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -191,22 +191,22 @@
     },
     {
       "word": "MARKET",
-      "count": 65,
+      "count": 63,
       "category": "相場"
     },
     {
+      "word": "TREASURY",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "RALLY",
-      "count": 43,
+      "count": 42,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 43,
+      "count": 42,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 41,
       "category": "価格"
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "CLARITY",
       "count": 21,
       "category": null
@@ -272,6 +277,16 @@
     {
       "word": "NEXT",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "DEBT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
       "category": null
     },
     {
@@ -290,6 +305,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 19,
       "category": null
@@ -300,37 +320,17 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 19,
+      "word": "ANTHROPIC",
+      "count": 18,
       "category": null
     },
     {
-      "word": "DEBT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 19,
+      "word": "AGAINST",
+      "count": 18,
       "category": null
     },
     {
       "word": "END",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
