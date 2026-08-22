@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T17:37:01.734Z",
+  "updated_at": "2026-08-22T17:54:48.886Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 66,
       "hype_score": 18,
       "buzz_rank": 1
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -225,23 +225,23 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 28,
+      "category": "ETF"
+    },
+    {
       "word": "MILLION",
       "count": 28,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 27,
-      "category": "ETF"
-    },
-    {
       "word": "BILLION",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -260,16 +260,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TRADE",
       "count": 20,
       "category": null
@@ -277,6 +267,11 @@
     {
       "word": "BOND",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 19,
       "category": null
     },
     {
@@ -300,22 +295,27 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 19,
       "category": null
     },
     {
-      "word": "DEBT",
+      "word": "SINCE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 18,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 18,
+      "word": "WARNS",
+      "count": 17,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "CHAIN",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
