@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T05:06:09.745Z",
+  "updated_at": "2026-08-22T05:37:56.392Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 109,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 36,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 12,
+      "news_count_24h": 22,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 71,
+      "count": 70,
       "category": "相場"
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 47,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 47,
       "category": "価格"
@@ -218,11 +223,6 @@
       "word": "RALLY",
       "count": 46,
       "category": "相場"
-    },
-    {
-      "word": "TREASURY",
-      "count": 45,
-      "category": null
     },
     {
       "word": "SOLANA",
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 25,
       "category": null
@@ -267,16 +272,6 @@
     {
       "word": "BOND",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 24,
       "category": null
     },
     {
@@ -288,6 +283,16 @@
       "word": "STOCK",
       "count": 23,
       "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
     },
     {
       "word": "HYPERLIQUID",
@@ -310,27 +315,22 @@
       "category": null
     },
     {
+      "word": "SURGE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SURGES",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 21,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 21,
-      "category": "ETF"
-    },
-    {
-      "word": "SURGES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SHORT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
