@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-22T16:36:58.686Z",
+  "updated_at": "2026-08-22T16:56:24.773Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 70,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 35,
-      "buzz_rank": 2
+      "news_count_24h": 19,
+      "hype_score": 37,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 21,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 700,
+      "news_count_24h": 2,
+      "hype_score": 1050,
       "buzz_rank": 12
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 31,
+      "news_count_24h": 15,
+      "hype_score": 33,
       "buzz_rank": 5
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 11
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 62,
+      "count": 58,
       "category": "相場"
     },
     {
@@ -211,18 +211,18 @@
     },
     {
       "word": "IRAN",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 33,
+      "count": 36,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 33,
       "category": "価格"
+    },
+    {
+      "word": "SOLANA",
+      "count": 32,
+      "category": null
     },
     {
       "word": "MILLION",
@@ -246,7 +246,7 @@
     },
     {
       "word": "CFTC",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -260,12 +260,12 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 22,
+      "word": "TRADE",
+      "count": 21,
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "SINCE",
       "count": 21,
       "category": null
     },
@@ -276,11 +276,6 @@
     },
     {
       "word": "WEEK",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "DEBT",
       "count": 20,
       "category": null
     },
@@ -315,6 +310,11 @@
       "category": null
     },
     {
+      "word": "DEBT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 19,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "WHAT",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
