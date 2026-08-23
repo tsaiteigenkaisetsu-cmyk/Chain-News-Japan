@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T10:33:18.733Z",
+  "updated_at": "2026-08-23T10:53:33.923Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 27,
+      "news_count_24h": 32,
+      "hype_score": 28,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 2
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 75,
+      "hype_score": 50,
       "buzz_rank": 7
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 4
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 54,
+      "count": 53,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 34,
       "category": "相場"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "BILLION",
-      "count": 27,
+      "count": 25,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 26,
+      "count": 25,
       "category": "ETF"
     },
     {
@@ -230,9 +230,9 @@
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "PRICE",
       "count": 20,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "TENSIONS",
@@ -245,17 +245,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TRADE",
       "count": 19,
-      "category": "価格"
-    },
-    {
-      "word": "SINCE",
-      "count": 17,
       "category": null
     },
     {
       "word": "WARNS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "SINCE",
       "count": 17,
       "category": null
     },
@@ -270,22 +270,17 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "WEEK",
       "count": 16,
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 16,
+      "word": "CEO",
+      "count": 15,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "GOLD",
       "count": 15,
       "category": null
     },
@@ -298,6 +293,16 @@
       "word": "AGAINST",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 14,
+      "category": "セキュリティ"
     },
     {
       "word": "DEBT",
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 13,
-      "category": "セキュリティ"
-    },
-    {
       "word": "STOCK",
       "count": 13,
       "category": null
     },
     {
-      "word": "YEARS",
+      "word": "WHAT",
       "count": 13,
       "category": null
     }
