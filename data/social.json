@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T20:34:55.517Z",
+  "updated_at": "2026-08-23T20:54:17.651Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 31,
+      "news_count_24h": 28,
+      "hype_score": 32,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
+      "news_count_24h": 7,
+      "hype_score": 43,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "ETFS",
       "count": 11,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 11,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
