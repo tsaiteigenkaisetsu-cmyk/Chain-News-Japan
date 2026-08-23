@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:47:05.084Z",
+  "updated_at": "2026-08-23T05:14:46.645Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 28,
+      "news_count_24h": 37,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 4
+      "news_count_24h": 8,
+      "hype_score": 25,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 50,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 22,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 44,
+      "count": 43,
       "category": "相場"
     },
     {
@@ -200,22 +200,22 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 31,
-      "category": "相場"
-    },
-    {
       "word": "IRAN",
       "count": 30,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "RALLY",
+      "count": 30,
+      "category": "相場"
+    },
+    {
+      "word": "BILLION",
       "count": 29,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "TREASURY",
       "count": 29,
       "category": null
     },
@@ -230,14 +230,14 @@
       "category": "ETF"
     },
     {
-      "word": "SOLANA",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 26,
       "category": "価格"
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
+      "category": null
     },
     {
       "word": "SINCE",
@@ -250,23 +250,18 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADE",
       "count": 20,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "WEEK",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 18,
       "category": null
     },
     {
@@ -276,6 +271,11 @@
     },
     {
       "word": "DATA",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 17,
       "category": null
     },
@@ -320,14 +320,14 @@
       "category": null
     },
     {
-      "word": "DEBT",
+      "word": "AGAINST",
       "count": 15,
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 15,
-      "category": null
+      "word": "EXPLOIT",
+      "count": 14,
+      "category": "セキュリティ"
     },
     {
       "word": "STOCK",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
