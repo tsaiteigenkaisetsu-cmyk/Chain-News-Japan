@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:15:39.942Z",
+  "updated_at": "2026-08-23T09:44:50.270Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 2
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 38,
       "category": "相場"
     },
     {
@@ -210,32 +210,22 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 26,
-      "category": "相場"
-    },
-    {
       "word": "ETF",
       "count": 26,
       "category": "ETF"
     },
     {
-      "word": "TREASURY",
+      "word": "RALLY",
       "count": 25,
-      "category": null
+      "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 21,
-      "category": "価格"
+      "word": "TREASURY",
+      "count": 24,
+      "category": null
     },
     {
       "word": "HITS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 21,
       "category": null
     },
@@ -245,8 +235,23 @@
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "PRICE",
       "count": 20,
+      "category": "価格"
+    },
+    {
+      "word": "SOLANA",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 18,
       "category": null
     },
     {
@@ -255,23 +260,18 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "NEXT",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 15,
       "category": null
@@ -310,17 +305,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "CLARITY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
       "count": 14,
       "category": null
     },
@@ -330,7 +315,22 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "CUTS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "END",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
