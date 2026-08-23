@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-23T06:04:21.899Z",
+  "updated_at": "2026-08-23T06:56:09.252Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 37,
-      "hype_score": 32,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 25,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 4
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 57,
+      "count": 55,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 43,
+      "count": 41,
       "category": "相場"
     },
     {
@@ -205,11 +205,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 29,
-      "category": "相場"
-    },
-    {
       "word": "TREASURY",
       "count": 29,
       "category": null
@@ -220,8 +215,13 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 28,
+      "category": "相場"
+    },
+    {
       "word": "HITS",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -231,22 +231,17 @@
     },
     {
       "word": "PRICE",
-      "count": 25,
+      "count": 24,
       "category": "価格"
     },
     {
       "word": "SOLANA",
-      "count": 25,
+      "count": 22,
       "category": null
     },
     {
       "word": "SINCE",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -260,13 +255,13 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 18,
+      "word": "ETFS",
+      "count": 19,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 17,
+      "word": "NEXT",
+      "count": 18,
       "category": null
     },
     {
@@ -280,12 +275,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 17,
+      "word": "GOLD",
+      "count": 16,
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "DATA",
       "count": 16,
       "category": null
     },
@@ -305,12 +300,12 @@
       "category": null
     },
     {
-      "word": "SURGE",
+      "word": "DIGITAL",
       "count": 15,
       "category": null
     },
     {
-      "word": "DIGITAL",
+      "word": "MILLION",
       "count": 15,
       "category": null
     },
@@ -320,17 +315,22 @@
       "category": null
     },
     {
-      "word": "SUPPORT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WHAT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "SURGES",
       "count": 14,
       "category": null
     }
