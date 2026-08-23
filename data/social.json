@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T13:02:16.377Z",
+  "updated_at": "2026-08-23T13:39:35.266Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 21,
+      "news_count_24h": 32,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 9,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 17,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 1700,
+      "hype_score": 900,
       "buzz_rank": 15
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 9
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
@@ -215,18 +215,18 @@
       "category": "相場"
     },
     {
+      "word": "HITS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TREASURY",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -250,8 +250,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 17,
+      "word": "AGAINST",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "LEAGUE",
+      "count": 16,
       "category": null
     },
     {
@@ -270,19 +275,19 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "WARNS",
       "count": 16,
       "category": null
     },
     {
-      "word": "LEAGUE",
+      "word": "PREMIER",
       "count": 15,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "EXPLOIT",
       "count": 15,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "DEBT",
@@ -290,19 +295,14 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "WEEK",
       "count": 15,
       "category": null
     },
     {
-      "word": "PREMIER",
-      "count": 14,
+      "word": "DEAL",
+      "count": 15,
       "category": null
-    },
-    {
-      "word": "EXPLOIT",
-      "count": 14,
-      "category": "セキュリティ"
     },
     {
       "word": "CEO",
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "YEARS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "TEAM",
       "count": 13,
       "category": null
     },
     {
       "word": "UKRAINE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 13,
       "category": null
     }
