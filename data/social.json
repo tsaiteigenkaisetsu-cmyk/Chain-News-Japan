@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T16:10:30.612Z",
+  "updated_at": "2026-08-23T16:43:01.888Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 10
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -176,22 +176,22 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "AMID",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 23,
       "category": "ETF"
@@ -222,6 +217,11 @@
     {
       "word": "AGAINST",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
       "category": null
     },
     {
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 19,
-      "category": "相場"
-    },
-    {
       "word": "SOLANA",
       "count": 18,
       "category": null
@@ -253,6 +248,11 @@
       "word": "PRICE",
       "count": 17,
       "category": "価格"
+    },
+    {
+      "word": "RALLY",
+      "count": 17,
+      "category": "相場"
     },
     {
       "word": "TRADE",
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 14,
       "category": null
@@ -298,6 +293,11 @@
       "word": "EXPLOIT",
       "count": 14,
       "category": "セキュリティ"
+    },
+    {
+      "word": "GOLD",
+      "count": 14,
+      "category": null
     },
     {
       "word": "DEBT",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "TOKENIZED",
       "count": 13,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 13,
+      "word": "TEAM",
+      "count": 12,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 0,
-    "reddit_reused_previous": 20,
-    "reddit_mode": "cached"
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
+    "reddit_mode": "rss"
   }
 }
