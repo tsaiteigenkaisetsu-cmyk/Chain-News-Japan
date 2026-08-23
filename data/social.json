@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:35:59.305Z",
+  "updated_at": "2026-08-23T21:53:10.300Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 25,
       "category": "相場"
     },
     {
       "word": "TREASURY",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -215,22 +215,17 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
-    },
-    {
       "word": "PRICE",
       "count": 17,
       "category": "価格"
     },
     {
-      "word": "AGAINST",
+      "word": "ETF",
       "count": 17,
-      "category": null
+      "category": "ETF"
     },
     {
-      "word": "SOLANA",
+      "word": "AGAINST",
       "count": 17,
       "category": null
     },
@@ -246,6 +241,11 @@
     },
     {
       "word": "LEAGUE",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 16,
       "category": null
     },
@@ -268,6 +268,11 @@
       "word": "SINCE",
       "count": 13,
       "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 13,
+      "category": "セキュリティ"
     },
     {
       "word": "INVESTORS",
@@ -300,22 +305,7 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 12,
-      "category": "セキュリティ"
-    },
-    {
       "word": "ETFS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "BOND",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ZCASH",
       "count": 11,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "CANADA",
+      "word": "MILLION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "ZCASH",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
