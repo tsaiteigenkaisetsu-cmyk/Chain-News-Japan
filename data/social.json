@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:34:52.481Z",
+  "updated_at": "2026-08-23T19:50:55.589Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 20,
       "category": null
@@ -213,11 +218,6 @@
       "word": "ETF",
       "count": 19,
       "category": "ETF"
-    },
-    {
-      "word": "TREASURY",
-      "count": 19,
-      "category": null
     },
     {
       "word": "AGAINST",
@@ -265,6 +265,11 @@
       "category": "相場"
     },
     {
+      "word": "INVESTORS",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "ZCASH",
       "count": 13,
       "category": null
@@ -310,17 +315,12 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "DEBT",
+      "word": "BOND",
       "count": 11,
       "category": null
     },
     {
-      "word": "INVESTORS",
+      "word": "DEBT",
       "count": 11,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
