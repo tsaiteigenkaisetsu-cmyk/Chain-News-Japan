@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-23T14:00:07.987Z",
+  "updated_at": "2026-08-23T14:32:38.431Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 24,
+      "hype_score": 27,
       "buzz_rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 57,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 4
+      "news_count_24h": 8,
+      "hype_score": 25,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 900,
+      "hype_score": 1000,
       "buzz_rank": 15
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 9
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -126,16 +126,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -201,7 +201,7 @@
     },
     {
       "word": "IRAN",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -211,8 +211,13 @@
     },
     {
       "word": "RALLY",
-      "count": 22,
+      "count": 23,
       "category": "相場"
+    },
+    {
+      "word": "BILLION",
+      "count": 22,
+      "category": null
     },
     {
       "word": "TREASURY",
@@ -225,14 +230,14 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 20,
       "category": "価格"
+    },
+    {
+      "word": "LEAGUE",
+      "count": 18,
+      "category": null
     },
     {
       "word": "TRADE",
@@ -245,7 +250,7 @@
       "category": null
     },
     {
-      "word": "LEAGUE",
+      "word": "PREMIER",
       "count": 17,
       "category": null
     },
@@ -260,23 +265,13 @@
       "category": null
     },
     {
-      "word": "PREMIER",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "GOLD",
       "count": 16,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 16,
+      "word": "SINCE",
+      "count": 15,
       "category": null
     },
     {
@@ -285,17 +280,7 @@
       "category": "セキュリティ"
     },
     {
-      "word": "DATA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "DEBT",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "WEEK",
+      "word": "WARNS",
       "count": 15,
       "category": null
     },
@@ -305,12 +290,27 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "NEXT",
       "count": 14,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "DATA",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "DEBT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 13,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "CEO",
       "count": 13,
       "category": null
     }
