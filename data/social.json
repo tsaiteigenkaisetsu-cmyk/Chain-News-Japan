@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:09:20.528Z",
+  "updated_at": "2026-08-23T15:36:06.330Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 31,
+      "news_count_24h": 27,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -18,15 +18,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 57,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 3
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 5
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "IRAN",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -220,32 +220,37 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "LEAGUE",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "PREMIER",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 20,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 21,
+      "count": 20,
       "category": "相場"
     },
     {
-      "word": "AGAINST",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 20,
+      "count": 18,
       "category": "価格"
     },
     {
       "word": "SOLANA",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "LEAGUE",
       "count": 18,
       "category": null
     },
@@ -256,11 +261,6 @@
     },
     {
       "word": "TENSIONS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PREMIER",
       "count": 17,
       "category": null
     },
@@ -275,13 +275,23 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 15,
-      "category": "セキュリティ"
-    },
-    {
       "word": "DEAL",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MANCHESTER",
+      "count": 14,
       "category": null
     },
     {
@@ -295,9 +305,9 @@
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "EXPLOIT",
       "count": 14,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "DEBT",
@@ -310,28 +320,18 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "UKRAINE",
       "count": 13,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "SINCE",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "MANCHESTER",
-      "count": 12,
       "category": null
     }
   ],
