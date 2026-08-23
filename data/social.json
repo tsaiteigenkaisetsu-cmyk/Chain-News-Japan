@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T23:35:36.998Z",
+  "updated_at": "2026-08-23T23:52:47.425Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -201,12 +201,12 @@
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 25,
       "category": "相場"
     },
     {
       "word": "TREASURY",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": "価格"
     },
     {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
-    },
-    {
       "word": "HITS",
       "count": 17,
       "category": null
@@ -238,6 +233,11 @@
       "word": "TRADE",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 16,
+      "category": "ETF"
     },
     {
       "word": "PREMIER",
@@ -261,7 +261,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
@@ -272,11 +272,6 @@
     {
       "word": "INVESTORS",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 12,
       "category": null
     },
     {
@@ -297,6 +292,11 @@
     {
       "word": "MANCHESTER",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 11,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
