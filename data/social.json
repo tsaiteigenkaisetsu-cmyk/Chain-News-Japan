@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:02:53.862Z",
+  "updated_at": "2026-08-23T04:47:05.084Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 33,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 3
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
-      "buzz_rank": 8
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 56,
+      "count": 57,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "HITS",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "GOLD",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "CHAIN",
       "count": 16,
       "category": null
@@ -301,11 +306,6 @@
     },
     {
       "word": "SURGE",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "GOLD",
       "count": 15,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "STOCK",
       "count": 14,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
