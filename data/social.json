@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:54:28.440Z",
+  "updated_at": "2026-08-23T16:10:30.612Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 33,
+      "news_count_24h": 28,
+      "hype_score": 32,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 5
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -210,22 +210,17 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 23,
       "category": "ETF"
     },
     {
-      "word": "TREASURY",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "AGAINST",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "LEAGUE",
       "count": 21,
       "category": null
     },
@@ -235,8 +230,13 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "LEAGUE",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 19,
       "category": null
     },
     {
@@ -245,33 +245,43 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 18,
-      "category": "価格"
-    },
-    {
       "word": "SOLANA",
       "count": 18,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 17,
+      "category": "価格"
+    },
+    {
       "word": "TRADE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
       "word": "TENSIONS",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 14,
       "category": null
     },
     {
@@ -285,27 +295,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "EXPLOIT",
       "count": 14,
       "category": "セキュリティ"
     },
     {
       "word": "DEBT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 14,
       "category": null
     },
@@ -331,6 +326,11 @@
     },
     {
       "word": "SINCE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 13,
       "category": null
     }
