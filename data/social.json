@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:40:57.560Z",
+  "updated_at": "2026-08-24T21:05:28.388Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 106,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 9,
+      "news_count_24h": 37,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 600,
       "buzz_rank": 15
     },
     {
@@ -191,12 +191,12 @@
     },
     {
       "word": "IRAN",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 32,
       "category": "価格"
     },
     {
@@ -245,19 +245,24 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 19,
-      "category": "ETF"
-    },
-    {
       "word": "INVESTORS",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "SANCTIONS",
+      "count": 18,
       "category": null
     },
     {
       "word": "DOLLAR",
       "count": 18,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 18,
+      "category": "ETF"
     },
     {
       "word": "BOND",
@@ -275,12 +280,17 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "DATA",
       "count": 17,
       "category": null
     },
     {
-      "word": "SANCTIONS",
+      "word": "ECONOMIC",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
       "count": 17,
       "category": null
     },
@@ -300,17 +310,7 @@
       "category": null
     },
     {
-      "word": "ECONOMIC",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "WARNS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 16,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "SURGE",
       "count": 14,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
