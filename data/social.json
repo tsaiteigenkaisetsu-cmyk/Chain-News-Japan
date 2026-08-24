@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-24T16:03:32.769Z",
+  "updated_at": "2026-08-24T16:49:30.871Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 13,
+      "news_count_24h": 96,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 10,
+      "news_count_24h": 32,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 18,
       "hype_score": 11,
       "buzz_rank": 4
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 20,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 7
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -191,17 +191,17 @@
     },
     {
       "word": "IRAN",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 34,
+      "count": 38,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 35,
       "category": null
     },
     {
@@ -210,27 +210,32 @@
       "category": "相場"
     },
     {
+      "word": "TREASURY",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 25,
       "category": "価格"
     },
     {
-      "word": "TREASURY",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "WEEK",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 22,
+      "count": 23,
       "category": "相場"
     },
     {
       "word": "HITS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SINCE",
       "count": 20,
       "category": null
     },
@@ -240,14 +245,19 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
+    },
+    {
+      "word": "STOCK",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 17,
+      "category": null
     },
     {
       "word": "OIL",
@@ -260,13 +270,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 16,
+      "word": "STRATEGY",
+      "count": 15,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 16,
+      "word": "WARNS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 15,
       "category": null
     },
     {
@@ -280,13 +295,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "GOLD",
       "count": 15,
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 15,
+      "word": "STRAIT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 14,
       "category": null
     },
     {
@@ -300,37 +320,17 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "CASH",
+      "word": "NVIDIA",
       "count": 13,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "BUYS",
       "count": 13,
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "TRADE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "WEEKLY",
+      "word": "ETFS",
       "count": 13,
       "category": null
     }
