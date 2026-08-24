@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T17:19:50.820Z",
+  "updated_at": "2026-08-24T17:53:15.511Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 98,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 700,
+      "news_count_24h": 3,
+      "hype_score": 467,
       "buzz_rank": 11
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
+      "news_count_24h": 9,
+      "hype_score": 56,
       "buzz_rank": 6
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 9
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 48,
+      "count": 45,
       "category": null
     },
     {
@@ -196,23 +196,23 @@
     },
     {
       "word": "BILLION",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 35,
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 28,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 28,
       "category": "相場"
-    },
-    {
-      "word": "TREASURY",
-      "count": 27,
-      "category": null
     },
     {
       "word": "WEEK",
@@ -250,12 +250,17 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 19,
+      "count": 18,
       "category": "ETF"
     },
     {
-      "word": "MILLION",
+      "word": "DATA",
       "count": 17,
       "category": null
     },
@@ -265,17 +270,17 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
+      "word": "AGAINST",
       "count": 15,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "NVIDIA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 15,
       "category": null
     },
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "GOLD",
       "count": 15,
       "category": null
     },
     {
-      "word": "GOLD",
-      "count": 15,
+      "word": "DOLLAR",
+      "count": 14,
       "category": null
     },
     {
@@ -305,17 +310,12 @@
       "category": null
     },
     {
-      "word": "BUYS",
+      "word": "WARNS",
       "count": 14,
       "category": null
     },
     {
       "word": "STRAIT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 14,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DOLLAR",
+      "word": "SURGE",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
