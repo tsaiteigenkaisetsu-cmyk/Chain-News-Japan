@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T09:00:27.444Z",
+  "updated_at": "2026-08-24T09:58:00.612Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
-      "hype_score": 20,
+      "news_count_24h": 59,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 100,
+      "news_count_24h": 6,
+      "hype_score": 83,
       "buzz_rank": 7
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -195,17 +195,22 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 27,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 25,
-      "category": null
+      "word": "MARKET",
+      "count": 24,
+      "category": "相場"
     },
     {
-      "word": "MARKET",
+      "word": "RALLY",
       "count": 22,
       "category": "相場"
     },
@@ -215,14 +220,14 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 21,
-      "category": "相場"
-    },
-    {
       "word": "AGAINST",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     },
     {
       "word": "HITS",
@@ -230,14 +235,19 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
+      "word": "WEEK",
+      "count": 17,
+      "category": null
     },
     {
       "word": "PRICE",
       "count": 17,
       "category": "価格"
+    },
+    {
+      "word": "INVESTORS",
+      "count": 16,
+      "category": null
     },
     {
       "word": "PREMIER",
@@ -250,27 +260,32 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
+      "word": "MILLION",
       "count": 14,
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "BOND",
       "count": 13,
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "RECORD",
       "count": 13,
-      "category": "セキュリティ"
+      "category": null
     },
     {
-      "word": "MILLION",
+      "word": "TENSIONS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "GOLD",
       "count": 13,
       "category": null
     },
@@ -285,17 +300,27 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "SANCTIONS",
+      "word": "ETFS",
       "count": 12,
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "HIT",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WEEKLY",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 12,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "SANCTIONS",
       "count": 12,
       "category": null
     },
@@ -307,31 +332,6 @@
     {
       "word": "WARNS",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BOND",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MANCHESTER",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 11,
       "category": null
     }
   ],
