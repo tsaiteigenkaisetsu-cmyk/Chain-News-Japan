@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T20:02:58.309Z",
+  "updated_at": "2026-08-24T20:40:57.560Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
-      "hype_score": 15,
+      "news_count_24h": 104,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 9,
       "buzz_rank": 2
     },
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 4,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 9,
-      "buzz_rank": 4
+      "news_count_24h": 24,
+      "hype_score": 8,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 13,
+      "hype_score": 38,
       "buzz_rank": 6
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -191,7 +191,12 @@
     },
     {
       "word": "IRAN",
-      "count": 47,
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 34,
       "category": null
     },
     {
@@ -200,19 +205,19 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "TRUMP",
       "count": 33,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 32,
-      "category": null
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
     },
     {
-      "word": "PRICE",
-      "count": 29,
-      "category": "価格"
+      "word": "RALLY",
+      "count": 28,
+      "category": "相場"
     },
     {
       "word": "MARKET",
@@ -220,13 +225,13 @@
       "category": "相場"
     },
     {
-      "word": "RALLY",
-      "count": 27,
-      "category": "相場"
-    },
-    {
       "word": "HITS",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 22,
       "category": null
     },
     {
@@ -240,13 +245,18 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "ETF",
       "count": 19,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "INVESTORS",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "DOLLAR",
+      "count": 18,
       "category": null
     },
     {
@@ -260,19 +270,9 @@
       "category": null
     },
     {
-      "word": "DOLLAR",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "SINCE",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
     },
     {
       "word": "NVIDIA",
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "ECONOMIC",
       "count": 16,
       "category": null
@@ -307,11 +312,6 @@
     {
       "word": "DATA",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 15,
       "category": null
     },
     {
