@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:19:06.067Z",
+  "updated_at": "2026-08-25T19:05:43.058Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 24,
+      "news_count_24h": 39,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 78,
-      "buzz_rank": 8
+      "news_count_24h": 11,
+      "hype_score": 64,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -99,23 +99,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 93,
+      "count": 95,
       "category": null
     },
     {
@@ -196,17 +196,22 @@
     },
     {
       "word": "TREASURY",
-      "count": 51,
+      "count": 54,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 49,
+      "count": 50,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 45,
+      "count": 46,
+      "category": "相場"
+    },
+    {
+      "word": "RALLY",
+      "count": 42,
       "category": "相場"
     },
     {
@@ -215,13 +220,8 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 41,
-      "category": "相場"
-    },
-    {
       "word": "SANCTIONS",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -241,13 +241,18 @@
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 32,
+      "count": 33,
       "category": "ETF"
+    },
+    {
+      "word": "STOCK",
+      "count": 31,
+      "category": null
     },
     {
       "word": "SOLANA",
@@ -257,11 +262,6 @@
     {
       "word": "NVIDIA",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 30,
       "category": null
     },
     {
@@ -285,17 +285,22 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "BOND",
       "count": 26,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "GOLD",
       "count": 25,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "AGAINST",
       "count": 25,
       "category": null
     },
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "GOLD",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "STRATEGY",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 23,
       "category": null
     }
   ],
