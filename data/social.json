@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-25T03:33:46.825Z",
+  "updated_at": "2026-08-25T04:19:02.082Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 18,
+      "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
-      "hype_score": 17,
+      "news_count_24h": 110,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 4,
       "buzz_rank": 4
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 280,
+      "news_count_24h": 6,
+      "hype_score": 233,
       "buzz_rank": 10
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,27 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 54,
+      "count": 58,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 52,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 35,
       "category": null
     },
     {
@@ -215,22 +220,22 @@
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
     },
     {
-      "word": "AGAINST",
+      "word": "HITS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "SANCTIONS",
       "count": 25,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "AGAINST",
       "count": 25,
       "category": null
     },
@@ -245,8 +250,8 @@
       "category": null
     },
     {
-      "word": "SANCTIONS",
-      "count": 23,
+      "word": "SINCE",
+      "count": 22,
       "category": null
     },
     {
@@ -255,18 +260,13 @@
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "GOLD",
       "count": 21,
       "category": null
     },
     {
       "word": "NVIDIA",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 20,
       "category": null
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 18,
       "category": null
@@ -305,12 +310,17 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "WARNS",
       "count": 17,
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "RECORD",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "PRICES",
       "count": 17,
       "category": null
     },
@@ -323,16 +333,6 @@
       "word": "STOCKS",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SURGE",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
