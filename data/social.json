@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:55:19.476Z",
+  "updated_at": "2026-08-25T17:23:32.286Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 112,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 24,
+      "news_count_24h": 35,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 233,
+      "news_count_24h": 5,
+      "hype_score": 280,
       "buzz_rank": 10
     },
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -191,18 +191,18 @@
     },
     {
       "word": "AMID",
-      "count": 63,
+      "count": 65,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 50,
       "category": "価格"
-    },
-    {
-      "word": "TREASURY",
-      "count": 49,
-      "category": null
     },
     {
       "word": "RALLY",
@@ -221,7 +221,7 @@
     },
     {
       "word": "SANCTIONS",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -235,8 +235,13 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -245,22 +250,17 @@
       "category": "ETF"
     },
     {
-      "word": "LAUNCHES",
-      "count": 32,
+      "word": "NVIDIA",
+      "count": 30,
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "SOLANA",
       "count": 29,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 28,
       "category": null
     },
@@ -272,6 +272,11 @@
     {
       "word": "WEEK",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 26,
       "category": null
     },
     {
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 25,
       "category": null
@@ -310,28 +310,28 @@
       "category": null
     },
     {
+      "word": "HORMUZ",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "GOLD",
       "count": 24,
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "TENSIONS",
       "count": 23,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "MARKETS",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "ECONOMIC",
-      "count": 22,
       "category": null
     }
   ],
