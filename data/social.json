@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:02:43.601Z",
+  "updated_at": "2026-08-25T07:52:11.051Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
-      "hype_score": 16,
+      "news_count_24h": 117,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 22,
+      "news_count_24h": 38,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 4,
       "buzz_rank": 4
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 68,
+      "count": 70,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 50,
+      "count": 52,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 43,
+      "count": 45,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 37,
+      "count": 38,
       "category": "相場"
     },
     {
@@ -215,22 +215,27 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
+    },
+    {
       "word": "BILLION",
       "count": 35,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
-    },
-    {
       "word": "SANCTIONS",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
       "count": 26,
       "category": null
     },
@@ -245,8 +250,8 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 25,
+      "word": "SOLANA",
+      "count": 24,
       "category": null
     },
     {
@@ -255,22 +260,22 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 23,
       "category": "ETF"
     },
     {
-      "word": "SOLANA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "MILLION",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BOND",
       "count": 21,
       "category": null
     },
@@ -280,23 +285,23 @@
       "category": null
     },
     {
-      "word": "BOND",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "NVIDIA",
       "count": 20,
       "category": null
     },
     {
-      "word": "INVESTORS",
+      "word": "ECONOMIC",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 18,
       "category": null
     },
     {
@@ -305,7 +310,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "INVESTORS",
       "count": 18,
       "category": null
     },
@@ -315,8 +320,8 @@
       "category": null
     },
     {
-      "word": "ECONOMIC",
-      "count": 18,
+      "word": "TRADE",
+      "count": 17,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "RECORD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 17,
       "category": null
     }
