@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T11:45:24.557Z",
+  "updated_at": "2026-08-25T12:05:05.934Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 20,
+      "news_count_24h": 42,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 45,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 77,
+      "count": 78,
       "category": null
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "TREASURY",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -225,14 +225,19 @@
       "category": null
     },
     {
+      "word": "SANCTIONS",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 34,
       "category": null
     },
     {
-      "word": "SANCTIONS",
-      "count": 33,
-      "category": null
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
     },
     {
       "word": "SOLANA",
@@ -240,9 +245,9 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "MILLION",
       "count": 28,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "SINCE",
@@ -252,11 +257,6 @@
     {
       "word": "AGAINST",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 26,
       "category": null
     },
     {
@@ -270,6 +270,16 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "NVIDIA",
       "count": 23,
       "category": null
@@ -280,18 +290,23 @@
       "category": null
     },
     {
-      "word": "BOND",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 22,
+      "word": "STOCKS",
+      "count": 21,
       "category": null
     },
     {
       "word": "TRADE",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "GOLD",
+      "count": 20,
       "category": null
     },
     {
@@ -305,32 +320,17 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 20,
+      "word": "DATA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "SURGE",
+      "count": 19,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TENSIONS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ECONOMIC",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 19,
       "category": null
     }
