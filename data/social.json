@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T16:11:16.212Z",
+  "updated_at": "2026-08-25T16:55:19.476Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 111,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 70,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 91,
+      "count": 94,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 61,
+      "count": 63,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 50,
+      "category": "価格"
     },
     {
       "word": "TREASURY",
@@ -200,9 +205,9 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 48,
-      "category": "価格"
+      "word": "RALLY",
+      "count": 42,
+      "category": "相場"
     },
     {
       "word": "MARKET",
@@ -215,13 +220,8 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 41,
-      "category": "相場"
-    },
-    {
       "word": "SANCTIONS",
-      "count": 38,
+      "count": 40,
       "category": null
     },
     {
@@ -231,7 +231,12 @@
     },
     {
       "word": "HITS",
-      "count": 35,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 34,
       "category": null
     },
     {
@@ -240,18 +245,13 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 28,
+      "word": "NVIDIA",
+      "count": 29,
       "category": null
     },
     {
@@ -260,18 +260,23 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "SOLANA",
       "count": 28,
       "category": null
     },
     {
       "word": "TRADE",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 27,
+      "word": "WEEK",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TALKS",
+      "count": 26,
       "category": null
     },
     {
@@ -285,13 +290,23 @@
       "category": null
     },
     {
-      "word": "BOND",
+      "word": "OIL",
       "count": 25,
       "category": null
     },
     {
-      "word": "TALKS",
-      "count": 24,
+      "word": "TOKENIZED",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 25,
       "category": null
     },
     {
@@ -300,37 +315,22 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
+      "word": "HORMUZ",
       "count": 23,
       "category": null
     },
     {
-      "word": "HORMUZ",
-      "count": 22,
+      "word": "STRATEGY",
+      "count": 23,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
+      "word": "ECONOMIC",
       "count": 22,
       "category": null
     }
