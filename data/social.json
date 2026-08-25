@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T20:01:26.910Z",
+  "updated_at": "2026-08-25T20:38:58.112Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 24,
+      "news_count_24h": 34,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 78,
+      "news_count_24h": 8,
+      "hype_score": 88,
       "buzz_rank": 8
     },
     {
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
+      "news_count_24h": 2,
+      "hype_score": 50,
       "buzz_rank": 14
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 9
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 95,
+      "count": 96,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 53,
+      "count": 56,
       "category": null
     },
     {
@@ -226,12 +226,12 @@
     },
     {
       "word": "HITS",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -245,14 +245,19 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "NVIDIA",
       "count": 34,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 33,
+      "count": 34,
       "category": "ETF"
+    },
+    {
+      "word": "STOCK",
+      "count": 34,
+      "category": null
     },
     {
       "word": "SOLANA",
@@ -265,18 +270,8 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "TRADE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 29,
+      "count": 31,
       "category": null
     },
     {
@@ -285,12 +280,27 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "WARNS",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "BOND",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "HORMUZ",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 25,
       "category": null
     },
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TALKS",
+      "word": "MARKETS",
       "count": 24,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
