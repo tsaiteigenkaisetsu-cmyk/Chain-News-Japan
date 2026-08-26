@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:54:28.449Z",
+  "updated_at": "2026-08-26T08:28:48.556Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
-      "buzz_rank": 6
+      "news_count_24h": 10,
+      "hype_score": 70,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 60,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 11
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -201,36 +201,31 @@
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 51,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 48,
+      "count": 50,
       "category": "相場"
-    },
-    {
-      "word": "TRUMP",
-      "count": 40,
-      "category": null
     },
     {
       "word": "HITS",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "TRUMP",
       "count": 39,
-      "category": "相場"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 38,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 38,
       "category": null
     },
@@ -240,9 +235,19 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "RALLY",
+      "count": 37,
+      "category": "相場"
+    },
+    {
+      "word": "SOLANA",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "SINCE",
       "count": 33,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "STOCK",
@@ -255,22 +260,17 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 33,
-      "category": null
+      "word": "ETF",
+      "count": 32,
+      "category": "ETF"
     },
     {
-      "word": "SOLANA",
-      "count": 33,
+      "word": "TRADE",
+      "count": 32,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "TRADE",
       "count": 32,
       "category": null
     },
@@ -290,22 +290,17 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 25,
       "category": null
     },
     {
-      "word": "RAISES",
+      "word": "COINBASE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
       "count": 24,
       "category": null
     },
@@ -315,8 +310,18 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "BOND",
+      "count": 23,
       "category": null
     },
     {
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
+      "word": "ETFS",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
