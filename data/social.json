@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-26T13:11:02.521Z",
+  "updated_at": "2026-08-26T14:03:31.388Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 14,
+      "news_count_24h": 91,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 44,
+      "news_count_24h": 21,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 9,
+      "news_count_24h": 25,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 0,
+      "hype_score": 25,
       "buzz_rank": 10
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "IRAN",
-      "count": 94,
+      "count": 95,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 63,
+      "count": 66,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 48,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -210,24 +210,19 @@
       "category": "相場"
     },
     {
-      "word": "TRUMP",
-      "count": 40,
+      "word": "LAUNCHES",
+      "count": 41,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 38,
+      "word": "TRUMP",
+      "count": 39,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 38,
+      "count": 37,
       "category": "相場"
-    },
-    {
-      "word": "HITS",
-      "count": 38,
-      "category": null
     },
     {
       "word": "SANCTIONS",
@@ -235,8 +230,13 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 34,
+      "count": 35,
       "category": "ETF"
     },
     {
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "SOLANA",
       "count": 31,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "SINCE",
       "count": 30,
       "category": null
     },
@@ -260,8 +260,13 @@
       "category": null
     },
     {
-      "word": "SINCE",
-      "count": 29,
+      "word": "MILLION",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 30,
       "category": null
     },
     {
@@ -270,8 +275,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 29,
+      "word": "AGAINST",
+      "count": 28,
       "category": null
     },
     {
@@ -280,22 +285,17 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 25,
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "STABLECOIN",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 25,
       "category": null
     },
@@ -305,8 +305,18 @@
       "category": null
     },
     {
+      "word": "SURGE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "DATA",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -316,22 +326,12 @@
     },
     {
       "word": "STOCKS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "SURGE",
       "count": 23,
       "category": null
     },
     {
       "word": "BOND",
-      "count": 23,
+      "count": 22,
       "category": null
     }
   ],
