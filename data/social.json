@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T11:12:42.890Z",
+  "updated_at": "2026-08-26T11:45:09.609Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 82,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 40,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 6,
+      "hype_score": 17,
       "buzz_rank": 8
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 11
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -191,22 +191,22 @@
     },
     {
       "word": "AMID",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 49,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 49,
+      "count": 46,
       "category": "相場"
     },
     {
@@ -215,19 +215,19 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 38,
+      "category": "相場"
+    },
+    {
       "word": "LAUNCHES",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 39,
+      "count": 38,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 37,
-      "category": "相場"
     },
     {
       "word": "SANCTIONS",
@@ -240,14 +240,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 32,
-      "category": "ETF"
-    },
-    {
       "word": "BILLION",
       "count": 32,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
     },
     {
       "word": "TRADE",
@@ -265,16 +265,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 30,
       "category": null
@@ -287,6 +277,16 @@
     {
       "word": "TOKENIZED",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 28,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "BOND",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "AGAINST",
       "count": 24,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "RAISES",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BOND",
       "count": 23,
       "category": null
     }
