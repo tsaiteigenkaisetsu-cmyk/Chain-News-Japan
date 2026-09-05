@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-05T17:40:25.512Z",
+  "updated_at": "2026-09-05T19:31:46.074Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 32,
+      "news_count_24h": 39,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -16,16 +16,16 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 55,
-      "buzz_rank": 3
+      "news_count_24h": 9,
+      "hype_score": 67,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 2
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 78,
-      "buzz_rank": 4
+      "news_count_24h": 10,
+      "hype_score": 70,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 250,
-      "buzz_rank": 7
+      "news_count_24h": 3,
+      "hype_score": 333,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "binancecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 36,
+      "count": 33,
       "category": null
     },
     {
@@ -195,58 +195,63 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 25,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 23,
+      "word": "MILLION",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 22,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 22,
       "category": null
     },
     {
       "word": "CHAIN",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 21,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "MARKET",
       "count": 21,
       "category": "相場"
     },
     {
-      "word": "CEO",
-      "count": 20,
+      "word": "HIT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "UKRAINE",
+      "count": 18,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -256,11 +261,6 @@
     },
     {
       "word": "AUGUST",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 17,
       "category": null
     },
@@ -270,8 +270,8 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 16,
+      "word": "OIL",
+      "count": 15,
       "category": null
     },
     {
@@ -280,12 +280,17 @@
       "category": null
     },
     {
-      "word": "UKRAINE",
+      "word": "BILLION",
       "count": 15,
       "category": null
     },
     {
       "word": "AMC",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 15,
       "category": null
     },
@@ -305,16 +310,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 14,
       "category": "ETF"
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 14,
+      "word": "STRIKES",
+      "count": 13,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 14,
+      "word": "SOLANA",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "IMF",
+      "count": 13,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
