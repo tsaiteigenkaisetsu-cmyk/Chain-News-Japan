@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-05T19:31:46.074Z",
+  "updated_at": "2026-09-05T21:38:19.296Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 26,
+      "news_count_24h": 33,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 67,
-      "buzz_rank": 4
+      "news_count_24h": 6,
+      "hype_score": 100,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 70,
+      "news_count_24h": 11,
+      "hype_score": 64,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 333,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 500,
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,27 +115,27 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,36 +191,26 @@
     },
     {
       "word": "ROBINHOOD",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 25,
+      "count": 29,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 24,
+      "count": 26,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "MARKET",
       "count": 22,
       "category": "相場"
     },
     {
+      "word": "BANK",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CHAIN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 22,
       "category": null
     },
@@ -230,23 +220,28 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 21,
-      "category": "相場"
-    },
-    {
-      "word": "HIT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 21,
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 20,
+      "category": "相場"
+    },
+    {
+      "word": "HIT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "UKRAINE",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
@@ -255,22 +250,37 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "CHAIN",
       "count": 18,
       "category": null
     },
     {
-      "word": "AUGUST",
+      "word": "IRAN",
       "count": 17,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 16,
+      "word": "REPORT",
+      "count": 17,
       "category": null
     },
     {
       "word": "OIL",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AUGUST",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 15,
       "category": null
     },
@@ -280,32 +290,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "AMC",
       "count": 15,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "DATA",
+      "word": "BILLION",
       "count": 14,
       "category": null
     },
@@ -315,8 +305,13 @@
       "category": "ETF"
     },
     {
-      "word": "SINCE",
-      "count": 14,
+      "word": "TOKEN",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "HOW",
+      "count": 13,
       "category": null
     },
     {
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "IMF",
       "count": 13,
       "category": null
     },
     {
-      "word": "IMF",
+      "word": "RATE",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 12,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
