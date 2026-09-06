@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/09/06 10:17 JST
-- ソーシャル更新: 2026/09/06 10:01 JST
+- 生成時刻: 2026/09/06 17:04 JST
+- ソーシャル更新: 2026/09/06 14:48 JST
 - 総ニュース件数: 2000件
 - Reddit モード: rss
 
@@ -12,9 +12,9 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース30件 / SNS0
-2位 XRP ニュース13件 / SNS0
-3位 SOL ニュース13件 / SNS0
+1位 BTC ニュース32件 / SNS0
+2位 SOL ニュース14件 / SNS0
+3位 XRP ニュース10件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
 市場の温度感をざっと確認したいときにどうぞ。
@@ -29,9 +29,9 @@ https://chain-news-japan-webappjp.vercel.app
 ```text
 【昼の市場テーマ】
 いま強いテーマは AMID / ROBINHOOD / MILLION。
-注目通貨は BTC / XRP / SOL。
+注目通貨は BTC / SOL / XRP。
 
-現時点では BTC が先頭で、ニュース30件 / SNS0です。
+現時点では BTC が先頭で、ニュース32件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
