@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-08T17:25:41.662Z",
+  "updated_at": "2026-09-08T20:00:38.873Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 80,
-      "hype_score": 16,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 14,
+      "news_count_24h": 41,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 77,
+      "news_count_24h": 12,
+      "hype_score": 75,
       "buzz_rank": 5
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 18,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 32,
+      "count": 37,
       "category": null
     },
     {
@@ -205,23 +205,18 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 27,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
-      "count": 28,
+      "count": 27,
       "category": "価格"
     },
     {
       "word": "AMID",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 26,
-      "category": "相場"
-    },
-    {
-      "word": "TRUMP",
-      "count": 22,
+      "count": 27,
       "category": null
     },
     {
@@ -230,8 +225,18 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "SOLANA",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -240,23 +245,33 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "OIL",
       "count": 19,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 19,
+      "word": "HORMUZ",
+      "count": 18,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 19,
+      "count": 18,
       "category": "相場"
+    },
+    {
+      "word": "STOCK",
+      "count": 18,
+      "category": null
     },
     {
       "word": "REPORT",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "RATE",
+      "count": 17,
       "category": null
     },
     {
@@ -265,7 +280,7 @@
       "category": null
     },
     {
-      "word": "HORMUZ",
+      "word": "LAUNCHES",
       "count": 16,
       "category": null
     },
@@ -275,18 +290,18 @@
       "category": null
     },
     {
-      "word": "DOWN",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "RATE",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "CHAIN",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 15,
       "category": null
     },
     {
@@ -295,27 +310,7 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WARNS",
+      "word": "STRAIT",
       "count": 14,
       "category": null
     },
@@ -325,13 +320,18 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 13,
+      "word": "TREASURY",
+      "count": 14,
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 13,
+      "word": "HIKE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MAJOR",
+      "count": 14,
       "category": null
     }
   ],
