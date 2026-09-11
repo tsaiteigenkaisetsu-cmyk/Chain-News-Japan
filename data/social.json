@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-11T11:34:27.960Z",
+  "updated_at": "2026-09-11T15:10:44.796Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
-      "hype_score": 13,
+      "news_count_24h": 70,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 48,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 200,
+      "news_count_24h": 6,
+      "hype_score": 133,
       "buzz_rank": 9
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
+      "news_count_24h": 3,
+      "hype_score": 67,
       "buzz_rank": 11
     },
     {
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 133,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -133,16 +133,16 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 28,
+      "count": 31,
       "category": null
     },
     {
@@ -205,29 +205,19 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "CLARITY",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "ETF",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 23,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "RATE",
@@ -240,7 +230,7 @@
       "category": "価格"
     },
     {
-      "word": "PRICES",
+      "word": "WHY",
       "count": 22,
       "category": null
     },
@@ -250,22 +240,22 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 22,
-      "category": "ETF"
-    },
-    {
-      "word": "ANTHROPIC",
+      "word": "COINBASE",
       "count": 22,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "CEO",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 21,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ANTHROPIC",
       "count": 21,
       "category": null
     },
@@ -275,48 +265,58 @@
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
+      "word": "TREASURY",
       "count": 21,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "STOCK",
       "count": 20,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "PRICES",
       "count": 20,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TRADING",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 19,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 18,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 17,
+      "word": "WARNS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 18,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "TOKENIZED",
       "count": 17,
       "category": null
     },
     {
-      "word": "LAPTOP",
+      "word": "SOLANA",
       "count": 17,
       "category": null
     }
