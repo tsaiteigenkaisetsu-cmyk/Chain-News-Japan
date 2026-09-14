@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:40:47.749Z",
+  "updated_at": "2026-09-14T19:50:17.938Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 31,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "VOTE",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SENATE",
       "count": 22,
       "category": null
@@ -237,11 +242,6 @@
     {
       "word": "RATE",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "VOTE",
-      "count": 21,
       "category": null
     },
     {
@@ -310,27 +310,27 @@
       "category": null
     },
     {
+      "word": "ETHICS",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 13,
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "SAFETY",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "HOUSE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "HORMUZ",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 12,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
