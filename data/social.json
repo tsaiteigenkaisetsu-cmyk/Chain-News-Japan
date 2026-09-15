@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T17:41:52.823Z",
+  "updated_at": "2026-09-15T17:50:36.071Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 82,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 92,
+      "count": 94,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 82,
+      "count": 84,
       "category": null
     },
     {
@@ -270,17 +270,17 @@
       "category": null
     },
     {
+      "word": "BILL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 22,
       "category": null
     },
     {
       "word": "PRICES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BILL",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
