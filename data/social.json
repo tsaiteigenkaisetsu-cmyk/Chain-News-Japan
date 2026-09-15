@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T21:30:09.414Z",
+  "updated_at": "2026-09-15T21:41:00.019Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 86,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 125,
+      "news_count_24h": 3,
+      "hype_score": 167,
       "buzz_rank": 10
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 43,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 42,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 42,
-      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -250,17 +250,17 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 28,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 27,
       "category": null
     },
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "ROBINHOOD",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 23,
       "category": null
@@ -290,17 +295,7 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DOWN",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -317,6 +312,11 @@
     {
       "word": "FALLS",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 20,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
