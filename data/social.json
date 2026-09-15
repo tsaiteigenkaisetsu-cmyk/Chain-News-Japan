@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T04:48:57.482Z",
+  "updated_at": "2026-09-15T04:59:26.745Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 8,
+      "news_count_24h": 41,
+      "hype_score": 7,
       "buzz_rank": 2
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -77,11 +77,11 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 600,
-      "buzz_rank": 15
+      "hype_score": 500,
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "VOLUME",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 14,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "SURGE",
+      "word": "STOCKS",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
