@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:43:53.280Z",
+  "updated_at": "2026-09-15T13:51:09.963Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
+      "news_count_24h": 72,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 77,
+      "count": 78,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 45,
+      "count": 47,
       "category": null
     },
     {
@@ -206,8 +206,13 @@
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 38,
       "category": "相場"
+    },
+    {
+      "word": "VOTE",
+      "count": 36,
+      "category": null
     },
     {
       "word": "AMID",
@@ -225,11 +230,6 @@
       "category": "価格"
     },
     {
-      "word": "VOTE",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "SENATE",
       "count": 33,
       "category": null
@@ -241,7 +241,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -285,13 +285,18 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "PRICES",
       "count": 18,
       "category": null
     },
     {
       "word": "HOUSE",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 17,
       "category": null
     },
     {
@@ -305,13 +310,13 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "RATE",
       "count": 17,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 17,
+      "word": "BILLION",
+      "count": 16,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "FACES",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "FINAL",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
