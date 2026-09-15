@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T06:56:52.626Z",
+  "updated_at": "2026-09-15T07:11:09.420Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 76,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 7,
+      "news_count_24h": 40,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 15
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKET",
-      "count": 35,
+      "count": 36,
       "category": "相場"
     },
     {
@@ -215,14 +215,14 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 31,
       "category": "価格"
-    },
-    {
-      "word": "AMID",
-      "count": 31,
-      "category": null
     },
     {
       "word": "VOTE",
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "MILLION",
       "count": 27,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 26,
+      "word": "SENATE",
+      "count": 27,
       "category": null
     },
     {
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 15,
       "category": null
@@ -305,8 +310,8 @@
       "category": null
     },
     {
-      "word": "SAFETY",
-      "count": 15,
+      "word": "VOLUME",
+      "count": 14,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "FINAL",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "GOLD",
-      "count": 14,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
