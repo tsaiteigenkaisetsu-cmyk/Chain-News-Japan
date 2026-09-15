@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T10:50:33.273Z",
+  "updated_at": "2026-09-15T11:00:00.981Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 80,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 39,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -176,17 +176,17 @@
     {
       "coin_id": "wrapped-bitcoin",
       "symbol": "WBTC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 20
     }
   ],
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 73,
+      "count": 74,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 35,
       "category": "価格"
     },
     {
-      "word": "AMID",
+      "word": "VOTE",
       "count": 34,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 33,
+      "word": "AMID",
+      "count": 34,
       "category": null
     },
     {
@@ -241,16 +241,16 @@
     },
     {
       "word": "FED",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 24,
+      "count": 27,
       "category": null
     },
     {
       "word": "AHEAD",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 24,
       "category": null
     },
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 17,
       "category": null
@@ -306,11 +311,6 @@
     },
     {
       "word": "FINAL",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 16,
       "category": null
     },
