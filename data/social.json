@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T15:20:50.419Z",
+  "updated_at": "2026-09-15T15:32:07.011Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 75,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -196,7 +196,7 @@
     },
     {
       "word": "OIL",
-      "count": 50,
+      "count": 52,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 38,
+      "category": "価格"
+    },
+    {
       "word": "MILLION",
       "count": 37,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 37,
-      "category": "価格"
     },
     {
       "word": "AMID",
@@ -251,21 +251,21 @@
     },
     {
       "word": "TREASURY",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 23,
+      "count": 26,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
       "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 22,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "VOLUME",
+      "word": "ROBINHOOD",
       "count": 16,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
