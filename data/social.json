@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T14:51:36.496Z",
+  "updated_at": "2026-09-15T14:59:55.855Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 26,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 85,
+      "count": 86,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 77,
+      "count": 78,
       "category": null
     },
     {
@@ -205,18 +205,18 @@
       "category": null
     },
     {
+      "word": "VOTE",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 40,
       "category": "相場"
     },
     {
-      "word": "VOTE",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "SENATE",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
@@ -260,17 +260,17 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 22,
       "category": null
     },
     {
       "word": "BILL",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 21,
       "category": null
     },
@@ -290,17 +290,17 @@
       "category": null
     },
     {
-      "word": "HOUSE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "DOWN",
       "count": 19,
       "category": null
     },
     {
       "word": "RATE",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "HOUSE",
       "count": 18,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
