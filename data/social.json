@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:59:33.831Z",
+  "updated_at": "2026-09-15T14:23:32.945Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 78,
+      "count": 82,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 70,
+      "count": 74,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -206,8 +206,18 @@
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 39,
       "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 36,
+      "category": null
     },
     {
       "word": "VOTE",
@@ -220,23 +230,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
-    },
-    {
       "word": "SENATE",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -270,12 +270,17 @@
       "category": null
     },
     {
+      "word": "BILL",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 20,
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "HOUSE",
       "count": 19,
       "category": null
     },
@@ -285,18 +290,18 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "HOUSE",
+      "word": "STOCKS",
       "count": 18,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 17,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 18,
       "category": null
     },
     {
@@ -305,13 +310,13 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "RATE",
       "count": 17,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 17,
+      "word": "ODDS",
+      "count": 16,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "TRADING",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "FACES",
       "count": 16,
       "category": null
     }
