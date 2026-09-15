@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T18:46:49.178Z",
+  "updated_at": "2026-09-15T18:54:05.391Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 95,
+      "count": 97,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 86,
+      "count": 88,
       "category": null
     },
     {
@@ -200,19 +200,24 @@
       "category": null
     },
     {
+      "word": "SENATE",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 45,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 43,
+      "word": "VOTE",
+      "count": 44,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 42,
-      "category": null
+      "word": "MARKET",
+      "count": 43,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -223,11 +228,6 @@
       "word": "MILLION",
       "count": 41,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 41,
-      "category": "相場"
     },
     {
       "word": "AMID",
@@ -256,12 +256,12 @@
     },
     {
       "word": "STOCK",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -290,6 +290,16 @@
       "category": null
     },
     {
+      "word": "FALLS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 20,
       "category": null
@@ -310,17 +320,7 @@
       "category": null
     },
     {
-      "word": "FALLS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
