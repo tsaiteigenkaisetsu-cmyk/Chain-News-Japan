@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:20:51.915Z",
+  "updated_at": "2026-09-16T11:32:01.113Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 99,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 6,
+      "news_count_24h": 30,
+      "hype_score": 7,
       "buzz_rank": 3
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 124,
+      "count": 125,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 110,
+      "count": 111,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 35,
       "category": "相場"
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "FAILS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "SEPTEMBER",
       "count": 21,
       "category": null
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "FAILS",
+      "word": "BILLION",
       "count": 20,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
