@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T14:33:27.750Z",
+  "updated_at": "2026-09-16T14:43:44.695Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 14
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 129,
+      "count": 126,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 114,
+      "count": 112,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
@@ -205,23 +205,23 @@
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 48,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 47,
       "category": null
     },
     {
+      "word": "VOTE",
+      "count": 47,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 46,
+      "count": 44,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -230,14 +230,14 @@
       "category": "価格"
     },
     {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
       "word": "FED",
       "count": 36,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 36,
-      "category": "相場"
     },
     {
       "word": "IRAN",
@@ -246,7 +246,12 @@
     },
     {
       "word": "AHEAD",
-      "count": 33,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 31,
       "category": null
     },
     {
@@ -255,13 +260,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "TREASURY",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "SAFETY",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SEPTEMBER",
       "count": 22,
       "category": null
@@ -307,11 +312,6 @@
     {
       "word": "ROBINHOOD",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "SAFETY",
-      "count": 21,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "STABLECOIN",
       "count": 20,
       "category": null
     }
