@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T17:59:44.412Z",
+  "updated_at": "2026-09-16T18:25:33.601Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
+      "news_count_24h": 105,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 59,
+      "news_count_24h": 16,
+      "hype_score": 63,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 71,
+      "hype_score": 57,
       "buzz_rank": 8
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -195,13 +195,13 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 58,
+      "word": "SENATE",
+      "count": 57,
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 57,
+      "word": "OIL",
+      "count": 56,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": "価格"
     },
     {
+      "word": "FED",
+      "count": 43,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 40,
       "category": null
@@ -230,28 +235,23 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 37,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 37,
-      "category": "相場"
-    },
-    {
       "word": "CEO",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 36,
+      "category": "相場"
+    },
+    {
       "word": "IRAN",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -271,17 +271,7 @@
     },
     {
       "word": "RATE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 26,
+      "count": 28,
       "category": null
     },
     {
@@ -290,8 +280,23 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "SEPTEMBER",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 25,
       "category": null
     },
     {
@@ -305,33 +310,28 @@
       "category": null
     },
     {
+      "word": "TAX",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "ROBINHOOD",
       "count": 23,
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "HIKE",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "FAILS",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "ARC",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SEPTEMBER",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TAX",
-      "count": 21,
       "category": null
     }
   ],
