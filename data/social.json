@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T01:38:56.648Z",
+  "updated_at": "2026-09-16T01:58:34.058Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 56,
+      "news_count_24h": 16,
+      "hype_score": 63,
       "buzz_rank": 5
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "MARKET",
-      "count": 41,
+      "count": 40,
       "category": "相場"
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 28,
       "category": null
@@ -257,11 +262,6 @@
     {
       "word": "CEO",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 27,
       "category": null
     },
     {
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 22,
       "category": null
@@ -297,11 +302,6 @@
     {
       "word": "ROBINHOOD",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
