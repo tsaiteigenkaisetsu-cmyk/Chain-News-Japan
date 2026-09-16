@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T22:31:56.928Z",
+  "updated_at": "2026-09-16T22:41:26.167Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 14,
+      "news_count_24h": 30,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 47,
+      "news_count_24h": 20,
+      "hype_score": 45,
       "buzz_rank": 4
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,17 +186,22 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 134,
+      "count": 133,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 117,
+      "count": 116,
       "category": null
     },
     {
       "word": "SENATE",
       "count": 55,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 51,
       "category": null
     },
     {
@@ -206,11 +211,6 @@
     },
     {
       "word": "OIL",
-      "count": 50,
-      "category": null
-    },
-    {
-      "word": "FED",
       "count": 50,
       "category": null
     },
@@ -230,6 +230,11 @@
       "category": "価格"
     },
     {
+      "word": "CEO",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 36,
       "category": "相場"
@@ -240,13 +245,18 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "RATE",
       "count": 35,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 34,
+      "word": "TRUMP",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 32,
       "category": null
     },
     {
@@ -256,16 +266,6 @@
     },
     {
       "word": "HOUSE",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 31,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 22,
+      "word": "BILLION",
+      "count": 21,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
