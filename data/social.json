@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T17:30:41.434Z",
+  "updated_at": "2026-09-16T17:41:55.193Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 105,
+      "news_count_24h": 103,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
+      "news_count_24h": 7,
+      "hype_score": 71,
       "buzz_rank": 8
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 132,
+      "count": 133,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 116,
+      "count": 117,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": "価格"
     },
     {
-      "word": "TRUMP",
+      "word": "MILLION",
       "count": 41,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 40,
+      "word": "TRUMP",
+      "count": 41,
       "category": null
     },
     {
@@ -260,18 +260,13 @@
       "category": null
     },
     {
-      "word": "HOUSE",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "BANK",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 28,
+      "word": "HOUSE",
+      "count": 31,
       "category": null
     },
     {
@@ -280,7 +275,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "STOCK",
       "count": 27,
       "category": null
     },
@@ -290,23 +285,23 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "RATE",
       "count": 26,
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "ANTHROPIC",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 25,
       "category": null
     },
     {
       "word": "SAFETY",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "ROBINHOOD",
-      "count": 23,
       "category": null
     },
     {
@@ -320,17 +315,22 @@
       "category": null
     },
     {
+      "word": "ROBINHOOD",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SEPTEMBER",
       "count": 22,
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "PRICES",
       "count": 21,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "TAX",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
