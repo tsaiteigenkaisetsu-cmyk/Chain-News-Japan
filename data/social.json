@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:43:08.110Z",
+  "updated_at": "2026-09-16T20:59:45.333Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 17,
+      "news_count_24h": 28,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -201,12 +201,12 @@
     },
     {
       "word": "AMID",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
       "word": "FED",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -236,12 +236,12 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 36,
       "category": "相場"
     },
     {
       "word": "AHEAD",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -290,17 +290,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
@@ -315,7 +310,7 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "BILL",
       "count": 23,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 23,
+      "word": "BINANCE",
+      "count": 22,
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "TREASURY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 22,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
