@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T19:40:46.606Z",
+  "updated_at": "2026-09-16T19:50:23.378Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 105,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 29,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "FED",
-      "count": 46,
+      "count": 48,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 43,
       "category": "価格"
     },
     {
@@ -235,14 +235,14 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 36,
       "category": "相場"
+    },
+    {
+      "word": "CEO",
+      "count": 35,
+      "category": null
     },
     {
       "word": "AHEAD",
@@ -251,6 +251,11 @@
     },
     {
       "word": "TRUMP",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "RATE",
       "count": 31,
       "category": null
     },
@@ -260,17 +265,12 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 30,
+      "word": "HOUSE",
+      "count": 29,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "HOUSE",
       "count": 29,
       "category": null
     },
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "HIKE",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 24,
       "category": null
@@ -307,11 +312,6 @@
     {
       "word": "STOCKS",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "HIKE",
-      "count": 23,
       "category": null
     },
     {
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "SAFETY",
-      "count": 23,
+      "word": "BINANCE",
+      "count": 22,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
