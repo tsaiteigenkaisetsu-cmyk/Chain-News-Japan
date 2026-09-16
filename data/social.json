@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T05:59:38.208Z",
+  "updated_at": "2026-09-16T06:36:55.365Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
-      "hype_score": 10,
+      "news_count_24h": 86,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 117,
+      "count": 118,
       "category": null
     },
     {
@@ -221,42 +221,42 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 39,
       "category": "価格"
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 35,
       "category": "相場"
     },
     {
       "word": "IRAN",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "TREASURY",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 27,
       "category": null
     },
     {
       "word": "AHEAD",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 26,
       "category": null
     },
     {
@@ -285,17 +285,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "ROBINHOOD",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -310,7 +305,7 @@
       "category": null
     },
     {
-      "word": "FALLS",
+      "word": "TOKENIZED",
       "count": 21,
       "category": null
     },
@@ -320,8 +315,13 @@
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "FALLS",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
