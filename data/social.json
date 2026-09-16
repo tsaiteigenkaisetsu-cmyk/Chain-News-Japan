@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T14:59:32.091Z",
+  "updated_at": "2026-09-16T15:20:55.640Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 28,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 67,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 100,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 12
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 8
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 127,
+      "count": 126,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 112,
+      "count": 111,
       "category": null
     },
     {
@@ -216,17 +216,17 @@
     },
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -235,18 +235,18 @@
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 36,
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "ROBINHOOD",
       "count": 23,
       "category": null
     },
@@ -310,17 +310,12 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "BILL",
       "count": 22,
       "category": null
     },
     {
       "word": "FALLS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "STABLECOIN",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
