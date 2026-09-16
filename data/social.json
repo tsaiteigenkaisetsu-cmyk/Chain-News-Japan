@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T17:41:55.193Z",
+  "updated_at": "2026-09-16T17:50:44.588Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
+      "news_count_24h": 102,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 133,
+      "count": 131,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 117,
+      "count": 115,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 61,
+      "count": 59,
       "category": null
     },
     {
@@ -205,13 +205,13 @@
       "category": null
     },
     {
-      "word": "VOTE",
+      "word": "AMID",
       "count": 49,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 49,
+      "word": "VOTE",
+      "count": 47,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": "価格"
     },
     {
-      "word": "MILLION",
-      "count": 41,
+      "word": "TRUMP",
+      "count": 40,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 41,
+      "word": "MILLION",
+      "count": 39,
       "category": null
     },
     {
@@ -245,7 +245,7 @@
       "category": "相場"
     },
     {
-      "word": "AHEAD",
+      "word": "CEO",
       "count": 35,
       "category": null
     },
@@ -255,8 +255,8 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 34,
+      "word": "AHEAD",
+      "count": 33,
       "category": null
     },
     {
@@ -266,21 +266,11 @@
     },
     {
       "word": "HOUSE",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 27,
+      "count": 30,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 27,
       "category": null
     },
@@ -290,8 +280,18 @@
       "category": null
     },
     {
+      "word": "BILL",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 25,
       "category": null
     },
     {
@@ -305,17 +305,17 @@
       "category": null
     },
     {
+      "word": "ROBINHOOD",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "FAILS",
       "count": 22,
       "category": null
     },
     {
       "word": "ARC",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ROBINHOOD",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
