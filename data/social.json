@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:59:45.333Z",
+  "updated_at": "2026-09-16T21:20:21.782Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 10,
+      "news_count_24h": 106,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 45,
+      "news_count_24h": 19,
+      "hype_score": 47,
       "buzz_rank": 4
     },
     {
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 132,
+      "count": 134,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 114,
+      "count": 117,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
       "word": "FED",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "VOTE",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -266,7 +266,7 @@
     },
     {
       "word": "HOUSE",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -290,8 +290,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "BILL",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -306,11 +311,6 @@
     },
     {
       "word": "FAILS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BILL",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
