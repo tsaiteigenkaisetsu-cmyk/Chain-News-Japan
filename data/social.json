@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T20:22:41.959Z",
+  "updated_at": "2026-09-16T20:32:57.191Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 29,
       "hype_score": 17,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 80,
+      "news_count_24h": 4,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
-      "buzz_rank": 8
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 7
     },
     {
       "coin_id": "shiba-inu",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 132,
+      "count": 133,
       "category": null
     },
     {
@@ -200,8 +200,13 @@
       "category": null
     },
     {
+      "word": "FED",
+      "count": 49,
+      "category": null
+    },
+    {
       "word": "OIL",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -210,18 +215,13 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 48,
-      "category": null
-    },
-    {
       "word": "VOTE",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -240,12 +240,12 @@
       "category": "相場"
     },
     {
-      "word": "CEO",
+      "word": "AHEAD",
       "count": 35,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "CEO",
       "count": 34,
       "category": null
     },
@@ -265,17 +265,17 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "IRAN",
       "count": 29,
       "category": null
     },
     {
       "word": "SEPTEMBER",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 27,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "ARC",
       "count": 23,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "BINANCE",
       "count": 22,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
