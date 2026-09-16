@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:41:46.880Z",
+  "updated_at": "2026-09-16T21:50:04.595Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
+      "news_count_24h": 102,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -230,14 +230,14 @@
       "category": "価格"
     },
     {
-      "word": "MILLION",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 36,
       "category": "相場"
+    },
+    {
+      "word": "MILLION",
+      "count": 36,
+      "category": null
     },
     {
       "word": "CEO",
@@ -245,13 +245,18 @@
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "RATE",
       "count": 33,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 33,
+      "word": "AHEAD",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "HOUSE",
+      "count": 31,
       "category": null
     },
     {
@@ -265,8 +270,8 @@
       "category": null
     },
     {
-      "word": "HOUSE",
-      "count": 30,
+      "word": "TAX",
+      "count": 27,
       "category": null
     },
     {
@@ -280,18 +285,13 @@
       "category": null
     },
     {
-      "word": "TAX",
+      "word": "BILL",
       "count": 26,
       "category": null
     },
     {
       "word": "HIKE",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
