@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T21:40:29.582Z",
+  "updated_at": "2026-09-17T21:50:10.226Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 10,
+      "news_count_24h": 96,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 71,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "shiba-inu",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -196,13 +196,18 @@
     },
     {
       "word": "FED",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 59,
+      "count": 58,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 50,
+      "category": "規制"
     },
     {
       "word": "AMID",
@@ -210,13 +215,8 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 48,
-      "category": "規制"
-    },
-    {
       "word": "HIKE",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "STOCK",
       "count": 36,
       "category": null
     },
@@ -245,17 +245,17 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "TRUMP",
       "count": 35,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 35,
       "category": null
     },
@@ -270,9 +270,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "CFTC",
       "count": 28,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "ARC",
@@ -280,9 +280,9 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "MARKET",
       "count": 27,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "AHEAD",
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 24,
       "category": null
@@ -311,11 +316,6 @@
     },
     {
       "word": "SENATE",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 23,
       "category": null
     },
