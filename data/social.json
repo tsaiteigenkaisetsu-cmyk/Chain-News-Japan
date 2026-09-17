@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T18:26:52.746Z",
+  "updated_at": "2026-09-17T18:40:30.070Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 35,
+      "news_count_24h": 19,
+      "hype_score": 37,
       "buzz_rank": 4
     },
     {
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -196,7 +196,7 @@
     },
     {
       "word": "FED",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "SEC",
-      "count": 44,
+      "count": 45,
       "category": "規制"
     },
     {
@@ -235,18 +235,23 @@
       "category": "価格"
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 37,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "LAUNCHES",
       "count": 37,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 36,
       "category": null
     },
     {
@@ -255,8 +260,8 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 35,
+      "word": "TRADING",
+      "count": 33,
       "category": null
     },
     {
@@ -270,23 +275,18 @@
       "category": "相場"
     },
     {
-      "word": "TRADING",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "AHEAD",
       "count": 29,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "ARC",
       "count": 28,
       "category": null
     },
     {
-      "word": "ARC",
-      "count": 28,
+      "word": "IRAN",
+      "count": 26,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 23,
       "category": null
     },
     {
       "word": "RESERVE",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
