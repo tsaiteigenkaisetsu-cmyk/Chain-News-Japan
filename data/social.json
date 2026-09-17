@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T04:59:26.859Z",
+  "updated_at": "2026-09-17T05:22:52.032Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -206,12 +206,7 @@
     },
     {
       "word": "AMID",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 44,
+      "count": 47,
       "category": null
     },
     {
@@ -221,8 +216,13 @@
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 42,
       "category": "価格"
+    },
+    {
+      "word": "OIL",
+      "count": 42,
+      "category": null
     },
     {
       "word": "LAUNCHES",
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 36,
+      "word": "CEO",
+      "count": 35,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "MILLION",
       "count": 35,
       "category": null
     },
@@ -256,13 +256,8 @@
     },
     {
       "word": "MARKET",
-      "count": 33,
-      "category": "相場"
-    },
-    {
-      "word": "IRAN",
       "count": 32,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "HIKE",
@@ -272,6 +267,11 @@
     {
       "word": "AHEAD",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 30,
       "category": null
     },
     {
@@ -301,7 +301,12 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 23,
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 21,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "BILLION",
       "count": 21,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "FAILS",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
