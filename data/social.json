@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:59:35.820Z",
+  "updated_at": "2026-09-17T00:55:56.896Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 99,
+      "news_count_24h": 101,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 14,
+      "news_count_24h": 31,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 45,
+      "news_count_24h": 22,
+      "hype_score": 41,
       "buzz_rank": 4
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 300,
+      "news_count_24h": 2,
+      "hype_score": 450,
       "buzz_rank": 12
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 13
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 132,
+      "count": 131,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 116,
+      "count": 117,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "AMID",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 41,
       "category": "価格"
     },
     {
@@ -235,23 +235,23 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 36,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
       "count": 36,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "TRUMP",
       "count": 35,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 34,
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
+    },
+    {
+      "word": "CEO",
+      "count": 35,
       "category": null
     },
     {
@@ -270,22 +270,22 @@
       "category": null
     },
     {
+      "word": "BILL",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TAX",
       "count": 28,
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "SEPTEMBER",
       "count": 27,
       "category": null
     },
     {
       "word": "HIKE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "SEPTEMBER",
       "count": 27,
       "category": null
     },
@@ -297,6 +297,11 @@
     {
       "word": "SOLANA",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
@@ -325,11 +330,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "ARC",
       "count": 22,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
