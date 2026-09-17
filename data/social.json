@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:22:06.602Z",
+  "updated_at": "2026-09-17T13:32:59.531Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 92,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 26,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 20,
+      "hype_score": 35,
       "buzz_rank": 4
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "SENATE",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "VOTE",
       "count": 39,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 38,
+      "word": "TRUMP",
+      "count": 39,
       "category": null
     },
     {
@@ -241,12 +241,12 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 25,
       "category": "規制"
@@ -315,23 +320,18 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WHY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 24,
       "category": null
     },
     {
       "word": "RESERVE",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 23,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
