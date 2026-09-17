@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T20:59:34.094Z",
+  "updated_at": "2026-09-17T21:20:06.259Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 94,
-      "hype_score": 9,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 91,
+      "count": 89,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 78,
+      "count": 76,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "RATE",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -211,13 +211,18 @@
     },
     {
       "word": "SEC",
-      "count": 46,
+      "count": 47,
       "category": "規制"
     },
     {
       "word": "HIKE",
-      "count": 45,
+      "count": 46,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 42,
+      "category": "価格"
     },
     {
       "word": "CEO",
@@ -225,9 +230,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 40,
-      "category": "価格"
+      "word": "STOCK",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 36,
+      "category": null
     },
     {
       "word": "LAUNCHES",
@@ -240,43 +250,33 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 35,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 30,
       "category": "相場"
     },
     {
-      "word": "ARC",
+      "word": "IRAN",
       "count": 28,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 27,
+      "word": "ARC",
+      "count": 28,
       "category": null
     },
     {
@@ -285,12 +285,12 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "BILL",
       "count": 26,
       "category": null
     },
     {
-      "word": "SENATE",
+      "word": "CFTC",
       "count": 26,
       "category": null
     },
@@ -300,22 +300,17 @@
       "category": null
     },
     {
-      "word": "BILL",
+      "word": "SENATE",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 24,
       "category": null
     },
     {
       "word": "VOTE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 24,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 23,
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "SINCE",
       "count": 23,
       "category": null
     }
