@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T14:51:36.250Z",
+  "updated_at": "2026-09-17T14:59:46.186Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 17,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 29,
+      "news_count_24h": 23,
+      "hype_score": 30,
       "buzz_rank": 3
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 110,
+      "count": 111,
       "category": null
     },
     {
@@ -201,22 +201,22 @@
     },
     {
       "word": "RATE",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -226,7 +226,12 @@
     },
     {
       "word": "CEO",
-      "count": 40,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 37,
       "category": null
     },
     {
@@ -240,14 +245,14 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 35,
+      "word": "VOTE",
+      "count": 34,
       "category": null
     },
     {
-      "word": "VOTE",
-      "count": 35,
-      "category": null
+      "word": "SEC",
+      "count": 32,
+      "category": "規制"
     },
     {
       "word": "STOCK",
@@ -255,18 +260,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "OIL",
       "count": 31,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 30,
-      "category": "規制"
-    },
-    {
-      "word": "OIL",
-      "count": 30,
+      "word": "MILLION",
+      "count": 31,
       "category": null
     },
     {
@@ -285,8 +285,18 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "ARC",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "IRAN",
+      "count": 27,
       "category": null
     },
     {
@@ -295,27 +305,17 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "BILL",
       "count": 26,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 26,
+      "word": "HIT",
+      "count": 25,
       "category": null
     },
     {
       "word": "SINCE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 25,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "WARNS",
       "count": 23,
       "category": null
     }
