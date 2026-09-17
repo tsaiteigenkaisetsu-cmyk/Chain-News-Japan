@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T10:22:50.984Z",
+  "updated_at": "2026-09-17T10:33:31.059Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 100,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 19,
+      "news_count_24h": 25,
+      "hype_score": 20,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 10
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "FED",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": "価格"
     },
     {
-      "word": "OIL",
+      "word": "TRUMP",
       "count": 38,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 37,
+      "word": "OIL",
+      "count": 38,
       "category": null
     },
     {
@@ -251,12 +251,7 @@
     },
     {
       "word": "HOUSE",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -265,8 +260,13 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 29,
+      "count": 30,
       "category": "相場"
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "word": "BILL",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
@@ -301,7 +301,7 @@
     },
     {
       "word": "WHY",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -312,11 +312,6 @@
     {
       "word": "STOCK",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 21,
       "category": null
     },
     {
@@ -333,6 +328,11 @@
       "word": "HIT",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "FAILS",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
