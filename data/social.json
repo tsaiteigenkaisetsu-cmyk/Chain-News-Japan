@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:32:59.531Z",
+  "updated_at": "2026-09-17T13:43:11.659Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 35,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 4
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "FED",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "HIKE",
       "count": 40,
       "category": null
@@ -230,23 +235,18 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 39,
+      "word": "BANK",
+      "count": 35,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 35,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 34,
       "category": null
     },
     {
@@ -266,13 +266,18 @@
     },
     {
       "word": "AHEAD",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 29,
       "category": "相場"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 28,
+      "category": null
     },
     {
       "word": "IRAN",
@@ -285,13 +290,8 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "BILL",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
