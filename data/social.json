@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-17T10:00:13.206Z",
+  "updated_at": "2026-09-17T10:22:50.984Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
-      "hype_score": 8,
+      "news_count_24h": 98,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 17,
+      "news_count_24h": 26,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -115,18 +115,18 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -196,22 +196,22 @@
     },
     {
       "word": "FED",
-      "count": 56,
+      "count": 57,
       "category": null
     },
     {
       "word": "SENATE",
-      "count": 53,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 44,
+      "count": 51,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 42,
+      "count": 45,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 43,
       "category": null
     },
     {
@@ -225,7 +225,7 @@
       "category": null
     },
     {
-      "word": "VOTE",
+      "word": "TRUMP",
       "count": 37,
       "category": null
     },
@@ -235,28 +235,28 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "VOTE",
       "count": 36,
       "category": null
     },
     {
       "word": "HIKE",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "HOUSE",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "word": "BANK",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -281,7 +281,17 @@
     },
     {
       "word": "BILL",
-      "count": 26,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "ARC",
+      "count": 25,
       "category": null
     },
     {
@@ -290,28 +300,23 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "TAX",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ARC",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
+      "word": "WARNS",
+      "count": 21,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "HIT",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "FAILS",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
