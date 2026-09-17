@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T13:50:04.025Z",
+  "updated_at": "2026-09-17T13:59:47.638Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 29,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
-      "buzz_rank": 4
+      "news_count_24h": 23,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -210,18 +210,18 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 44,
       "category": "価格"
     },
     {
-      "word": "AMID",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "HIKE",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "CEO",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -250,8 +250,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 33,
+      "word": "STOCK",
+      "count": 32,
       "category": null
     },
     {
@@ -260,14 +260,24 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "HOUSE",
       "count": 31,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
+      "word": "AHEAD",
+      "count": 29,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 29,
+      "category": "規制"
     },
     {
       "word": "MARKET",
@@ -285,28 +295,18 @@
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 27,
-      "category": "規制"
-    },
-    {
-      "word": "TRADING",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "BILL",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "ARC",
-      "count": 26,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 27,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TOKENIZED",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
