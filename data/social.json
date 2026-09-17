@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T20:32:59.817Z",
+  "updated_at": "2026-09-17T20:42:13.648Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 93,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
+      "news_count_24h": 7,
+      "hype_score": 71,
       "buzz_rank": 6
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 94,
+      "count": 92,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 81,
+      "count": 79,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 29,
       "category": null
@@ -277,6 +272,11 @@
     {
       "word": "ARC",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "SENATE",
+      "count": 27,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
