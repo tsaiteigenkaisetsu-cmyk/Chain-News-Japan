@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T16:44:34.348Z",
+  "updated_at": "2026-09-17T16:51:57.668Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 10,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
-      "buzz_rank": 3
+      "news_count_24h": 20,
+      "hype_score": 35,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 108,
+      "count": 109,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 94,
+      "count": 95,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "RATE",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "HIKE",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 39,
+      "category": "規制"
+    },
+    {
       "word": "PRICE",
       "count": 39,
       "category": "価格"
-    },
-    {
-      "word": "SEC",
-      "count": 38,
-      "category": "規制"
     },
     {
       "word": "BANK",
@@ -241,7 +241,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WARNS",
       "count": 23,
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "DATA",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
