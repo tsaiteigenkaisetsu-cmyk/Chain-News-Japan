@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:35:43.718Z",
+  "updated_at": "2026-09-17T17:43:27.051Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
+      "news_count_24h": 96,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 150,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 8
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 113,
+      "count": 112,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 100,
+      "count": 99,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "CEO",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 36,
       "category": null
@@ -255,24 +260,19 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 32,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
+    },
+    {
       "word": "VOTE",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
     },
     {
       "word": "AHEAD",
@@ -287,11 +287,6 @@
     {
       "word": "ARC",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 26,
       "category": null
     },
     {
@@ -310,6 +305,11 @@
       "category": null
     },
     {
+      "word": "SINCE",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "BILL",
       "count": 25,
       "category": null
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "RESERVE",
       "count": 24,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "WARNS",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 23,
       "category": null
     }
   ],
