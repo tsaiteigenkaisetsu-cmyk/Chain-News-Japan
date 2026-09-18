@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T20:21:16.855Z",
+  "updated_at": "2026-09-18T20:31:49.896Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,15 +45,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 500,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 75,
+      "news_count_24h": 9,
+      "hype_score": 67,
       "buzz_rank": 8
     },
     {
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -196,7 +196,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -205,7 +205,17 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
+    },
+    {
       "word": "ACT",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 40,
       "category": null
     },
@@ -220,18 +230,8 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
-      "count": 39,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
-    },
-    {
       "word": "CEO",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "CFTC",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 31,
       "category": null
@@ -260,17 +265,12 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "ANTHROPIC",
       "count": 30,
       "category": null
     },
     {
       "word": "FED",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 29,
       "category": null
     },
@@ -282,6 +282,11 @@
     {
       "word": "OPENAI",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -305,11 +310,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "HIT",
       "count": 22,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "HOUSE",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
