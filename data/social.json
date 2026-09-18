@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:59:36.638Z",
+  "updated_at": "2026-09-18T11:19:23.407Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
-      "hype_score": 14,
+      "news_count_24h": 86,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 41,
+      "news_count_24h": 21,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 500,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 14
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 68,
+      "count": 66,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 59,
+      "count": 57,
       "category": null
     },
     {
       "word": "FED",
-      "count": 55,
+      "count": 53,
       "category": null
     },
     {
@@ -211,17 +211,22 @@
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 47,
       "category": null
     },
     {
       "word": "HIKE",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 40,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 38,
       "category": null
     },
     {
@@ -235,18 +240,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 36,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 35,
       "category": null
     },
     {
@@ -255,23 +250,33 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "LAUNCHES",
       "count": 33,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "IRAN",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 31,
       "category": "相場"
     },
     {
       "word": "DATA",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
       "word": "CFTC",
-      "count": 29,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 27,
       "category": null
     },
     {
@@ -280,18 +285,13 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "BILL",
       "count": 25,
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 25,
+      "word": "NEXT",
+      "count": 24,
       "category": null
     },
     {
@@ -300,7 +300,7 @@
       "category": null
     },
     {
-      "word": "ARC",
+      "word": "AHEAD",
       "count": 24,
       "category": null
     },
@@ -325,7 +325,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "ARC",
       "count": 22,
       "category": null
     },
