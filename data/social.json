@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T21:30:37.784Z",
+  "updated_at": "2026-09-18T21:40:31.113Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 18,
+      "news_count_24h": 74,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 70,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 88,
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 44,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 14
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
@@ -215,14 +215,19 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 40,
       "category": "価格"
+    },
+    {
+      "word": "TRADING",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 37,
+      "category": null
     },
     {
       "word": "CEO",
@@ -232,11 +237,6 @@
     {
       "word": "ACT",
       "count": 36,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 35,
       "category": null
     },
     {
@@ -251,17 +251,17 @@
     },
     {
       "word": "DATA",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 31,
       "category": null
     },
     {
       "word": "CFTC",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 30,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 24,
       "category": null
@@ -292,11 +297,6 @@
     {
       "word": "OPENAI",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 23,
       "category": null
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "word": "WARNS",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
