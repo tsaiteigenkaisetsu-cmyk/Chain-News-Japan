@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T09:00:36.333Z",
+  "updated_at": "2026-09-18T09:23:48.728Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
-      "hype_score": 13,
+      "news_count_24h": 80,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 86,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "shiba-inu",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 72,
+      "count": 73,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
       "word": "FED",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "HIKE",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 39,
-      "category": "価格"
-    },
-    {
       "word": "LAUNCHES",
       "count": 39,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 38,
+      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -251,7 +251,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "IRAN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 23,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 22,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
