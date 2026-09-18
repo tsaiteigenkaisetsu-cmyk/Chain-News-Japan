@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T18:45:38.143Z",
+  "updated_at": "2026-09-18T18:51:54.279Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 58,
+      "news_count_24h": 11,
+      "hype_score": 64,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 70,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 36,
+      "category": "相場"
+    },
+    {
       "word": "CEO",
       "count": 36,
       "category": null
@@ -233,11 +238,6 @@
       "word": "HIKE",
       "count": 36,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
     },
     {
       "word": "FED",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
