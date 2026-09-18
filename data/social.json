@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:32:49.665Z",
+  "updated_at": "2026-09-18T10:42:42.965Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 78,
       "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
-      "hype_score": 13,
+      "hype_score": 38,
       "buzz_rank": 2
     },
     {
@@ -195,13 +195,13 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 56,
+      "word": "FED",
+      "count": 55,
       "category": null
     },
     {
-      "word": "FED",
-      "count": 56,
+      "word": "RATE",
+      "count": 54,
       "category": null
     },
     {
@@ -260,9 +260,9 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "MARKET",
       "count": 31,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "DATA",
@@ -270,9 +270,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "BANK",
       "count": 30,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "CFTC",
@@ -286,12 +286,12 @@
     },
     {
       "word": "BILL",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "AHEAD",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
