@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T22:50:51.936Z",
+  "updated_at": "2026-09-18T22:59:33.585Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 44,
+      "hype_score": 56,
       "buzz_rank": 7
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -200,11 +200,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 41,
-      "category": "価格"
-    },
-    {
       "word": "CLARITY",
       "count": 41,
       "category": null
@@ -213,6 +208,11 @@
       "word": "TRADING",
       "count": 40,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 40,
+      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -300,13 +300,13 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "TREASURY",
       "count": 23,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 23,
+      "word": "HIT",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
