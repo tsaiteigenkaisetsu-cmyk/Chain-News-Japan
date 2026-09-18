@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T22:59:33.585Z",
+  "updated_at": "2026-09-18T23:20:01.180Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -79,7 +79,7 @@
       "symbol": "DOT",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 600,
       "buzz_rank": 16
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
-      "buzz_rank": 6
+      "news_count_24h": 12,
+      "hype_score": 8,
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "DATA",
       "count": 33,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 33,
+      "word": "TRUMP",
+      "count": 32,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
+    },
+    {
       "word": "NEXT",
       "count": 21,
       "category": null
@@ -328,11 +333,6 @@
       "word": "GLOBAL",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
     }
   ],
   "stats": {
