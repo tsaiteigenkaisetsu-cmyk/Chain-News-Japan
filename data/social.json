@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T05:59:48.957Z",
+  "updated_at": "2026-09-18T06:35:41.580Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
-      "hype_score": 11,
+      "news_count_24h": 86,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 25,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 56,
+      "news_count_24h": 17,
+      "hype_score": 53,
       "buzz_rank": 4
     },
     {
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
       "word": "ACT",
-      "count": 68,
+      "count": 67,
       "category": null
     },
     {
       "word": "FED",
-      "count": 61,
+      "count": 60,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TRADING",
       "count": 37,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 37,
+      "word": "STOCK",
+      "count": 36,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 30,
       "category": null
@@ -280,13 +275,18 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "ARC",
       "count": 29,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "ZCASH",
+      "word": "OPENAI",
       "count": 22,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "NEXT",
       "count": 22,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
