@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T15:32:27.948Z",
+  "updated_at": "2026-09-18T15:42:27.206Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 16,
+      "news_count_24h": 77,
+      "hype_score": 0,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 100,
+      "news_count_24h": 5,
+      "hype_score": 120,
       "buzz_rank": 10
     },
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -196,7 +196,7 @@
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 40,
-      "category": "価格"
-    },
-    {
       "word": "HIKE",
       "count": 40,
       "category": null
@@ -226,8 +221,13 @@
     },
     {
       "word": "CEO",
-      "count": 38,
+      "count": 39,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 39,
+      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -251,17 +251,12 @@
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 32,
       "category": "相場"
     },
     {
       "word": "CFTC",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 29,
       "category": null
     },
     {
@@ -280,12 +275,17 @@
       "category": null
     },
     {
-      "word": "BILL",
-      "count": 24,
+      "word": "BANK",
+      "count": 27,
       "category": null
     },
     {
       "word": "WARNS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "BILL",
       "count": 24,
       "category": null
     },
@@ -320,18 +320,18 @@
       "category": null
     },
     {
+      "word": "GLOBAL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 22,
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "FUND",
-      "count": 20,
+      "count": 21,
       "category": null
     }
   ],
