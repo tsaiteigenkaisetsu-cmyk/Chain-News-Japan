@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T12:59:29.883Z",
+  "updated_at": "2026-09-18T13:20:39.609Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 12,
+      "news_count_24h": 79,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 60,
+      "news_count_24h": 13,
+      "hype_score": 77,
       "buzz_rank": 4
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,7 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 62,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 52,
+      "count": 61,
       "category": null
     },
     {
@@ -200,19 +195,29 @@
       "category": "規制"
     },
     {
-      "word": "RATE",
+      "word": "ACT",
       "count": 51,
       "category": null
     },
     {
+      "word": "RATE",
+      "count": 50,
+      "category": null
+    },
+    {
       "word": "AMID",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "FED",
-      "count": 45,
+      "count": 44,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 40,
+      "category": "価格"
     },
     {
       "word": "HIKE",
@@ -225,9 +230,9 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "STOCK",
       "count": 38,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "TRADING",
@@ -235,13 +240,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 38,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -250,23 +250,18 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 32,
-      "category": "相場"
-    },
-    {
       "word": "LAUNCHES",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "IRAN",
       "count": 31,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 29,
+      "word": "MARKET",
+      "count": 30,
+      "category": "相場"
+    },
+    {
+      "word": "IRAN",
+      "count": 30,
       "category": null
     },
     {
@@ -280,13 +275,18 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 26,
       "category": null
     },
     {
       "word": "BILL",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -297,11 +297,6 @@
     {
       "word": "WARNS",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
-      "count": 22,
       "category": null
     },
     {
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "AHEAD",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "SINCE",
       "count": 21,
       "category": null
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "EXCHANGE",
-      "count": 21,
-      "category": "取引所"
+      "word": "ZCASH",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
