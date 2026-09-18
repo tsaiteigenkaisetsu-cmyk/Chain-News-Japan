@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-18T13:32:14.137Z",
+  "updated_at": "2026-09-18T13:42:39.301Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 16,
+      "news_count_24h": 77,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 77,
+      "news_count_24h": 11,
+      "hype_score": 82,
       "buzz_rank": 4
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 86,
-      "buzz_rank": 9
+      "news_count_24h": 8,
+      "hype_score": 75,
+      "buzz_rank": 8
     },
     {
       "coin_id": "shiba-inu",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,12 @@
   "trend_words": [
     {
       "word": "CLARITY",
-      "count": 61,
+      "count": 60,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 51,
       "category": null
     },
     {
@@ -195,13 +200,8 @@
       "category": "規制"
     },
     {
-      "word": "ACT",
-      "count": 51,
-      "category": null
-    },
-    {
       "word": "RATE",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "FED",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
@@ -220,12 +220,12 @@
       "category": "価格"
     },
     {
-      "word": "HIKE",
-      "count": 40,
+      "word": "STOCK",
+      "count": 39,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "HIKE",
       "count": 39,
       "category": null
     },
@@ -241,7 +241,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -265,13 +265,18 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 28,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 28,
+      "word": "CFTC",
+      "count": 27,
       "category": null
     },
     {
@@ -280,13 +285,23 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 26,
+      "word": "BILL",
+      "count": 24,
       "category": null
     },
     {
-      "word": "BILL",
-      "count": 24,
+      "word": "RESERVE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HOUSE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 23,
       "category": null
     },
     {
@@ -305,22 +320,7 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "HOUSE",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "OPENAI",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "RESERVE",
       "count": 21,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 21,
+      "word": "FUND",
+      "count": 20,
       "category": null
     }
   ],
