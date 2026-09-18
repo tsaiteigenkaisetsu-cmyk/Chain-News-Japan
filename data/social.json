@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:20:44.921Z",
+  "updated_at": "2026-09-18T15:32:27.948Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 76,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 113,
+      "news_count_24h": 9,
+      "hype_score": 100,
       "buzz_rank": 5
     },
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -191,16 +191,11 @@
     },
     {
       "word": "ACT",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 49,
-      "category": null
-    },
-    {
-      "word": "RATE",
       "count": 49,
       "category": null
     },
@@ -210,8 +205,8 @@
       "category": "規制"
     },
     {
-      "word": "FED",
-      "count": 42,
+      "word": "RATE",
+      "count": 47,
       "category": null
     },
     {
@@ -225,13 +220,18 @@
       "category": null
     },
     {
+      "word": "FED",
+      "count": 40,
+      "category": null
+    },
+    {
       "word": "CEO",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -250,14 +250,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
+    },
+    {
       "word": "CFTC",
       "count": 31,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
     },
     {
       "word": "BANK",
@@ -280,12 +280,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "HOUSE",
+      "word": "BILL",
       "count": 24,
       "category": null
     },
@@ -300,17 +295,22 @@
       "category": null
     },
     {
-      "word": "RESERVE",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILL",
-      "count": 24,
+      "word": "HOUSE",
+      "count": 23,
       "category": null
     },
     {
       "word": "ZCASH",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RESERVE",
       "count": 23,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "FUND",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
