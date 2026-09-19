@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-19T15:59:49.602Z",
+  "updated_at": "2026-09-19T16:20:56.707Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 24,
+      "news_count_24h": 51,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 50,
+      "news_count_24h": 11,
+      "hype_score": 45,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 150,
+      "news_count_24h": 9,
+      "hype_score": 133,
       "buzz_rank": 6
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 140,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -191,13 +191,18 @@
     },
     {
       "word": "MARKET",
-      "count": 37,
+      "count": 38,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 33,
       "category": "価格"
+    },
+    {
+      "word": "IRAN",
+      "count": 32,
+      "category": null
     },
     {
       "word": "CFTC",
@@ -205,19 +210,19 @@
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 31,
+      "word": "CLARITY",
+      "count": 28,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 30,
-      "category": "規制"
     },
     {
       "word": "ANTHROPIC",
       "count": 28,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 28,
+      "category": "規制"
     },
     {
       "word": "TRUMP",
@@ -226,11 +231,6 @@
     },
     {
       "word": "DATA",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
       "count": 27,
       "category": null
     },
@@ -241,17 +241,12 @@
     },
     {
       "word": "ACT",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
       "word": "TOKENIZED",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 21,
       "category": null
     },
     {
@@ -285,8 +280,18 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 18,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "CHINA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SANCTIONS",
       "count": 16,
       "category": null
     }
