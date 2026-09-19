@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:21:01.751Z",
+  "updated_at": "2026-09-19T09:31:48.907Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 66,
+      "news_count_24h": 65,
       "hype_score": 23,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 11,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -235,17 +235,17 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 32,
       "category": null
     },
     {
       "word": "DATA",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "RATE",
       "count": 32,
       "category": null
     },
@@ -266,7 +266,7 @@
     },
     {
       "word": "HIKE",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -287,11 +287,6 @@
     {
       "word": "STOCKS",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "FED",
-      "count": 22,
       "category": null
     },
     {
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "FED",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 21,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "DEMAND",
+      "word": "WORLD",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
