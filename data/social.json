@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:49:55.973Z",
+  "updated_at": "2026-09-19T18:59:33.808Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 45,
       "hype_score": 24,
       "buzz_rank": 1
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 150,
       "buzz_rank": 12
     },
     {
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 25,
+      "word": "STOCK",
+      "count": 26,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 24,
+      "word": "ANTHROPIC",
+      "count": 25,
       "category": null
     },
     {
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ACT",
       "count": 19,
       "category": null
@@ -257,6 +252,21 @@
     {
       "word": "BANK",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "AGAINST",
+      "count": 18,
       "category": null
     },
     {
@@ -275,17 +285,7 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "NEXT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 17,
       "category": null
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 15,
       "category": null
@@ -328,11 +333,6 @@
       "word": "HITS",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
