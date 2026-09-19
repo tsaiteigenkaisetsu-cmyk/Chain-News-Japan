@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T08:36:41.477Z",
+  "updated_at": "2026-09-19T08:45:46.521Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 64,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 125,
       "buzz_rank": 9
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -220,32 +220,27 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "RATE",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 34,
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "RATE",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "IRAN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 32,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 32,
       "category": null
     },
@@ -256,6 +251,11 @@
     },
     {
       "word": "CFTC",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 31,
       "category": null
     },
@@ -271,7 +271,7 @@
     },
     {
       "word": "BANK",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "GLOBAL",
-      "count": 20,
+      "word": "SURGE",
+      "count": 19,
       "category": null
     },
     {
-      "word": "SURGE",
+      "word": "DEMAND",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
