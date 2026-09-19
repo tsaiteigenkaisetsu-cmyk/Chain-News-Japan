@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T22:30:09.299Z",
+  "updated_at": "2026-09-19T22:40:22.407Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 36,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 18,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
+    },
+    {
       "word": "SEC",
       "count": 19,
       "category": "規制"
@@ -253,11 +258,6 @@
       "word": "WHY",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
     },
     {
       "word": "DATA",
@@ -325,14 +325,14 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "SURGE",
       "count": 14,
       "category": null
     },
     {
-      "word": "SURGE",
+      "word": "RALLY",
       "count": 14,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
