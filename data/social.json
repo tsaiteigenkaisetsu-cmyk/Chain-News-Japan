@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-19T16:31:37.715Z",
+  "updated_at": "2026-09-19T16:40:55.536Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 50,
-      "hype_score": 22,
+      "news_count_24h": 49,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 17,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCK",
       "count": 27,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 27,
+      "word": "DATA",
+      "count": 26,
       "category": null
     },
     {
@@ -246,12 +246,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -260,14 +255,14 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "AGAINST",
       "count": 19,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "NEXT",
@@ -290,6 +285,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 18,
+      "category": "ETF"
+    },
+    {
       "word": "WARNS",
       "count": 18,
       "category": null
@@ -300,22 +300,17 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 18,
       "category": null
     },
     {
-      "word": "ZCASH",
-      "count": 16,
+      "word": "RATE",
+      "count": 17,
       "category": null
     },
     {
-      "word": "HIKE",
+      "word": "ZCASH",
       "count": 16,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "SANCTIONS",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 15,
+      "category": "相場"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
