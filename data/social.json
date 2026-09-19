@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-19T09:31:48.907Z",
+  "updated_at": "2026-09-19T09:41:57.923Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 15,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
       "news_count_24h": 65,
-      "hype_score": 23,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
-      "buzz_rank": 4
+      "news_count_24h": 10,
+      "hype_score": 70,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -195,11 +195,6 @@
       "category": "規制"
     },
     {
-      "word": "STOCK",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 40,
       "category": "相場"
@@ -208,6 +203,11 @@
       "word": "PRICE",
       "count": 39,
       "category": "価格"
+    },
+    {
+      "word": "STOCK",
+      "count": 39,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "RATE",
       "count": 32,
       "category": null
@@ -256,6 +251,11 @@
     },
     {
       "word": "ACT",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 31,
       "category": null
     },
