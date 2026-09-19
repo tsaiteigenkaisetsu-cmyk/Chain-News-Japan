@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:50:26.197Z",
+  "updated_at": "2026-09-19T15:59:49.602Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 50,
       "hype_score": 24,
       "buzz_rank": 1
     },
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 50,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 250,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 37,
       "category": "相場"
     },
     {
@@ -215,12 +215,12 @@
       "category": "規制"
     },
     {
-      "word": "TRUMP",
+      "word": "ANTHROPIC",
       "count": 28,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "TRUMP",
       "count": 28,
       "category": null
     },
@@ -245,18 +245,23 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 23,
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 20,
       "category": null
     },
     {
@@ -270,22 +275,17 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
     },
     {
-      "word": "MILLION",
+      "word": "NEXT",
       "count": 19,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "OPENAI",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
