@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:33:22.297Z",
+  "updated_at": "2026-09-19T18:43:06.055Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 23,
+      "news_count_24h": 46,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -205,32 +205,17 @@
       "category": "価格"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 28,
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 24,
-      "category": "規制"
-    },
-    {
-      "word": "STOCK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 24,
       "category": null
     },
@@ -240,13 +225,28 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
+    },
+    {
+      "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "CLARITY",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "AGAINST",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -275,22 +275,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 17,
       "category": null
     },
     {
-      "word": "CHINA",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
+      "word": "NEXT",
       "count": 17,
       "category": null
     },
@@ -300,22 +290,22 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "CHINA",
       "count": 16,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "TOKENIZED",
       "count": 16,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 16,
       "category": null
     },
@@ -331,6 +321,16 @@
     },
     {
       "word": "OIL",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 15,
       "category": null
     }
