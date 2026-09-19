@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-19T01:12:07.267Z",
+  "updated_at": "2026-09-19T01:35:13.751Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 16,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
-      "hype_score": 22,
+      "news_count_24h": 71,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 10,
+      "hype_score": 70,
       "buzz_rank": 6
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -231,7 +231,7 @@
     },
     {
       "word": "CEO",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -245,12 +245,22 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "HIKE",
       "count": 32,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "TRUMP",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 31,
       "category": null
     },
@@ -260,28 +270,18 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 27,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "OPENAI",
       "count": 26,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 25,
+      "word": "FED",
+      "count": 26,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 21,
       "category": "ETF"
@@ -327,11 +332,6 @@
     {
       "word": "GLOBAL",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "DEMAND",
-      "count": 19,
       "category": null
     }
   ],
