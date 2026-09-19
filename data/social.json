@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:20:56.707Z",
+  "updated_at": "2026-09-19T16:31:37.715Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 50,
       "hype_score": 22,
       "buzz_rank": 1
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 800,
       "buzz_rank": 13
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "CFTC",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
@@ -295,11 +290,6 @@
       "category": null
     },
     {
-      "word": "HIKE",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 18,
       "category": null
@@ -310,17 +300,22 @@
       "category": null
     },
     {
+      "word": "RATE",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 18,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 18,
+      "word": "ZCASH",
+      "count": 16,
       "category": null
     },
     {
-      "word": "ZCASH",
+      "word": "HIKE",
       "count": 16,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "CHINA",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "SANCTIONS",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
