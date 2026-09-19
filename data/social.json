@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T15:18:19.327Z",
+  "updated_at": "2026-09-19T15:30:08.121Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
-      "hype_score": 22,
+      "news_count_24h": 53,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 133,
+      "news_count_24h": 8,
+      "hype_score": 150,
       "buzz_rank": 6
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -201,18 +201,18 @@
     },
     {
       "word": "CFTC",
-      "count": 31,
+      "count": 32,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 31,
+      "category": "規制"
     },
     {
       "word": "IRAN",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 30,
-      "category": "規制"
     },
     {
       "word": "TRUMP",
@@ -236,7 +236,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "ACT",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -256,16 +256,16 @@
     },
     {
       "word": "TRADING",
-      "count": 23,
+      "count": 21,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 20,
+      "category": "ETF"
     },
     {
       "word": "AGAINST",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 20,
       "category": null
     },
@@ -285,9 +285,9 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "BANK",
       "count": 19,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "MILLION",
@@ -297,6 +297,11 @@
     {
       "word": "NEXT",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "HIKE",
+      "count": 18,
       "category": null
     },
     {
@@ -310,17 +315,12 @@
       "category": null
     },
     {
+      "word": "ZCASH",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "HIT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HIKE",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TARGETS",
       "count": 16,
       "category": null
     },
