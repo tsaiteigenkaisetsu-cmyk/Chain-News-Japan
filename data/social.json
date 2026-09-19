@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:43:06.055Z",
+  "updated_at": "2026-09-19T18:49:55.973Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -211,7 +211,12 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 26,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 24,
       "category": null
     },
     {
@@ -230,13 +235,8 @@
       "category": "規制"
     },
     {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
