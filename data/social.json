@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T16:40:55.536Z",
+  "updated_at": "2026-09-19T16:50:30.868Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
-      "hype_score": 24,
+      "news_count_24h": 47,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 45,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
-      "buzz_rank": 2
+      "news_count_24h": 11,
+      "hype_score": 18,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 38,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -206,12 +206,7 @@
     },
     {
       "word": "CFTC",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
@@ -220,14 +215,19 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 28,
-      "category": "規制"
-    },
-    {
       "word": "TRUMP",
       "count": 28,
       "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 27,
+      "category": "規制"
     },
     {
       "word": "STOCK",
@@ -241,7 +241,7 @@
     },
     {
       "word": "ACT",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -258,6 +258,11 @@
       "word": "TRADING",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     },
     {
       "word": "AGAINST",
@@ -285,16 +290,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
-    },
-    {
-      "word": "WARNS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 18,
       "category": null
@@ -305,7 +300,12 @@
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "HIT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 17,
       "category": null
     },
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "RATE",
       "count": 16,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
