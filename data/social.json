@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:15:34.493Z",
+  "updated_at": "2026-09-19T19:22:58.494Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 50,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "HIT",
       "count": 18,
       "category": null
@@ -285,13 +280,13 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "AGAINST",
       "count": 17,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 16,
+      "word": "NEXT",
+      "count": 17,
       "category": null
     },
     {
@@ -333,6 +328,11 @@
       "word": "HITS",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 14,
+      "category": "相場"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
