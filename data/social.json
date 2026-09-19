@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T20:20:07.281Z",
+  "updated_at": "2026-09-19T20:31:20.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 23,
+      "news_count_24h": 41,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 800,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 11
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 14
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 233,
+      "hype_score": 200,
       "buzz_rank": 9
     },
     {
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 20,
       "category": null
@@ -258,6 +253,11 @@
       "word": "ETF",
       "count": 19,
       "category": "ETF"
+    },
+    {
+      "word": "CLARITY",
+      "count": 19,
+      "category": null
     },
     {
       "word": "WARNS",
@@ -305,16 +305,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 15,
       "category": "相場"
@@ -327,6 +317,16 @@
     {
       "word": "HITS",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 14,
       "category": null
     },
     {
