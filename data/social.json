@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T10:30:46.080Z",
+  "updated_at": "2026-09-19T10:40:39.720Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
-      "hype_score": 24,
+      "news_count_24h": 61,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -205,14 +205,14 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
       "word": "TRADING",
       "count": 37,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
     },
     {
       "word": "TOKENIZED",
@@ -261,7 +261,7 @@
     },
     {
       "word": "RATE",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "SURGE",
       "count": 19,
       "category": null
     },
     {
       "word": "WORLD",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
