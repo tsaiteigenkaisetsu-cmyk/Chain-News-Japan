@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T06:32:57.872Z",
+  "updated_at": "2026-09-19T06:50:40.495Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
+      "news_count_24h": 67,
       "hype_score": 21,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 10,
+      "news_count_24h": 19,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 37,
       "category": "価格"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 36,
+      "category": null
     },
     {
       "word": "CEO",
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 21,
-      "category": "ETF"
-    },
-    {
       "word": "FED",
       "count": 21,
       "category": null
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "ZCASH",
+      "word": "ETF",
       "count": 20,
+      "category": "ETF"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
