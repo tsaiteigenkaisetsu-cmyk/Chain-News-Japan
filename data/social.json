@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T09:41:57.923Z",
+  "updated_at": "2026-09-19T09:50:11.899Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 39,
-      "category": "価格"
-    },
-    {
       "word": "STOCK",
       "count": 39,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 38,
+      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -221,7 +221,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -240,17 +240,7 @@
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "CFTC",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ACT",
       "count": 31,
       "category": null
     },
@@ -260,13 +250,18 @@
       "category": null
     },
     {
+      "word": "RATE",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 30,
       "category": null
     },
     {
-      "word": "HIKE",
-      "count": 26,
+      "word": "ACT",
+      "count": 30,
       "category": null
     },
     {
@@ -280,13 +275,18 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 23,
+      "word": "HIKE",
+      "count": 25,
       "category": null
     },
     {
       "word": "STOCKS",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
