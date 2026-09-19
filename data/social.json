@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T02:59:52.931Z",
+  "updated_at": "2026-09-19T03:24:32.934Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 71,
       "hype_score": 21,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 2
     },
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 14
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "tether",
@@ -221,7 +221,7 @@
     },
     {
       "word": "CLARITY",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -232,11 +232,6 @@
     {
       "word": "RATE",
       "count": 35,
-      "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 33,
       "category": null
     },
     {
@@ -251,6 +246,11 @@
     },
     {
       "word": "ANTHROPIC",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "ACT",
       "count": 32,
       "category": null
     },
@@ -275,12 +275,17 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 25,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "MILLION",
       "count": 24,
       "category": null
     },
@@ -295,23 +300,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 23,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "NEXT",
       "count": 22,
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 21,
+      "word": "TREASURY",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
