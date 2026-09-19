@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:50:09.515Z",
+  "updated_at": "2026-09-19T14:59:43.471Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 36,
+      "hype_score": 45,
       "buzz_rank": 4
     },
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "SEC",
-      "count": 34,
+      "count": 33,
       "category": "規制"
     },
     {
@@ -215,11 +215,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 29,
       "category": null
@@ -230,27 +225,22 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 28,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "CLARITY",
       "count": 27,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 25,
       "category": null
     },
@@ -260,13 +250,18 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 22,
+      "word": "ACT",
+      "count": 24,
       "category": null
     },
     {
-      "word": "RATE",
-      "count": 21,
+      "word": "TOKENIZED",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 22,
       "category": null
     },
     {
@@ -280,12 +275,12 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "RATE",
       "count": 20,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "WHY",
       "count": 20,
       "category": null
     },
@@ -300,13 +295,8 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CHINA",
-      "count": 18,
+      "word": "STOCKS",
+      "count": 19,
       "category": null
     },
     {
@@ -315,12 +305,17 @@
       "category": "ETF"
     },
     {
+      "word": "WARNS",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 17,
       "category": null
     },
     {
-      "word": "SANCTIONS",
+      "word": "CHINA",
       "count": 17,
       "category": null
     },
@@ -332,6 +327,11 @@
     {
       "word": "HIKE",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "SANCTIONS",
+      "count": 16,
       "category": null
     }
   ],
