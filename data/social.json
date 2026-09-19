@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T10:19:34.533Z",
+  "updated_at": "2026-09-19T10:30:46.080Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 63,
+      "news_count_24h": 62,
       "hype_score": 24,
       "buzz_rank": 1
     },
@@ -195,14 +195,14 @@
       "category": "規制"
     },
     {
-      "word": "MARKET",
-      "count": 40,
-      "category": "相場"
-    },
-    {
       "word": "STOCK",
       "count": 39,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "TRADING",
@@ -220,8 +220,13 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "CLARITY",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -230,8 +235,8 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 33,
+      "word": "ANTHROPIC",
+      "count": 31,
       "category": null
     },
     {
@@ -245,27 +250,22 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "ACT",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
       "word": "RATE",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
-      "word": "HIKE",
+      "word": "OPENAI",
       "count": 25,
       "category": null
     },
@@ -275,7 +275,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "HIKE",
       "count": 24,
       "category": null
     },
@@ -290,27 +290,22 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 22,
       "category": "ETF"
     },
     {
-      "word": "WHY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "FED",
+      "word": "NEXT",
       "count": 21,
       "category": null
     },
     {
       "word": "HIT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -322,6 +317,11 @@
     {
       "word": "MILLION",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
