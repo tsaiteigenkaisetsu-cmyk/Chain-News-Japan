@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T15:59:34.360Z",
+  "updated_at": "2026-09-20T16:21:31.923Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 20,
+      "news_count_24h": 33,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
-      "buzz_rank": 3
+      "news_count_24h": 7,
+      "hype_score": 57,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 5
     },
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -221,18 +221,23 @@
     },
     {
       "word": "WHY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 18,
-      "category": "価格"
+      "word": "MILLION",
+      "count": 17,
+      "category": null
     },
     {
       "word": "WARNS",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 17,
+      "category": "価格"
     },
     {
       "word": "CHINA",
@@ -250,28 +255,23 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 16,
-      "category": "規制"
-    },
-    {
-      "word": "DATA",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "TENSIONS",
-      "count": 14,
+      "count": 15,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 14,
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
+    },
+    {
+      "word": "DATA",
+      "count": 15,
       "category": null
     },
     {
@@ -300,16 +300,6 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 13,
       "category": null
@@ -331,6 +321,16 @@
     },
     {
       "word": "PREMIER",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
       "count": 12,
       "category": null
     }
