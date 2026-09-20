@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T13:51:00.418Z",
+  "updated_at": "2026-09-20T13:59:38.248Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 11,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 0,
+      "hype_score": 40,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 3
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 39,
+      "count": 37,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": "ETF"
     },
     {
-      "word": "CHINA",
+      "word": "WARNS",
       "count": 20,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 20,
+      "word": "CHINA",
+      "count": 19,
       "category": null
     },
     {
@@ -250,8 +250,8 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 18,
+      "word": "ACT",
+      "count": 16,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": "規制"
     },
     {
-      "word": "ACT",
+      "word": "CFTC",
       "count": 16,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 13,
       "category": null
@@ -331,6 +326,11 @@
     },
     {
       "word": "NEXT",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
       "count": 13,
       "category": null
     }
