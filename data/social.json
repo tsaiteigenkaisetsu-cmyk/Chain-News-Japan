@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:30:23.570Z",
+  "updated_at": "2026-09-20T21:40:47.763Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 25,
+      "news_count_24h": 34,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 16
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "WHY",
       "count": 21,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 19,
+      "word": "WARNS",
+      "count": 21,
       "category": null
     },
     {
@@ -225,12 +225,12 @@
       "category": "ETF"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 16,
+      "word": "TENSIONS",
+      "count": 15,
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 12,
-      "category": "セキュリティ"
-    },
-    {
       "word": "SURGE",
       "count": 12,
       "category": null
@@ -305,11 +300,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "WEEK",
       "count": 11,
       "category": null
@@ -320,9 +310,9 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "SECURITY",
       "count": 11,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "SEPTEMBER",
@@ -333,6 +323,16 @@
       "word": "HITS",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 10,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
