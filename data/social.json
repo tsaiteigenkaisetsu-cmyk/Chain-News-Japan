@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:30:55.780Z",
+  "updated_at": "2026-09-20T10:40:40.759Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -23,10 +23,10 @@
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 29,
+      "hype_score": 14,
       "buzz_rank": 5
     },
     {
@@ -191,18 +191,13 @@
     },
     {
       "word": "MARKET",
-      "count": 35,
+      "count": 34,
       "category": "相場"
     },
     {
       "word": "IRAN",
       "count": 28,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -213,6 +208,11 @@
       "word": "ANTHROPIC",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 24,
+      "category": "価格"
     },
     {
       "word": "TRUMP",
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "AGAINST",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 17,
       "category": null
@@ -267,11 +272,6 @@
     {
       "word": "ACT",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 16,
       "category": null
     },
     {
@@ -296,11 +296,6 @@
     },
     {
       "word": "WHY",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 15,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "SAUDI",
+      "word": "NEXT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
