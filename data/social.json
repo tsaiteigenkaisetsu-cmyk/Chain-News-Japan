@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:19:23.954Z",
+  "updated_at": "2026-09-20T22:30:53.213Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "UKRAINE",
       "count": 12,
       "category": null
@@ -295,14 +300,14 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SECURITY",
       "count": 11,
       "category": "セキュリティ"
+    },
+    {
+      "word": "RUSSIA",
+      "count": 10,
+      "category": null
     },
     {
       "word": "DEMAND",
@@ -328,11 +333,6 @@
       "word": "WHAT",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 10,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
