@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:50:00.537Z",
+  "updated_at": "2026-09-20T05:59:48.837Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
@@ -242,11 +247,6 @@
     {
       "word": "ACT",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "CHINA",
-      "count": 18,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
