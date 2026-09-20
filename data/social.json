@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:19:14.034Z",
+  "updated_at": "2026-09-20T14:31:01.790Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
-      "buzz_rank": 2
+      "news_count_24h": 8,
+      "hype_score": 50,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -275,18 +275,8 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 15,
+      "word": "AGAINST",
+      "count": 14,
       "category": null
     },
     {
@@ -295,18 +285,23 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ETFS",
       "count": 14,
       "category": null
     },
     {
       "word": "OIL",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 13,
       "category": null
     },
     {
@@ -331,6 +326,11 @@
     },
     {
       "word": "TRADING",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 12,
       "category": null
     }
