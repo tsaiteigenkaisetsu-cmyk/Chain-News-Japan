@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T21:40:47.763Z",
+  "updated_at": "2026-09-20T21:50:14.279Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -225,6 +225,11 @@
       "category": "ETF"
     },
     {
+      "word": "CEO",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TENSIONS",
       "count": 15,
       "category": null
@@ -232,11 +237,6 @@
     {
       "word": "ANTHROPIC",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 14,
       "category": null
     },
     {
@@ -251,11 +251,6 @@
     },
     {
       "word": "MILLION",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 13,
       "category": null
     },
@@ -280,13 +275,13 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "BANK",
       "count": 12,
       "category": null
     },
     {
-      "word": "CONFLICT",
-      "count": 11,
+      "word": "ETFS",
+      "count": 12,
       "category": null
     },
     {
@@ -315,6 +310,16 @@
       "category": "セキュリティ"
     },
     {
+      "word": "DEMAND",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "SEPTEMBER",
       "count": 10,
       "category": null
@@ -328,11 +333,6 @@
       "word": "WHAT",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "ACT",
-      "count": 10,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
