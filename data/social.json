@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T22:40:47.635Z",
+  "updated_at": "2026-09-20T22:50:22.917Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "PRICE",
-      "count": 17,
+      "count": 18,
       "category": "価格"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 13,
+      "category": "相場"
+    },
+    {
       "word": "BANK",
       "count": 13,
       "category": null
@@ -268,11 +273,6 @@
       "word": "UKRAINE",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 12,
-      "category": "相場"
     },
     {
       "word": "STOCK",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
