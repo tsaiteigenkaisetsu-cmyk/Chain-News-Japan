@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T18:34:13.331Z",
+  "updated_at": "2026-09-20T18:43:17.325Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
-      "hype_score": 10,
+      "hype_score": 0,
       "buzz_rank": 3
     },
     {
@@ -230,9 +230,9 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "PRICE",
       "count": 17,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "TENSIONS",
@@ -240,23 +240,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "MILLION",
       "count": 16,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "SURGE",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 14,
       "category": null
     },
     {
@@ -270,7 +260,7 @@
       "category": null
     },
     {
-      "word": "CHINA",
+      "word": "AGAINST",
       "count": 14,
       "category": null
     },
@@ -290,6 +280,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 13,
       "category": null
@@ -298,6 +293,11 @@
       "word": "SECURITY",
       "count": 13,
       "category": "セキュリティ"
+    },
+    {
+      "word": "CHINA",
+      "count": 13,
+      "category": null
     },
     {
       "word": "ETFS",
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 12,
       "category": null
@@ -333,6 +328,11 @@
       "word": "RALLY",
       "count": 12,
       "category": "相場"
+    },
+    {
+      "word": "DEMAND",
+      "count": 11,
+      "category": null
     }
   ],
   "stats": {
