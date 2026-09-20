@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T08:38:46.080Z",
+  "updated_at": "2026-09-20T08:50:32.173Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 0,
       "buzz_rank": 8
     },
     {
@@ -215,11 +215,6 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 21,
       "category": null
@@ -228,6 +223,11 @@
       "word": "ETF",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "TRUMP",
+      "count": 20,
+      "category": null
     },
     {
       "word": "BANK",
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "TREASURY",
       "count": 15,
       "category": null
@@ -321,6 +316,11 @@
     },
     {
       "word": "WHAT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 14,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
