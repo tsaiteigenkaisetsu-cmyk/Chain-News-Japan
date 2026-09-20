@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T17:59:30.714Z",
+  "updated_at": "2026-09-20T18:24:35.284Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 24,
+      "news_count_24h": 32,
+      "hype_score": 28,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 50,
+      "news_count_24h": 7,
+      "hype_score": 57,
       "buzz_rank": 4
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 24,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 24,
+      "count": 22,
       "category": null
     },
     {
@@ -210,23 +210,23 @@
       "category": "ETF"
     },
     {
-      "word": "ANTHROPIC",
+      "word": "STOCK",
       "count": 20,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 19,
+      "word": "ANTHROPIC",
+      "count": 20,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -235,19 +235,14 @@
       "category": null
     },
     {
+      "word": "TENSIONS",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 16,
       "category": "価格"
-    },
-    {
-      "word": "CHINA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 16,
-      "category": null
     },
     {
       "word": "SURGE",
@@ -255,27 +250,27 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 15,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "CEO",
+      "word": "AGAINST",
       "count": 15,
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 15,
+      "word": "DATA",
+      "count": 14,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 15,
-      "category": "規制"
     },
     {
       "word": "TRADING",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "CHINA",
       "count": 14,
       "category": null
     },
@@ -285,14 +280,24 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 14,
+      "category": "規制"
+    },
+    {
       "word": "TOKENIZED",
       "count": 14,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WEEK",
       "count": 13,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 13,
+      "category": "セキュリティ"
     },
     {
       "word": "ETFS",
@@ -306,11 +311,6 @@
     },
     {
       "word": "LEAGUE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 12,
       "category": null
     },
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "RALLY",
       "count": 12,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
