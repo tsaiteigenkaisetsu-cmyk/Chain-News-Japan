@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:50:12.102Z",
+  "updated_at": "2026-09-21T22:59:48.359Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
-      "word": "AMID",
-      "count": 52,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 51,
       "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 51,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 29,
+      "word": "MILLION",
+      "count": 28,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "BANK",
       "count": 28,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "TRADE",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "SURGES",
       "count": 17,
       "category": null
@@ -333,6 +328,11 @@
       "word": "COINBASE",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
