@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:52:59.072Z",
+  "updated_at": "2026-09-21T18:59:35.015Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 10,
-      "buzz_rank": 3
+      "news_count_24h": 19,
+      "hype_score": 11,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 71,
+      "hype_score": 86,
       "buzz_rank": 8
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
