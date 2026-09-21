@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:59:45.366Z",
+  "updated_at": "2026-09-21T01:00:27.331Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 29,
+      "news_count_24h": 29,
+      "hype_score": 31,
       "buzz_rank": 1
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 67,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -54,33 +54,33 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 34,
+      "count": 36,
       "category": null
     },
     {
@@ -196,22 +196,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 20,
+      "count": 19,
       "category": "相場"
     },
     {
       "word": "WHY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -220,9 +220,24 @@
       "category": "価格"
     },
     {
+      "word": "AGAINST",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 16,
       "category": "ETF"
+    },
+    {
+      "word": "TENSIONS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 15,
+      "category": null
     },
     {
       "word": "CEO",
@@ -230,17 +245,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AGAINST",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "SURGE",
       "count": 14,
       "category": null
     },
@@ -250,17 +255,12 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
+      "word": "ANTHROPIC",
       "count": 14,
       "category": null
     },
     {
       "word": "UKRAINE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "SURGE",
       "count": 13,
       "category": null
     },
@@ -300,6 +300,21 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "CONFLICT",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "FUTURES",
       "count": 11,
       "category": null
@@ -310,27 +325,12 @@
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "ACT",
       "count": 10,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RUSSIA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "CONFLICT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "STRAIT",
       "count": 10,
       "category": null
     }
