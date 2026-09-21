@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:37:55.654Z",
+  "updated_at": "2026-09-21T01:58:06.350Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 10
+      "news_count_24h": 1,
+      "hype_score": 100,
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -225,12 +225,17 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 16,
       "category": "ETF"
     },
     {
-      "word": "CHINA",
+      "word": "BANK",
       "count": 15,
       "category": null
     },
@@ -250,13 +255,13 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "SURGE",
       "count": 14,
       "category": null
     },
     {
-      "word": "SURGE",
-      "count": 14,
+      "word": "SEPTEMBER",
+      "count": 13,
       "category": null
     },
     {
@@ -280,11 +285,6 @@
       "category": null
     },
     {
-      "word": "SEPTEMBER",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "WAR",
       "count": 12,
       "category": null
@@ -292,6 +292,11 @@
     {
       "word": "ETFS",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 11,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
+      "word": "PRICES",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 10,
       "category": "セキュリティ"
     },
     {
       "word": "ACT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "STRAIT",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
