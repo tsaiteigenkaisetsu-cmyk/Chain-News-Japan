@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:20:56.240Z",
+  "updated_at": "2026-09-21T22:33:12.775Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
-      "hype_score": 17,
+      "news_count_24h": 104,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -70,8 +70,8 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 12
     },
     {
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 24,
       "category": null
@@ -237,11 +242,6 @@
     {
       "word": "STOCK",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
