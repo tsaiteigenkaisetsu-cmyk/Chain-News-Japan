@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T02:56:55.617Z",
+  "updated_at": "2026-09-21T03:13:29.610Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 36,
+      "news_count_24h": 27,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 10
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 18,
+      "category": "ETF"
+    },
+    {
       "word": "PRICE",
       "count": 18,
       "category": "価格"
@@ -223,11 +228,6 @@
       "word": "CHINA",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
     },
     {
       "word": "AGAINST",
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 13,
       "category": null
@@ -288,6 +283,16 @@
       "word": "RALLY",
       "count": 12,
       "category": "相場"
+    },
+    {
+      "word": "MILLION",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 11,
+      "category": null
     },
     {
       "word": "TREASURY",
@@ -306,11 +311,6 @@
     },
     {
       "word": "HITS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "FUTURES",
       "count": 11,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
