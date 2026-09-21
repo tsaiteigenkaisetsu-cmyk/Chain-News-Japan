@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T20:41:52.031Z",
+  "updated_at": "2026-09-21T20:50:06.446Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 17,
+      "news_count_24h": 100,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 18
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 21,
       "category": null
@@ -250,12 +255,12 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "CHINA",
       "count": 20,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "LAUNCHES",
       "count": 20,
       "category": null
     },
@@ -271,11 +276,6 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "CHINA",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
