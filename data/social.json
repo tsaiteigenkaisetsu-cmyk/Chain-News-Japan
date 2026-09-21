@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T08:52:39.754Z",
+  "updated_at": "2026-09-21T08:59:38.329Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 500,
       "buzz_rank": 15
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 13,
+      "category": "セキュリティ"
+    },
+    {
       "word": "TREASURY",
       "count": 13,
       "category": null
@@ -290,14 +295,14 @@
       "category": null
     },
     {
-      "word": "OIL",
+      "word": "SURGE",
       "count": 12,
       "category": null
     },
     {
-      "word": "SECURITY",
+      "word": "OIL",
       "count": 12,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "KEY",
@@ -326,11 +331,6 @@
     },
     {
       "word": "STRAIT",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 12,
       "category": null
     }
