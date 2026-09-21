@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:41:54.659Z",
+  "updated_at": "2026-09-21T17:50:44.662Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 86,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -195,13 +195,13 @@
       "category": "相場"
     },
     {
-      "word": "TRUMP",
+      "word": "IRAN",
       "count": 37,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 36,
+      "word": "TRUMP",
+      "count": 37,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 20,
       "category": null
@@ -267,11 +272,6 @@
     {
       "word": "CHINA",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
