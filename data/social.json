@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T09:30:59.612Z",
+  "updated_at": "2026-09-21T09:48:00.651Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 28,
+      "news_count_24h": 46,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 23,
+      "count": 24,
       "category": "価格"
     },
     {
@@ -265,13 +265,18 @@
       "category": "ETF"
     },
     {
+      "word": "MILLION",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "UKRAINE",
       "count": 15,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 14,
+      "word": "RUSSIA",
+      "count": 13,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "RALLY",
       "count": 12,
       "category": "相場"
-    },
-    {
-      "word": "RUSSIA",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
