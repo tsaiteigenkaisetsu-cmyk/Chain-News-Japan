@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T14:53:39.178Z",
+  "updated_at": "2026-09-21T14:59:52.849Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 20,
+      "news_count_24h": 72,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 13,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 3
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 5
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 7
     },
     {
@@ -210,6 +210,11 @@
       "category": "価格"
     },
     {
+      "word": "STOCK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 24,
       "category": null
@@ -220,13 +225,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "WEEK",
+      "count": 22,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 22,
+      "word": "WHY",
+      "count": 20,
       "category": null
     },
     {
@@ -245,6 +250,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "UKRAINE",
       "count": 19,
       "category": null
@@ -260,16 +270,6 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 17,
       "category": null
@@ -277,6 +277,11 @@
     {
       "word": "SEPTEMBER",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 16,
       "category": null
     },
     {
@@ -305,7 +310,7 @@
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "TRADERS",
       "count": 15,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "SUPPLY",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
