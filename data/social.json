@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:23:44.757Z",
+  "updated_at": "2026-09-21T10:34:23.270Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 29,
+      "news_count_24h": 52,
+      "hype_score": 27,
       "buzz_rank": 1
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,37 +186,42 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "IRAN",
-      "count": 33,
+      "count": 35,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 31,
+      "count": 33,
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 24,
-      "category": "価格"
+      "word": "WARNS",
+      "count": 26,
+      "category": null
     },
     {
-      "word": "WARNS",
-      "count": 23,
-      "category": null
+      "word": "PRICE",
+      "count": 25,
+      "category": "価格"
     },
     {
       "word": "BANK",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 20,
       "category": null
     },
     {
@@ -225,22 +230,22 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "MILLION",
       "count": 19,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "STOCK",
       "count": 18,
       "category": null
     },
     {
       "word": "TENSIONS",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "WEEK",
       "count": 17,
       "category": null
     },
@@ -260,11 +265,6 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 16,
       "category": "ETF"
@@ -275,6 +275,16 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "OIL",
       "count": 14,
       "category": null
@@ -282,6 +292,16 @@
     {
       "word": "RUSSIA",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "FACES",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STRAIT",
+      "count": 13,
       "category": null
     },
     {
@@ -300,37 +320,17 @@
       "category": "セキュリティ"
     },
     {
-      "word": "TRADING",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "WAR",
       "count": 13,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "CONFLICT",
       "count": 12,
       "category": null
     },
     {
       "word": "SURGE",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "DOWN",
       "count": 12,
       "category": null
     }
