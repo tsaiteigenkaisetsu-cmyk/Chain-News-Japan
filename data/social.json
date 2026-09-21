@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:48:51.390Z",
+  "updated_at": "2026-09-21T12:59:34.422Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 62,
-      "hype_score": 23,
+      "news_count_24h": 63,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 30,
+      "news_count_24h": 11,
+      "hype_score": 27,
       "buzz_rank": 5
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
-      "buzz_rank": 2
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 100,
+      "hype_score": 150,
       "buzz_rank": 9
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "matic-network",
@@ -201,7 +201,7 @@
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 32,
       "category": "相場"
     },
     {
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 15,
       "category": null
@@ -308,6 +303,11 @@
       "word": "ETF",
       "count": 15,
       "category": "ETF"
+    },
+    {
+      "word": "AGAINST",
+      "count": 15,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SURGE",
+      "word": "STRATEGY",
       "count": 13,
       "category": null
     },
     {
-      "word": "TRADERS",
+      "word": "SURGE",
       "count": 13,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
