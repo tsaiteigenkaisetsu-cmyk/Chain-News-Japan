@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T22:59:32.060Z",
+  "updated_at": "2026-09-22T23:18:54.278Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 29,
+      "news_count_24h": 26,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 75,
       "buzz_rank": 13
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 40,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 26,
       "category": "相場"
@@ -256,11 +261,6 @@
     },
     {
       "word": "COINBASE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 25,
       "category": null
     },
@@ -280,18 +280,23 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 25,
+      "word": "WARNS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 23,
       "category": null
     },
     {
       "word": "PRICES",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 24,
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "CENTRAL",
       "count": 22,
       "category": null
     },
     {
-      "word": "CLARITY",
+      "word": "CEO",
       "count": 21,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "CLARITY",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
