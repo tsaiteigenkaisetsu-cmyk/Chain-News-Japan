@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:59:31.741Z",
+  "updated_at": "2026-09-22T10:23:34.911Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 108,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 43,
+      "news_count_24h": 20,
+      "hype_score": 45,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 86,
+      "hype_score": 57,
       "buzz_rank": 10
     },
     {
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 6
     },
     {
@@ -201,12 +201,17 @@
     },
     {
       "word": "IRAN",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 37,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 31,
       "category": null
     },
     {
@@ -215,13 +220,13 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 30,
+      "word": "LAUNCHES",
+      "count": 27,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 27,
+      "word": "OIL",
+      "count": 26,
       "category": null
     },
     {
@@ -235,8 +240,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 24,
+      "word": "WARNS",
+      "count": 23,
       "category": null
     },
     {
@@ -245,28 +250,23 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 22,
+      "word": "WHY",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 21,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "HITS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 20,
       "category": null
     },
     {
@@ -285,14 +285,14 @@
       "category": null
     },
     {
-      "word": "TRADERS",
-      "count": 19,
+      "word": "TENSIONS",
+      "count": 18,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 19,
-      "category": null
+      "word": "RALLY",
+      "count": 18,
+      "category": "相場"
     },
     {
       "word": "TRADE",
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "TRADERS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 18,
       "category": null
@@ -320,17 +325,12 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STOCKS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
       "count": 17,
       "category": null
     }
