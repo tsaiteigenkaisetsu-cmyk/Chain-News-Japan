@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:59:32.242Z",
+  "updated_at": "2026-09-22T11:20:33.072Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 105,
+      "news_count_24h": 103,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
+      "news_count_24h": 6,
+      "hype_score": 50,
       "buzz_rank": 10
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 18,
       "hype_score": 6,
-      "buzz_rank": 6
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -191,17 +191,17 @@
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 44,
       "category": "価格"
     },
     {
       "word": "IRAN",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -210,23 +210,23 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 33,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -240,22 +240,17 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "IPO",
       "count": 22,
       "category": null
     },
@@ -265,12 +260,17 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 21,
+      "word": "STOCK",
+      "count": 22,
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "WHY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 21,
       "category": null
     },
@@ -283,6 +283,11 @@
       "word": "PRICES",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
     },
     {
       "word": "TRADERS",
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 19,
-      "category": "相場"
-    },
-    {
       "word": "STABLECOIN",
       "count": 18,
       "category": null
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TRADE",
       "count": 18,
       "category": null
     },
     {
       "word": "TREASURY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "CHINA",
       "count": 18,
       "category": null
     }
