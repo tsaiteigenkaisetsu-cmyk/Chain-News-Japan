@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:42:52.575Z",
+  "updated_at": "2026-09-22T20:50:00.580Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
-      "hype_score": 15,
+      "news_count_24h": 105,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 26,
+      "news_count_24h": 24,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -191,12 +191,12 @@
     },
     {
       "word": "PRICE",
-      "count": 58,
+      "count": 57,
       "category": "価格"
     },
     {
       "word": "AMID",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 23,
       "category": null
@@ -292,11 +297,6 @@
     {
       "word": "TRADE",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "CLARITY",
-      "count": 22,
       "category": null
     },
     {
@@ -315,13 +315,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "CENTRAL",
       "count": 22,
       "category": null
     },
     {
-      "word": "CENTRAL",
-      "count": 22,
+      "word": "CLARITY",
+      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
