@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:23:55.409Z",
+  "updated_at": "2026-09-22T16:35:23.388Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 110,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 47,
+      "news_count_24h": 18,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 0,
+      "news_count_24h": 17,
+      "hype_score": 6,
       "buzz_rank": 5
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
-      "buzz_rank": 7
+      "news_count_24h": 16,
+      "hype_score": 6,
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -196,12 +196,12 @@
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 53,
       "category": "価格"
     },
     {
       "word": "IRAN",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -221,21 +221,21 @@
     },
     {
       "word": "OIL",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 29,
+      "count": 36,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 29,
       "category": null
     },
@@ -257,6 +257,11 @@
     {
       "word": "STABLECOIN",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 24,
       "category": null
     },
     {
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 22,
       "category": null
@@ -307,6 +307,16 @@
     {
       "word": "PRICES",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 21,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "CLARITY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CHINA",
+      "word": "WEEK",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
