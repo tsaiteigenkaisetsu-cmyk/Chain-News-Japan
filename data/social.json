@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:23:45.434Z",
+  "updated_at": "2026-09-22T14:35:13.798Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 108,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 21,
+      "news_count_24h": 27,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
-      "hype_score": 4,
+      "hype_score": 0,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 60,
       "category": "相場"
     },
     {
@@ -210,23 +210,23 @@
       "category": null
     },
     {
+      "word": "IRAN",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 37,
       "category": null
     },
     {
-      "word": "IRAN",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "OIL",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 25,
+      "word": "WARNS",
+      "count": 24,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "CEO",
       "count": 24,
       "category": null
     },
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 22,
       "category": "相場"
@@ -275,17 +280,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "HITS",
       "count": 22,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "CENTRAL",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 19,
       "category": null
@@ -328,11 +333,6 @@
       "word": "STOCKS",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 18,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
