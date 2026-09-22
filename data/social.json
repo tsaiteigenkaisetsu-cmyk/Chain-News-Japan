@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:43:54.901Z",
+  "updated_at": "2026-09-22T09:50:37.220Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 108,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 28,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 17,
+      "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 567,
+      "hype_score": 600,
       "buzz_rank": 12
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 86,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 6
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -265,22 +265,22 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "PRICES",
       "count": 20,
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "TRADERS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 19,
       "category": null
     },
@@ -290,18 +290,28 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "TREASURY",
       "count": 18,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "SOLANA",
       "count": 18,
       "category": null
     },
     {
       "word": "CHINA",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 17,
       "category": null
     },
     {
@@ -323,16 +333,6 @@
       "word": "RUSSIA",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "SURGES",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 17,
-      "category": "相場"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
