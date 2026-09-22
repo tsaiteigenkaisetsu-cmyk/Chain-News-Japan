@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:29:49.999Z",
+  "updated_at": "2026-09-22T08:48:07.984Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 11,
+      "news_count_24h": 26,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 45,
-      "buzz_rank": 4
+      "news_count_24h": 21,
+      "hype_score": 43,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 6
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "CEO",
       "count": 23,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 22,
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
@@ -257,11 +257,6 @@
     {
       "word": "HITS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 20,
       "category": null
     },
     {
@@ -280,6 +275,11 @@
       "category": null
     },
     {
+      "word": "TRADERS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 19,
       "category": null
@@ -287,6 +287,11 @@
     {
       "word": "WEEK",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 18,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "STABLECOIN",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
