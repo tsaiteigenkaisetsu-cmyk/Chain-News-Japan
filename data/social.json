@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T13:33:51.318Z",
+  "updated_at": "2026-09-22T13:44:05.504Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 107,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 28,
       "hype_score": 21,
       "buzz_rank": 2
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -201,7 +201,12 @@
     },
     {
       "word": "BANK",
-      "count": 40,
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 38,
       "category": null
     },
     {
@@ -211,11 +216,6 @@
     },
     {
       "word": "TRUMP",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "MILLION",
       "count": 36,
       "category": null
     },
@@ -250,17 +250,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 23,
+      "word": "WARNS",
+      "count": 24,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 23,
       "category": null
     },
@@ -270,9 +265,19 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "TRADE",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 21,
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "TRADE",
+      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -298,11 +303,6 @@
       "word": "PRICES",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 20,
-      "category": "相場"
     },
     {
       "word": "DATA",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
