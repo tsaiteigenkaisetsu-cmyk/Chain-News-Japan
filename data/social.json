@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T04:25:30.526Z",
+  "updated_at": "2026-09-22T04:37:34.119Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 111,
+      "news_count_24h": 110,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 11,
+      "news_count_24h": 29,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 17,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 850,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 567,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 53,
+      "count": 54,
       "category": "相場"
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 17,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "ANTHROPIC",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 16,
       "category": null
     }
   ],
