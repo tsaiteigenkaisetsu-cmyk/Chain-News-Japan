@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:56:55.830Z",
+  "updated_at": "2026-09-22T02:11:41.355Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
-      "hype_score": 17,
+      "news_count_24h": 110,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 50,
+      "news_count_24h": 21,
+      "hype_score": 0,
       "buzz_rank": 4
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "AMID",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "LAUNCHES",
       "count": 25,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 24,
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "TENSIONS",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 19,
       "category": null
@@ -286,6 +281,11 @@
     },
     {
       "word": "WEEK",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TENSIONS",
       "count": 19,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "SURGES",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 17,
       "category": null
@@ -333,6 +328,11 @@
       "word": "RUSSIA",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 16,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
