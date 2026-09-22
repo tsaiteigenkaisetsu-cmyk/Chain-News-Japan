@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:20:33.072Z",
+  "updated_at": "2026-09-22T11:31:51.976Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 103,
+      "news_count_24h": 104,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 4
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 50,
       "category": null
     },
     {
@@ -205,8 +205,13 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "TRUMP",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -215,8 +220,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 33,
+      "word": "OIL",
+      "count": 30,
       "category": null
     },
     {
@@ -225,8 +230,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 27,
+      "word": "CEO",
+      "count": 25,
       "category": null
     },
     {
@@ -245,7 +250,7 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
@@ -256,11 +261,6 @@
     },
     {
       "word": "WARNS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 22,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 19,
       "category": "相場"
@@ -305,6 +310,16 @@
       "category": null
     },
     {
+      "word": "CHINA",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 18,
       "category": null
@@ -315,22 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "TRADE",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TREASURY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CHINA",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
