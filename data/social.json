@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T09:24:56.582Z",
+  "updated_at": "2026-09-22T09:34:16.427Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 109,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 5
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 22,
       "category": null
@@ -261,11 +266,6 @@
     },
     {
       "word": "PRICES",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "OIL",
       "count": 20,
       "category": null
     },
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "CLARITY",
       "count": 17,
       "category": null
@@ -328,11 +333,6 @@
       "word": "RALLY",
       "count": 17,
       "category": "相場"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
