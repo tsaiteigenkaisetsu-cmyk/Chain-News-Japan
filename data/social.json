@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T20:20:51.443Z",
+  "updated_at": "2026-09-22T20:32:31.796Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 107,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 26,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 64,
+      "count": 66,
       "category": "相場"
     },
     {
@@ -240,17 +240,17 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 27,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 26,
       "category": null
     },
@@ -300,6 +300,16 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "PRICES",
       "count": 22,
       "category": null
@@ -323,16 +333,6 @@
       "word": "SOLANA",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
