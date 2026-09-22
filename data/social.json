@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T15:59:49.594Z",
+  "updated_at": "2026-09-22T16:23:55.409Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 16,
+      "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
-      "hype_score": 15,
+      "news_count_24h": 108,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 8
+      "news_count_24h": 6,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
-      "buzz_rank": 9
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 7
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,27 +186,27 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 59,
+      "count": 60,
       "category": "相場"
     },
     {
       "word": "AMID",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 52,
       "category": "価格"
     },
     {
       "word": "IRAN",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
@@ -216,17 +216,22 @@
     },
     {
       "word": "TRUMP",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 34,
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 29,
       "category": null
     },
     {
@@ -235,13 +240,13 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 28,
+      "word": "HITS",
+      "count": 26,
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 25,
+      "word": "WARNS",
+      "count": 26,
       "category": null
     },
     {
@@ -255,13 +260,28 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 25,
+      "word": "STRATEGY",
+      "count": 24,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 24,
+      "word": "CEO",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRADE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 23,
       "category": null
     },
     {
@@ -275,16 +295,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRADE",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 22,
       "category": null
@@ -295,23 +305,23 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "PRICES",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 22,
       "category": null
     },
     {
       "word": "CENTRAL",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CLARITY",
+      "count": 20,
       "category": null
     },
     {
@@ -322,16 +332,6 @@
     {
       "word": "CHINA",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 19,
       "category": null
     }
   ],
