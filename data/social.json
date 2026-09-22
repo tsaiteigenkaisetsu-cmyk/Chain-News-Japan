@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:57:08.683Z",
+  "updated_at": "2026-09-22T07:12:59.517Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 30,
       "hype_score": 10,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 48,
+      "news_count_24h": 20,
+      "hype_score": 50,
       "buzz_rank": 3
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -260,6 +260,16 @@
       "category": null
     },
     {
+      "word": "TRADERS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 20,
       "category": null
@@ -285,16 +295,6 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TRADERS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "WEEK",
       "count": 19,
       "category": null
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "CLARITY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "RUSSIA",
       "count": 17,
       "category": null
@@ -328,11 +333,6 @@
       "word": "RALLY",
       "count": 17,
       "category": "相場"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
