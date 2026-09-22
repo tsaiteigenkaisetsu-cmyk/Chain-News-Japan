@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:23:34.911Z",
+  "updated_at": "2026-09-22T10:33:56.853Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 18,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 106,
       "hype_score": 17,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 45,
+      "news_count_24h": 21,
+      "hype_score": 43,
       "buzz_rank": 3
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 100,
+      "news_count_24h": 5,
+      "hype_score": 80,
       "buzz_rank": 11
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 57,
+      "count": 58,
       "category": "相場"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 42,
+      "count": 43,
       "category": "価格"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -255,12 +255,17 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 21,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "BINANCE",
       "count": 21,
       "category": null
     },
@@ -270,7 +275,7 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -280,8 +285,28 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "SOLANA",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 19,
+      "category": "相場"
+    },
+    {
+      "word": "CLARITY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 18,
       "category": null
     },
     {
@@ -290,17 +315,7 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 18,
-      "category": "相場"
-    },
-    {
       "word": "TRADE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
       "count": 18,
       "category": null
     },
@@ -315,23 +330,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CHINA",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 17,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
