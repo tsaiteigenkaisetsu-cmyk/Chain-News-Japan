@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:59:45.011Z",
+  "updated_at": "2026-09-23T16:25:37.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
-      "hype_score": 11,
+      "news_count_24h": 82,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 17,
+      "news_count_24h": 22,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
-      "buzz_rank": 5
+      "news_count_24h": 18,
+      "hype_score": 11,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 50,
+      "news_count_24h": 19,
+      "hype_score": 53,
       "buzz_rank": 3
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 9
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 11,
-      "buzz_rank": 4
+      "news_count_24h": 17,
+      "hype_score": 12,
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,13 +186,8 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 63,
+      "count": 64,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 53,
-      "category": "価格"
     },
     {
       "word": "IRAN",
@@ -200,18 +195,23 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 52,
+      "category": "価格"
+    },
+    {
       "word": "AMID",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 45,
+      "count": 43,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
@@ -221,18 +221,13 @@
     },
     {
       "word": "MILLION",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 37,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "LAUNCHES",
       "count": 36,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "BANK",
@@ -240,17 +235,17 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 35,
+      "category": "相場"
+    },
+    {
       "word": "STOCKS",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 28,
       "category": null
     },
@@ -260,12 +255,17 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 26,
+      "word": "WARNS",
+      "count": 27,
       "category": null
     },
     {
       "word": "DEAL",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 25,
       "category": null
     },
@@ -275,13 +275,13 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "STABLECOIN",
       "count": 25,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 24,
+      "word": "COINBASE",
+      "count": 25,
       "category": null
     },
     {
@@ -305,7 +305,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "IPO",
       "count": 22,
       "category": null
     },
@@ -315,12 +315,17 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "BANKS",
       "count": 21,
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "NEXT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 21,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "EXCHANGE",
       "count": 21,
       "category": "取引所"
-    },
-    {
-      "word": "BANKS",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
