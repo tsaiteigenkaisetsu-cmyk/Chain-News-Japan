@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T17:20:49.557Z",
+  "updated_at": "2026-09-23T17:31:44.236Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 18,
+      "news_count_24h": 21,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -190,13 +190,13 @@
       "category": "相場"
     },
     {
-      "word": "IRAN",
-      "count": 51,
+      "word": "AMID",
+      "count": 50,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 50,
+      "word": "IRAN",
+      "count": 49,
       "category": null
     },
     {
@@ -230,6 +230,11 @@
       "category": "相場"
     },
     {
+      "word": "BANK",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 34,
       "category": null
@@ -240,13 +245,13 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 32,
+      "word": "BINANCE",
+      "count": 28,
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 28,
+      "word": "BILLION",
+      "count": 27,
       "category": null
     },
     {
@@ -260,18 +265,13 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "DEAL",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 25,
       "category": null
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "EXCHANGE",
+      "word": "PREDICTION",
       "count": 21,
-      "category": "取引所"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
