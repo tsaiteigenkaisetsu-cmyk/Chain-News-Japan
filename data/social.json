@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:33:24.253Z",
+  "updated_at": "2026-09-23T13:43:50.425Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 82,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -196,12 +196,12 @@
     },
     {
       "word": "IRAN",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
@@ -211,12 +211,17 @@
     },
     {
       "word": "MILLION",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "OIL",
       "count": 38,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 36,
       "category": null
     },
     {
@@ -227,11 +232,6 @@
     {
       "word": "LAUNCHES",
       "count": 36,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 34,
       "category": null
     },
     {
@@ -250,17 +250,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 27,
       "category": null
     },
@@ -270,22 +260,32 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WARNS",
       "count": 26,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 26,
       "category": null
     },
     {
       "word": "DEAL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 25,
       "category": null
     },
@@ -296,11 +296,6 @@
     },
     {
       "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 22,
       "category": null
     },
@@ -325,6 +320,11 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "BANKS",
       "count": 21,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
