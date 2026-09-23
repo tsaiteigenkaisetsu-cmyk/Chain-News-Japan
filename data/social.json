@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:47:21.132Z",
+  "updated_at": "2026-09-23T16:53:59.618Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 250,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 60,
+      "count": 61,
       "category": "相場"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "AMID",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -216,17 +216,12 @@
     },
     {
       "word": "OIL",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 37,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 36,
       "category": null
     },
     {
@@ -238,6 +233,11 @@
       "word": "RALLY",
       "count": 35,
       "category": "相場"
+    },
+    {
+      "word": "BANK",
+      "count": 34,
+      "category": null
     },
     {
       "word": "STOCKS",
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 26,
       "category": null
@@ -280,8 +275,8 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 25,
+      "word": "WARNS",
+      "count": 26,
       "category": null
     },
     {
@@ -291,6 +286,11 @@
     },
     {
       "word": "HITS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 24,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "BANKS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 21,
       "category": null
@@ -333,6 +328,11 @@
       "word": "PREDICTION",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "MARKETS",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
