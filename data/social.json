@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:44:37.836Z",
+  "updated_at": "2026-09-23T15:51:20.627Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 86,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 23,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
-      "buzz_rank": 5
+      "news_count_24h": 18,
+      "hype_score": 11,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 53,
+      "news_count_24h": 20,
+      "hype_score": 50,
       "buzz_rank": 3
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 11,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "RALLY",
-      "count": 35,
+      "count": 36,
       "category": "相場"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "TRADING",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -275,12 +275,12 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "STOCK",
       "count": 24,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "DEAL",
       "count": 24,
       "category": null
     },
@@ -300,17 +300,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 23,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "DATA",
       "count": 22,
       "category": null
     },
@@ -320,7 +315,7 @@
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "SOLANA",
       "count": 21,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "EXCHANGE",
       "count": 21,
       "category": "取引所"
+    },
+    {
+      "word": "BANKS",
+      "count": 21,
+      "category": null
     }
   ],
   "stats": {
