@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T07:14:53.924Z",
+  "updated_at": "2026-09-23T07:33:17.896Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 98,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 7
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 5
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "TOKENIZED",
       "count": 35,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 34,
+      "word": "BANK",
+      "count": 35,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 22,
       "category": null
@@ -325,6 +320,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 21,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
