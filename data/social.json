@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:49:58.351Z",
+  "updated_at": "2026-09-23T21:59:42.369Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 58,
+      "count": 56,
       "category": "相場"
     },
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 37,
       "category": null
@@ -225,13 +220,18 @@
       "category": null
     },
     {
+      "word": "OIL",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 35,
       "category": null
     },
     {
       "word": "RALLY",
-      "count": 33,
+      "count": 32,
       "category": "相場"
     },
     {
@@ -245,8 +245,13 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -261,11 +266,6 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 27,
       "category": null
     },
@@ -315,24 +315,24 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BANKS",
       "count": 21,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "HITS",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "RUSSIA",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 20,
+      "category": "規制"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
