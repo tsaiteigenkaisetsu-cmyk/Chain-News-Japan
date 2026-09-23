@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T01:13:42.758Z",
+  "updated_at": "2026-09-23T01:36:33.831Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 99,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 15
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 69,
+      "count": 67,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 57,
+      "count": 58,
       "category": "価格"
     },
     {
@@ -201,16 +201,16 @@
     },
     {
       "word": "IRAN",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "OIL",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "TRUMP",
       "count": 43,
       "category": null
     },
@@ -220,7 +220,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "BANK",
       "count": 42,
       "category": null
     },
@@ -231,12 +231,17 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "BINANCE",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 27,
       "category": null
     },
     {
@@ -250,22 +255,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 25,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "STOCKS",
       "count": 25,
       "category": null
     },
@@ -285,6 +280,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 24,
       "category": null
@@ -292,6 +292,11 @@
     {
       "word": "IPO",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "PRICES",
+      "count": 22,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "PRICES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 21,
       "category": null
     },
     {
       "word": "SOLANA",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRADE",
       "count": 21,
       "category": null
     }
