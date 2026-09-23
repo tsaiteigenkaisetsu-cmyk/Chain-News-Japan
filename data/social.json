@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:22:36.092Z",
+  "updated_at": "2026-09-23T13:33:24.253Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 84,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 35,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 9
     },
     {
@@ -97,17 +97,17 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 500,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 15
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
-      "buzz_rank": 6
+      "news_count_24h": 18,
+      "hype_score": 11,
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 54,
       "category": "価格"
     },
     {
@@ -230,13 +230,18 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "RALLY",
-      "count": 35,
+      "count": 34,
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 33,
+      "word": "STOCKS",
+      "count": 29,
       "category": null
     },
     {
@@ -245,8 +250,8 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 28,
+      "word": "OPENAI",
+      "count": 27,
       "category": null
     },
     {
@@ -265,22 +270,17 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "TRADING",
       "count": 26,
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "DEAL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 25,
       "category": null
     },
@@ -290,13 +290,8 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ANTHROPIC",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 23,
       "category": null
     },
     {
@@ -305,8 +300,18 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 21,
       "category": null
     },
     {
@@ -327,11 +332,6 @@
     {
       "word": "PREDICTION",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 20,
       "category": null
     }
   ],
