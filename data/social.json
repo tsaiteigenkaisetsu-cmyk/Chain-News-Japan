@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:49:50.282Z",
+  "updated_at": "2026-09-23T11:59:34.744Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 20,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
-      "buzz_rank": 5
+      "news_count_24h": 19,
+      "hype_score": 5,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 37,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 88,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -215,12 +215,12 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 38,
+      "word": "MILLION",
+      "count": 39,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "LAUNCHES",
       "count": 38,
       "category": null
     },
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 26,
       "category": null
@@ -285,13 +290,13 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 25,
+      "word": "IPO",
+      "count": 24,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 24,
+      "word": "STOCK",
+      "count": 21,
       "category": null
     },
     {
@@ -311,11 +316,6 @@
     },
     {
       "word": "PREDICTION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
