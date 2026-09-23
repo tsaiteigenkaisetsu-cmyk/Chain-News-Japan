@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T18:27:47.037Z",
+  "updated_at": "2026-09-23T18:40:56.204Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
-      "hype_score": 14,
+      "news_count_24h": 80,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 11,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 56,
-      "buzz_rank": 4
+      "news_count_24h": 19,
+      "hype_score": 53,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -61,8 +61,8 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 4,
+      "hype_score": 75,
       "buzz_rank": 10
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -211,12 +211,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 37,
+      "count": 41,
       "category": null
     },
     {
@@ -225,23 +220,28 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "BANK",
       "count": 35,
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 35,
-      "category": "相場"
-    },
-    {
-      "word": "BANK",
+      "word": "MILLION",
       "count": 34,
       "category": null
     },
     {
       "word": "LAUNCHES",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 34,
+      "category": "相場"
+    },
+    {
+      "word": "STOCKS",
+      "count": 33,
       "category": null
     },
     {
@@ -255,12 +255,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 28,
+      "word": "COINBASE",
+      "count": 27,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "BINANCE",
       "count": 27,
       "category": null
     },
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 25,
       "category": null
@@ -282,11 +287,6 @@
     {
       "word": "ETFS",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 24,
       "category": null
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "EXCHANGE",
+      "word": "PRICES",
       "count": 21,
-      "category": "取引所"
+      "category": null
     }
   ],
   "stats": {
