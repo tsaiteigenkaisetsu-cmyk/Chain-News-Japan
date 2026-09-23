@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:34:57.915Z",
+  "updated_at": "2026-09-23T14:45:55.851Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
+      "news_count_24h": 83,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 18,
       "hype_score": 56,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 80,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 11,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -190,14 +190,14 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 53,
+      "category": "価格"
+    },
+    {
       "word": "IRAN",
       "count": 52,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 52,
-      "category": "価格"
     },
     {
       "word": "AMID",
@@ -206,12 +206,17 @@
     },
     {
       "word": "TRUMP",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "OIL",
+      "count": 39,
       "category": null
     },
     {
@@ -225,19 +230,14 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 37,
-      "category": null
+      "word": "RALLY",
+      "count": 35,
+      "category": "相場"
     },
     {
       "word": "LAUNCHES",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "RALLY",
       "count": 34,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "STOCKS",
@@ -250,27 +250,22 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 27,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 26,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "WARNS",
       "count": 26,
       "category": null
     },
@@ -280,12 +275,17 @@
       "category": null
     },
     {
-      "word": "DEAL",
-      "count": 24,
+      "word": "HITS",
+      "count": 25,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 23,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "PRICES",
       "count": 20,
-      "category": "規制"
+      "category": null
     },
     {
-      "word": "IPO",
+      "word": "SOLANA",
       "count": 20,
       "category": null
     }
