@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:43:15.104Z",
+  "updated_at": "2026-09-24T11:49:56.346Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 92,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 64,
+      "count": 62,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PRICE",
-      "count": 51,
+      "count": 50,
       "category": "価格"
     },
     {
@@ -215,12 +215,12 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 37,
+      "word": "WARNS",
+      "count": 36,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "MILLION",
       "count": 36,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 27,
       "category": null
@@ -291,6 +286,11 @@
     },
     {
       "word": "CFTC",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "OIL",
       "count": 26,
       "category": null
     },
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "QUANTUM",
       "count": 22,
-      "category": "規制"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
