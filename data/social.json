@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T21:50:08.763Z",
+  "updated_at": "2026-09-24T21:59:50.961Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
       "news_count_24h": 98,
-      "hype_score": 14,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 7,
-      "buzz_rank": 4
+      "news_count_24h": 13,
+      "hype_score": 8,
+      "buzz_rank": 6
     },
     {
       "coin_id": "solana",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "OPENAI",
       "count": 32,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 31,
+      "word": "LAUNCHES",
+      "count": 32,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -271,6 +271,11 @@
     },
     {
       "word": "CFTC",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "BLACKROCK",
       "count": 26,
       "category": null
     },
@@ -282,11 +287,6 @@
     {
       "word": "SOLANA",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
