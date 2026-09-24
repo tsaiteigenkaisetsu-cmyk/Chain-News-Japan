@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T03:27:11.739Z",
+  "updated_at": "2026-09-24T03:39:43.187Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 73,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -271,7 +271,12 @@
     },
     {
       "word": "COINBASE",
-      "count": 29,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "DEAL",
+      "count": 26,
       "category": null
     },
     {
@@ -281,11 +286,6 @@
     },
     {
       "word": "ETFS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 25,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 3,
-    "reddit_reused_previous": 17,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
