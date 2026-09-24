@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:51:21.315Z",
+  "updated_at": "2026-09-24T22:59:47.098Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 21,
+      "news_count_24h": 18,
+      "hype_score": 22,
       "buzz_rank": 3
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 9
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -206,7 +206,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 43,
+      "count": 45,
       "category": null
     },
     {
@@ -221,16 +221,16 @@
     },
     {
       "word": "IRAN",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 34,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 33,
       "category": null
     },
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "BLACKROCK",
       "count": 26,
       "category": null
@@ -296,11 +301,6 @@
     },
     {
       "word": "COINBASE",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 25,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
