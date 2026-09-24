@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:26:53.539Z",
+  "updated_at": "2026-09-24T04:39:22.090Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 55,
+      "count": 54,
       "category": "相場"
     },
     {
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 30,
       "category": null
@@ -257,6 +252,11 @@
     {
       "word": "BANK",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 29,
       "category": null
     },
     {
@@ -316,7 +316,7 @@
     },
     {
       "word": "BANKS",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
