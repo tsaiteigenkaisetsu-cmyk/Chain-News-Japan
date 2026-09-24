@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:44:09.128Z",
+  "updated_at": "2026-09-24T10:51:47.806Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -135,14 +135,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -190,14 +190,14 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 53,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 53,
       "category": "相場"
-    },
-    {
-      "word": "TRUMP",
-      "count": 52,
-      "category": null
     },
     {
       "word": "PRICE",
@@ -250,6 +250,16 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 29,
       "category": null
@@ -257,11 +267,6 @@
     {
       "word": "COINBASE",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 28,
       "category": null
     },
     {
@@ -280,7 +285,7 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "CFTC",
       "count": 27,
       "category": null
     },
@@ -295,14 +300,14 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "HITS",
       "count": 26,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "SEC",
       "count": 25,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "ETFS",
@@ -325,11 +330,6 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 24,
-      "category": "規制"
-    },
-    {
       "word": "DATA",
       "count": 23,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
