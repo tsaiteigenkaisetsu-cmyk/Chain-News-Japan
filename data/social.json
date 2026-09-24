@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:53:37.151Z",
+  "updated_at": "2026-09-24T09:59:55.659Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 87,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 16,
+      "news_count_24h": 24,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 10,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 52,
       "category": "相場"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IRAN",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 32,
       "category": null
@@ -245,7 +240,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "TRADING",
       "count": 31,
       "category": null
     },
@@ -260,9 +255,9 @@
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "COINBASE",
       "count": 30,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "STOCK",
@@ -273,6 +268,11 @@
       "word": "BILLION",
       "count": 28,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 28,
+      "category": "相場"
     },
     {
       "word": "DEAL",
@@ -295,17 +295,17 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 25,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 24,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
