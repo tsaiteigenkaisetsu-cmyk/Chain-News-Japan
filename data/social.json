@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T14:24:07.153Z",
+  "updated_at": "2026-09-24T14:47:33.258Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 20,
+      "news_count_24h": 21,
+      "hype_score": 19,
       "buzz_rank": 3
     },
     {
@@ -52,17 +52,17 @@
       "symbol": "ADA",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 183,
+      "news_count_24h": 7,
+      "hype_score": 157,
       "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 11
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 64,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 59,
       "category": "相場"
     },
     {
       "word": "TRUMP",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 50,
+      "count": 51,
       "category": "価格"
     },
     {
@@ -211,12 +211,12 @@
     },
     {
       "word": "IRAN",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 38,
+      "count": 40,
       "category": null
     },
     {
@@ -227,6 +227,11 @@
     {
       "word": "MILLION",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 30,
       "category": null
     },
     {
@@ -250,7 +255,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "DATA",
       "count": 29,
       "category": null
     },
@@ -270,12 +275,17 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "HITS",
       "count": 27,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "BANK",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "CFTC",
       "count": 27,
       "category": null
     },
@@ -290,33 +300,13 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "PRICES",
       "count": 25,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "STABLECOIN",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "OIL",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "DEMAND",
-      "count": 24,
       "category": null
     },
     {
@@ -325,12 +315,22 @@
       "category": null
     },
     {
-      "word": "BANKS",
+      "word": "DEMAND",
       "count": 24,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "OIL",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BLACKROCK",
       "count": 23,
       "category": null
     }
