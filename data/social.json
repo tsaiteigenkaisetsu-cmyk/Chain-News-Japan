@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:51:57.953Z",
+  "updated_at": "2026-09-24T04:59:37.358Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 15,
+      "news_count_24h": 77,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 67,
+      "news_count_24h": 16,
+      "hype_score": 63,
       "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 400,
       "buzz_rank": 13
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 157,
-      "buzz_rank": 6
+      "news_count_24h": 6,
+      "hype_score": 183,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -195,13 +195,13 @@
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "TRUMP",
       "count": 45,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 44,
+      "word": "IRAN",
+      "count": 45,
       "category": null
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 31,
       "category": null
@@ -246,11 +251,6 @@
     },
     {
       "word": "STOCK",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 30,
       "category": null
     },
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "CFTC",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "NEXT",
       "count": 24,
       "category": null
@@ -303,11 +308,6 @@
       "word": "SEC",
       "count": 24,
       "category": "規制"
-    },
-    {
-      "word": "CFTC",
-      "count": 24,
-      "category": null
     },
     {
       "word": "DATA",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
