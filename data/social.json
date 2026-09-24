@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T19:19:04.767Z",
+  "updated_at": "2026-09-24T19:31:02.467Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 15,
+      "news_count_24h": 98,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 45,
+      "news_count_24h": 23,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 60,
       "category": "相場"
     },
     {
@@ -201,8 +201,13 @@
     },
     {
       "word": "TRUMP",
-      "count": 44,
+      "count": 45,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 39,
+      "category": "価格"
     },
     {
       "word": "TREASURY",
@@ -215,13 +220,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 38,
-      "category": "価格"
-    },
-    {
       "word": "WARNS",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 33,
       "category": null
     },
     {
@@ -230,13 +235,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -246,11 +246,6 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 29,
       "category": null
     },
@@ -270,8 +265,18 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
       "category": null
     },
     {
@@ -287,11 +292,6 @@
     {
       "word": "BANK",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 25,
       "category": null
     },
     {
@@ -320,7 +320,7 @@
       "category": "規制"
     },
     {
-      "word": "ANTHROPIC",
+      "word": "DEMAND",
       "count": 22,
       "category": null
     },
