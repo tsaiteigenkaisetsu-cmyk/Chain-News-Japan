@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T10:22:58.868Z",
+  "updated_at": "2026-09-24T10:34:08.063Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 18,
+      "news_count_24h": 21,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 10,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 61,
+      "news_count_24h": 17,
+      "hype_score": 65,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -216,12 +216,17 @@
     },
     {
       "word": "MILLION",
-      "count": 36,
+      "count": 37,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 32,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -235,32 +240,22 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 31,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 31,
+      "word": "TRADING",
+      "count": 30,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 31,
+      "word": "STOCKS",
+      "count": 30,
       "category": null
     },
     {
       "word": "COINBASE",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 29,
       "category": null
     },
@@ -280,6 +275,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 27,
       "category": null
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "TREASURY",
       "count": 26,
       "category": null
     },
@@ -300,12 +300,17 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "ETFS",
       "count": 25,
       "category": null
     },
     {
       "word": "PRICES",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "HITS",
       "count": 24,
       "category": null
     },
@@ -316,11 +321,6 @@
     },
     {
       "word": "BINANCE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HITS",
       "count": 24,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
