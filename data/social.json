@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:32:58.938Z",
+  "updated_at": "2026-09-24T12:52:24.560Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 18,
+      "news_count_24h": 23,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 79,
+      "news_count_24h": 15,
+      "hype_score": 73,
       "buzz_rank": 5
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 62,
+      "count": 64,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -200,18 +200,23 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 49,
-      "category": "価格"
-    },
-    {
       "word": "IRAN",
       "count": 48,
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 48,
+      "category": "価格"
+    },
+    {
       "word": "TOKENIZED",
       "count": 46,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 36,
       "category": null
     },
     {
@@ -220,13 +225,8 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 30,
+      "word": "TREASURY",
+      "count": 31,
       "category": null
     },
     {
@@ -235,17 +235,12 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 30,
+      "word": "STOCKS",
+      "count": 29,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "TRADING",
       "count": 29,
       "category": null
     },
@@ -260,8 +255,18 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "LAUNCHES",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 27,
       "category": null
     },
     {
@@ -272,16 +277,6 @@
     {
       "word": "WHY",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 26,
       "category": null
     },
     {
@@ -300,12 +295,22 @@
       "category": "相場"
     },
     {
-      "word": "DEAL",
+      "word": "OIL",
       "count": 25,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "CFTC",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "BANKS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 24,
       "category": null
     },
@@ -315,8 +320,8 @@
       "category": null
     },
     {
-      "word": "OIL",
-      "count": 24,
+      "word": "NEXT",
+      "count": 23,
       "category": null
     },
     {
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "BANKS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "DATA",
+      "word": "DEMAND",
       "count": 23,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
