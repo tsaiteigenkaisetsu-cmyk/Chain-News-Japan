@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:59:47.098Z",
+  "updated_at": "2026-09-24T23:19:37.566Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 14,
+      "news_count_24h": 97,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 22,
+      "news_count_24h": 19,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 45,
+      "news_count_24h": 23,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 114,
+      "news_count_24h": 8,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -196,17 +196,17 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 47,
       "category": "価格"
     },
     {
       "word": "TRUMP",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 32,
       "category": null
@@ -246,11 +251,6 @@
     },
     {
       "word": "DATA",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 31,
       "category": null
     },
@@ -270,17 +270,17 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 27,
       "category": null
     },
     {
       "word": "MARKETS",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 26,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
