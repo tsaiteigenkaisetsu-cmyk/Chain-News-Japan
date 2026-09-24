@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T18:59:34.059Z",
+  "updated_at": "2026-09-24T19:19:04.767Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 15,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 16,
+      "news_count_24h": 96,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 14,
-      "buzz_rank": 2
+      "news_count_24h": 20,
+      "hype_score": 15,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 48,
-      "buzz_rank": 3
+      "news_count_24h": 22,
+      "hype_score": 45,
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,31 +186,31 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 68,
+      "count": 66,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 60,
+      "count": 61,
       "category": "相場"
     },
     {
       "word": "TOKENIZED",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 45,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 38,
+      "count": 44,
       "category": null
     },
     {
       "word": "TREASURY",
+      "count": 39,
+      "category": null
+    },
+    {
+      "word": "IRAN",
       "count": 38,
       "category": null
     },
@@ -226,7 +226,7 @@
     },
     {
       "word": "OPENAI",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -235,8 +235,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 31,
+      "word": "WHY",
+      "count": 30,
       "category": null
     },
     {
@@ -245,8 +245,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 29,
+      "word": "LAUNCHES",
+      "count": 30,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 26,
       "category": null
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "SOLANA",
       "count": 25,
       "category": null
     },
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BLACKROCK",
       "count": 24,
       "category": null
@@ -315,14 +315,14 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 23,
       "category": "規制"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
     },
     {
       "word": "NEXT",
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "RALLY",
       "count": 22,
-      "category": null
+      "category": "相場"
     }
   ],
   "stats": {
