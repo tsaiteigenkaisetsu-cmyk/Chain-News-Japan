@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:31:24.973Z",
+  "updated_at": "2026-09-24T17:41:47.671Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 93,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 14,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 114,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 133,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -195,13 +195,13 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 49,
+      "word": "TRUMP",
+      "count": 50,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 49,
+      "word": "TOKENIZED",
+      "count": 47,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "OPENAI",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "PRICES",
       "count": 25,
       "category": null
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 24,
       "category": null
@@ -313,6 +313,11 @@
       "word": "QUANTUM",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
     },
     {
       "word": "BLACKROCK",
@@ -328,11 +333,6 @@
       "word": "SOLANA",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 23,
-      "category": "相場"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
