@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T20:23:59.576Z",
+  "updated_at": "2026-09-24T20:34:36.734Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 95,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -115,16 +115,16 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 8
+      "news_count_24h": 12,
+      "hype_score": 8,
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 15
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 65,
+      "count": 67,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 61,
+      "count": 60,
       "category": "相場"
     },
     {
       "word": "TOKENIZED",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 41,
       "category": "価格"
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 22,
+      "category": "規制"
+    },
+    {
       "word": "DEMAND",
       "count": 22,
       "category": null
@@ -328,11 +333,6 @@
       "word": "RALLY",
       "count": 22,
       "category": "相場"
-    },
-    {
-      "word": "RATE",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
