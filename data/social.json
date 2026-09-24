@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T13:59:42.649Z",
+  "updated_at": "2026-09-24T14:24:07.153Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 15,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
-      "hype_score": 16,
+      "news_count_24h": 94,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 220,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 183,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 12
     },
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 400,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -190,28 +190,28 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 56,
+      "category": "相場"
+    },
+    {
       "word": "TRUMP",
       "count": 55,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 55,
-      "category": "相場"
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 49,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 49,
+      "count": 50,
       "category": "価格"
     },
     {
+      "word": "TOKENIZED",
+      "count": 48,
+      "category": null
+    },
+    {
       "word": "IRAN",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
@@ -220,22 +220,22 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "TREASURY",
       "count": 34,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 31,
+      "word": "MILLION",
+      "count": 33,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "STOCK",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 30,
       "category": null
     },
@@ -250,7 +250,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "LAUNCHES",
       "count": 29,
       "category": null
     },
@@ -260,7 +260,7 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "BILLION",
       "count": 28,
       "category": null
     },
@@ -270,17 +270,22 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "DATA",
       "count": 27,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 26,
+      "word": "STABLECOIN",
+      "count": 27,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "RALLY",
+      "count": 26,
+      "category": "相場"
+    },
+    {
+      "word": "ETFS",
       "count": 26,
       "category": null
     },
@@ -290,8 +295,8 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 26,
+      "word": "BANK",
+      "count": 25,
       "category": null
     },
     {
@@ -310,27 +315,22 @@
       "category": null
     },
     {
+      "word": "DEMAND",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "SOLANA",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "BANKS",
-      "count": 25,
+      "count": 24,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 25,
-      "category": "相場"
     },
     {
       "word": "MARKETS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 23,
       "category": null
     }
