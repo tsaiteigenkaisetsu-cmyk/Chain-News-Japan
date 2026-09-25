@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:59:54.805Z",
+  "updated_at": "2026-09-25T23:19:16.471Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 12,
+      "news_count_24h": 40,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
@@ -195,14 +195,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 45,
-      "category": "価格"
+      "word": "BITGET",
+      "count": 44,
+      "category": null
     },
     {
-      "word": "BITGET",
-      "count": 43,
-      "category": null
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
     },
     {
       "word": "TOKENIZED",
@@ -230,23 +230,23 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "HACK",
       "count": 29,
       "category": "セキュリティ"
     },
     {
-      "word": "OPENAI",
-      "count": 26,
+      "word": "CEO",
+      "count": 27,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 25,
       "category": null
     },
     {
@@ -290,17 +290,12 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
+      "word": "CFTC",
       "count": 21,
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "WHAT",
       "count": 21,
       "category": null
     },
@@ -315,7 +310,7 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "ANTHROPIC",
       "count": 20,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "INSTITUTIONAL",
       "count": 19,
       "category": "機関投資家"
+    },
+    {
+      "word": "HITS",
+      "count": 19,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
