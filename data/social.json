@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T12:32:50.082Z",
+  "updated_at": "2026-09-25T12:52:04.244Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 86,
-      "hype_score": 10,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 26,
+      "news_count_24h": 22,
+      "hype_score": 27,
       "buzz_rank": 3
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -255,17 +255,17 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 27,
       "category": null
     },
     {
       "word": "WARNS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 27,
       "category": null
     },
@@ -295,17 +295,17 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 23,
       "category": null
     },
     {
       "word": "CEO",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
