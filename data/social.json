@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T21:59:50.748Z",
+  "updated_at": "2026-09-25T22:20:59.968Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
+      "news_count_24h": 71,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 13,
+      "news_count_24h": 41,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
@@ -200,18 +200,18 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 44,
-      "category": "相場"
-    },
-    {
       "word": "BITGET",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 42,
+      "category": "相場"
+    },
+    {
       "word": "TOKENIZED",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -226,32 +226,32 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 29,
+      "count": 32,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 28,
+      "count": 29,
       "category": "セキュリティ"
     },
     {
       "word": "CEO",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 26,
+      "word": "OPENAI",
+      "count": 27,
       "category": null
     },
     {
       "word": "IRAN",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 25,
       "category": null
     },
     {
@@ -261,11 +261,6 @@
     },
     {
       "word": "WHY",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 25,
       "category": null
     },
@@ -280,13 +275,18 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 23,
+      "word": "SOLANA",
+      "count": 24,
       "category": null
     },
     {
       "word": "WARNS",
-      "count": 22,
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 23,
       "category": null
     },
     {
@@ -296,6 +296,11 @@
     },
     {
       "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CFTC",
       "count": 21,
       "category": null
     },
@@ -305,7 +310,7 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "TOKEN",
       "count": 20,
       "category": null
     },
@@ -315,24 +320,19 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "BLACKROCK",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "INSTITUTIONAL",
+      "count": 19,
+      "category": "機関投資家"
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     }
   ],
   "stats": {
