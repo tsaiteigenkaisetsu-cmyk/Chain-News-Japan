@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:32:52.362Z",
+  "updated_at": "2026-09-25T20:43:33.177Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 14
     },
     {
@@ -220,19 +220,24 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "TRUMP",
       "count": 34,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 34,
+      "word": "STABLECOIN",
+      "count": 33,
       "category": null
     },
     {
       "word": "HACK",
       "count": 29,
       "category": "セキュリティ"
+    },
+    {
+      "word": "OPENAI",
+      "count": 26,
+      "category": null
     },
     {
       "word": "WHY",
@@ -242,11 +247,6 @@
     {
       "word": "IRAN",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 25,
       "category": null
     },
     {
@@ -265,13 +265,18 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 23,
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 24,
       "category": null
     },
     {
@@ -280,8 +285,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 23,
+      "word": "STOCK",
+      "count": 22,
       "category": null
     },
     {
@@ -300,17 +305,7 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BLACKROCK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 21,
       "category": null
     },
@@ -320,17 +315,22 @@
       "category": "ETF"
     },
     {
+      "word": "COINBASE",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 20,
       "category": null
     },
     {
-      "word": "INSTITUTIONAL",
+      "word": "CFTC",
       "count": 19,
-      "category": "機関投資家"
+      "category": null
     },
     {
-      "word": "YIELD",
+      "word": "TOKEN",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
