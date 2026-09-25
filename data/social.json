@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T13:51:41.260Z",
+  "updated_at": "2026-09-25T13:59:45.720Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 61,
+      "count": 60,
       "category": null
     },
     {
@@ -201,21 +201,21 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 43,
+      "count": 45,
       "category": null
     },
     {
       "word": "TRUMP",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 42,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 41,
       "category": null
     },
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "LAUNCHES",
       "count": 28,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 28,
+      "word": "STOCK",
+      "count": 27,
       "category": null
     },
     {
@@ -271,17 +271,17 @@
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "MARKETS",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "INSTITUTIONAL",
-      "count": 21,
-      "category": "機関投資家"
-    },
-    {
       "word": "YIELD",
       "count": 21,
       "category": null
@@ -333,6 +328,11 @@
       "word": "CAPITAL",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 21,
+      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
