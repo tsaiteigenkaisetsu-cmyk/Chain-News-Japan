@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T04:26:42.813Z",
+  "updated_at": "2026-09-25T04:40:49.585Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 9,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "matic-network",
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 67,
+      "count": 66,
       "category": null
     },
     {
@@ -225,12 +225,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 33,
+      "word": "STABLECOIN",
+      "count": 34,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "WHY",
       "count": 33,
       "category": null
     },
@@ -255,13 +255,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WARNS",
       "count": 29,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 29,
+      "word": "TRADING",
+      "count": 28,
       "category": null
     },
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 25,
       "category": null
@@ -292,6 +287,11 @@
     {
       "word": "SOLANA",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "BLACKROCK",
+      "count": 24,
       "category": null
     },
     {
@@ -315,12 +315,12 @@
       "category": "規制"
     },
     {
-      "word": "DEMAND",
-      "count": 23,
+      "word": "HITS",
+      "count": 22,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "DEMAND",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
