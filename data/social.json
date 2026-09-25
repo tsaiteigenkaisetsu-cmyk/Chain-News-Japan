@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:42:52.537Z",
+  "updated_at": "2026-09-25T15:49:40.953Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
+      "news_count_24h": 79,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 15,
+      "news_count_24h": 35,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 6,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
@@ -205,18 +205,18 @@
       "category": "相場"
     },
     {
+      "word": "TOKENIZED",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 41,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -235,11 +235,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 27,
       "category": null
@@ -250,8 +245,18 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "IRAN",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 25,
       "category": null
     },
     {
@@ -265,22 +270,17 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 24,
       "category": null
     },
     {
       "word": "WHAT",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 23,
       "category": null
     },
@@ -300,17 +300,12 @@
       "category": "ETF"
     },
     {
-      "word": "TRADING",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 21,
       "category": null
     },
     {
-      "word": "BLACKROCK",
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "BILLION",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
