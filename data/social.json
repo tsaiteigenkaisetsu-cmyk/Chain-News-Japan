@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:44:22.076Z",
+  "updated_at": "2026-09-25T10:51:48.885Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 17,
+      "news_count_24h": 25,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 7
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
+    },
+    {
       "word": "TREASURY",
       "count": 44,
       "category": null
@@ -215,11 +220,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
-    },
-    {
       "word": "STABLECOIN",
       "count": 36,
       "category": null
@@ -227,11 +227,6 @@
     {
       "word": "IRAN",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 31,
       "category": null
     },
     {
@@ -252,6 +247,11 @@
     {
       "word": "DATA",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 30,
       "category": null
     },
     {
@@ -295,17 +295,7 @@
       "category": null
     },
     {
-      "word": "CAPITAL",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "STOCKS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "DEAL",
       "count": 23,
       "category": null
     },
@@ -315,7 +305,12 @@
       "category": null
     },
     {
-      "word": "RATE",
+      "word": "CAPITAL",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "DEAL",
       "count": 22,
       "category": null
     },
@@ -330,6 +325,11 @@
       "category": "セキュリティ"
     },
     {
+      "word": "RATE",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "INSTITUTIONAL",
       "count": 21,
       "category": "機関投資家"
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
