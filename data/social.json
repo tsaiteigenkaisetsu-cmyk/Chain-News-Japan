@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:20:52.013Z",
+  "updated_at": "2026-09-25T11:32:54.187Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 83,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 83,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 229,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 267,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 44,
+      "count": 46,
       "category": "価格"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -230,18 +230,18 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "DATA",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 30,
       "category": null
     },
     {
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 28,
+      "word": "TRADING",
+      "count": 27,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WARNS",
       "count": 27,
       "category": null
     },
@@ -296,12 +296,12 @@
     },
     {
       "word": "CEO",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
       "word": "CAPITAL",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "DEAL",
       "count": 21,
       "category": null
@@ -333,6 +328,11 @@
       "word": "INSTITUTIONAL",
       "count": 21,
       "category": "機関投資家"
+    },
+    {
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
     }
   ],
   "stats": {
