@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T23:30:50.590Z",
+  "updated_at": "2026-09-25T23:41:36.379Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 73,
-      "hype_score": 10,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 400,
+      "hype_score": 500,
       "buzz_rank": 13
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "HACK",
       "count": 29,
       "category": "セキュリティ"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 28,
+      "category": null
     },
     {
       "word": "CEO",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
