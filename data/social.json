@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:27:46.286Z",
+  "updated_at": "2026-09-25T07:41:53.785Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 21,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
-      "buzz_rank": 3
+      "news_count_24h": 20,
+      "hype_score": 30,
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
-      "buzz_rank": 7
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tether",
@@ -196,7 +196,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "TREASURY",
       "count": 42,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 41,
+      "word": "MILLION",
+      "count": 42,
       "category": null
     },
     {
@@ -290,14 +290,14 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "CFTC",
       "count": 24,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "STOCKS",
@@ -310,12 +310,12 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "SEC",
       "count": 23,
-      "category": null
+      "category": "規制"
     },
     {
-      "word": "SOLANA",
+      "word": "ANTHROPIC",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
