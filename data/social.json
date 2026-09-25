@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T16:55:07.204Z",
+  "updated_at": "2026-09-25T17:01:50.962Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
-      "hype_score": 11,
+      "news_count_24h": 73,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -190,19 +190,19 @@
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 45,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 44,
-      "category": "相場"
-    },
-    {
-      "word": "MILLION",
       "count": 43,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "TOKENIZED",
@@ -211,7 +211,7 @@
     },
     {
       "word": "TREASURY",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "BITGET",
       "count": 34,
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 32,
+      "word": "STABLECOIN",
+      "count": 34,
       "category": null
     },
     {
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "HACK",
+      "count": 24,
+      "category": "セキュリティ"
+    },
+    {
       "word": "ANTHROPIC",
       "count": 24,
       "category": null
@@ -295,11 +300,6 @@
       "category": null
     },
     {
-      "word": "HACK",
-      "count": 22,
-      "category": "セキュリティ"
-    },
-    {
       "word": "BINANCE",
       "count": 22,
       "category": null
@@ -310,11 +310,6 @@
       "category": "ETF"
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "HITS",
       "count": 21,
       "category": null
@@ -322,6 +317,11 @@
     {
       "word": "TRADING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 20,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
