@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T18:39:01.213Z",
+  "updated_at": "2026-09-25T18:52:04.636Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
+      "news_count_24h": 67,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -190,18 +190,18 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 45,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 45,
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 42,
+      "count": 43,
       "category": "相場"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "BITGET",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -230,9 +230,9 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 27,
-      "category": null
+      "word": "HACK",
+      "count": 26,
+      "category": "セキュリティ"
     },
     {
       "word": "OPENAI",
@@ -250,19 +250,14 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 25,
+      "word": "DATA",
+      "count": 26,
       "category": null
     },
     {
       "word": "SOLANA",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 25,
-      "category": "セキュリティ"
     },
     {
       "word": "STRATEGY",
@@ -272,6 +267,11 @@
     {
       "word": "LAUNCHES",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 24,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 3,
-    "reddit_reused_previous": 17,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
