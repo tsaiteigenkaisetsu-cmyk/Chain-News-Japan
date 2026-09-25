@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:19:52.267Z",
+  "updated_at": "2026-09-25T17:32:18.129Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 14,
+      "news_count_24h": 34,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 16,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
-      "hype_score": 0,
+      "hype_score": 9,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "BITGET",
       "count": 36,
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 35,
+      "word": "TRUMP",
+      "count": 36,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "HACK",
       "count": 25,
       "category": "セキュリティ"
-    },
-    {
-      "word": "WHAT",
-      "count": 25,
-      "category": null
     },
     {
       "word": "STRATEGY",
@@ -270,22 +270,17 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 25,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "WHAT",
       "count": 24,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "ANTHROPIC",
       "count": 24,
       "category": null
     },
@@ -296,6 +291,11 @@
     },
     {
       "word": "COINBASE",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
