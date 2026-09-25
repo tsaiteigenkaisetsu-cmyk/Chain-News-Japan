@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:20:59.968Z",
+  "updated_at": "2026-09-25T22:32:22.274Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 11
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 40,
+      "hype_score": 20,
       "buzz_rank": 8
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "BLACKROCK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 20,
       "category": null
@@ -320,19 +325,14 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "INSTITUTIONAL",
       "count": 19,
       "category": "機関投資家"
     },
     {
-      "word": "ETF",
+      "word": "YIELD",
       "count": 19,
-      "category": "ETF"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
