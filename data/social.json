@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:17:50.534Z",
+  "updated_at": "2026-09-25T19:27:19.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
-      "hype_score": 13,
+      "news_count_24h": 66,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -195,14 +195,14 @@
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 44,
       "category": "相場"
-    },
-    {
-      "word": "MILLION",
-      "count": 44,
-      "category": null
     },
     {
       "word": "TOKENIZED",
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "BITGET",
       "count": 38,
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 37,
+      "word": "TREASURY",
+      "count": 38,
       "category": null
     },
     {
@@ -228,6 +228,11 @@
       "word": "STABLECOIN",
       "count": 33,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 26,
+      "category": "セキュリティ"
     },
     {
       "word": "WHY",
@@ -245,11 +250,6 @@
       "category": null
     },
     {
-      "word": "HACK",
-      "count": 25,
-      "category": "セキュリティ"
-    },
-    {
       "word": "OPENAI",
       "count": 25,
       "category": null
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 24,
       "category": null
@@ -275,23 +280,18 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "ANTHROPIC",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
