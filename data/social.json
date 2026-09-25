@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T18:59:43.239Z",
+  "updated_at": "2026-09-25T19:17:50.534Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 21,
+      "news_count_24h": 36,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -191,18 +191,18 @@
     },
     {
       "word": "PRICE",
-      "count": 45,
+      "count": 46,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 44,
+      "category": "相場"
     },
     {
       "word": "MILLION",
       "count": 44,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 43,
-      "category": "相場"
     },
     {
       "word": "TOKENIZED",
@@ -221,17 +221,12 @@
     },
     {
       "word": "TRUMP",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 26,
       "category": null
     },
     {
@@ -255,12 +250,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "SOLANA",
+      "word": "OPENAI",
       "count": 25,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "SOLANA",
       "count": 25,
       "category": null
     },
@@ -275,7 +270,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "STRATEGY",
       "count": 24,
       "category": null
     },
@@ -285,17 +280,22 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 23,
       "category": null
     },
     {
       "word": "BINANCE",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 22,
       "category": null
     },
@@ -320,18 +320,18 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "BLACKROCK",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 20,
+      "word": "INSTITUTIONAL",
+      "count": 19,
+      "category": "機関投資家"
+    },
+    {
+      "word": "YIELD",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
