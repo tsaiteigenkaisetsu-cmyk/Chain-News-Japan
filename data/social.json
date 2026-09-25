@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:32:22.274Z",
+  "updated_at": "2026-09-25T22:42:33.336Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
+      "news_count_24h": 72,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 150,
       "buzz_rank": 11
     },
     {
@@ -201,18 +201,18 @@
     },
     {
       "word": "BITGET",
-      "count": 42,
+      "count": 43,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 42,
-      "category": "相場"
     },
     {
       "word": "TOKENIZED",
       "count": 41,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 41,
+      "category": "相場"
     },
     {
       "word": "TREASURY",
@@ -226,18 +226,18 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 29,
       "category": null
     },
     {
       "word": "HACK",
       "count": 29,
       "category": "セキュリティ"
-    },
-    {
-      "word": "CEO",
-      "count": 28,
-      "category": null
     },
     {
       "word": "OPENAI",
@@ -260,17 +260,17 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 24,
       "category": null
     },
     {
       "word": "STRATEGY",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 24,
       "category": null
     },
@@ -325,14 +325,14 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 19,
+      "category": "規制"
+    },
+    {
       "word": "INSTITUTIONAL",
       "count": 19,
       "category": "機関投資家"
-    },
-    {
-      "word": "YIELD",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
