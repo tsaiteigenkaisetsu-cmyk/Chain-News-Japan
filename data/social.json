@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T08:30:40.882Z",
+  "updated_at": "2026-09-25T08:48:56.060Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 96,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 32,
+      "news_count_24h": 20,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -205,18 +205,18 @@
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 45,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 45,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "TREASURY",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "STOCK",
       "count": 32,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 31,
+      "word": "OPENAI",
+      "count": 32,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "BITGET",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "MARKETS",
       "count": 27,
       "category": null
@@ -275,23 +280,18 @@
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 26,
+      "word": "ANTHROPIC",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 25,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 24,
       "category": null
     },
     {
@@ -310,9 +310,9 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "DEAL",
       "count": 23,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "COINBASE",
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "DEAL",
+      "word": "SEC",
       "count": 22,
-      "category": null
+      "category": "規制"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
