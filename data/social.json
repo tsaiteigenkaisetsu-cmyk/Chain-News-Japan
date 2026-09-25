@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T15:00:39.136Z",
+  "updated_at": "2026-09-25T15:23:15.337Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
-      "hype_score": 0,
+      "news_count_24h": 79,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 16,
+      "news_count_24h": 33,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 133,
-      "buzz_rank": 11
+      "news_count_24h": 1,
+      "hype_score": 400,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,15 +54,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 167,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
+      "news_count_24h": 1,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -191,22 +191,22 @@
     },
     {
       "word": "MARKET",
-      "count": 46,
+      "count": 45,
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 43,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 43,
+      "count": 44,
       "category": "価格"
     },
     {
+      "word": "MILLION",
+      "count": 44,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -235,18 +235,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "IRAN",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -255,8 +245,18 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "IRAN",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 25,
       "category": null
     },
     {
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "COINBASE",
       "count": 24,
       "category": null
     },
@@ -280,8 +280,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 24,
+      "word": "STRATEGY",
+      "count": 23,
       "category": null
     },
     {
@@ -290,13 +290,13 @@
       "category": "ETF"
     },
     {
-      "word": "ANTHROPIC",
+      "word": "TRADING",
       "count": 23,
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 22,
+      "word": "ANTHROPIC",
+      "count": 23,
       "category": null
     },
     {
@@ -310,21 +310,6 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CAPITAL",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 21,
       "category": null
@@ -333,6 +318,21 @@
       "word": "HACK",
       "count": 21,
       "category": "セキュリティ"
+    },
+    {
+      "word": "BINANCE",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WALLET",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
