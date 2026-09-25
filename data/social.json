@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T06:37:43.946Z",
+  "updated_at": "2026-09-25T06:58:50.224Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 94,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 53,
       "category": "相場"
     },
     {
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 32,
+      "word": "OPENAI",
+      "count": 31,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "WHY",
       "count": 31,
       "category": null
     },
@@ -285,14 +285,19 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 25,
+      "word": "CFTC",
+      "count": 24,
       "category": null
     },
     {
       "word": "SEC",
       "count": 24,
       "category": "規制"
+    },
+    {
+      "word": "STOCKS",
+      "count": 24,
+      "category": null
     },
     {
       "word": "COINBASE",
@@ -305,16 +310,6 @@
       "category": null
     },
     {
-      "word": "DEMAND",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 23,
       "category": null
@@ -322,6 +317,11 @@
     {
       "word": "SOLANA",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "DEMAND",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
