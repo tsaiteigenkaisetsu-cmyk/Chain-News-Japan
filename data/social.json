@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:25:46.186Z",
+  "updated_at": "2026-09-25T09:37:01.247Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
+      "news_count_24h": 90,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 25,
       "category": null
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "DEAL",
       "count": 23,
       "category": null
@@ -320,19 +320,19 @@
       "category": null
     },
     {
-      "word": "DEMAND",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 22,
       "category": "規制"
+    },
+    {
+      "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "INSTITUTIONAL",
+      "count": 21,
+      "category": "機関投資家"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
