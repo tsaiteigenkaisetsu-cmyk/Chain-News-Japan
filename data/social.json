@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T14:46:44.962Z",
+  "updated_at": "2026-09-25T14:54:18.162Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 77,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 8,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -195,22 +195,22 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 45,
-      "category": "価格"
-    },
-    {
       "word": "MILLION",
       "count": 43,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 41,
-      "category": null
+      "word": "PRICE",
+      "count": 43,
+      "category": "価格"
     },
     {
       "word": "TOKENIZED",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 40,
       "category": null
     },
@@ -221,7 +221,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -231,12 +231,12 @@
     },
     {
       "word": "DATA",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 25,
+      "word": "COINBASE",
+      "count": 24,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
@@ -290,18 +290,8 @@
       "category": "ETF"
     },
     {
-      "word": "MARKETS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 22,
       "category": null
     },
     {
@@ -311,6 +301,11 @@
     },
     {
       "word": "WHAT",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
@@ -325,14 +320,19 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "CAPITAL",
       "count": 21,
       "category": null
     },
     {
-      "word": "YIELD",
+      "word": "HACK",
       "count": 21,
-      "category": null
+      "category": "セキュリティ"
     }
   ],
   "stats": {
