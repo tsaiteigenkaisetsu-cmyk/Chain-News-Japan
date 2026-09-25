@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T16:37:01.714Z",
+  "updated_at": "2026-09-25T16:48:04.082Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 74,
-      "hype_score": 0,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "AMID",
-      "count": 53,
+      "count": 52,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 45,
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -195,23 +200,18 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 44,
-      "category": "相場"
-    },
-    {
       "word": "MILLION",
       "count": 43,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "TOKENIZED",
       "count": 40,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 39,
+      "word": "TREASURY",
+      "count": 40,
       "category": null
     },
     {
@@ -240,12 +240,17 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STRATEGY",
       "count": 25,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "STOCK",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 25,
       "category": null
     },
@@ -285,13 +290,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "COINBASE",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 23,
       "category": null
     },
     {
@@ -303,11 +303,6 @@
       "word": "ETF",
       "count": 22,
       "category": "ETF"
-    },
-    {
-      "word": "BILLION",
-      "count": 21,
-      "category": null
     },
     {
       "word": "HITS",
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "BLACKROCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "YIELD",
       "count": 20,
       "category": null
     }
