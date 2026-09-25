@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T01:56:56.231Z",
+  "updated_at": "2026-09-25T02:13:20.730Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 94,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 15,
+      "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 300,
+      "hype_score": 320,
       "buzz_rank": 11
     },
     {
@@ -221,7 +221,12 @@
     },
     {
       "word": "IRAN",
-      "count": 37,
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 33,
       "category": null
     },
     {
@@ -230,18 +235,8 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 31,
       "category": null
     },
     {
@@ -252,6 +247,11 @@
     {
       "word": "OPENAI",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 30,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "PRICES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RATE",
       "count": 21,
       "category": null
     },
     {
       "word": "DEAL",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "CAPITAL",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
