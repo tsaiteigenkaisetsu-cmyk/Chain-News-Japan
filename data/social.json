@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T10:59:32.727Z",
+  "updated_at": "2026-09-26T11:18:06.472Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 53,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 28,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -108,15 +108,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 533,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -206,18 +206,13 @@
     },
     {
       "word": "PRICE",
-      "count": 37,
+      "count": 36,
       "category": "価格"
     },
     {
       "word": "AMID",
-      "count": 31,
+      "count": 32,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 28,
-      "category": "セキュリティ"
     },
     {
       "word": "SOLANA",
@@ -233,6 +228,11 @@
       "word": "STABLECOIN",
       "count": 27,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 27,
+      "category": "セキュリティ"
     },
     {
       "word": "STRATEGY",
@@ -260,13 +260,23 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "OPENAI",
+      "count": 22,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 23,
+      "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 21,
       "category": null
     },
     {
@@ -285,32 +295,22 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RULES",
       "count": 20,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "LAUNCHES",
       "count": 20,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "BINANCE",
       "count": 19,
       "category": null
     },
     {
-      "word": "IRAN",
+      "word": "WHAT",
       "count": 19,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": "ETF"
     },
     {
-      "word": "BINANCE",
+      "word": "CAPITAL",
       "count": 18,
       "category": null
     }
