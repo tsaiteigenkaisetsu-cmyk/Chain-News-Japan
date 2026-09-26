@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T08:40:59.252Z",
+  "updated_at": "2026-09-26T08:51:19.286Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
+      "news_count_24h": 58,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -195,11 +195,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 41,
-      "category": "価格"
-    },
-    {
       "word": "MARKET",
       "count": 41,
       "category": "相場"
@@ -210,13 +205,18 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "PRICE",
       "count": 40,
+      "category": "価格"
+    },
+    {
+      "word": "AMID",
+      "count": 39,
       "category": null
     },
     {
       "word": "TREASURY",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "INSTITUTIONAL",
       "count": 19,
       "category": "機関投資家"
@@ -333,6 +328,11 @@
       "word": "IRAN",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 18,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
