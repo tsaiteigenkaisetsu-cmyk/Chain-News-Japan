@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:20:47.798Z",
+  "updated_at": "2026-09-26T20:32:26.724Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 21,
+      "news_count_24h": 46,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
@@ -191,28 +191,23 @@
     },
     {
       "word": "MILLION",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 30,
       "category": "価格"
+    },
+    {
+      "word": "CEO",
+      "count": 26,
+      "category": null
     },
     {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
-    },
-    {
-      "word": "CEO",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 23,
-      "category": null
     },
     {
       "word": "HACK",
@@ -225,6 +220,11 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 20,
       "category": "規制"
@@ -232,11 +232,6 @@
     {
       "word": "WHY",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 18,
       "category": null
     },
     {
@@ -255,9 +250,14 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "STOCK",
       "count": 17,
-      "category": "ETF"
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 16,
+      "category": null
     },
     {
       "word": "STRATEGY",
@@ -265,9 +265,9 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "ETF",
       "count": 16,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "CFTC",
@@ -286,11 +286,6 @@
     },
     {
       "word": "SOLANA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 15,
       "category": null
     },
@@ -315,18 +310,23 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "BINANCE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 13,
       "category": null
     },
     {
       "word": "WALLET",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 12,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
