@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T07:22:48.260Z",
+  "updated_at": "2026-09-26T07:33:30.872Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 37,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 50,
+      "news_count_24h": 15,
+      "hype_score": 53,
       "buzz_rank": 4
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "CFTC",
+      "count": 22,
       "category": null
     },
     {
@@ -285,13 +285,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "WHY",
       "count": 22,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 21,
+      "word": "LAUNCHES",
+      "count": 22,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": "機関投資家"
     },
     {
+      "word": "SUES",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "HITS",
       "count": 19,
       "category": null
@@ -328,11 +333,6 @@
       "word": "WHAT",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
