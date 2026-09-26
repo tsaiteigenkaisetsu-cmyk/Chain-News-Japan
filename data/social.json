@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T05:20:52.650Z",
+  "updated_at": "2026-09-26T05:33:14.379Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 24,
       "category": null
@@ -270,13 +265,13 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WHY",
       "count": 23,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 21,
+      "word": "DATA",
+      "count": 23,
       "category": null
     },
     {
@@ -310,6 +305,11 @@
       "category": "機関投資家"
     },
     {
+      "word": "CFTC",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "RULES",
       "count": 20,
       "category": null
@@ -320,8 +320,8 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 20,
+      "word": "HITS",
+      "count": 19,
       "category": null
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
+      "word": "SEC",
       "count": 19,
-      "category": null
+      "category": "規制"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
