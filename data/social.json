@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:59:45.890Z",
+  "updated_at": "2026-09-26T21:19:25.910Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
-      "hype_score": 20,
+      "news_count_24h": 43,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
+      "news_count_24h": 9,
+      "hype_score": 100,
       "buzz_rank": 4
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 30,
+      "count": 28,
       "category": "価格"
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 24,
       "category": "相場"
     },
     {
@@ -230,17 +230,17 @@
       "category": "規制"
     },
     {
-      "word": "WHY",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "SUES",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 17,
       "category": null
     },
@@ -290,6 +290,11 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "EXPLOIT",
       "count": 14,
       "category": "セキュリティ"
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "WALLET",
       "count": 13,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
