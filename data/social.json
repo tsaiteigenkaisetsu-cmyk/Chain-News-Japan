@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T10:19:56.148Z",
+  "updated_at": "2026-09-26T10:31:38.609Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
-      "hype_score": 12,
+      "news_count_24h": 56,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 46,
+      "count": 45,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "STRATEGY",
       "count": 24,
       "category": null
@@ -265,6 +260,11 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 22,
       "category": "規制"
@@ -276,11 +276,6 @@
     },
     {
       "word": "DATA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "RULES",
       "count": 22,
       "category": null
     },
@@ -305,6 +300,11 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 20,
       "category": null
@@ -325,14 +325,14 @@
       "category": "機関投資家"
     },
     {
-      "word": "WARNS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 18,
       "category": "ETF"
+    },
+    {
+      "word": "BINANCE",
+      "count": 18,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
