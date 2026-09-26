@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:13:41.714Z",
+  "updated_at": "2026-09-26T01:35:36.544Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 4
     },
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 27,
+      "news_count_24h": 16,
+      "hype_score": 25,
       "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 300,
       "buzz_rank": 13
     },
     {
@@ -90,15 +90,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
+      "news_count_24h": 4,
+      "hype_score": 25,
       "buzz_rank": 8
     },
     {
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 16,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 320,
+      "news_count_24h": 4,
+      "hype_score": 400,
       "buzz_rank": 9
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -195,14 +195,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
+    },
+    {
       "word": "BITGET",
       "count": 44,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
     },
     {
       "word": "TOKENIZED",
@@ -215,13 +215,13 @@
       "category": "相場"
     },
     {
-      "word": "TRUMP",
+      "word": "TREASURY",
       "count": 34,
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 34,
+      "word": "TRUMP",
+      "count": 33,
       "category": null
     },
     {
@@ -235,12 +235,12 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "SOLANA",
       "count": 26,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "OPENAI",
       "count": 26,
       "category": null
     },
@@ -250,7 +250,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "CEO",
       "count": 25,
       "category": null
     },
@@ -280,18 +280,8 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 21,
       "category": null
     },
     {
@@ -300,17 +290,32 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 20,
+      "word": "CFTC",
+      "count": 21,
       "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "INSTITUTIONAL",
+      "count": 20,
+      "category": "機関投資家"
+    },
+    {
+      "word": "SEC",
+      "count": 20,
+      "category": "規制"
     },
     {
       "word": "LAUNCHES",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "CFTC",
       "count": 20,
       "category": null
     },
@@ -320,19 +325,14 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "BLACKROCK",
       "count": 19,
-      "category": "規制"
-    },
-    {
-      "word": "INSTITUTIONAL",
-      "count": 19,
-      "category": "機関投資家"
-    },
-    {
-      "word": "RULES",
-      "count": 18,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 18,
+      "category": "ETF"
     }
   ],
   "stats": {
