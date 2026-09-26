@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T03:25:10.530Z",
+  "updated_at": "2026-09-26T03:37:31.095Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
-      "hype_score": 10,
+      "news_count_24h": 66,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
@@ -195,6 +195,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 45,
+      "category": "価格"
+    },
+    {
       "word": "BITGET",
       "count": 45,
       "category": null
@@ -203,11 +208,6 @@
       "word": "MARKET",
       "count": 44,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 44,
-      "category": "価格"
     },
     {
       "word": "TOKENIZED",
@@ -280,17 +280,17 @@
       "category": null
     },
     {
-      "word": "CFTC",
+      "word": "TOKEN",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 21,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 21,
       "category": null
     },
@@ -305,12 +305,12 @@
       "category": "機関投資家"
     },
     {
-      "word": "WARNS",
+      "word": "CFTC",
       "count": 20,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "WARNS",
       "count": 20,
       "category": null
     },
