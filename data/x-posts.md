@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/09/27 08:40 JST
-- ソーシャル更新: 2026/09/27 08:30 JST
+- 生成時刻: 2026/09/27 12:47 JST
+- ソーシャル更新: 2026/09/27 12:44 JST
 - 総ニュース件数: 2000件
 - Reddit モード: rss
 
@@ -13,8 +13,8 @@
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
 1位 BTC ニュース35件 / SNS0
-2位 XRP ニュース14件 / SNS0
-3位 ETH ニュース13件 / SNS0
+2位 ETH ニュース14件 / SNS0
+3位 XRP ニュース13件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
 市場の温度感をざっと確認したいときにどうぞ。
@@ -24,12 +24,12 @@ https://chain-news-japan-webappjp.vercel.app
 
 ## 昼
 
-文字数目安: 154
+文字数目安: 156
 
 ```text
 【昼の市場テーマ】
-いま強いテーマは BITGET / MILLION / CEO。
-注目通貨は BTC / XRP / ETH。
+いま強いテーマは BITGET / MILLION / PRICE。
+注目通貨は BTC / ETH / XRP。
 
 現時点では BTC が先頭で、ニュース35件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
