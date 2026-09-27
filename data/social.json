@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:41:56.046Z",
+  "updated_at": "2026-09-27T11:50:40.680Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 3
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 20,
+      "count": 21,
       "category": "相場"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 16,
       "category": "価格"
-    },
-    {
-      "word": "TOKEN",
-      "count": 16,
-      "category": null
     },
     {
       "word": "CEO",
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "RULES",
       "count": 13,
       "category": null
@@ -291,6 +286,11 @@
     },
     {
       "word": "STABLECOIN",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 12,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
