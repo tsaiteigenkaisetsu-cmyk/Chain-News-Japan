@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T10:20:51.330Z",
+  "updated_at": "2026-09-27T10:32:24.030Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 21,
+      "news_count_24h": 27,
+      "hype_score": 22,
       "buzz_rank": 1
     },
     {
@@ -18,16 +18,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 42,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -205,22 +205,22 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 19,
       "category": "規制"
     },
     {
-      "word": "CEO",
+      "word": "TOKENIZED",
       "count": 18,
       "category": null
     },
     {
       "word": "TOKEN",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 17,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 13,
       "category": null
@@ -290,23 +285,18 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "PROPOSAL",
-      "count": 11,
       "category": null
     },
     {
@@ -315,18 +305,28 @@
       "category": "セキュリティ"
     },
     {
-      "word": "SUES",
+      "word": "CFTC",
       "count": 11,
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "MODEL",
       "count": 10,
-      "category": "セキュリティ"
+      "category": null
     },
     {
-      "word": "ONCHAIN",
+      "word": "FACES",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "PROPOSAL",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "KALSHI",
+      "count": 9,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
