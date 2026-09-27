@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:27:01.061Z",
+  "updated_at": "2026-09-27T07:38:54.278Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
+      "news_count_24h": 14,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 1000,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -196,18 +196,18 @@
     },
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 22,
       "category": "相場"
-    },
-    {
-      "word": "PRICE",
-      "count": 21,
-      "category": "価格"
     },
     {
       "word": "CEO",
       "count": 20,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 20,
+      "category": "価格"
     },
     {
       "word": "SEC",
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 14,
       "category": null
@@ -286,6 +281,11 @@
     },
     {
       "word": "STOCKS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 14,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
