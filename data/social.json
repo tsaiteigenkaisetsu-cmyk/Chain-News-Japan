@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:31:59.163Z",
+  "updated_at": "2026-09-27T15:42:05.197Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 39,
+      "news_count_24h": 27,
+      "hype_score": 41,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 150,
+      "news_count_24h": 5,
+      "hype_score": 120,
       "buzz_rank": 5
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "litecoin",
@@ -124,16 +124,16 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
@@ -270,11 +275,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 11,
       "category": null
@@ -285,17 +285,17 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
+      "word": "BINANCE",
       "count": 10,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "CFTC",
       "count": 10,
       "category": null
     },
@@ -310,12 +310,12 @@
       "category": null
     },
     {
-      "word": "BUYBACKS",
+      "word": "STABLECOIN",
       "count": 9,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "BUYBACKS",
       "count": 9,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 9,
+      "word": "AGENTS",
+      "count": 8,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
