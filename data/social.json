@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T20:59:56.508Z",
+  "updated_at": "2026-09-27T21:19:17.028Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 47,
+      "news_count_24h": 17,
+      "hype_score": 41,
       "buzz_rank": 2
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 7,
+      "hype_score": 0,
       "buzz_rank": 4
     },
     {
@@ -126,16 +126,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -186,13 +186,8 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 19,
+      "count": 18,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 16,
-      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -205,12 +200,17 @@
       "category": "規制"
     },
     {
-      "word": "OPENAI",
+      "word": "MARKET",
       "count": 14,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "HIT",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 13,
       "category": null
     },
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 11,
       "category": "価格"
@@ -265,17 +260,22 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "MODEL",
       "count": 9,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "TETHER",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 8,
       "category": null
     },
@@ -290,23 +290,18 @@
       "category": "セキュリティ"
     },
     {
-      "word": "FACES",
+      "word": "DATA",
       "count": 8,
       "category": null
     },
     {
-      "word": "KALSHI",
-      "count": 8,
+      "word": "ASSET",
+      "count": 7,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 8,
+      "word": "KEY",
+      "count": 7,
       "category": null
     },
     {
@@ -320,17 +315,22 @@
       "category": null
     },
     {
+      "word": "WEEK",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 7,
       "category": null
     },
     {
-      "word": "TETHER",
+      "word": "FACES",
       "count": 7,
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "KALSHI",
       "count": 7,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
