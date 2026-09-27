@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:43:50.304Z",
+  "updated_at": "2026-09-27T16:51:02.149Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 24,
+      "news_count_24h": 16,
+      "hype_score": 25,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "CEO",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": "セキュリティ"
     },
     {
-      "word": "HACK",
-      "count": 11,
-      "category": "セキュリティ"
-    },
-    {
       "word": "ETFS",
       "count": 11,
       "category": null
@@ -278,6 +273,11 @@
       "word": "ANTHROPIC",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 10,
+      "category": "セキュリティ"
     },
     {
       "word": "CFTC",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
