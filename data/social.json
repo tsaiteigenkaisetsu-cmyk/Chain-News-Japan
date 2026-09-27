@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:00:02.466Z",
+  "updated_at": "2026-09-27T22:20:01.808Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
+      "news_count_24h": 18,
+      "hype_score": 28,
       "buzz_rank": 2
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,13 +186,8 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 18,
+      "count": 17,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 16,
-      "category": "規制"
     },
     {
       "word": "MILLION",
@@ -200,14 +195,19 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 13,
-      "category": null
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
     },
     {
       "word": "MARKET",
-      "count": 13,
+      "count": 14,
       "category": "相場"
+    },
+    {
+      "word": "HIT",
+      "count": 13,
+      "category": null
     },
     {
       "word": "ETF",
@@ -215,12 +215,17 @@
       "category": "ETF"
     },
     {
-      "word": "SOLANA",
+      "word": "TOKEN",
       "count": 12,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
+    },
+    {
+      "word": "SOLANA",
       "count": 12,
       "category": null
     },
@@ -230,22 +235,12 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 11,
-      "category": "価格"
-    },
-    {
-      "word": "ANTHROPIC",
+      "word": "OPENAI",
       "count": 10,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "TOKENIZED",
       "count": 10,
       "category": null
     },
@@ -255,12 +250,12 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 8,
+      "word": "ANTHROPIC",
+      "count": 9,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "STOCK",
       "count": 8,
       "category": null
     },
@@ -285,7 +280,7 @@
       "category": null
     },
     {
-      "word": "ASSET",
+      "word": "NEXT",
       "count": 7,
       "category": null
     },
@@ -295,17 +290,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "CEO",
       "count": 7,
       "category": null
     },
     {
       "word": "AGENTS",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 7,
       "category": null
     },
@@ -320,6 +310,11 @@
       "category": null
     },
     {
+      "word": "ASSET",
+      "count": 6,
+      "category": null
+    },
+    {
       "word": "TETHER",
       "count": 6,
       "category": null
@@ -330,9 +325,14 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "NETWORK",
       "count": 6,
       "category": null
+    },
+    {
+      "word": "PUMP",
+      "count": 6,
+      "category": "相場"
     }
   ],
   "stats": {
