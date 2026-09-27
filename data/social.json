@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:27:57.192Z",
+  "updated_at": "2026-09-27T03:44:28.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 14,
+      "hype_score": 43,
       "buzz_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -206,7 +206,7 @@
     },
     {
       "word": "MARKET",
-      "count": 22,
+      "count": 21,
       "category": "相場"
     },
     {
@@ -235,11 +235,6 @@
       "category": "ETF"
     },
     {
-      "word": "HACK",
-      "count": 16,
-      "category": "セキュリティ"
-    },
-    {
       "word": "OPENAI",
       "count": 16,
       "category": null
@@ -260,12 +255,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "SUES",
+      "word": "HACK",
       "count": 15,
-      "category": null
+      "category": "セキュリティ"
     },
     {
-      "word": "STOCK",
+      "word": "SUES",
       "count": 15,
       "category": null
     },
@@ -286,6 +281,11 @@
     },
     {
       "word": "BILLION",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 14,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
