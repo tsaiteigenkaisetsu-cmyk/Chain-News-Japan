@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T13:32:00.510Z",
+  "updated_at": "2026-09-27T13:41:46.889Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 31,
+      "news_count_24h": 28,
+      "hype_score": 29,
       "buzz_rank": 1
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 13,
       "category": null
@@ -251,11 +256,6 @@
     },
     {
       "word": "STOCKS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 12,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
