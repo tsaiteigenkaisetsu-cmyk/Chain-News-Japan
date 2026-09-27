@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T08:59:45.531Z",
+  "updated_at": "2026-09-27T09:22:40.891Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 23,
+      "news_count_24h": 29,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 167,
+      "hype_score": 133,
       "buzz_rank": 5
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 700,
-      "buzz_rank": 9
+      "news_count_24h": 2,
+      "hype_score": 350,
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 1000,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -185,19 +185,29 @@
   ],
   "trend_words": [
     {
-      "word": "MILLION",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "BITGET",
       "count": 29,
       "category": null
     },
     {
+      "word": "MILLION",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "MARKET",
-      "count": 22,
+      "count": 21,
       "category": "相場"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 20,
+      "category": "価格"
     },
     {
       "word": "SEC",
@@ -205,28 +215,13 @@
       "category": "規制"
     },
     {
-      "word": "TOKENIZED",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 19,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 19,
-      "category": "価格"
-    },
-    {
       "word": "TOKEN",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 15,
       "category": null
     },
     {
@@ -240,6 +235,21 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 14,
       "category": null
@@ -250,13 +260,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "STOCKS",
       "count": 14,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 14,
+      "word": "ETFS",
+      "count": 13,
       "category": null
     },
     {
@@ -265,17 +275,12 @@
       "category": "ETF"
     },
     {
-      "word": "STOCK",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "WHAT",
       "count": 13,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "BILLION",
       "count": 13,
       "category": null
     },
@@ -290,19 +295,9 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "HACK",
       "count": 12,
       "category": "セキュリティ"
-    },
-    {
-      "word": "SUES",
-      "count": 12,
-      "category": null
     },
     {
       "word": "CFTC",
@@ -310,12 +305,17 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "HIT",
       "count": 11,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "PROPOSAL",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SUES",
       "count": 11,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "EXPLOIT",
       "count": 10,
-      "category": null
+      "category": "セキュリティ"
     },
     {
-      "word": "AMID",
+      "word": "ONCHAIN",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
