@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T07:38:54.278Z",
+  "updated_at": "2026-09-27T07:50:40.144Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 21,
       "buzz_rank": 1
     },
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -185,12 +185,12 @@
   ],
   "trend_words": [
     {
-      "word": "MILLION",
-      "count": 31,
+      "word": "BITGET",
+      "count": 30,
       "category": null
     },
     {
-      "word": "BITGET",
+      "word": "MILLION",
       "count": 30,
       "category": null
     },
@@ -230,27 +230,12 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
-    },
-    {
       "word": "STABLECOIN",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
       "word": "TETHER",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "SUES",
       "count": 15,
       "category": null
     },
@@ -260,14 +245,14 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "OPENAI",
       "count": 14,
       "category": null
     },
     {
-      "word": "EXPLOIT",
+      "word": "SUES",
       "count": 14,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "BINANCE",
@@ -290,9 +275,9 @@
       "category": null
     },
     {
-      "word": "RULES",
-      "count": 14,
-      "category": null
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
     },
     {
       "word": "WHAT",
@@ -300,7 +285,17 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "WHY",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 13,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "RULES",
       "count": 13,
       "category": null
     },
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 11,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "HIT",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
