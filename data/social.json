@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:54:29.123Z",
+  "updated_at": "2026-09-27T04:00:57.222Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "EXPLOIT",
       "count": 15,
       "category": "セキュリティ"
@@ -261,6 +256,11 @@
     },
     {
       "word": "SUES",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 15,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
