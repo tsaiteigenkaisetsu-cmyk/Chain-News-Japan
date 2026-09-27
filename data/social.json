@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-27T13:59:40.758Z",
+  "updated_at": "2026-09-27T14:20:08.027Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 30,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 15
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 1000,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -210,8 +210,13 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
@@ -220,9 +225,9 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 15,
-      "category": null
+      "word": "ETF",
+      "count": 14,
+      "category": "ETF"
     },
     {
       "word": "PRICE",
@@ -235,6 +240,11 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 13,
       "category": null
@@ -242,6 +252,11 @@
     {
       "word": "WHY",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 12,
       "category": null
     },
     {
@@ -260,11 +275,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 12,
-      "category": "ETF"
-    },
-    {
       "word": "BINANCE",
       "count": 12,
       "category": null
@@ -275,33 +285,28 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "BILLION",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 11,
       "category": null
     },
     {
       "word": "CFTC",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 10,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "STOCKS",
+      "count": 10,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 9,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "MODEL",
       "count": 9,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "KALSHI",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 9,
       "category": null
     }
