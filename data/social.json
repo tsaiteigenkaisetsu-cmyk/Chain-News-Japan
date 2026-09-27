@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T19:59:54.696Z",
+  "updated_at": "2026-09-27T20:21:38.077Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 46,
+      "news_count_24h": 23,
+      "hype_score": 48,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
+      "news_count_24h": 6,
+      "hype_score": 100,
       "buzz_rank": 5
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 21,
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 18,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 20,
+      "count": 18,
       "category": "規制"
-    },
-    {
-      "word": "MILLION",
-      "count": 19,
-      "category": null
     },
     {
       "word": "MARKET",
@@ -206,21 +206,16 @@
     },
     {
       "word": "OPENAI",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 13,
       "category": null
     },
@@ -235,6 +230,16 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 12,
       "category": null
@@ -245,18 +250,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 11,
       "category": "価格"
     },
     {
       "word": "WHY",
-      "count": 11,
+      "count": 10,
       "category": null
     },
     {
@@ -270,17 +270,7 @@
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BUYBACKS",
       "count": 9,
       "category": null
     },
@@ -290,13 +280,13 @@
       "category": null
     },
     {
-      "word": "KALSHI",
+      "word": "BILLION",
       "count": 9,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 9,
+      "word": "AGENTS",
+      "count": 8,
       "category": null
     },
     {
@@ -330,7 +320,17 @@
       "category": null
     },
     {
+      "word": "KALSHI",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "IPO",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 8,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
