@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T15:59:38.286Z",
+  "updated_at": "2026-09-27T16:22:47.006Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 42,
+      "news_count_24h": 25,
+      "hype_score": 44,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 25,
+      "news_count_24h": 17,
+      "hype_score": 24,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 3
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -106,17 +106,17 @@
       "symbol": "LTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 1000,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 500,
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 14,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "SEC",
-      "count": 20,
+      "count": 21,
       "category": "規制"
     },
     {
@@ -205,13 +205,13 @@
       "category": "相場"
     },
     {
-      "word": "OPENAI",
+      "word": "TOKEN",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 16,
+      "word": "OPENAI",
+      "count": 17,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "HIT",
       "count": 14,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 13,
+      "word": "TOKENIZED",
+      "count": 14,
       "category": null
     },
     {
@@ -235,24 +235,24 @@
       "category": "ETF"
     },
     {
-      "word": "HIT",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 13,
-      "category": "価格"
-    },
-    {
-      "word": "WHY",
-      "count": 13,
+      "word": "SOLANA",
+      "count": 12,
       "category": null
     },
     {
       "word": "HACK",
       "count": 12,
       "category": "セキュリティ"
+    },
+    {
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
+    },
+    {
+      "word": "WHY",
+      "count": 12,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -280,16 +280,6 @@
       "category": null
     },
     {
-      "word": "PROPOSAL",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 10,
       "category": null
@@ -300,7 +290,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "AGENTS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PROPOSAL",
       "count": 9,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "BILLION",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 8,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
