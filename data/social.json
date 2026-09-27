@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T06:56:06.268Z",
+  "updated_at": "2026-09-27T07:07:40.068Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 22,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BITGET",
-      "count": 33,
+      "count": 31,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": "相場"
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 21,
       "category": "価格"
+    },
+    {
+      "word": "CEO",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TOKENIZED",
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "HACK",
-      "count": 14,
-      "category": "セキュリティ"
-    },
-    {
       "word": "BINANCE",
       "count": 14,
       "category": null
@@ -315,9 +310,9 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "HACK",
       "count": 12,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "CFTC",
@@ -331,6 +326,11 @@
     },
     {
       "word": "PROPOSAL",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "WALLET",
       "count": 11,
       "category": null
     }
