@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T08:52:04.585Z",
+  "updated_at": "2026-09-27T08:59:45.531Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "SUES",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 13,
       "category": null
@@ -300,19 +295,24 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 12,
-      "category": "セキュリティ"
-    },
-    {
       "word": "HACK",
       "count": 12,
       "category": "セキュリティ"
     },
     {
+      "word": "SUES",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 12,
       "category": null
+    },
+    {
+      "word": "EXPLOIT",
+      "count": 11,
+      "category": "セキュリティ"
     },
     {
       "word": "PROPOSAL",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
