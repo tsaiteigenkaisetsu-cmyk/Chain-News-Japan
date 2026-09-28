@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:55:14.149Z",
+  "updated_at": "2026-09-28T21:01:52.670Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 15,
       "category": null
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "RECORD",
       "count": 13,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
