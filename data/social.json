@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:59:46.324Z",
+  "updated_at": "2026-09-28T16:27:44.025Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 70,
-      "hype_score": 16,
+      "news_count_24h": 73,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 23,
+      "news_count_24h": 31,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 150,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -81,14 +81,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -206,8 +206,18 @@
     },
     {
       "word": "PRICE",
-      "count": 20,
+      "count": 21,
       "category": "価格"
+    },
+    {
+      "word": "TRUMP",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 17,
+      "category": null
     },
     {
       "word": "ETFS",
@@ -215,18 +225,18 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "ANTHROPIC",
       "count": 16,
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "AMID",
       "count": 15,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 15,
+      "word": "HIT",
+      "count": 14,
       "category": null
     },
     {
@@ -240,8 +250,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 14,
+      "word": "HITS",
+      "count": 13,
       "category": null
     },
     {
@@ -250,8 +260,8 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 13,
+      "word": "SOLANA",
+      "count": 12,
       "category": null
     },
     {
@@ -285,12 +295,12 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "LAUNCHES",
       "count": 11,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "SENATE",
       "count": 11,
       "category": null
     },
@@ -300,37 +310,27 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "BUYS",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 10,
       "category": null
     },
     {
       "word": "COINBASE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SENATE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 10,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "WARNS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "THORCHAIN",
       "count": 10,
       "category": null
     }
