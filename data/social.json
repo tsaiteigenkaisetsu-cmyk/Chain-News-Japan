@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T08:05:50.201Z",
+  "updated_at": "2026-09-28T08:40:00.966Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 37,
+      "news_count_24h": 37,
+      "hype_score": 35,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 400,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 200,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,17 @@
     },
     {
       "word": "MILLION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "BITGET",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 14,
       "category": null
     },
     {
@@ -205,23 +215,13 @@
       "category": "ETF"
     },
     {
-      "word": "BITGET",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 13,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 11,
+      "count": 12,
       "category": "価格"
     },
     {
@@ -240,12 +240,17 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "WEEK",
       "count": 10,
       "category": null
     },
     {
       "word": "TOKEN",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 10,
       "category": null
     },
@@ -265,17 +270,22 @@
       "category": null
     },
     {
+      "word": "OCTOBER",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "PUMP",
+      "count": 8,
+      "category": "相場"
+    },
+    {
       "word": "RECORD",
       "count": 8,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "WEEK",
       "count": 8,
       "category": null
     },
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "BAN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "EXCHANGE",
-      "count": 7,
-      "category": "取引所"
-    },
-    {
-      "word": "HOW",
+      "word": "FUN",
       "count": 7,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
