@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-28T10:59:40.848Z",
+  "updated_at": "2026-09-28T11:22:35.386Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
-      "hype_score": 23,
+      "news_count_24h": 51,
+      "hype_score": 24,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 29,
+      "hype_score": 17,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 14,
+      "news_count_24h": 15,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 200,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 22,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 20,
+      "count": 21,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 16,
+      "category": "価格"
     },
     {
       "word": "WEEK",
@@ -205,14 +210,9 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "BITGET",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 15,
-      "category": "価格"
     },
     {
       "word": "WHY",
@@ -220,7 +220,22 @@
       "category": null
     },
     {
-      "word": "BITGET",
+      "word": "HIT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
+    },
+    {
+      "word": "CEO",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 12,
       "category": null
     },
@@ -230,17 +245,12 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 12,
+      "word": "ANTHROPIC",
+      "count": 11,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 12,
-      "category": "ETF"
-    },
-    {
-      "word": "TRUMP",
+      "word": "OCTOBER",
       "count": 11,
       "category": null
     },
@@ -255,23 +265,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "OPENAI",
       "count": 11,
       "category": null
     },
     {
       "word": "SOLANA",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
-      "count": 10,
       "category": null
     },
     {
@@ -310,27 +310,27 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 8,
+      "category": "相場"
+    },
+    {
+      "word": "KOREA",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "THORCHAIN",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "CHINA",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "JPYC",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "VITALIK",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "NEWSOM",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "KEY",
       "count": 8,
       "category": null
     }
