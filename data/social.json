@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:03:57.899Z",
+  "updated_at": "2026-09-28T01:42:12.032Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 48,
+      "news_count_24h": 26,
+      "hype_score": 46,
       "buzz_rank": 1
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 14,
-      "category": "相場"
-    },
-    {
       "word": "ETF",
       "count": 14,
       "category": "ETF"
+    },
+    {
+      "word": "MARKET",
+      "count": 14,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -206,26 +206,26 @@
     },
     {
       "word": "PRICE",
-      "count": 13,
+      "count": 12,
       "category": "価格"
     },
     {
       "word": "SEC",
-      "count": 13,
+      "count": 12,
       "category": "規制"
     },
     {
       "word": "HIT",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "TOKEN",
       "count": 11,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "WHY",
       "count": 11,
       "category": null
     },
@@ -245,7 +245,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "SOLANA",
       "count": 10,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "SECURITY",
       "count": 8,
       "category": "セキュリティ"
@@ -290,12 +285,32 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "BILLION",
       "count": 7,
       "category": null
     },
     {
       "word": "TRIGGER",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "CHINA",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "SEPTEMBER",
       "count": 6,
       "category": null
     },
@@ -318,21 +333,6 @@
       "word": "BANK",
       "count": 6,
       "category": null
-    },
-    {
-      "word": "ASSET",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "TETHER",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 6,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
