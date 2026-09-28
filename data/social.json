@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T15:01:56.828Z",
+  "updated_at": "2026-09-28T15:24:38.510Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 65,
-      "hype_score": 17,
+      "news_count_24h": 68,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 17,
       "buzz_rank": 2
     },
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 40,
+      "news_count_24h": 11,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 500,
+      "hype_score": 400,
       "buzz_rank": 13
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 200,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 150,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 75,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "chainlink",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -186,13 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 27,
       "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 22,
+      "category": "価格"
     },
     {
       "word": "BITGET",
@@ -205,18 +210,23 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
-    },
-    {
       "word": "ETFS",
       "count": 17,
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 14,
       "category": null
     },
     {
@@ -230,17 +240,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
+      "word": "RECORD",
       "count": 13,
       "category": null
     },
@@ -250,8 +250,23 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "HIT",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 12,
+      "category": "ETF"
+    },
+    {
+      "word": "AGENTS",
+      "count": 12,
       "category": null
     },
     {
@@ -260,12 +275,7 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
+      "word": "SOLANA",
       "count": 11,
       "category": null
     },
@@ -275,17 +285,17 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 11,
-      "category": "ETF"
-    },
-    {
       "word": "OCTOBER",
       "count": 11,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "STABLECOIN",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 10,
       "category": null
     },
@@ -323,16 +333,6 @@
       "word": "THORCHAIN",
       "count": 10,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 10,
-      "category": "規制"
-    },
-    {
-      "word": "HACK",
-      "count": 9,
-      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
