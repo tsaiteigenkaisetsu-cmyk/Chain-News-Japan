@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:59:55.968Z",
+  "updated_at": "2026-09-28T06:51:15.164Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 22,
+      "hype_score": 23,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
+      "news_count_24h": 6,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 6
     },
     {
@@ -186,8 +186,18 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 18,
+      "count": 20,
       "category": "相場"
+    },
+    {
+      "word": "MILLION",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BITGET",
+      "count": 14,
+      "category": null
     },
     {
       "word": "ETF",
@@ -195,12 +205,7 @@
       "category": "ETF"
     },
     {
-      "word": "MILLION",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "BITGET",
+      "word": "WHY",
       "count": 13,
       "category": null
     },
@@ -211,13 +216,8 @@
     },
     {
       "word": "SEC",
-      "count": 13,
+      "count": 12,
       "category": "規制"
-    },
-    {
-      "word": "WHY",
-      "count": 13,
-      "category": null
     },
     {
       "word": "CEO",
@@ -228,6 +228,16 @@
       "word": "PRICE",
       "count": 11,
       "category": "価格"
+    },
+    {
+      "word": "SOLANA",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 10,
+      "category": null
     },
     {
       "word": "TOKEN",
@@ -245,13 +255,13 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 10,
+      "word": "TRUMP",
+      "count": 8,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 9,
+      "word": "NEXT",
+      "count": 8,
       "category": null
     },
     {
@@ -285,7 +295,17 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "AMID",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "CALIFORNIA",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 7,
       "category": null
     },
@@ -296,11 +316,6 @@
     },
     {
       "word": "BUTERIN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 7,
       "category": null
     },
@@ -318,21 +333,6 @@
       "word": "TRIGGER",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "YEARS",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 6,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
