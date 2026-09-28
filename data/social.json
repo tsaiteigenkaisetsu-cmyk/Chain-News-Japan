@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T10:39:51.003Z",
+  "updated_at": "2026-09-28T10:52:34.401Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 22,
+      "count": 23,
       "category": "相場"
     },
     {
@@ -205,17 +205,17 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 15,
       "category": "価格"
     },
     {
       "word": "WHY",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 14,
       "category": null
     },
@@ -240,6 +240,16 @@
       "category": "ETF"
     },
     {
+      "word": "TRUMP",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "CALIFORNIA",
       "count": 11,
       "category": null
@@ -260,17 +270,7 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "OCTOBER",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 10,
       "category": null
     },
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "FINANCIAL",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "PUMP",
       "count": 9,
       "category": "相場"
@@ -302,6 +307,11 @@
     {
       "word": "SINCE",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "CHINA",
+      "count": 8,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "FINANCIAL",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "KEY",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "FUN",
       "count": 8,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
