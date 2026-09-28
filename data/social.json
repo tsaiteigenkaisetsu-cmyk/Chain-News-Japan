@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T16:27:44.025Z",
+  "updated_at": "2026-09-28T16:41:43.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
-      "hype_score": 15,
+      "news_count_24h": 76,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 19,
+      "news_count_24h": 33,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -206,8 +206,13 @@
     },
     {
       "word": "PRICE",
-      "count": 21,
+      "count": 20,
       "category": "価格"
+    },
+    {
+      "word": "ETFS",
+      "count": 18,
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -220,13 +225,13 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 17,
+      "word": "ANTHROPIC",
+      "count": 16,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 16,
+      "word": "STRATEGY",
+      "count": 15,
       "category": null
     },
     {
@@ -245,8 +250,13 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 14,
+      "word": "BANK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "OCTOBER",
+      "count": 13,
       "category": null
     },
     {
@@ -260,17 +270,17 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "SOLANA",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
       "count": 12,
       "category": null
     },
@@ -295,7 +305,17 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "STOCKS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "BUTERIN",
       "count": 11,
       "category": null
     },
@@ -310,27 +330,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BUYS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
+      "word": "TRADING",
       "count": 10,
       "category": null
     }
