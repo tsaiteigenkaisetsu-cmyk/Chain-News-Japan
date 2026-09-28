@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T03:01:19.431Z",
+  "updated_at": "2026-09-28T03:32:20.329Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 44,
+      "news_count_24h": 28,
+      "hype_score": 43,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -135,16 +135,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -185,14 +185,14 @@
   ],
   "trend_words": [
     {
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
+    },
+    {
       "word": "BITGET",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 14,
-      "category": "ETF"
     },
     {
       "word": "MILLION",
@@ -205,9 +205,9 @@
       "category": "相場"
     },
     {
-      "word": "PRICE",
+      "word": "WHY",
       "count": 12,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "SEC",
@@ -220,17 +220,17 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "CEO",
       "count": 11,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 11,
+      "category": "価格"
     },
     {
       "word": "TOKEN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "CEO",
       "count": 10,
       "category": null
     },
@@ -255,17 +255,17 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 8,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
       "count": 8,
       "category": null
     },
@@ -300,6 +300,21 @@
       "category": null
     },
     {
+      "word": "WANTS",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 6,
+      "category": null
+    },
+    {
       "word": "CALIFORNIA",
       "count": 6,
       "category": null
@@ -316,21 +331,6 @@
     },
     {
       "word": "WEEK",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "ASSET",
-      "count": 6,
-      "category": null
-    },
-    {
-      "word": "TETHER",
       "count": 6,
       "category": null
     }
