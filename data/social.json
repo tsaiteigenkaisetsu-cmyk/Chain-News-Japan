@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:59:31.177Z",
+  "updated_at": "2026-09-28T22:21:57.796Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 15,
+      "news_count_24h": 83,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
+      "news_count_24h": 12,
+      "hype_score": 42,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -190,14 +190,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 27,
+      "category": "相場"
+    },
+    {
       "word": "BITGET",
       "count": 26,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 26,
-      "category": "相場"
     },
     {
       "word": "WEEK",
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 18,
       "category": null
@@ -225,12 +230,12 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "COINBASE",
       "count": 17,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TOKEN",
       "count": 17,
       "category": null
     },
@@ -250,6 +255,21 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "AGENTS",
       "count": 15,
       "category": null
@@ -265,33 +285,23 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 14,
       "category": null
     },
     {
       "word": "WHY",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SENATE",
+      "count": 13,
       "category": null
     },
     {
@@ -323,16 +333,6 @@
       "word": "HITS",
       "count": 13,
       "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 12,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
