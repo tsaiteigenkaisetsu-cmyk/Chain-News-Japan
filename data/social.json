@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:43:35.952Z",
+  "updated_at": "2026-09-28T19:50:50.210Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 14,
+      "news_count_24h": 38,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 15,
       "category": null
@@ -242,6 +247,11 @@
     {
       "word": "ETFS",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 14,
       "category": null
     },
     {
@@ -285,16 +295,6 @@
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 13,
       "category": null
@@ -302,6 +302,11 @@
     {
       "word": "HITS",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "BUTERIN",
+      "count": 12,
       "category": null
     },
     {
@@ -325,14 +330,9 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "OPENAI",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 11,
-      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
