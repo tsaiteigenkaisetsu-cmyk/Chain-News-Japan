@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T20:34:56.186Z",
+  "updated_at": "2026-09-28T20:46:04.204Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
+      "news_count_24h": 81,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 13,
+      "news_count_24h": 41,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 56,
+      "news_count_24h": 10,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "cardano",
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 200,
-      "buzz_rank": 16
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 14
     },
     {
       "coin_id": "litecoin",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -236,6 +236,11 @@
     },
     {
       "word": "LAUNCHES",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 15,
       "category": null
     },
@@ -245,12 +250,22 @@
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "TOKENIZED",
       "count": 14,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "STABLECOIN",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
       "count": 14,
       "category": null
     },
@@ -265,17 +280,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
+      "word": "SOLANA",
       "count": 13,
       "category": null
     },
@@ -300,6 +305,16 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "BUTERIN",
       "count": 12,
       "category": null
@@ -315,24 +330,9 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 12,
       "category": "ETF"
-    },
-    {
-      "word": "CALIFORNIA",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WITHDRAWALS",
-      "count": 11,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
