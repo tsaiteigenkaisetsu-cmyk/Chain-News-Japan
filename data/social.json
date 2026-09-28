@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T21:42:30.793Z",
+  "updated_at": "2026-09-28T21:50:36.484Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 0,
       "buzz_rank": 16
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 15,
       "category": null
@@ -285,17 +290,17 @@
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 14,
       "category": null
     },
     {
       "word": "BUYS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 13,
       "category": null
     },
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "OPENAI",
       "count": 12,
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 12,
-      "category": "規制"
-    },
-    {
-      "word": "IPO",
+      "word": "WARNS",
       "count": 12,
       "category": null
     }
