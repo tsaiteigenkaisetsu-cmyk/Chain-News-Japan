@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T12:37:26.916Z",
+  "updated_at": "2026-09-28T12:57:59.929Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 63,
-      "hype_score": 19,
+      "news_count_24h": 66,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 16,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 500,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 200,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -196,12 +196,12 @@
     },
     {
       "word": "WEEK",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 18,
+      "count": 19,
       "category": "価格"
     },
     {
@@ -215,23 +215,18 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 14,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 14,
-      "category": "ETF"
-    },
-    {
       "word": "HIT",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 13,
       "category": null
     },
     {
@@ -243,6 +238,11 @@
       "word": "ANTHROPIC",
       "count": 13,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
     },
     {
       "word": "AMID",
@@ -257,6 +257,16 @@
     {
       "word": "TRUMP",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 11,
       "category": null
     },
     {
@@ -275,6 +285,16 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "AGENTS",
       "count": 10,
       "category": null
@@ -290,32 +310,12 @@
       "category": "規制"
     },
     {
-      "word": "TOKENIZED",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 9,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "RECORD",
       "count": 9,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
