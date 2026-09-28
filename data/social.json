@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T22:50:06.425Z",
+  "updated_at": "2026-09-28T22:59:45.965Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 31,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "BITGET",
+      "count": 27,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 27,
       "category": "相場"
-    },
-    {
-      "word": "BITGET",
-      "count": 26,
-      "category": null
     },
     {
       "word": "WEEK",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
