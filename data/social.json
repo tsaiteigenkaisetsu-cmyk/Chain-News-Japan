@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T07:53:49.302Z",
+  "updated_at": "2026-09-28T08:05:50.201Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 22,
+      "news_count_24h": 24,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
+      "news_count_24h": 3,
+      "hype_score": 167,
       "buzz_rank": 6
     },
     {
@@ -72,16 +72,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 7
     },
     {
       "coin_id": "chainlink",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -195,6 +195,16 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 14,
+      "category": "ETF"
+    },
+    {
       "word": "BITGET",
       "count": 13,
       "category": null
@@ -205,27 +215,17 @@
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 13,
+      "word": "ETFS",
+      "count": 12,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 13,
-      "category": "ETF"
-    },
-    {
       "word": "PRICE",
-      "count": 12,
+      "count": 11,
       "category": "価格"
     },
     {
       "word": "SOLANA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ETFS",
       "count": 11,
       "category": null
     },
@@ -260,12 +260,22 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "AMID",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 8,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "IPO",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 8,
       "category": null
     },
@@ -310,11 +320,6 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "BAN",
       "count": 7,
       "category": null
@@ -328,11 +333,6 @@
       "word": "HOW",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "PUMP",
-      "count": 7,
-      "category": "相場"
     }
   ],
   "stats": {
