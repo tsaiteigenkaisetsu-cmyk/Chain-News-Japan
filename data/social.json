@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:21:35.809Z",
+  "updated_at": "2026-09-29T21:33:46.336Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
+      "news_count_24h": 14,
+      "hype_score": 57,
       "buzz_rank": 6
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "IPO",
       "count": 34,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 33,
+      "word": "ANTHROPIC",
+      "count": 34,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 19,
-      "category": "規制"
-    },
-    {
       "word": "REPORT",
       "count": 19,
       "category": null
@@ -325,14 +320,19 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 18,
       "category": null
     },
     {
-      "word": "VALUATION",
+      "word": "SEC",
       "count": 18,
-      "category": null
+      "category": "規制"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
