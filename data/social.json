@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:50:28.035Z",
+  "updated_at": "2026-09-29T21:59:59.854Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 57,
+      "news_count_24h": 13,
+      "hype_score": 62,
       "buzz_rank": 6
     },
     {
@@ -185,6 +185,11 @@
   ],
   "trend_words": [
     {
+      "word": "MARKET",
+      "count": 42,
+      "category": "相場"
+    },
+    {
       "word": "BITGET",
       "count": 41,
       "category": null
@@ -193,11 +198,6 @@
       "word": "LAUNCHES",
       "count": 41,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 41,
-      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -245,13 +245,13 @@
       "category": "ETF"
     },
     {
-      "word": "TRADING",
+      "word": "TRUMP",
       "count": 28,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 27,
+      "word": "TRADING",
+      "count": 28,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 19,
       "category": null
@@ -317,11 +322,6 @@
     {
       "word": "ETFS",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 18,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
