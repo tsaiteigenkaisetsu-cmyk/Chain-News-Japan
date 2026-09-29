@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T18:50:23.837Z",
+  "updated_at": "2026-09-29T19:01:17.177Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 0,
       "buzz_rank": 13
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 21,
+      "news_count_24h": 18,
+      "hype_score": 22,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 39,
       "category": "相場"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "OPENAI",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
@@ -300,18 +300,13 @@
       "category": "セキュリティ"
     },
     {
-      "word": "NVIDIA",
+      "word": "AGENTS",
       "count": 19,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
-      "count": 18,
+      "word": "NVIDIA",
+      "count": 19,
       "category": null
     },
     {
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "VALUATION",
       "count": 17,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
