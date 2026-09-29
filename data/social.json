@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:36:01.446Z",
+  "updated_at": "2026-09-29T12:57:24.004Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 68,
+      "news_count_24h": 66,
       "hype_score": 18,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 36,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 58,
+      "news_count_24h": 14,
+      "hype_score": 50,
       "buzz_rank": 6
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -86,11 +86,11 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 0,
-      "buzz_rank": 3
+      "news_count_24h": 21,
+      "hype_score": 19,
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -196,7 +196,7 @@
     },
     {
       "word": "BITGET",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -215,23 +215,23 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 26,
+      "category": "価格"
+    },
+    {
       "word": "LAUNCHES",
       "count": 26,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "AMID",
       "count": 25,
-      "category": "価格"
-    },
-    {
-      "word": "IPO",
-      "count": 24,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 24,
+      "word": "IPO",
+      "count": 25,
       "category": null
     },
     {
@@ -241,8 +241,18 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 20,
+      "count": 21,
       "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 20,
+      "category": "ETF"
     },
     {
       "word": "WHY",
@@ -250,8 +260,8 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 20,
+      "word": "SOLANA",
+      "count": 19,
       "category": null
     },
     {
@@ -265,11 +275,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 19,
-      "category": "ETF"
-    },
-    {
       "word": "TRUMP",
       "count": 19,
       "category": null
@@ -277,11 +282,6 @@
     {
       "word": "BANK",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 18,
       "category": null
     },
     {
@@ -295,9 +295,14 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "INFLOWS",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 16,
+      "category": "セキュリティ"
     },
     {
       "word": "ETFS",
@@ -315,12 +320,7 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 15,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "DATA",
+      "word": "WARNS",
       "count": 15,
       "category": null
     },
