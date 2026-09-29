@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:00:53.505Z",
+  "updated_at": "2026-09-29T21:21:35.809Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 89,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 16
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -185,6 +185,11 @@
   ],
   "trend_words": [
     {
+      "word": "BITGET",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 41,
       "category": null
@@ -196,21 +201,16 @@
     },
     {
       "word": "MILLION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "BITGET",
       "count": 39,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 34,
+      "word": "COINBASE",
+      "count": 35,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "ANTHROPIC",
       "count": 34,
       "category": null
     },
@@ -230,19 +230,19 @@
       "category": "価格"
     },
     {
-      "word": "ETF",
-      "count": 29,
-      "category": "ETF"
-    },
-    {
       "word": "TOKENIZED",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 29,
+      "count": 30,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
     },
     {
       "word": "TRADING",
@@ -265,13 +265,18 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 23,
+      "word": "DIGITAL",
+      "count": 22,
       "category": null
     },
     {
@@ -285,8 +290,8 @@
       "category": "セキュリティ"
     },
     {
-      "word": "DIGITAL",
-      "count": 21,
+      "word": "NVIDIA",
+      "count": 20,
       "category": null
     },
     {
@@ -308,11 +313,6 @@
       "word": "SEC",
       "count": 19,
       "category": "規制"
-    },
-    {
-      "word": "NVIDIA",
-      "count": 19,
-      "category": null
     },
     {
       "word": "REPORT",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
