@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T10:36:52.365Z",
+  "updated_at": "2026-09-29T10:48:51.657Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 15,
+      "hype_score": 7,
       "buzz_rank": 5
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 125,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 50,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -201,12 +201,17 @@
     },
     {
       "word": "WEEK",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
       "word": "ANTHROPIC",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 24,
       "category": null
     },
     {
@@ -217,11 +222,6 @@
     {
       "word": "COINBASE",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 23,
       "category": null
     },
     {
@@ -236,6 +236,16 @@
     },
     {
       "word": "TOKEN",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 19,
       "category": null
     },
@@ -245,13 +255,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "BANK",
       "count": 19,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 19,
+      "word": "TOKENIZED",
+      "count": 18,
       "category": null
     },
     {
@@ -260,22 +270,12 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 17,
+      "count": 18,
       "category": "ETF"
     },
     {
-      "word": "TOKENIZED",
+      "word": "OPENAI",
       "count": 17,
       "category": null
     },
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "INFLOWS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 15,
       "category": "相場"
@@ -327,11 +332,6 @@
     {
       "word": "REPORT",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "INFLOWS",
-      "count": 14,
       "category": null
     }
   ],
