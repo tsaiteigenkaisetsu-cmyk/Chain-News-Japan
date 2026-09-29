@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T08:51:52.184Z",
+  "updated_at": "2026-09-29T09:01:01.985Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 86,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 18,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 24,
+      "count": 25,
       "category": "価格"
     },
     {
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "NVIDIA",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 17,
       "category": null
@@ -275,11 +280,6 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 16,
       "category": "相場"
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "STABLECOIN",
       "count": 16,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 16,
+      "word": "ETFS",
+      "count": 15,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
