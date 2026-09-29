@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:34:46.249Z",
+  "updated_at": "2026-09-29T17:45:48.760Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
+      "news_count_24h": 77,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 500,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 15
     },
     {
@@ -185,23 +185,23 @@
   ],
   "trend_words": [
     {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
+    },
+    {
       "word": "MILLION",
       "count": 39,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
-    },
-    {
-      "word": "BITGET",
+      "word": "LAUNCHES",
       "count": 36,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 34,
+      "word": "BITGET",
+      "count": 36,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "IPO",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -237,6 +237,11 @@
     {
       "word": "WEEK",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 26,
       "category": null
     },
     {
@@ -260,13 +265,13 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 24,
+      "word": "TOKEN",
+      "count": 22,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 22,
+      "word": "STABLECOIN",
+      "count": 21,
       "category": null
     },
     {
@@ -291,11 +296,6 @@
     },
     {
       "word": "DIGITAL",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
       "count": 20,
       "category": null
     },
