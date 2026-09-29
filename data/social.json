@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:36:39.712Z",
+  "updated_at": "2026-09-29T20:46:52.041Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 37,
+      "news_count_24h": 26,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 50,
+      "news_count_24h": 15,
+      "hype_score": 53,
       "buzz_rank": 6
     },
     {
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 33,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -191,17 +191,17 @@
     },
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
       "word": "BITGET",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
+    },
+    {
       "word": "TOKENIZED",
       "count": 29,
       "category": null
@@ -243,11 +248,6 @@
       "word": "TRADING",
       "count": 28,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 28,
-      "category": "ETF"
     },
     {
       "word": "TRUMP",
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 23,
+      "word": "TOKEN",
+      "count": 24,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "BILLION",
       "count": 23,
       "category": null
     },
@@ -280,19 +280,24 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 21,
+      "category": "セキュリティ"
+    },
+    {
       "word": "DIGITAL",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 20,
       "category": null
     },
     {
       "word": "BANK",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 20,
-      "category": "セキュリティ"
     },
     {
       "word": "WHY",
@@ -320,11 +325,6 @@
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 18,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
