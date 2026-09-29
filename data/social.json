@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T19:59:44.455Z",
+  "updated_at": "2026-09-29T20:25:05.070Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
+      "news_count_24h": 2,
+      "hype_score": 150,
       "buzz_rank": 12
     },
     {
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -190,6 +190,11 @@
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 39,
       "category": null
@@ -200,8 +205,8 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 38,
+      "word": "ANTHROPIC",
+      "count": 34,
       "category": null
     },
     {
@@ -210,23 +215,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 32,
-      "category": "価格"
+      "word": "OPENAI",
+      "count": 33,
+      "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 32,
-      "category": null
+      "word": "PRICE",
+      "count": 33,
+      "category": "価格"
     },
     {
       "word": "IPO",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 31,
       "category": null
     },
     {
@@ -235,12 +235,12 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "TRADING",
       "count": 28,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "TOKENIZED",
       "count": 28,
       "category": null
     },
@@ -250,18 +250,23 @@
       "category": "ETF"
     },
     {
+      "word": "TRUMP",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 27,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 26,
+      "word": "BILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -275,17 +280,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DIGITAL",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -300,6 +295,21 @@
       "category": "セキュリティ"
     },
     {
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 19,
       "category": null
@@ -310,28 +320,18 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "SEC",
+      "count": 18,
+      "category": "規制"
+    },
+    {
+      "word": "VALUATION",
       "count": 18,
       "category": null
     },
     {
       "word": "INFRASTRUCTURE",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "VALUATION",
-      "count": 17,
       "category": null
     }
   ],
