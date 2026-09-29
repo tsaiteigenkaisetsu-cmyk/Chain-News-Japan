@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:34:10.638Z",
+  "updated_at": "2026-09-29T11:45:51.458Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
+      "news_count_24h": 81,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 15,
+      "category": "規制"
+    },
+    {
       "word": "SENATE",
       "count": 15,
       "category": null
@@ -328,11 +333,6 @@
       "word": "INFLOWS",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 15,
-      "category": "相場"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
