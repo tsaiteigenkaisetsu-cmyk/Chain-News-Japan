@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T16:27:52.814Z",
+  "updated_at": "2026-09-30T16:41:39.533Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,11 +32,11 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 100,
-      "buzz_rank": 8
+      "news_count_24h": 9,
+      "hype_score": 67,
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 11,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "LAUNCHES",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -195,8 +195,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 38,
+      "word": "OPENAI",
+      "count": 37,
       "category": null
     },
     {
@@ -205,18 +205,18 @@
       "category": "相場"
     },
     {
+      "word": "TRADING",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 36,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -225,8 +225,18 @@
       "category": "価格"
     },
     {
+      "word": "ANTHROPIC",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "BITGET",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
-      "count": 31,
+      "count": 29,
       "category": null
     },
     {
@@ -235,28 +245,18 @@
       "category": "ETF"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BITGET",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 27,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "DATA",
       "count": 26,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 25,
+      "word": "TOKEN",
+      "count": 26,
       "category": null
     },
     {
@@ -275,17 +275,12 @@
       "category": null
     },
     {
-      "word": "FUNDS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 22,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "FUNDS",
       "count": 22,
       "category": null
     },
@@ -310,6 +305,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "AGENT",
       "count": 20,
       "category": null
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 20,
+      "word": "FUND",
+      "count": 19,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "REPORT",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
