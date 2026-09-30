@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:03:19.823Z",
+  "updated_at": "2026-09-30T15:25:46.907Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
-      "hype_score": 12,
+      "news_count_24h": 79,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "LAUNCHES",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
       "word": "COINBASE",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PRICE",
-      "count": 35,
+      "count": 34,
       "category": "価格"
     },
     {
@@ -221,17 +221,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 31,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 30,
+      "count": 32,
       "category": null
     },
     {
@@ -240,8 +230,18 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "ETF",
-      "count": 30,
+      "count": 29,
       "category": "ETF"
     },
     {
@@ -261,6 +261,11 @@
     },
     {
       "word": "VALUATION",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 24,
       "category": null
     },
@@ -270,33 +275,18 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "FUNDS",
       "count": 23,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "BANK",
       "count": 23,
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
-      "count": 22,
+      "word": "MILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -305,8 +295,33 @@
       "category": null
     },
     {
+      "word": "DIGITAL",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AGENT",
+      "count": 20,
       "category": null
     },
     {
@@ -315,23 +330,8 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "AGENT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WHAT",
-      "count": 18,
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
