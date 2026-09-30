@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:34:57.433Z",
+  "updated_at": "2026-09-30T21:46:05.059Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 19,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
-    },
-    {
       "word": "OPENAI",
       "count": 39,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 39,
+      "category": "相場"
     },
     {
       "word": "DATA",
@@ -230,18 +230,23 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 32,
+      "word": "MILLION",
+      "count": 31,
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "IPO",
       "count": 31,
       "category": null
     },
     {
       "word": "TOKENIZED",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 29,
       "category": null
     },
     {
@@ -255,27 +260,22 @@
       "category": "ETF"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 24,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "AMID",
       "count": 24,
       "category": null
     },
     {
       "word": "CEO",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 23,
       "category": null
     },
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
       "count": 21,
       "category": null
@@ -302,6 +297,11 @@
     {
       "word": "HOUSE",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 20,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
