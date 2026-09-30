@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T16:41:39.533Z",
+  "updated_at": "2026-09-30T16:52:40.904Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 82,
-      "hype_score": 12,
+      "hype_score": 0,
       "buzz_rank": 1
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 700,
+      "news_count_24h": 2,
+      "hype_score": 350,
       "buzz_rank": 13
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
-      "buzz_rank": 6
+      "news_count_24h": 12,
+      "hype_score": 33,
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -195,11 +195,6 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 37,
       "category": "相場"
@@ -210,18 +205,23 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 36,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 36,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 34,
       "category": "価格"
     },
     {
@@ -245,13 +245,13 @@
       "category": "ETF"
     },
     {
-      "word": "BILLION",
+      "word": "DATA",
       "count": 27,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 26,
+      "word": "BILLION",
+      "count": 27,
       "category": null
     },
     {
@@ -265,13 +265,18 @@
       "category": null
     },
     {
-      "word": "VALUATION",
-      "count": 24,
+      "word": "CEO",
+      "count": 23,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "VALUATION",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 22,
       "category": null
     },
     {
@@ -290,22 +295,12 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "DIGITAL",
       "count": 21,
       "category": null
     },
     {
       "word": "AGENTS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 21,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 19,
+      "word": "BANK",
+      "count": 20,
       "category": null
     },
     {
       "word": "REPORT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FUND",
       "count": 19,
       "category": null
     }
