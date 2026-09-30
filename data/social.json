@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T12:38:20.055Z",
+  "updated_at": "2026-09-30T13:03:41.519Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 86,
-      "hype_score": 10,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
+      "news_count_24h": 8,
+      "hype_score": 50,
       "buzz_rank": 8
     },
     {
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 29,
-      "buzz_rank": 9
+      "news_count_24h": 6,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
-      "word": "LAUNCHES",
-      "count": 44,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 43,
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "COINBASE",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -205,14 +205,19 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 35,
+      "category": "価格"
+    },
+    {
       "word": "MARKET",
       "count": 35,
       "category": "相場"
     },
     {
-      "word": "PRICE",
-      "count": 34,
-      "category": "価格"
+      "word": "OPENAI",
+      "count": 33,
+      "category": null
     },
     {
       "word": "BITGET",
@@ -221,12 +226,12 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 32,
+      "word": "STABLECOIN",
+      "count": 30,
       "category": null
     },
     {
@@ -240,13 +245,8 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "MILLION",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -256,17 +256,17 @@
     },
     {
       "word": "TOKEN",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 22,
-      "category": "セキュリティ"
-    },
-    {
       "word": "REPORT",
       "count": 21,
       "category": null
@@ -313,6 +308,11 @@
       "word": "AMID",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 21,
+      "category": "セキュリティ"
     },
     {
       "word": "ROBINHOOD",
