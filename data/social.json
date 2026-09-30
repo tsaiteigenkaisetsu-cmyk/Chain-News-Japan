@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:28:10.928Z",
+  "updated_at": "2026-09-30T18:45:56.803Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 35,
+      "news_count_24h": 27,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 21,
+      "hype_score": 5,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 14,
+      "hype_score": 50,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -191,23 +191,23 @@
     },
     {
       "word": "OPENAI",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 38,
-      "category": "相場"
-    },
-    {
-      "word": "COINBASE",
-      "count": 38,
+      "count": 41,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
+      "word": "COINBASE",
+      "count": 37,
+      "category": null
     },
     {
       "word": "IPO",
@@ -251,7 +251,7 @@
     },
     {
       "word": "BILLION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 23,
       "category": null
@@ -287,6 +282,26 @@
     {
       "word": "VALUATION",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "HOUSE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 21,
       "category": null
     },
     {
@@ -310,28 +325,13 @@
       "category": null
     },
     {
-      "word": "HOUSE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "REPORT",
+      "word": "FUND",
       "count": 20,
       "category": null
     },
     {
       "word": "ROBINHOOD",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
