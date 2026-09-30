@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:48:35.342Z",
+  "updated_at": "2026-09-30T10:59:43.739Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 11,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 31,
+      "hype_score": 34,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 57,
+      "news_count_24h": 15,
+      "hype_score": 53,
       "buzz_rank": 5
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 80,
-      "buzz_rank": 9
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -81,15 +81,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 7
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -195,6 +195,16 @@
       "category": null
     },
     {
+      "word": "BITGET",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 38,
+      "category": "価格"
+    },
+    {
       "word": "COINBASE",
       "count": 38,
       "category": null
@@ -205,27 +215,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 37,
-      "category": "価格"
-    },
-    {
-      "word": "BITGET",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 35,
       "category": "相場"
     },
     {
-      "word": "MILLION",
-      "count": 34,
+      "word": "OPENAI",
+      "count": 33,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "MILLION",
       "count": 33,
       "category": null
     },
@@ -306,7 +306,7 @@
     },
     {
       "word": "FUNDS",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "HACK",
       "count": 18,
-      "category": null
+      "category": "セキュリティ"
     }
   ],
   "stats": {
