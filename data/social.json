@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T21:22:06.941Z",
+  "updated_at": "2026-09-30T21:34:57.433Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 68,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 33,
+      "news_count_24h": 28,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 175,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 12
+      "news_count_24h": 5,
+      "hype_score": 40,
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 35,
       "category": null
@@ -220,11 +225,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 34,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 32,
       "category": null
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 30,
+      "word": "MILLION",
+      "count": 31,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 29,
+      "word": "TOKENIZED",
+      "count": 30,
       "category": null
     },
     {
@@ -315,22 +315,22 @@
       "category": null
     },
     {
-      "word": "VALUATION",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "FUNDS",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 19,
       "category": null
     },
     {
+      "word": "VALUATION",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ROBINHOOD",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FUNDS",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
