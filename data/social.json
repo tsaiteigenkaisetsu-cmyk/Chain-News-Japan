@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:26:53.165Z",
+  "updated_at": "2026-09-30T19:36:35.307Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 75,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 33,
+      "news_count_24h": 28,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 175,
+      "hype_score": 200,
       "buzz_rank": 11
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "LAUNCHES",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -200,17 +200,12 @@
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "TRADING",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 36,
       "category": null
     },
@@ -220,8 +215,13 @@
       "category": "価格"
     },
     {
-      "word": "IPO",
+      "word": "COINBASE",
       "count": 36,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 35,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 29,
       "category": "ETF"
+    },
+    {
+      "word": "BITGET",
+      "count": 28,
+      "category": null
     },
     {
       "word": "TOKEN",
@@ -275,27 +275,22 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "VALUATION",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 22,
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 21,
+      "word": "CEO",
+      "count": 22,
       "category": null
     },
     {
-      "word": "HOUSE",
+      "word": "VALUATION",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "FUND",
       "count": 21,
       "category": null
     },
@@ -310,12 +305,12 @@
       "category": null
     },
     {
-      "word": "DIGITAL",
+      "word": "HOUSE",
       "count": 20,
       "category": null
     },
     {
-      "word": "AGENT",
+      "word": "DIGITAL",
       "count": 20,
       "category": null
     },
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "REPORT",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
