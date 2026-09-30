@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T23:43:42.956Z",
+  "updated_at": "2026-09-30T23:50:45.107Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
+      "news_count_24h": 4,
+      "hype_score": 50,
       "buzz_rank": 12
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 19,
+      "category": "セキュリティ"
+    },
+    {
       "word": "FUND",
       "count": 19,
       "category": null
@@ -328,11 +333,6 @@
       "word": "ROBINHOOD",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "FUNDS",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
