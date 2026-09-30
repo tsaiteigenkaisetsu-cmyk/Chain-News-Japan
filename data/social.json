@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:24:44.299Z",
+  "updated_at": "2026-09-30T10:36:39.902Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 83,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 35,
+      "news_count_24h": 29,
+      "hype_score": 31,
       "buzz_rank": 3
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 14,
+      "hype_score": 57,
       "buzz_rank": 5
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 30,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -191,7 +191,7 @@
     },
     {
       "word": "TRADING",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
@@ -205,18 +205,23 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
       "word": "BITGET",
       "count": 37,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -225,9 +230,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "TOKENIZED",
       "count": 32,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "OPENAI",
@@ -240,23 +245,18 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 31,
       "category": "ETF"
     },
     {
-      "word": "DATA",
+      "word": "TOKEN",
       "count": 27,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 26,
+      "word": "DATA",
+      "count": 27,
       "category": null
     },
     {
@@ -270,23 +270,28 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "VALUATION",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "AMID",
+      "word": "AGENTS",
       "count": 23,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -295,22 +300,27 @@
       "category": "セキュリティ"
     },
     {
-      "word": "AGENTS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "DIGITAL",
       "count": 22,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 21,
+      "word": "REPORT",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "FUNDS",
+      "count": 19,
       "category": null
     },
     {
       "word": "PREDICTION",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 19,
       "category": null
     },
@@ -322,16 +332,6 @@
     {
       "word": "NVIDIA",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "FUNDS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "AGENT",
-      "count": 18,
       "category": null
     }
   ],
