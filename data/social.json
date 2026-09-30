@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:45:55.360Z",
+  "updated_at": "2026-09-30T20:53:38.052Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 71,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 200,
+      "hype_score": 175,
       "buzz_rank": 12
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "LAUNCHES",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
@@ -197,11 +197,6 @@
     {
       "word": "OPENAI",
       "count": 39,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 36,
       "category": null
     },
     {
@@ -220,6 +215,16 @@
       "category": "価格"
     },
     {
+      "word": "COINBASE",
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 32,
       "category": null
@@ -227,11 +232,6 @@
     {
       "word": "IPO",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 31,
       "category": null
     },
     {
@@ -260,17 +260,17 @@
       "category": "ETF"
     },
     {
-      "word": "TOKEN",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 25,
       "category": null
     },
     {
       "word": "CFTC",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
       "count": 24,
       "category": null
     },
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "VALUATION",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RULES",
       "count": 20,
       "category": null
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "VALUATION",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "ROBINHOOD",
       "count": 20,
       "category": null
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 18,
-      "category": "セキュリティ"
+      "word": "BANK",
+      "count": 19,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
