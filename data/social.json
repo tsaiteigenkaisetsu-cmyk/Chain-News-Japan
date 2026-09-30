@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T19:11:58.173Z",
+  "updated_at": "2026-09-30T19:26:53.165Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 77,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 47,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -191,8 +191,13 @@
     },
     {
       "word": "OPENAI",
-      "count": 41,
+      "count": 40,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 38,
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -200,19 +205,19 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 37,
-      "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 37,
-      "category": "相場"
-    },
-    {
       "word": "COINBASE",
       "count": 37,
       "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
     },
     {
       "word": "IPO",
@@ -220,8 +225,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 35,
+      "word": "BILLION",
+      "count": 32,
       "category": null
     },
     {
@@ -240,11 +245,6 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "BITGET",
       "count": 29,
       "category": null
@@ -256,12 +256,12 @@
     },
     {
       "word": "TOKEN",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -305,27 +305,27 @@
       "category": null
     },
     {
-      "word": "DIGITAL",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "AGENT",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "FUNDS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "AGENTS",
       "count": 20,
       "category": null
     },
     {
+      "word": "DIGITAL",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AGENT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "ROBINHOOD",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "FUNDS",
       "count": 20,
       "category": null
     },
