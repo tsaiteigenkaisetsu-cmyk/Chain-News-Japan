@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T05:36:43.421Z",
+  "updated_at": "2026-09-30T05:48:53.185Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
+      "news_count_24h": 83,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 36,
+      "news_count_24h": 30,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 64,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "dogecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "BITGET",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 37,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 34,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
     },
     {
       "word": "COINBASE",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
