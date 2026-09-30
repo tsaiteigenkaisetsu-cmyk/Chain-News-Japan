@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T10:00:23.754Z",
+  "updated_at": "2026-09-30T10:24:44.299Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 40,
+      "news_count_24h": 26,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -79,8 +79,8 @@
       "symbol": "DOT",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 267,
+      "news_count_24h": 4,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 10,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -106,8 +106,8 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 10
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 28,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,12 @@
     },
     {
       "word": "TRADING",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 38,
       "category": null
     },
     {
@@ -200,24 +205,19 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "BITGET",
-      "count": 36,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 35,
+      "count": 37,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 35,
       "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 33,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -230,12 +230,17 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
+      "word": "OPENAI",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 31,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "TOKENIZED",
       "count": 31,
       "category": null
     },
@@ -245,12 +250,12 @@
       "category": "ETF"
     },
     {
-      "word": "STABLECOIN",
-      "count": 29,
+      "word": "DATA",
+      "count": 27,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TOKEN",
       "count": 26,
       "category": null
     },
@@ -265,12 +270,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "AMID",
+      "word": "VALUATION",
       "count": 24,
       "category": null
     },
@@ -280,12 +280,22 @@
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "AMID",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 22,
       "category": null
     },
     {
-      "word": "VALUATION",
+      "word": "SECURITY",
+      "count": 22,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "AGENTS",
       "count": 22,
       "category": null
     },
@@ -300,12 +310,7 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 21,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "BANK",
+      "word": "PREDICTION",
       "count": 19,
       "category": null
     },
@@ -320,18 +325,13 @@
       "category": null
     },
     {
+      "word": "FUNDS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "AGENT",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 17,
       "category": null
     }
   ],
