@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:32:55.791Z",
+  "updated_at": "2026-09-30T07:51:40.218Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 40,
+      "news_count_24h": 24,
+      "hype_score": 42,
       "buzz_rank": 3
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 4,
+      "news_count_24h": 22,
+      "hype_score": 5,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 54,
+      "news_count_24h": 12,
+      "hype_score": 58,
       "buzz_rank": 7
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 14,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -195,13 +195,13 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "BITGET",
       "count": 38,
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 38,
+      "word": "IPO",
+      "count": 37,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 35,
       "category": "価格"
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
+    },
+    {
       "word": "STABLECOIN",
       "count": 29,
       "category": null
@@ -250,18 +255,13 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 28,
-      "category": "ETF"
-    },
-    {
-      "word": "CEO",
+      "word": "WEEK",
       "count": 27,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 26,
+      "word": "CEO",
+      "count": 27,
       "category": null
     },
     {
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "VALUATION",
       "count": 21,
       "category": null
@@ -303,6 +298,11 @@
       "word": "SECURITY",
       "count": 21,
       "category": "セキュリティ"
+    },
+    {
+      "word": "BANK",
+      "count": 20,
+      "category": null
     },
     {
       "word": "DATA",
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "PREDICTION",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
