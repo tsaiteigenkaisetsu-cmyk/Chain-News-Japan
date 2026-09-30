@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:03:41.519Z",
+  "updated_at": "2026-09-30T13:26:44.106Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 85,
       "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 37,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 50,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 7
+      "news_count_24h": 8,
+      "hype_score": 13,
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
       "buzz_rank": 16
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -205,22 +205,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
-    },
-    {
       "word": "MARKET",
       "count": 35,
       "category": "相場"
     },
     {
-      "word": "OPENAI",
-      "count": 33,
-      "category": null
+      "word": "PRICE",
+      "count": 35,
+      "category": "価格"
     },
     {
-      "word": "BITGET",
+      "word": "OPENAI",
       "count": 33,
       "category": null
     },
@@ -230,8 +225,8 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 30,
+      "word": "BITGET",
+      "count": 31,
       "category": null
     },
     {
@@ -245,8 +240,13 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "MILLION",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -255,22 +255,17 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 25,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 24,
       "category": null
     },
@@ -280,7 +275,12 @@
       "category": null
     },
     {
-      "word": "DIGITAL",
+      "word": "AMID",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 23,
       "category": null
     },
@@ -290,8 +290,13 @@
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "DIGITAL",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 21,
       "category": null
     },
     {
@@ -305,16 +310,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 21,
-      "category": "セキュリティ"
-    },
-    {
       "word": "ROBINHOOD",
       "count": 20,
       "category": null
@@ -323,6 +318,11 @@
       "word": "AGENT",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 19,
+      "category": "セキュリティ"
     },
     {
       "word": "CFTC",
