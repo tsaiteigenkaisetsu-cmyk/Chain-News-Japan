@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T07:51:40.218Z",
+  "updated_at": "2026-09-30T08:00:55.077Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
+      "news_count_24h": 86,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 42,
+      "news_count_24h": 25,
+      "hype_score": 40,
       "buzz_rank": 3
     },
     {
@@ -200,17 +200,17 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "MILLION",
       "count": 37,
       "category": null
     },
     {
       "word": "COINBASE",
+      "count": 36,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 36,
       "category": null
     },
@@ -270,13 +270,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "BILLION",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
+      "word": "AMID",
+      "count": 23,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
