@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T15:38:40.691Z",
+  "updated_at": "2026-09-30T15:55:04.611Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 80,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
-      "buzz_rank": 7
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 10,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 60,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -196,7 +196,7 @@
     },
     {
       "word": "COINBASE",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -245,7 +245,7 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "DATA",
       "count": 27,
       "category": null
     },
@@ -255,7 +255,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TOKEN",
       "count": 26,
       "category": null
     },
@@ -281,12 +281,17 @@
     },
     {
       "word": "BANK",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "AGENT",
+      "count": 21,
       "category": null
     },
     {
@@ -316,11 +321,6 @@
     },
     {
       "word": "ROBINHOOD",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "AGENT",
       "count": 20,
       "category": null
     },
