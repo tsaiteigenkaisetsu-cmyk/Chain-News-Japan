@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-30T10:59:43.739Z",
+  "updated_at": "2026-09-30T11:21:00.269Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
-      "hype_score": 11,
+      "news_count_24h": 86,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -18,14 +18,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
       "hype_score": 34,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 27,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "LAUNCHES",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -195,29 +195,34 @@
       "category": null
     },
     {
-      "word": "BITGET",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 38,
-      "category": "価格"
-    },
-    {
       "word": "COINBASE",
       "count": 38,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
       "word": "IPO",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "BITGET",
       "count": 35,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 34,
+      "category": null
     },
     {
       "word": "OPENAI",
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 33,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -246,22 +246,17 @@
     },
     {
       "word": "ETF",
-      "count": 31,
+      "count": 30,
       "category": "ETF"
+    },
+    {
+      "word": "DATA",
+      "count": 28,
+      "category": null
     },
     {
       "word": "TOKEN",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 26,
       "category": null
     },
     {
@@ -270,7 +265,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "CEO",
       "count": 25,
       "category": null
     },
@@ -280,12 +275,17 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "TRUMP",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "DIGITAL",
       "count": 23,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "BANK",
       "count": 23,
       "category": null
     },
@@ -295,14 +295,14 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 22,
       "category": "セキュリティ"
-    },
-    {
-      "word": "DIGITAL",
-      "count": 22,
-      "category": null
     },
     {
       "word": "FUNDS",
@@ -311,11 +311,11 @@
     },
     {
       "word": "REPORT",
-      "count": 19,
+      "count": 20,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "AGENT",
       "count": 19,
       "category": null
     },
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "HACK",
+      "word": "NVIDIA",
       "count": 18,
-      "category": "セキュリティ"
+      "category": null
     }
   ],
   "stats": {
