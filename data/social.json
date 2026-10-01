@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T03:53:44.241Z",
+  "updated_at": "2026-10-01T04:01:54.256Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 73,
+      "news_count_24h": 12,
+      "hype_score": 67,
       "buzz_rank": 6
     },
     {
@@ -200,11 +200,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 37,
       "category": "価格"
@@ -220,6 +215,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 35,
+      "category": null
+    },
+    {
       "word": "OPENAI",
       "count": 35,
       "category": null
@@ -227,6 +227,11 @@
     {
       "word": "MILLION",
       "count": 33,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 30,
       "category": null
     },
     {
@@ -241,11 +246,6 @@
     },
     {
       "word": "IPO",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 29,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "DIGITAL",
-      "count": 19,
+      "word": "WHAT",
+      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
