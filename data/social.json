@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:09:24.214Z",
+  "updated_at": "2026-10-01T01:49:12.308Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
+      "news_count_24h": 73,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
+      "news_count_24h": 31,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -210,13 +210,18 @@
       "category": "価格"
     },
     {
-      "word": "OPENAI",
-      "count": 36,
+      "word": "STABLECOIN",
+      "count": 35,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "OPENAI",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 33,
       "category": null
     },
     {
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "COINBASE",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -246,17 +246,17 @@
     },
     {
       "word": "IPO",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BITGET",
       "count": 28,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "BITGET",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 25,
       "category": null
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 23,
+      "word": "CFTC",
+      "count": 22,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 23,
+      "word": "PREDICTION",
+      "count": 22,
       "category": null
     },
     {
@@ -280,22 +280,22 @@
       "category": "セキュリティ"
     },
     {
-      "word": "HOUSE",
+      "word": "TRUMP",
       "count": 22,
       "category": null
     },
     {
-      "word": "CFTC",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "VALUATION",
+      "word": "FUNDS",
       "count": 21,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "AMID",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "HOUSE",
       "count": 21,
       "category": null
     },
@@ -305,7 +305,7 @@
       "category": null
     },
     {
-      "word": "FUNDS",
+      "word": "VALUATION",
       "count": 20,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "ROBINHOOD",
       "count": 19,
       "category": null
     },
     {
       "word": "FUND",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
       "count": 19,
       "category": null
     }
