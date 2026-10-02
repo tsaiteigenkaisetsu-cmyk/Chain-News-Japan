@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:07:30.309Z",
+  "updated_at": "2026-10-02T06:58:26.004Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 17,
+      "news_count_24h": 61,
+      "hype_score": 20,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 38,
+      "news_count_24h": 19,
+      "hype_score": 42,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 62,
+      "news_count_24h": 12,
+      "hype_score": 67,
       "buzz_rank": 5
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 88,
+      "news_count_24h": 7,
+      "hype_score": 100,
       "buzz_rank": 7
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 350,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 300,
       "buzz_rank": 15
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 60,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 100,
+      "buzz_rank": 11
     },
     {
       "coin_id": "litecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 26,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 40,
-      "buzz_rank": 10
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,47 +186,47 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 47,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 42,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 38,
       "category": "価格"
     },
     {
-      "word": "BILLION",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "DATA",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 34,
+      "count": 32,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 28,
+      "count": 27,
       "category": "相場"
     },
     {
+      "word": "AMID",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "RULES",
-      "count": 26,
+      "count": 24,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -235,13 +235,8 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "OPENAI",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -251,12 +246,12 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 20,
+      "word": "WHAT",
+      "count": 21,
       "category": null
     },
     {
@@ -265,22 +260,27 @@
       "category": null
     },
     {
-      "word": "TAX",
+      "word": "SEC",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "PAY",
-      "count": 18,
-      "category": null
+      "category": "規制"
     },
     {
       "word": "SECURITY",
-      "count": 18,
+      "count": 19,
       "category": "セキュリティ"
     },
     {
-      "word": "BINANCE",
+      "word": "TREASURY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "FUNDS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 18,
       "category": null
     },
@@ -290,17 +290,12 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "AHEAD",
       "count": 17,
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FUNDS",
+      "word": "SOLANA",
       "count": 17,
       "category": null
     },
@@ -310,27 +305,32 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
-      "count": 17,
+      "count": 16,
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "STOCKS",
       "count": 16,
-      "category": "規制"
+      "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "INFLATION",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TAX",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PLANS",
       "count": 16,
       "category": null
     }
