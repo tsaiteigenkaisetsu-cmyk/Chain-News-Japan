@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-03T16:09:39.580Z",
+  "updated_at": "2026-10-03T19:14:13.819Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 31,
+      "news_count_24h": 29,
+      "hype_score": 41,
       "buzz_rank": 1
     },
     {
@@ -16,27 +16,27 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 44,
-      "buzz_rank": 2
+      "news_count_24h": 8,
+      "hype_score": 100,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
-      "buzz_rank": 6
+      "news_count_24h": 3,
+      "hype_score": 233,
+      "buzz_rank": 8
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
-      "buzz_rank": 7
+      "news_count_24h": 5,
+      "hype_score": 140,
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -131,10 +131,10 @@
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -195,24 +195,19 @@
       "category": "規制"
     },
     {
-      "word": "BILLION",
+      "word": "PRICE",
       "count": 22,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "DATA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 21,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "BILLION",
       "count": 21,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "OCTOBER",
@@ -225,12 +220,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
+      "word": "TRUMP",
       "count": 18,
       "category": null
     },
@@ -255,7 +245,7 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "OPENAI",
       "count": 15,
       "category": null
     },
@@ -270,37 +260,22 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "STABLECOIN",
       "count": 14,
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "ANTHROPIC",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 13,
       "category": null
     },
     {
       "word": "YEARS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 13,
-      "category": "相場"
-    },
-    {
-      "word": "RULES",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "THAN",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 12,
       "category": null
     },
@@ -315,14 +290,24 @@
       "category": "ETF"
     },
     {
-      "word": "WARNS",
+      "word": "MARKET",
+      "count": 12,
+      "category": "相場"
+    },
+    {
+      "word": "RULES",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 11,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "AHEAD",
       "count": 11,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "WHAT",
@@ -330,7 +315,22 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "THAN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RISK",
       "count": 11,
       "category": null
     }
