@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T01:24:04.038Z",
+  "updated_at": "2026-10-03T06:40:08.678Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 69,
-      "hype_score": 17,
+      "news_count_24h": 64,
+      "hype_score": 19,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 26,
+      "news_count_24h": 30,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
+      "news_count_24h": 17,
+      "hype_score": 6,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 73,
+      "news_count_24h": 9,
+      "hype_score": 89,
       "buzz_rank": 5
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
+      "news_count_24h": 5,
+      "hype_score": 140,
       "buzz_rank": 8
     },
     {
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -201,36 +201,36 @@
     },
     {
       "word": "SEC",
-      "count": 26,
+      "count": 28,
       "category": "規制"
     },
     {
-      "word": "STABLECOIN",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "DATA",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 22,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 19,
+      "word": "TOKENIZED",
+      "count": 22,
       "category": null
     },
     {
       "word": "OCTOBER",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 18,
       "category": null
     },
@@ -240,14 +240,19 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 17,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "WHAT",
+      "word": "TRUMP",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 16,
+      "category": "セキュリティ"
     },
     {
       "word": "INTENTS",
@@ -255,22 +260,17 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "WHAT",
       "count": 16,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 16,
+      "word": "TOKEN",
+      "count": 15,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
@@ -280,12 +280,17 @@
       "category": "相場"
     },
     {
-      "word": "NETWORK",
+      "word": "RULES",
       "count": 15,
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "OPENAI",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
       "count": 15,
       "category": null
     },
@@ -300,27 +305,12 @@
       "category": null
     },
     {
-      "word": "RULES",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
+      "word": "STOCKS",
       "count": 14,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "CHINA",
+      "word": "AGENTS",
       "count": 14,
       "category": null
     },
@@ -330,9 +320,19 @@
       "category": null
     },
     {
-      "word": "REPORT",
+      "word": "PROPOSES",
       "count": 14,
       "category": null
+    },
+    {
+      "word": "MONTH",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 13,
+      "category": "ETF"
     }
   ],
   "stats": {
