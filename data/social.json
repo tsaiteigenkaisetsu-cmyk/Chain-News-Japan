@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-04T16:59:19.390Z",
+  "updated_at": "2026-10-04T20:04:20.940Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 63,
+      "news_count_24h": 20,
+      "hype_score": 50,
       "buzz_rank": 1
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 800,
-      "buzz_rank": 8
+      "news_count_24h": 3,
+      "hype_score": 267,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 350,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 700,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -90,25 +90,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 300,
-      "buzz_rank": 10
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
-      "hype_score": 400,
-      "buzz_rank": 14
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 25,
+      "count": 18,
       "category": null
     },
     {
@@ -195,44 +195,19 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 12,
-      "category": "規制"
-    },
-    {
       "word": "TRUMP",
-      "count": 12,
+      "count": 13,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "DATA",
       "count": 12,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 12,
+      "count": 11,
       "category": "価格"
-    },
-    {
-      "word": "DATA",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 11,
-      "category": "相場"
-    },
-    {
-      "word": "BILLION",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 10,
-      "category": null
     },
     {
       "word": "FIRMS",
@@ -240,8 +215,18 @@
       "category": null
     },
     {
-      "word": "TRUST",
+      "word": "BANK",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 9,
       "category": null
     },
     {
@@ -250,17 +235,32 @@
       "category": null
     },
     {
-      "word": "INVESTORS",
+      "word": "TRUST",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 9,
+      "category": "相場"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "HOW",
       "count": 8,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "SEC",
       "count": 8,
-      "category": null
+      "category": "規制"
     },
     {
-      "word": "WHY",
+      "word": "BILLION",
       "count": 8,
       "category": null
     },
@@ -270,9 +270,39 @@
       "category": null
     },
     {
+      "word": "INVESTORS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "LEAD",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "RISKS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "MONTH",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 7,
       "category": "相場"
+    },
+    {
+      "word": "SHIBA",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "INU",
+      "count": 7,
+      "category": null
     },
     {
       "word": "USERS",
@@ -280,57 +310,27 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 7,
-      "category": "ETF"
-    },
-    {
-      "word": "MONEY",
+      "word": "WHY",
       "count": 7,
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DIGITAL",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "CHARTERS",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "BLAST",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "HITS",
+      "word": "STABLECOIN",
       "count": 6,
       "category": null
     },
     {
-      "word": "MONTH",
+      "word": "JAY",
       "count": 6,
       "category": null
     },
     {
-      "word": "RISKS",
+      "word": "CLAYTON",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 6,
       "category": null
     }
