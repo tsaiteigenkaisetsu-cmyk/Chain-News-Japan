@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-04T20:04:20.940Z",
+  "updated_at": "2026-10-04T23:01:29.851Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 24,
       "hype_score": 50,
       "buzz_rank": 1
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 350,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "cardano",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 8
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 4
     },
     {
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
-      "count": 14,
+      "count": 17,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 13,
+      "count": 14,
       "category": null
     },
     {
@@ -205,22 +200,22 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 11,
-      "category": "価格"
-    },
-    {
-      "word": "FIRMS",
-      "count": 10,
+      "word": "OCTOBER",
+      "count": 12,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 10,
+      "word": "MARKET",
+      "count": 9,
+      "category": "相場"
+    },
+    {
+      "word": "BILLION",
+      "count": 9,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "INVESTORS",
       "count": 9,
       "category": null
     },
@@ -235,52 +230,42 @@
       "category": null
     },
     {
-      "word": "TRUST",
+      "word": "BANK",
       "count": 9,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "PRICE",
       "count": 9,
-      "category": "相場"
+      "category": "価格"
+    },
+    {
+      "word": "LEAD",
+      "count": 8,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 9,
+      "count": 8,
       "category": null
     },
     {
-      "word": "HOW",
+      "word": "OPENAI",
       "count": 8,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 8,
+      "count": 7,
       "category": "規制"
     },
     {
-      "word": "BILLION",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "OCC",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "INVESTORS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "LEAD",
+      "word": "RISKS",
       "count": 7,
       "category": null
     },
     {
-      "word": "RISKS",
+      "word": "HOW",
       "count": 7,
       "category": null
     },
@@ -305,7 +290,7 @@
       "category": null
     },
     {
-      "word": "USERS",
+      "word": "FIRMS",
       "count": 7,
       "category": null
     },
@@ -315,7 +300,17 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "INTENTS",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 6,
+      "category": "ETF"
+    },
+    {
+      "word": "CASE",
       "count": 6,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "OCC",
+      "count": 6,
+      "category": null
+    },
+    {
+      "word": "TRUST",
       "count": 6,
       "category": null
     }
