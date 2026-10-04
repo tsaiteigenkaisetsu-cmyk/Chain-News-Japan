@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-04T00:38:01.536Z",
+  "updated_at": "2026-10-04T06:18:40.751Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 57,
+      "news_count_24h": 20,
+      "hype_score": 70,
       "buzz_rank": 1
     },
     {
@@ -16,44 +16,44 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 133,
-      "buzz_rank": 3
+      "news_count_24h": 4,
+      "hype_score": 200,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 700,
-      "buzz_rank": 11
+      "hype_score": 800,
+      "buzz_rank": 12
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 12
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 175,
+      "news_count_24h": 3,
+      "hype_score": 233,
       "buzz_rank": 6
     },
     {
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 4
+      "news_count_24h": 5,
+      "hype_score": 60,
+      "buzz_rank": 3
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 27,
+      "count": 23,
       "category": null
     },
     {
@@ -195,9 +195,9 @@
       "category": "価格"
     },
     {
-      "word": "SEC",
-      "count": 20,
-      "category": "規制"
+      "word": "DATA",
+      "count": 18,
+      "category": null
     },
     {
       "word": "OCTOBER",
@@ -205,32 +205,27 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "BANK",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "BILLION",
       "count": 16,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "SEC",
       "count": 15,
-      "category": null
+      "category": "規制"
     },
     {
-      "word": "JOBS",
+      "word": "WHY",
       "count": 14,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "STABLECOIN",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "JOBS",
       "count": 14,
       "category": null
     },
@@ -240,19 +235,9 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "YEARS",
+      "word": "MARKET",
       "count": 12,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 12,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "HITS",
@@ -260,38 +245,38 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 11,
-      "category": "相場"
-    },
-    {
       "word": "FIRMS",
       "count": 11,
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "YEARS",
       "count": 11,
-      "category": "相場"
+      "category": null
     },
     {
-      "word": "ETF",
+      "word": "BILLION",
       "count": 11,
-      "category": "ETF"
+      "category": null
     },
     {
-      "word": "WHAT",
+      "word": "OPENAI",
       "count": 11,
       "category": null
     },
     {
       "word": "ANTHROPIC",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "AAVE",
+      "count": 10,
       "category": null
     },
     {
@@ -305,22 +290,17 @@
       "category": null
     },
     {
-      "word": "INTENTS",
+      "word": "RALLY",
       "count": 10,
-      "category": null
+      "category": "相場"
+    },
+    {
+      "word": "ETF",
+      "count": 10,
+      "category": "ETF"
     },
     {
       "word": "BLAST",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
       "count": 10,
       "category": null
     },
@@ -330,8 +310,28 @@
       "category": null
     },
     {
-      "word": "AAVE",
+      "word": "LAUNCHES",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "MONEY",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "AGENTS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "87K",
+      "count": 8,
       "category": null
     }
   ],
