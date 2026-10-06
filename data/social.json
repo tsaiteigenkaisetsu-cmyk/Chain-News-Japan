@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-06T02:33:53.641Z",
+  "updated_at": "2026-10-06T09:20:48.977Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 11,
+      "news_count_24h": 95,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -27,25 +27,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
-      "buzz_rank": 4
+      "news_count_24h": 20,
+      "hype_score": 40,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 9
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
+      "news_count_24h": 7,
+      "hype_score": 43,
       "buzz_rank": 7
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 12,
+      "hype_score": 17,
       "buzz_rank": 5
     },
     {
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,71 +186,101 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 27,
+      "count": 30,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 20,
+      "count": 25,
       "category": "価格"
     },
     {
-      "word": "BILLION",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 18,
+      "count": 23,
       "category": "相場"
     },
     {
+      "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "OKX",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "CFTC",
-      "count": 17,
+      "count": 20,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 17,
       "category": null
     },
     {
       "word": "SEC",
-      "count": 16,
+      "count": 17,
       "category": "規制"
     },
     {
       "word": "TREASURY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OKX",
-      "count": 14,
+      "count": 17,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 14,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "ZCASH",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 14,
+      "category": "ETF"
+    },
+    {
+      "word": "STRATEGY",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 13,
       "category": null
     },
     {
-      "word": "STRATEGY",
+      "word": "ANTHROPIC",
       "count": 13,
       "category": null
     },
@@ -260,24 +290,29 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "ETFS",
       "count": 12,
       "category": null
     },
     {
-      "word": "ZCASH",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
+      "word": "HITS",
       "count": 11,
       "category": null
+    },
+    {
+      "word": "MONTH",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 11,
+      "category": "相場"
     },
     {
       "word": "OPEN",
@@ -285,7 +320,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "DATA",
       "count": 11,
       "category": null
     },
@@ -295,43 +330,8 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "RULES",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 11,
-      "category": "ETF"
-    },
-    {
-      "word": "OCTOBER",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 10,
-      "category": "相場"
-    },
-    {
-      "word": "STOCKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "MONTH",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 10,
       "category": null
     }
   ],
