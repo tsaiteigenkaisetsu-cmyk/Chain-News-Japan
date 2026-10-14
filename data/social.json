@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T21:32:58.105Z",
+  "updated_at": "2026-10-14T21:42:43.046Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 23,
+      "news_count_24h": 31,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -255,9 +255,9 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "ETF",
       "count": 19,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "STOCK",
@@ -265,14 +265,14 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 17,
+      "word": "OPENAI",
+      "count": 18,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "ANTHROPIC",
       "count": 17,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
