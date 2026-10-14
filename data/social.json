@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-14T18:59:36.411Z",
+  "updated_at": "2026-10-14T19:19:29.876Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 10,
+      "news_count_24h": 95,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 21,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
@@ -68,10 +68,10 @@
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 8,
+      "hype_score": 25,
       "buzz_rank": 7
     },
     {
@@ -215,22 +215,7 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 22,
       "category": null
     },
@@ -245,14 +230,29 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 21,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 21,
+      "category": null
     },
     {
       "word": "CEO",
-      "count": 19,
+      "count": 20,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 20,
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -267,6 +267,11 @@
     {
       "word": "ANTHROPIC",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 17,
       "category": null
     },
     {
@@ -287,11 +292,6 @@
     {
       "word": "OCTOBER",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 16,
       "category": null
     },
     {
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "CHAIN",
       "count": 15,
       "category": null
     },
     {
-      "word": "CHAIN",
-      "count": 15,
+      "word": "AHEAD",
+      "count": 14,
       "category": null
     }
   ],
