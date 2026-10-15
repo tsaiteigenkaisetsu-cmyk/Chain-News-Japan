@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T18:41:23.793Z",
+  "updated_at": "2026-10-15T18:55:29.170Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 95,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -186,18 +186,13 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 49,
       "category": null
     },
     {
       "word": "BANK",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 32,
-      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -208,6 +203,11 @@
       "word": "LEDGER",
       "count": 31,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
     },
     {
       "word": "CEO",
@@ -235,12 +235,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 24,
+      "word": "TOKENIZED",
+      "count": 23,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "AMID",
       "count": 23,
       "category": null
     },
@@ -265,23 +265,8 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "INFLATION",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 20,
       "category": null
     },
     {
@@ -290,9 +275,24 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "INFLATION",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 19,
+      "category": null
     },
     {
       "word": "WHY",
