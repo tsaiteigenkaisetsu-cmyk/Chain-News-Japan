@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T14:36:41.321Z",
+  "updated_at": "2026-10-15T14:47:18.035Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 93,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 200,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
       "word": "LEDGER",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -235,22 +235,22 @@
       "category": "相場"
     },
     {
+      "word": "RIPPLE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 22,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 21,
       "category": null
     },
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 19,
       "category": null
@@ -298,6 +293,11 @@
       "word": "ETF",
       "count": 18,
       "category": "ETF"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 18,
+      "category": null
     },
     {
       "word": "OCTOBER",
@@ -320,9 +320,9 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "QUANTUM",
       "count": 16,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "SAUDI",
