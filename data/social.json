@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:20:12.094Z",
+  "updated_at": "2026-10-15T11:33:37.699Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 98,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 15,
+      "news_count_24h": 38,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 50,
+      "hype_score": 200,
       "buzz_rank": 12
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 8,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 5
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -275,8 +275,18 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 18,
       "category": null
     },
     {
@@ -290,18 +300,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "SAUDI",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 16,
       "category": null
     },
     {
@@ -322,11 +327,6 @@
     {
       "word": "OCTOBER",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 15,
       "category": null
     },
     {
