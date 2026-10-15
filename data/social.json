@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:25:43.047Z",
+  "updated_at": "2026-10-15T03:39:51.781Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "STOCKS",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -238,11 +238,6 @@
       "word": "ETF",
       "count": 21,
       "category": "ETF"
-    },
-    {
-      "word": "MARKET",
-      "count": 20,
-      "category": "相場"
     },
     {
       "word": "OPENAI",
@@ -263,6 +258,11 @@
       "word": "DATA",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 19,
+      "category": "相場"
     },
     {
       "word": "COINBASE",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
