@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:50:30.477Z",
+  "updated_at": "2026-10-15T23:59:52.837Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 99,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 23,
       "category": null
@@ -232,11 +237,6 @@
     {
       "word": "STABLECOIN",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 22,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "COREWEAVE",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "RULES",
       "count": 18,
       "category": null
@@ -328,11 +333,6 @@
       "word": "CPI",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "NETWORK",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
