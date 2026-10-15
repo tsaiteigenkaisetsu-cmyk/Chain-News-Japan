@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T16:48:59.287Z",
+  "updated_at": "2026-10-15T17:00:14.794Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
-      "hype_score": 10,
+      "news_count_24h": 95,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 21,
+      "category": "ETF"
+    },
+    {
       "word": "INFLATION",
       "count": 21,
       "category": null
@@ -258,11 +263,6 @@
       "word": "LAUNCHES",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
     },
     {
       "word": "RIPPLE",
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 18,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SAUDI",
+      "word": "PLANS",
       "count": 16,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
