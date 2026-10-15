@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T16:01:25.295Z",
+  "updated_at": "2026-10-15T16:23:55.874Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
-      "hype_score": 8,
+      "news_count_24h": 100,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 13,
+      "news_count_24h": 44,
+      "hype_score": 14,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 42,
+      "news_count_24h": 20,
+      "hype_score": 40,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 200,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 175,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
       "buzz_rank": 5
     },
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 47,
+      "count": 49,
       "category": null
     },
     {
@@ -195,14 +195,14 @@
       "category": null
     },
     {
-      "word": "LEDGER",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 32,
       "category": "価格"
+    },
+    {
+      "word": "LEDGER",
+      "count": 31,
+      "category": null
     },
     {
       "word": "CEO",
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 27,
+      "word": "BILLION",
+      "count": 28,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "DATA",
       "count": 27,
       "category": null
     },
@@ -225,23 +225,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 24,
+      "category": "相場"
+    },
+    {
       "word": "PAYMENTS",
       "count": 24,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "STOCK",
       "count": 23,
-      "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 22,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
+      "word": "AMID",
+      "count": 23,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 20,
+      "category": "ETF"
+    },
+    {
       "word": "STABLECOIN",
       "count": 19,
       "category": null
@@ -278,11 +283,6 @@
       "word": "ANTHROPIC",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 19,
-      "category": "ETF"
     },
     {
       "word": "COINBASE",
@@ -321,16 +321,16 @@
     },
     {
       "word": "TOKENIZED",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 16,
       "category": null
     },
     {
       "word": "SAUDI",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "RULES",
       "count": 16,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
