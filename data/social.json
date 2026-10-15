@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T21:59:44.231Z",
+  "updated_at": "2026-10-15T22:20:55.524Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 98,
-      "hype_score": 10,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "DATA",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -235,12 +235,12 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 23,
+      "word": "ANTHROPIC",
+      "count": 22,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "PAYMENTS",
       "count": 22,
       "category": null
     },
@@ -285,12 +285,12 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
+      "word": "STOCKS",
       "count": 19,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "QUANTUM",
       "count": 19,
       "category": null
     },
@@ -310,12 +310,7 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
+      "word": "OPENAI",
       "count": 18,
       "category": null
     },
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "RULES",
       "count": 17,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "RISK",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 17,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
