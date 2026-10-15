@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T11:33:37.699Z",
+  "updated_at": "2026-10-15T11:44:48.325Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 98,
-      "hype_score": 7,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "BILLION",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -235,11 +235,6 @@
       "category": "相場"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 21,
       "category": null
@@ -261,6 +256,11 @@
     },
     {
       "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 20,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
