@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T20:59:44.266Z",
+  "updated_at": "2026-10-15T21:20:44.052Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 33,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -186,8 +186,13 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 49,
+      "count": 48,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 34,
+      "category": "価格"
     },
     {
       "word": "BANK",
@@ -195,18 +200,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 33,
-      "category": "価格"
-    },
-    {
-      "word": "DATA",
+      "word": "CEO",
       "count": 30,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 30,
+      "word": "DATA",
+      "count": 29,
       "category": null
     },
     {
@@ -216,13 +216,13 @@
     },
     {
       "word": "BILLION",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "MARKET",
       "count": 24,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -230,9 +230,19 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "PAYMENTS",
       "count": 23,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 21,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -250,17 +260,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 21,
       "category": null
     },
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 19,
       "category": "ETF"
@@ -305,7 +300,17 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WARNS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 18,
       "category": null
     },
@@ -320,18 +325,13 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
+      "word": "IPO",
       "count": 17,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 16,
+      "word": "WHAT",
+      "count": 17,
       "category": null
     }
   ],
