@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T23:42:48.107Z",
+  "updated_at": "2026-10-15T23:50:30.477Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
       "count": 20,
       "category": null
@@ -268,6 +263,11 @@
       "word": "ETF",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 20,
+      "category": null
     },
     {
       "word": "TOKENIZED",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
