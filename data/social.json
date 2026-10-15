@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-15T17:00:14.794Z",
+  "updated_at": "2026-10-15T17:19:17.699Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 11,
+      "news_count_24h": 94,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 6
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 6,
+      "hype_score": 13,
       "buzz_rank": 5
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,18 +186,13 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 50,
       "category": null
     },
     {
       "word": "BANK",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 32,
-      "category": "価格"
     },
     {
       "word": "LEDGER",
@@ -208,6 +203,11 @@
       "word": "CEO",
       "count": 31,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
     },
     {
       "word": "DATA",
@@ -221,7 +221,7 @@
     },
     {
       "word": "MARKET",
-      "count": 25,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -235,13 +235,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
+      "word": "AMID",
+      "count": 23,
       "category": null
     },
     {
@@ -261,12 +261,22 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
       "word": "RIPPLE",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 19,
       "category": null
     },
     {
@@ -305,11 +315,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
       "count": 18,
       "category": null
@@ -320,18 +325,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 18,
       "category": null
     },
     {
       "word": "PLANS",
-      "count": 16,
+      "count": 17,
       "category": null
     }
   ],
