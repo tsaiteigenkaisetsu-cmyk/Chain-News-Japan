@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T22:32:47.629Z",
+  "updated_at": "2026-10-16T22:42:20.781Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 14,
+      "news_count_24h": 75,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 150,
+      "hype_score": 125,
       "buzz_rank": 9
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 20,
       "category": null
@@ -291,11 +296,6 @@
     },
     {
       "word": "BANK",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "IPO",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
