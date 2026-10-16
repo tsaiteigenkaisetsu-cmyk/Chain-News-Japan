@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T03:25:50.738Z",
+  "updated_at": "2026-10-16T03:40:06.489Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 91,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 33,
+      "news_count_24h": 32,
+      "hype_score": 34,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 3,
+      "news_count_24h": 28,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 5
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 300,
       "buzz_rank": 18
     },
     {
@@ -191,22 +191,22 @@
     },
     {
       "word": "BANK",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
-      "word": "CEO",
-      "count": 30,
+      "word": "LEDGER",
+      "count": 29,
       "category": null
     },
     {
-      "word": "LEDGER",
-      "count": 28,
+      "word": "CEO",
+      "count": 29,
       "category": null
     },
     {
@@ -225,18 +225,23 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 23,
+      "word": "AMID",
+      "count": 24,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "STOCK",
       "count": 23,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
+      "count": 22,
       "category": null
     },
     {
@@ -250,19 +255,9 @@
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 20,
-      "category": "ETF"
     },
     {
       "word": "ANTHROPIC",
@@ -298,6 +293,11 @@
       "word": "QUANTUM",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     },
     {
       "word": "LAUNCHES",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
