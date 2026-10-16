@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T05:35:16.020Z",
+  "updated_at": "2026-10-16T05:46:32.077Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 86,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 15
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
@@ -255,19 +255,9 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 20,
       "category": "ETF"
-    },
-    {
-      "word": "COINBASE",
-      "count": 20,
-      "category": null
     },
     {
       "word": "PAYMENTS",
@@ -280,12 +270,22 @@
       "category": null
     },
     {
+      "word": "QUANTUM",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 19,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 19,
       "category": null
     },
