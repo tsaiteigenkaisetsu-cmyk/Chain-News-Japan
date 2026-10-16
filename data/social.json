@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:54:48.211Z",
+  "updated_at": "2026-10-16T15:01:25.721Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 6
+      "news_count_24h": 10,
+      "hype_score": 20,
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -250,27 +250,22 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 22,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
+      "word": "TRADING",
       "count": 21,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "AMID",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 21,
       "category": null
     },
@@ -280,17 +275,27 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "RISK",
       "count": 20,
       "category": null
     },
     {
-      "word": "RISK",
+      "word": "LAUNCHES",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 20,
       "category": null
     },
@@ -301,11 +306,6 @@
     },
     {
       "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 19,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "NETWORK",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
