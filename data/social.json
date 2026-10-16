@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T10:01:28.844Z",
+  "updated_at": "2026-10-16T10:22:24.608Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 85,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 34,
+      "news_count_24h": 31,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
+      "news_count_24h": 23,
+      "hype_score": 30,
       "buzz_rank": 4
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -195,13 +195,23 @@
       "category": "価格"
     },
     {
-      "word": "BANK",
-      "count": 31,
+      "word": "CEO",
+      "count": 29,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 29,
+      "word": "BANK",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "LEDGER",
+      "count": 27,
       "category": null
     },
     {
@@ -210,28 +220,18 @@
       "category": "相場"
     },
     {
-      "word": "DATA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
+      "word": "QUANTUM",
+      "count": 23,
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 22,
+      "word": "BILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -250,11 +250,6 @@
       "category": "ETF"
     },
     {
-      "word": "RULES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 21,
       "category": null
@@ -270,6 +265,11 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 20,
       "category": null
@@ -282,6 +282,11 @@
     {
       "word": "TOKENIZED",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 19,
       "category": null
     },
     {
@@ -305,7 +310,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "GOOGLE",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
       "count": 18,
       "category": null
     },
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PAYMENTS",
       "count": 18,
       "category": null
     }
