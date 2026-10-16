@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:33:49.073Z",
+  "updated_at": "2026-10-16T23:41:04.882Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 73,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -190,11 +190,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 33,
-      "category": "価格"
-    },
-    {
       "word": "LEDGER",
       "count": 32,
       "category": null
@@ -203,6 +198,11 @@
       "word": "BILLION",
       "count": 32,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 32,
+      "category": "価格"
     },
     {
       "word": "CEO",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
