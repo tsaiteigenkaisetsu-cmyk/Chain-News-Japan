@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:47:32.113Z",
+  "updated_at": "2026-10-16T14:54:48.211Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 25,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -200,13 +200,13 @@
       "category": "相場"
     },
     {
-      "word": "BILLION",
+      "word": "LEDGER",
       "count": 28,
       "category": null
     },
     {
-      "word": "LEDGER",
-      "count": 28,
+      "word": "BILLION",
+      "count": 27,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 21,
       "category": null
@@ -282,6 +277,11 @@
     {
       "word": "RULES",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
