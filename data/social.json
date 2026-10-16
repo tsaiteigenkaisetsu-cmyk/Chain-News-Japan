@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:00:57.101Z",
+  "updated_at": "2026-10-16T17:18:25.207Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -220,12 +220,12 @@
       "category": "相場"
     },
     {
-      "word": "OPENAI",
+      "word": "STOCKS",
       "count": 24,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "OPENAI",
       "count": 24,
       "category": null
     },
@@ -245,6 +245,16 @@
       "category": null
     },
     {
+      "word": "QUANTUM",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 22,
       "category": null
@@ -252,6 +262,11 @@
     {
       "word": "SOLANA",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 21,
       "category": null
     },
     {
@@ -275,21 +290,6 @@
       "category": null
     },
     {
-      "word": "COREWEAVE",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "QUANTUM",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "WALLET",
       "count": 20,
       "category": null
@@ -300,7 +300,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "COREWEAVE",
       "count": 20,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
