@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T07:59:34.859Z",
+  "updated_at": "2026-10-16T08:28:53.926Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
-      "hype_score": 12,
+      "news_count_24h": 87,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 3,
+      "news_count_24h": 28,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
+      "news_count_24h": 7,
+      "hype_score": 43,
       "buzz_rank": 7
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 42,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 34,
+      "category": "価格"
     },
     {
       "word": "BANK",
       "count": 33,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 33,
-      "category": "価格"
     },
     {
       "word": "CEO",
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "RISK",
       "count": 20,
       "category": null
@@ -290,17 +295,7 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "RULES",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 19,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "AHEAD",
       "count": 18,
       "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 18,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
