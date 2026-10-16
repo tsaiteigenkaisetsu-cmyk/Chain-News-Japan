@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T17:31:51.565Z",
+  "updated_at": "2026-10-16T17:43:34.784Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 60,
+      "hype_score": 40,
       "buzz_rank": 7
     },
     {
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 25,
       "category": null
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 24,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 24,
+      "word": "OPENAI",
+      "count": 23,
       "category": null
     },
     {
@@ -280,13 +280,18 @@
       "category": null
     },
     {
-      "word": "NETWORK",
+      "word": "RISK",
       "count": 21,
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 21,
+      "word": "MODEL",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
+      "count": 20,
       "category": null
     },
     {
@@ -297,11 +302,6 @@
     {
       "word": "IPO",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "MODEL",
-      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
