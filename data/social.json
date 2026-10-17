@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T09:50:09.007Z",
+  "updated_at": "2026-10-17T09:59:59.280Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 36,
+      "news_count_24h": 23,
+      "hype_score": 35,
       "buzz_rank": 2
     },
     {
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 20,
       "category": null
@@ -250,22 +255,12 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCK",
+      "word": "WALLET",
       "count": 19,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "RULES",
       "count": 18,
       "category": null
     },
@@ -285,7 +280,7 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "STOCK",
       "count": 18,
       "category": null
     },
@@ -307,6 +302,11 @@
     {
       "word": "RISK",
       "count": 18,
+      "category": null
+    },
+    {
+      "word": "RULES",
+      "count": 17,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
