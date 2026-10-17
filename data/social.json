@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:16:50.902Z",
+  "updated_at": "2026-10-17T17:26:18.407Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 19,
+      "news_count_24h": 39,
+      "hype_score": 18,
       "buzz_rank": 1
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 5
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -222,11 +222,6 @@
     {
       "word": "AMID",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "MODEL",
-      "count": 18,
       "category": null
     },
     {
@@ -250,23 +245,18 @@
       "category": null
     },
     {
+      "word": "MODEL",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MSCI",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "PUSH",
-      "count": 15,
       "category": null
     },
     {
@@ -280,7 +270,17 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "BINANCE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PUSH",
       "count": 14,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "REPORTS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "HIT",
       "count": 13,
       "category": null
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "CIRCLE",
+      "word": "REPORTS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 12,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
