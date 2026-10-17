@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T21:35:02.349Z",
+  "updated_at": "2026-10-17T21:41:57.513Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 18,
       "category": null
@@ -230,12 +225,12 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "ANTHROPIC",
       "count": 17,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "SOLANA",
       "count": 17,
       "category": null
     },
@@ -246,6 +241,11 @@
     },
     {
       "word": "OPENAI",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 16,
       "category": null
     },
@@ -273,11 +273,6 @@
       "word": "CFTC",
       "count": 14,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 13,
-      "category": "相場"
     },
     {
       "word": "CIRCLE",
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 12,
+      "category": "相場"
+    },
+    {
       "word": "COREWEAVE",
       "count": 12,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
