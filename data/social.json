@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T14:41:14.411Z",
+  "updated_at": "2026-10-17T14:50:21.683Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 100,
       "buzz_rank": 16
     },
     {
@@ -196,12 +196,17 @@
     },
     {
       "word": "PRICE",
-      "count": 28,
+      "count": 27,
       "category": "価格"
     },
     {
       "word": "STABLECOIN",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 21,
       "category": null
     },
     {
@@ -230,11 +235,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "MODEL",
       "count": 19,
       "category": null
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 17,
       "category": null
@@ -270,19 +265,29 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 17,
-      "category": "相場"
-    },
-    {
       "word": "STRATEGY",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 16,
       "category": null
     },
     {
       "word": "BANK",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 16,
+      "category": "相場"
     },
     {
       "word": "WALLET",
@@ -295,22 +300,17 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "PUSH",
       "count": 15,
       "category": null
     },
     {
-      "word": "REPORTS",
-      "count": 15,
+      "word": "DATA",
+      "count": 14,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "COREWEAVE",
       "count": 14,
       "category": null
     },
