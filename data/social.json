@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:42:58.104Z",
+  "updated_at": "2026-10-17T15:50:37.533Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 15,
+      "news_count_24h": 43,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -201,16 +201,16 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 21,
+      "count": 24,
       "category": null
     },
     {
       "word": "LEDGER",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 20,
       "category": null
     },
@@ -226,17 +226,17 @@
     },
     {
       "word": "GOOGLE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 19,
       "category": null
     },
     {
       "word": "MODEL",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 18,
       "category": null
     },
     {
@@ -275,12 +275,12 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "PUSH",
       "count": 15,
       "category": null
     },
     {
-      "word": "PUSH",
+      "word": "BANK",
       "count": 15,
       "category": null
     },
@@ -297,6 +297,11 @@
     {
       "word": "WALLET",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 14,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "HIT",
       "count": 13,
       "category": null
-    },
-    {
-      "word": "PLANS",
-      "count": 13,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
