@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T15:50:37.533Z",
+  "updated_at": "2026-10-17T15:59:53.528Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 16,
+      "news_count_24h": 42,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 67,
+      "news_count_24h": 11,
+      "hype_score": 73,
       "buzz_rank": 2
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 3
+      "news_count_24h": 9,
+      "hype_score": 22,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 90,
-      "buzz_rank": 4
+      "news_count_24h": 11,
+      "hype_score": 82,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -201,17 +201,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 20,
+      "count": 23,
       "category": null
     },
     {
@@ -225,7 +215,17 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
+      "word": "SOLANA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LEDGER",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "AMID",
       "count": 19,
       "category": null
     },
@@ -235,17 +235,17 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TRADING",
       "count": 18,
       "category": null
     },
     {
       "word": "QUANTUM",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
       "count": 18,
       "category": null
     },
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 15,
       "category": null
@@ -295,17 +290,12 @@
       "category": "相場"
     },
     {
-      "word": "WALLET",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "PLANS",
       "count": 14,
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "BANK",
       "count": 14,
       "category": null
     },
@@ -315,13 +305,13 @@
       "category": null
     },
     {
-      "word": "REPORTS",
+      "word": "WALLET",
       "count": 14,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 13,
+      "word": "REPORTS",
+      "count": 14,
       "category": null
     },
     {
@@ -333,6 +323,16 @@
       "word": "HIT",
       "count": 13,
       "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "GEMINI",
+      "count": 13,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
