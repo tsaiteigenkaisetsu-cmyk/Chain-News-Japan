@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:16:27.251Z",
+  "updated_at": "2026-10-17T23:24:59.494Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 26,
+      "count": 43,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 25,
       "category": "価格"
+    },
+    {
+      "word": "BILLION",
+      "count": 25,
+      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 14,
       "category": null
@@ -276,6 +271,11 @@
     },
     {
       "word": "TOKENIZED",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 13,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
