@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:59:44.422Z",
+  "updated_at": "2026-10-17T11:17:54.704Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
-      "hype_score": 13,
+      "news_count_24h": 57,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 36,
+      "news_count_24h": 20,
+      "hype_score": 40,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 10,
+      "hype_score": 70,
       "buzz_rank": 4
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 8
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -191,13 +191,8 @@
     },
     {
       "word": "BILLION",
-      "count": 32,
+      "count": 30,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 29,
-      "category": "価格"
     },
     {
       "word": "LEDGER",
@@ -205,8 +200,13 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 28,
+      "category": "価格"
+    },
+    {
       "word": "STABLECOIN",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -245,11 +245,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 19,
       "category": null
@@ -260,7 +255,17 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 18,
       "category": null
     },
@@ -275,13 +280,8 @@
       "category": "相場"
     },
     {
-      "word": "STOCKS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "NETWORK",
-      "count": 18,
+      "word": "BANK",
+      "count": 17,
       "category": null
     },
     {
@@ -295,17 +295,17 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "PLANS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
