@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T17:50:12.853Z",
+  "updated_at": "2026-10-17T17:59:51.515Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 38,
       "hype_score": 18,
       "buzz_rank": 1
     },
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 5,
+      "hype_score": 20,
       "buzz_rank": 8
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -205,17 +205,17 @@
       "category": null
     },
     {
+      "word": "LEDGER",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 20,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
