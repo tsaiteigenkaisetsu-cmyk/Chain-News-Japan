@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T06:31:41.027Z",
+  "updated_at": "2026-10-17T06:53:22.086Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 30,
+      "news_count_24h": 22,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 11,
+      "news_count_24h": 17,
+      "hype_score": 12,
       "buzz_rank": 3
     },
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 17,
       "buzz_rank": 7
     },
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 19,
-      "category": "相場"
-    },
-    {
       "word": "IPO",
       "count": 19,
       "category": null
@@ -280,14 +275,9 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "REPORTS",
+      "word": "MARKET",
       "count": 18,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "BANK",
@@ -310,7 +300,17 @@
       "category": null
     },
     {
+      "word": "RISK",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "REPORTS",
       "count": 17,
       "category": null
     },
