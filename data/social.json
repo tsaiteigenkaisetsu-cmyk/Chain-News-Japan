@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T18:22:55.126Z",
+  "updated_at": "2026-10-18T18:35:35.876Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 30,
-      "hype_score": 27,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 250,
+      "hype_score": 300,
       "buzz_rank": 10
     },
     {
@@ -240,11 +240,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "WALL",
       "count": 10,
       "category": null
@@ -256,6 +251,11 @@
     },
     {
       "word": "TOKENIZED",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 9,
       "category": null
     },
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "FOUNDER",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "QUANTUM",
       "count": 8,
       "category": null
@@ -325,14 +320,19 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "MARKET",
+      "count": 8,
+      "category": "相場"
+    },
+    {
+      "word": "AMID",
       "count": 8,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 8,
-      "category": "相場"
+      "word": "FOUNDER",
+      "count": 7,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
