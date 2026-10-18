@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T16:33:51.097Z",
+  "updated_at": "2026-10-18T16:43:23.891Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 24,
+      "news_count_24h": 31,
+      "hype_score": 23,
       "buzz_rank": 1
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "BILLION",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -225,12 +225,17 @@
       "category": null
     },
     {
+      "word": "PAYMENTS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 11,
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "QUANTUM",
       "count": 10,
       "category": null
     },
@@ -242,6 +247,11 @@
     {
       "word": "STOCK",
       "count": 10,
+      "category": null
+    },
+    {
+      "word": "WALL",
+      "count": 9,
       "category": null
     },
     {
@@ -300,8 +310,13 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 9,
+      "word": "STREET",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 8,
       "category": null
     },
     {
@@ -318,21 +333,6 @@
       "word": "TRILLION",
       "count": 8,
       "category": null
-    },
-    {
-      "word": "CLAUDE",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "WALL",
-      "count": 8,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
