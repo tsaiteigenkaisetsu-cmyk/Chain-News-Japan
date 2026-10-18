@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T05:43:33.433Z",
+  "updated_at": "2026-10-18T05:50:18.824Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 32,
-      "hype_score": 22,
+      "hype_score": 25,
       "buzz_rank": 1
     },
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 25,
+      "hype_score": 0,
       "buzz_rank": 6
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -215,17 +215,17 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "PUSH",
       "count": 16,
       "category": null
     },
     {
       "word": "ANTHROPIC",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
       "count": 16,
       "category": null
     },
@@ -295,22 +295,17 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 11,
       "category": "相場"
     },
     {
-      "word": "CFTC",
+      "word": "BANK",
       "count": 11,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "GOOGLE",
       "count": 11,
       "category": null
     },
@@ -331,6 +326,11 @@
     },
     {
       "word": "DATA",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "CFTC",
       "count": 10,
       "category": null
     }
