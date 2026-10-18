@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:50:18.441Z",
+  "updated_at": "2026-10-18T10:59:39.655Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
-      "hype_score": 33,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -186,12 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 23,
+      "count": 32,
       "category": null
     },
     {
@@ -203,6 +198,11 @@
       "word": "PRICE",
       "count": 22,
       "category": "価格"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 21,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -235,16 +235,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "CIRCLE",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 13,
       "category": null
@@ -260,7 +250,7 @@
       "category": null
     },
     {
-      "word": "QUANTUM",
+      "word": "AMID",
       "count": 12,
       "category": null
     },
@@ -271,6 +261,11 @@
     },
     {
       "word": "OPENAI",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "CIRCLE",
       "count": 11,
       "category": null
     },
@@ -305,9 +300,19 @@
       "category": null
     },
     {
+      "word": "QUANTUM",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 9,
+      "category": "相場"
     },
     {
       "word": "DATA",
@@ -326,11 +331,6 @@
     },
     {
       "word": "REVENUE",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "LEAD",
       "count": 9,
       "category": null
     }
