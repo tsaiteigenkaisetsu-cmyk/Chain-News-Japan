@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T08:37:55.757Z",
+  "updated_at": "2026-10-18T08:48:20.703Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 0,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
+      "news_count_24h": 12,
+      "hype_score": 42,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -275,17 +275,17 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "PLANS",
       "count": 12,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 11,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 10,
       "category": null
     },
     {
       "word": "REVENUE",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "LEAD",
       "count": 9,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
