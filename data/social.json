@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T15:31:51.779Z",
+  "updated_at": "2026-10-18T15:41:34.737Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "BILLION",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -235,22 +235,7 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "COINBASE",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "MODEL",
       "count": 10,
       "category": null
     },
@@ -275,12 +260,22 @@
       "category": null
     },
     {
+      "word": "WALLET",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 9,
       "category": null
     },
     {
       "word": "PAYMENTS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 9,
       "category": null
     },
@@ -306,6 +301,11 @@
     },
     {
       "word": "CIRCLE",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "MODEL",
       "count": 9,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
