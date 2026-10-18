@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-18T07:59:39.422Z",
+  "updated_at": "2026-10-18T08:25:41.668Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 31,
+      "news_count_24h": 27,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 11,
+      "hype_score": 45,
       "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
-      "hype_score": 25,
+      "hype_score": 13,
       "buzz_rank": 4
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 39,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 24,
-      "category": "価格"
     },
     {
       "word": "BILLION",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 23,
+      "category": "価格"
     },
     {
       "word": "STABLECOIN",
@@ -290,16 +290,6 @@
       "category": null
     },
     {
-      "word": "REPORT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 10,
       "category": null
@@ -325,13 +315,23 @@
       "category": "相場"
     },
     {
+      "word": "REPORT",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 10,
       "category": null
     },
     {
-      "word": "REPORTS",
-      "count": 10,
+      "word": "REVENUE",
+      "count": 9,
       "category": null
     }
   ],
