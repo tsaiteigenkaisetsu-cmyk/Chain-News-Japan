@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:59:39.655Z",
+  "updated_at": "2026-10-18T11:17:34.003Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 30,
+      "news_count_24h": 22,
+      "hype_score": 32,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 42,
+      "news_count_24h": 13,
+      "hype_score": 38,
       "buzz_rank": 2
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 33,
+      "hype_score": 0,
       "buzz_rank": 7
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,23 +186,23 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "PRICE",
       "count": 22,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
       "word": "ANTHROPIC",
@@ -220,7 +220,7 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "TOKENIZED",
       "count": 14,
       "category": null
     },
@@ -230,17 +230,17 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "STOCK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 12,
       "category": null
     },
@@ -255,17 +255,17 @@
       "category": null
     },
     {
+      "word": "COINBASE",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "MODEL",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "STOCKS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "CIRCLE",
       "count": 11,
       "category": null
     },
@@ -275,17 +275,7 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 10,
-      "category": "相場"
-    },
-    {
       "word": "CEO",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WALL",
       "count": 10,
       "category": null
     },
@@ -295,7 +285,7 @@
       "category": null
     },
     {
-      "word": "MODEL",
+      "word": "CIRCLE",
       "count": 10,
       "category": null
     },
@@ -310,7 +300,7 @@
       "category": null
     },
     {
-      "word": "RALLY",
+      "word": "MARKET",
       "count": 9,
       "category": "相場"
     },
@@ -325,12 +315,22 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "REVENUE",
       "count": 9,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "LEAD",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WALL",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "REPORT",
       "count": 9,
       "category": null
     }
