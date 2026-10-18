@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:42:09.080Z",
+  "updated_at": "2026-10-18T10:50:18.441Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 29,
+      "news_count_24h": 23,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -190,6 +190,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 23,
       "category": null
@@ -198,11 +203,6 @@
       "word": "PRICE",
       "count": 22,
       "category": "価格"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 22,
-      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -231,7 +231,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 14,
+      "count": 13,
       "category": null
     },
     {
