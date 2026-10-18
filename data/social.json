@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:20:48.305Z",
+  "updated_at": "2026-10-18T09:33:22.858Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
-      "hype_score": 20,
+      "hype_score": 0,
       "buzz_rank": 5
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 38,
+      "count": 37,
       "category": null
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "PUSH",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 18,
       "category": null
@@ -220,23 +225,18 @@
       "category": null
     },
     {
-      "word": "PUSH",
-      "count": 17,
+      "word": "TOKENIZED",
+      "count": 14,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "QUANTUM",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 13,
       "category": null
     },
     {
@@ -275,8 +275,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 12,
+      "word": "QUANTUM",
+      "count": 13,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
