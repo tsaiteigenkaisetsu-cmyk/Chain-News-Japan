@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:39:22.728Z",
+  "updated_at": "2026-10-19T16:52:57.463Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
-      "hype_score": 9,
+      "news_count_24h": 83,
+      "hype_score": 8,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 14,
+      "news_count_24h": 30,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -190,6 +190,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 20,
       "category": null
@@ -205,8 +210,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 19,
+      "word": "BILLION",
+      "count": 18,
       "category": null
     },
     {
@@ -220,19 +225,14 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 17,
+      "word": "WALLET",
+      "count": 16,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 16,
       "category": "相場"
-    },
-    {
-      "word": "WALLET",
-      "count": 15,
-      "category": null
     },
     {
       "word": "LEDGER",
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "BUYS",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "KEY",
       "count": 10,
       "category": null
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "SAUDI",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "BUYS",
+      "word": "REBOUND",
       "count": 9,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
