@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:51:52.978Z",
+  "updated_at": "2026-10-19T10:00:41.510Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 50,
       "hype_score": 18,
       "buzz_rank": 1
     },
@@ -190,13 +190,13 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "BILLION",
       "count": 18,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 18,
+      "word": "STABLECOIN",
+      "count": 17,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "CIRCLE",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "TAX",
       "count": 8,
       "category": null
@@ -333,6 +328,11 @@
       "word": "WALLET",
       "count": 8,
       "category": null
+    },
+    {
+      "word": "CARDANO",
+      "count": 7,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
