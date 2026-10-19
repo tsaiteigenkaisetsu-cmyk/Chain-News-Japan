@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T22:20:34.617Z",
+  "updated_at": "2026-10-19T22:32:49.153Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
-      "hype_score": 10,
+      "news_count_24h": 43,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 64,
+      "news_count_24h": 12,
+      "hype_score": 58,
       "buzz_rank": 5
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -195,18 +195,18 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 23,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 16,
       "category": null
@@ -257,11 +262,6 @@
     {
       "word": "ANTHROPIC",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 15,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "JPM",
+      "word": "TRADING",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
