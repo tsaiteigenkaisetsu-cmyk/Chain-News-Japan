@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T23:33:10.670Z",
+  "updated_at": "2026-10-19T23:42:54.612Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 46,
       "hype_score": 9,
       "buzz_rank": 2
     },
@@ -235,6 +235,11 @@
       "category": "価格"
     },
     {
+      "word": "ANTHROPIC",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "OCTOBER",
       "count": 17,
       "category": null
@@ -260,11 +265,6 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "LEDGER",
       "count": 16,
       "category": null
@@ -272,6 +272,11 @@
     {
       "word": "TAX",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 13,
       "category": null
     },
     {
@@ -286,11 +291,6 @@
     },
     {
       "word": "TOKEN",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 12,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
