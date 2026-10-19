@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:54:29.551Z",
+  "updated_at": "2026-10-19T09:03:56.132Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 2
     },
@@ -190,6 +190,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 17,
+      "category": "価格"
+    },
+    {
       "word": "ANTHROPIC",
       "count": 17,
       "category": null
@@ -205,22 +210,17 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 16,
-      "category": "価格"
-    },
-    {
-      "word": "SOLANA",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "PAYMENTS",
       "count": 16,
       "category": null
     },
     {
       "word": "LEDGER",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 15,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "KEY",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "WEEKS",
       "count": 7,
       "category": null
     },
     {
       "word": "BANK",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WARNING",
       "count": 7,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
