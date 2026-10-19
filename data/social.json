@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:40:29.336Z",
+  "updated_at": "2026-10-19T15:51:12.826Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
-      "hype_score": 10,
+      "news_count_24h": 74,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 13,
+      "news_count_24h": 26,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 11
+      "news_count_24h": 4,
+      "hype_score": 25,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 47,
+      "count": 48,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 20,
+      "category": "価格"
     },
     {
       "word": "BILLION",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 19,
-      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -231,13 +231,18 @@
     },
     {
       "word": "WEEK",
-      "count": 14,
+      "count": 15,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 14,
       "category": "相場"
+    },
+    {
+      "word": "WALLET",
+      "count": 13,
+      "category": null
     },
     {
       "word": "STRATEGY",
@@ -250,17 +255,7 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "OCTOBER",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WALL",
       "count": 12,
       "category": null
     },
@@ -280,8 +275,18 @@
       "category": null
     },
     {
-      "word": "STREET",
+      "word": "WALL",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 10,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "CEO",
+      "count": 10,
       "category": null
     },
     {
@@ -295,6 +300,11 @@
       "category": null
     },
     {
+      "word": "STREET",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 10,
       "category": null
@@ -303,11 +313,6 @@
       "word": "SUPPLY",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 9,
-      "category": "セキュリティ"
     },
     {
       "word": "TRADING",
@@ -326,11 +331,6 @@
     },
     {
       "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "MAJOR",
       "count": 9,
       "category": null
     }
