@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:25:23.428Z",
+  "updated_at": "2026-10-19T16:39:22.728Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 80,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
+      "news_count_24h": 16,
+      "hype_score": 50,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 49,
+      "count": 50,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 20,
       "category": null
     },
     {
@@ -195,13 +200,13 @@
       "category": "価格"
     },
     {
-      "word": "STABLECOIN",
+      "word": "SOLANA",
       "count": 19,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 18,
+      "word": "STOCK",
+      "count": 19,
       "category": null
     },
     {
@@ -210,8 +215,8 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 18,
+      "word": "WEEK",
+      "count": 17,
       "category": null
     },
     {
@@ -220,18 +225,18 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 16,
       "category": "相場"
     },
     {
+      "word": "WALLET",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "LEDGER",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -245,8 +250,8 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 14,
+      "word": "TOKENIZED",
+      "count": 13,
       "category": null
     },
     {
@@ -270,13 +275,13 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "STOCKS",
       "count": 12,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 12,
+      "word": "ETFS",
+      "count": 11,
       "category": null
     },
     {
@@ -292,6 +297,11 @@
     {
       "word": "WHAT",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 10,
       "category": null
     },
     {
@@ -315,22 +325,12 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "SAUDI",
       "count": 9,
       "category": null
     },
     {
-      "word": "CARDANO",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "SUPPLY",
+      "word": "BUYS",
       "count": 9,
       "category": null
     }
