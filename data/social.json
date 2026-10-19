@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:59:37.793Z",
+  "updated_at": "2026-10-19T20:23:10.486Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 91,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 53,
+      "news_count_24h": 14,
+      "hype_score": 57,
       "buzz_rank": 4
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,12 +186,22 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 45,
+      "count": 47,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 26,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 21,
       "category": null
     },
     {
@@ -205,19 +215,14 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PAYMENTS",
       "count": 20,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "MARKET",
       "count": 19,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "SOLANA",
@@ -226,17 +231,17 @@
     },
     {
       "word": "WALLET",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "TOKENIZED",
       "count": 16,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -265,11 +270,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 12,
       "category": null
@@ -282,6 +282,11 @@
     {
       "word": "CEO",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "FUTURES",
+      "count": 11,
       "category": null
     },
     {
@@ -310,6 +315,11 @@
       "category": null
     },
     {
+      "word": "MOVES",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "SUPPLY",
       "count": 10,
       "category": null
@@ -321,16 +331,6 @@
     },
     {
       "word": "AMID",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "BANKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "CASH",
       "count": 10,
       "category": null
     }
