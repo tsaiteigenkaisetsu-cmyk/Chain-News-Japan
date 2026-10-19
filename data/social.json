@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T06:47:31.138Z",
+  "updated_at": "2026-10-19T07:15:46.198Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -200,6 +200,11 @@
       "category": null
     },
     {
+      "word": "PAYMENTS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 15,
       "category": null
@@ -211,7 +216,7 @@
     },
     {
       "word": "PRICE",
-      "count": 15,
+      "count": 14,
       "category": "価格"
     },
     {
@@ -235,14 +240,14 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 11,
       "category": "相場"
+    },
+    {
+      "word": "REVENUE",
+      "count": 10,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -271,11 +276,6 @@
     },
     {
       "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
       "count": 9,
       "category": null
     },
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 7,
+      "category": "相場"
+    },
+    {
       "word": "BINANCE",
       "count": 7,
       "category": null
@@ -328,11 +333,6 @@
       "word": "ZCASH",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "QUANTUM",
-      "count": 7,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
