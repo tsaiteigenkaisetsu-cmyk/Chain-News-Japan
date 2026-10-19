@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T14:00:42.835Z",
+  "updated_at": "2026-10-19T14:23:38.810Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
+      "news_count_24h": 74,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
-      "hype_score": 46,
+      "hype_score": 62,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 18,
+      "count": 44,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 18,
+      "count": 19,
       "category": "価格"
+    },
+    {
+      "word": "LEDGER",
+      "count": 17,
+      "category": null
     },
     {
       "word": "SOLANA",
@@ -210,22 +210,22 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 16,
       "category": null
     },
     {
-      "word": "LEDGER",
+      "word": "BILLION",
       "count": 16,
       "category": null
     },
     {
       "word": "PAYMENTS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
@@ -265,7 +265,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WALLET",
       "count": 11,
       "category": null
     },
@@ -280,7 +280,17 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "ZCASH",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 10,
       "category": null
     },
@@ -290,8 +300,13 @@
       "category": null
     },
     {
-      "word": "PUSH",
-      "count": 10,
+      "word": "TRADING",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "MODEL",
+      "count": 9,
       "category": null
     },
     {
@@ -318,21 +333,6 @@
       "word": "SECURITY",
       "count": 9,
       "category": "セキュリティ"
-    },
-    {
-      "word": "QUANTUM",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ZCASH",
-      "count": 9,
-      "category": null
     }
   ],
   "stats": {
