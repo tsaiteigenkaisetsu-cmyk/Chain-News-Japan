@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-20T09:00:46.735Z",
+  "updated_at": "2026-10-20T09:24:25.644Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
-      "hype_score": 8,
+      "news_count_24h": 107,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 9,
+      "news_count_24h": 48,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -88,17 +88,17 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 6
     },
     {
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -210,11 +210,6 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 22,
       "category": null
@@ -225,14 +220,24 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "STOCKS",
       "count": 20,
-      "category": "相場"
+      "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WALLET",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 19,
+      "category": "相場"
     },
     {
       "word": "ANTHROPIC",
@@ -240,13 +245,8 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 17,
+      "count": 18,
       "category": "ETF"
     },
     {
@@ -300,6 +300,21 @@
       "category": null
     },
     {
+      "word": "BLACKROCK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "JPMORGAN",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "FUTURES",
       "count": 13,
       "category": null
@@ -317,21 +332,6 @@
     {
       "word": "OPENAI",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "LEDGER",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "JPMORGAN",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 12,
       "category": null
     }
   ],
