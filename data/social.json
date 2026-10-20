@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T14:24:44.964Z",
+  "updated_at": "2026-10-20T14:36:21.411Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 102,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 47,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 27,
       "category": null
@@ -215,11 +220,6 @@
       "category": "相場"
     },
     {
-      "word": "STOCKS",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 25,
       "category": null
@@ -227,11 +227,6 @@
     {
       "word": "TRADING",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 23,
       "category": null
     },
     {
@@ -250,6 +245,16 @@
       "category": null
     },
     {
+      "word": "TAX",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 21,
       "category": null
@@ -257,11 +262,6 @@
     {
       "word": "PAYMENTS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "TAX",
-      "count": 20,
       "category": null
     },
     {
@@ -305,32 +305,32 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "BANKS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 15,
       "category": null
     },
     {
       "word": "EXCHANGE",
-      "count": 14,
+      "count": 15,
       "category": "取引所"
     },
     {
+      "word": "IPO",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "SUPPORT",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "FUTURES",
       "count": 14,
       "category": null
     }
