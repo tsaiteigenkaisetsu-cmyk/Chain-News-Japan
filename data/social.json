@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-20T12:53:52.823Z",
+  "updated_at": "2026-10-20T13:02:38.048Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
-      "hype_score": 11,
+      "news_count_24h": 99,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "STOCK",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -215,32 +215,32 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "BILLION",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "WEEK",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "PAYMENTS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "OCTOBER",
       "count": 23,
       "category": null
     },
@@ -252,6 +252,11 @@
     {
       "word": "ANTHROPIC",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 18,
       "category": null
     },
     {
@@ -267,11 +272,6 @@
     {
       "word": "STRATEGY",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 17,
       "category": null
     },
     {
@@ -300,17 +300,27 @@
       "category": null
     },
     {
-      "word": "BANKS",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 15,
       "category": null
     },
     {
+      "word": "MOVE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "FUTURES",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "AMID",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "BANKS",
       "count": 14,
       "category": null
     },
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "BUYS",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 13,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
