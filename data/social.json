@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:53:01.097Z",
+  "updated_at": "2026-10-20T10:59:45.331Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 110,
       "hype_score": 9,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
-      "hype_score": 9,
+      "news_count_24h": 48,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "PAYMENTS",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 23,
       "category": null
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 21,
+      "count": 20,
       "category": "相場"
     },
     {
@@ -250,7 +250,17 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 18,
+      "category": "価格"
+    },
+    {
       "word": "BLACKROCK",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
@@ -258,11 +268,6 @@
       "word": "LAUNCHES",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 17,
-      "category": "価格"
     },
     {
       "word": "STRATEGY",
@@ -286,11 +291,6 @@
     },
     {
       "word": "IPO",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 15,
       "category": null
     },
