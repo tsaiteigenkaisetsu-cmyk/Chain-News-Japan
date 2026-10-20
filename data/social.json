@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:24:54.824Z",
+  "updated_at": "2026-10-20T16:36:45.285Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -14,10 +14,10 @@
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 11,
+      "news_count_24h": 47,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 26,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -195,14 +195,29 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
+    },
+    {
       "word": "STOCKS",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
+      "word": "SOLANA",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
     },
     {
       "word": "LAUNCHES",
@@ -210,24 +225,9 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 27,
       "category": "相場"
-    },
-    {
-      "word": "STOCK",
-      "count": 27,
-      "category": null
     },
     {
       "word": "PAYMENTS",
@@ -260,9 +260,24 @@
       "category": null
     },
     {
+      "word": "JPMORGAN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "BLACKROCK",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
     },
     {
       "word": "AMID",
@@ -275,32 +290,17 @@
       "category": null
     },
     {
-      "word": "JPMORGAN",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 18,
-      "category": "価格"
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 18,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "TOKEN",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "TREASURY",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
