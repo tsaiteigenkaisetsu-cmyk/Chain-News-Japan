@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T19:59:56.221Z",
+  "updated_at": "2026-10-20T20:23:08.492Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 105,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
-      "hype_score": 15,
+      "news_count_24h": 45,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 143,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 29,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 14,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -149,10 +149,10 @@
     {
       "coin_id": "tether",
       "symbol": "USDT",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 17
     },
     {
@@ -195,18 +195,18 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 32,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "ETF",
-      "count": 31,
+      "count": 32,
       "category": "ETF"
     },
     {
@@ -220,18 +220,18 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 27,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 27,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -250,14 +250,19 @@
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "TAX",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
       "word": "ANTHROPIC",
@@ -265,19 +270,9 @@
       "category": null
     },
     {
-      "word": "OCTOBER",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 20,
-      "category": "価格"
     },
     {
       "word": "BLACKROCK",
@@ -290,12 +285,22 @@
       "category": null
     },
     {
+      "word": "OCTOBER",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
       "count": 19,
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "TOKEN",
       "count": 18,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "FUTURES",
       "count": 16,
       "category": null
-    },
-    {
-      "word": "CHAIN",
-      "count": 16,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
