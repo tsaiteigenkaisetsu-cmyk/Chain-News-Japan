@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T15:52:33.451Z",
+  "updated_at": "2026-10-20T15:59:52.480Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 46,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -200,8 +200,8 @@
       "category": "ETF"
     },
     {
-      "word": "SOLANA",
-      "count": 29,
+      "word": "TOKENIZED",
+      "count": 28,
       "category": null
     },
     {
@@ -210,7 +210,12 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "SOLANA",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 27,
       "category": null
     },
@@ -225,18 +230,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 26,
+      "word": "TAX",
+      "count": 24,
       "category": null
     },
     {
       "word": "TRADING",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "TAX",
-      "count": 23,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "WALLET",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
