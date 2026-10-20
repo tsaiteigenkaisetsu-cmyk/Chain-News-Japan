@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T00:52:31.671Z",
+  "updated_at": "2026-10-20T01:13:58.707Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -215,9 +215,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "PAYMENTS",
       "count": 20,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "OCTOBER",
@@ -225,9 +225,9 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "MARKET",
       "count": 19,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "PRICE",
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 13,
       "category": null
@@ -297,6 +292,16 @@
     {
       "word": "BUYS",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "CASH",
+      "count": 11,
       "category": null
     },
     {
@@ -320,11 +325,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 11,
-      "category": "セキュリティ"
-    },
-    {
       "word": "WHAT",
       "count": 11,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
