@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:13:58.707Z",
+  "updated_at": "2026-10-20T01:36:36.859Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 700,
       "buzz_rank": 15
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 58,
+      "news_count_24h": 13,
+      "hype_score": 54,
       "buzz_rank": 5
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "OCTOBER",
       "count": 19,
       "category": null
@@ -236,11 +241,6 @@
     },
     {
       "word": "STOCKS",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 17,
       "category": null
     },
@@ -295,6 +295,21 @@
       "category": null
     },
     {
+      "word": "CARDANO",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 12,
       "category": null
@@ -310,11 +325,6 @@
       "category": null
     },
     {
-      "word": "CARDANO",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "SUPPORT",
       "count": 11,
       "category": null
@@ -323,16 +333,6 @@
       "word": "WALL",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 10,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
