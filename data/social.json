@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-20T15:59:52.480Z",
+  "updated_at": "2026-10-20T16:24:54.824Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
-      "hype_score": 10,
+      "news_count_24h": 96,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 44,
       "hype_score": 11,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 43,
+      "news_count_24h": 20,
+      "hype_score": 45,
       "buzz_rank": 4
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
-      "buzz_rank": 7
+      "news_count_24h": 7,
+      "hype_score": 71,
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 62,
+      "count": 61,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 39,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 30,
       "category": null
     },
     {
@@ -200,23 +205,18 @@
       "category": "ETF"
     },
     {
-      "word": "TOKENIZED",
+      "word": "LAUNCHES",
       "count": 28,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "TOKENIZED",
       "count": 28,
       "category": null
     },
     {
       "word": "SOLANA",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 27,
       "category": null
     },
     {
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "TAX",
+      "word": "PAYMENTS",
       "count": 24,
       "category": null
     },
@@ -245,7 +245,7 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "TAX",
       "count": 22,
       "category": null
     },
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "STRATEGY",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 19,
       "category": null
@@ -268,6 +273,16 @@
       "word": "BILLION",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "JPMORGAN",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 18,
+      "category": "価格"
     },
     {
       "word": "BLACKROCK",
@@ -280,22 +295,12 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 17,
-      "category": "価格"
-    },
-    {
-      "word": "JPMORGAN",
+      "word": "TREASURY",
       "count": 17,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 17,
       "category": null
     },
@@ -311,11 +316,6 @@
     },
     {
       "word": "DATA",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 15,
       "category": null
     },
