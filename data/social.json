@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:52:37.889Z",
+  "updated_at": "2026-10-20T12:00:55.427Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 7,
       "buzz_rank": 3
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 600,
+      "hype_score": 800,
       "buzz_rank": 14
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 55,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 34,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "OCTOBER",
       "count": 24,
       "category": null
     },
     {
-      "word": "OCTOBER",
-      "count": 24,
+      "word": "BILLION",
+      "count": 23,
       "category": null
     },
     {
@@ -247,6 +247,11 @@
     {
       "word": "STOCK",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "TAX",
+      "count": 18,
       "category": null
     },
     {
@@ -272,11 +277,6 @@
     {
       "word": "LAUNCHES",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "TAX",
-      "count": 16,
       "category": null
     },
     {
@@ -310,13 +310,13 @@
       "category": null
     },
     {
-      "word": "BUYS",
+      "word": "CEO",
       "count": 14,
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 13,
+      "word": "BUYS",
+      "count": 14,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
