@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T01:53:36.961Z",
+  "updated_at": "2026-10-20T02:01:50.978Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 99,
+      "news_count_24h": 100,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 50,
+      "news_count_24h": 15,
+      "hype_score": 53,
       "buzz_rank": 4
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 20,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
+      "word": "ANTHROPIC",
       "count": 20,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 19,
+      "word": "PAYMENTS",
+      "count": 20,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 13,
       "category": null
@@ -295,12 +300,17 @@
       "category": null
     },
     {
-      "word": "CARDANO",
+      "word": "RALLY",
+      "count": 12,
+      "category": "相場"
+    },
+    {
+      "word": "TREASURY",
       "count": 12,
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "CARDANO",
       "count": 12,
       "category": null
     },
@@ -320,16 +330,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 11,
-      "category": "相場"
-    },
-    {
-      "word": "TREASURY",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "CASH",
       "count": 11,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
