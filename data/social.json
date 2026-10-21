@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T17:03:49.073Z",
+  "updated_at": "2026-10-21T17:19:33.929Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 19,
       "buzz_rank": 2
     },
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 100,
+      "hype_score": 57,
       "buzz_rank": 9
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 16,
+      "hype_score": 6,
       "buzz_rank": 6
     },
     {
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "SPACEX",
       "count": 31,
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 31,
+      "word": "TOKENIZED",
+      "count": 30,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "STOCK",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 24,
       "category": "規制"
@@ -275,12 +270,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 22,
+      "word": "TOKEN",
+      "count": 23,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "WARNS",
       "count": 22,
       "category": null
     },
@@ -300,6 +295,16 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 20,
       "category": null
@@ -315,24 +320,19 @@
       "category": null
     },
     {
-      "word": "TREASURY",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 19,
       "category": null
     },
     {
-      "word": "CHAIN",
+      "word": "PREDICTION",
       "count": 18,
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "PAYMENTS",
       "count": 18,
-      "category": "DeFi"
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
