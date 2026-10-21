@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:28:29.698Z",
+  "updated_at": "2026-10-21T07:49:52.996Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 92,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
+      "news_count_24h": 37,
       "hype_score": 16,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 4,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 16,
+      "hype_score": 31,
       "buzz_rank": 4
     },
     {
@@ -240,14 +240,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
-    },
-    {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 24,
+      "category": "価格"
     },
     {
       "word": "TOKEN",
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "BLACKROCK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "PAYMENTS",
       "count": 20,
       "category": null
@@ -290,11 +295,6 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "SPACEX",
       "count": 19,
       "category": null
@@ -305,12 +305,12 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 19,
+      "word": "WHY",
+      "count": 18,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ANTHROPIC",
       "count": 18,
       "category": null
     },
@@ -320,8 +320,8 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 18,
+      "word": "DATA",
+      "count": 17,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
