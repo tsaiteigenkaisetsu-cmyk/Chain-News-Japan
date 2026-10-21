@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T20:36:05.625Z",
+  "updated_at": "2026-10-21T20:47:02.675Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 78,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 33,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 63,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -210,6 +210,11 @@
       "category": "価格"
     },
     {
+      "word": "SPACEX",
+      "count": 32,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 31,
       "category": null
@@ -220,13 +225,13 @@
       "category": null
     },
     {
-      "word": "SPACEX",
+      "word": "STOCKS",
       "count": 31,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 31,
+      "word": "STOCK",
+      "count": 30,
       "category": null
     },
     {
@@ -235,18 +240,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 29,
+      "word": "TOKENIZED",
+      "count": 28,
       "category": null
     },
     {
       "word": "BILLION",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 27,
       "category": null
     },
     {
@@ -265,17 +265,17 @@
       "category": null
     },
     {
+      "word": "PLANS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 22,
       "category": null
     },
     {
       "word": "JPMORGAN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 22,
       "category": null
     },
@@ -300,7 +300,12 @@
       "category": "規制"
     },
     {
-      "word": "PLANS",
+      "word": "BANK",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
       "count": 21,
       "category": null
     },
@@ -315,7 +320,7 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "RULES",
       "count": 20,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "BLACKROCK",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "RULES",
-      "count": 19,
       "category": null
     }
   ],
