@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T21:01:20.709Z",
+  "updated_at": "2026-10-21T21:19:59.081Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 77,
-      "hype_score": 9,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 15,
+      "news_count_24h": 31,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 5
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -200,23 +200,13 @@
       "category": "ETF"
     },
     {
-      "word": "LAUNCHES",
-      "count": 36,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 34,
+      "count": 35,
       "category": "価格"
     },
     {
-      "word": "STOCKS",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 32,
+      "word": "LAUNCHES",
+      "count": 35,
       "category": null
     },
     {
@@ -225,8 +215,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 31,
+      "word": "STOCKS",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 32,
       "category": null
     },
     {
@@ -240,23 +235,28 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "BILLION",
       "count": 28,
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 26,
+      "word": "TOKENIZED",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 28,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 26,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "BANK",
       "count": 22,
       "category": null
     },
@@ -295,16 +295,6 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 21,
       "category": "相場"
@@ -315,17 +305,27 @@
       "category": "DeFi"
     },
     {
-      "word": "TREASURY",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RULES",
       "count": 20,
       "category": null
     },
     {
+      "word": "PLANS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "NEXT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 20,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
