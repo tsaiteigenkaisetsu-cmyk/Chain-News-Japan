@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:34:53.334Z",
+  "updated_at": "2026-10-21T21:45:17.989Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -113,10 +113,10 @@
     {
       "coin_id": "near",
       "symbol": "NEAR",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 6,
+      "news_count_24h": 16,
+      "hype_score": 0,
       "buzz_rank": 6
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "ETF",
-      "count": 38,
+      "count": 37,
       "category": "ETF"
     },
     {
       "word": "LAUNCHES",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STOCK",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -260,27 +260,17 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 23,
       "category": "規制"
     },
     {
-      "word": "TOKEN",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "AMID",
+      "word": "BANK",
       "count": 22,
       "category": null
     },
     {
-      "word": "JPMORGAN",
+      "word": "AMID",
       "count": 22,
       "category": null
     },
@@ -295,6 +285,26 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "RULES",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "JPMORGAN",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 21,
       "category": "相場"
@@ -305,17 +315,7 @@
       "category": "DeFi"
     },
     {
-      "word": "RULES",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "PLANS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "NEXT",
       "count": 20,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 20,
+      "word": "RAISES",
+      "count": 19,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
