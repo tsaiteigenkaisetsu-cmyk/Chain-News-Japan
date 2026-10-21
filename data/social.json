@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T14:01:30.564Z",
+  "updated_at": "2026-10-21T14:24:05.841Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
-      "hype_score": 13,
+      "news_count_24h": 88,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 12,
+      "news_count_24h": 40,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 22,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 33,
-      "buzz_rank": 4
+      "news_count_24h": 14,
+      "hype_score": 36,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 6
     },
     {
@@ -126,25 +126,25 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 18
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 48,
+      "count": 50,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "PRICE",
-      "count": 32,
+      "count": 31,
       "category": "価格"
     },
     {
@@ -225,12 +225,17 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 29,
+      "word": "SOLANA",
+      "count": 28,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 28,
       "category": null
     },
@@ -240,8 +245,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 27,
+      "word": "DATA",
+      "count": 26,
       "category": null
     },
     {
@@ -260,13 +265,13 @@
       "category": "規制"
     },
     {
-      "word": "DATA",
+      "word": "SPACEX",
       "count": 24,
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 24,
+      "word": "CEO",
+      "count": 23,
       "category": null
     },
     {
@@ -280,11 +285,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 22,
       "category": null
@@ -295,17 +295,7 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
+      "word": "WARNS",
       "count": 20,
       "category": null
     },
@@ -315,22 +305,32 @@
       "category": null
     },
     {
+      "word": "BLACKROCK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 20,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WARNS",
+      "word": "ANTHROPIC",
       "count": 19,
       "category": null
     },
     {
       "word": "REVENUE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "OCTOBER",
       "count": 19,
       "category": null
     }
