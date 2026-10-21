@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T07:49:52.996Z",
+  "updated_at": "2026-10-21T08:00:32.235Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 200,
       "buzz_rank": 13
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 63,
+      "count": 62,
       "category": null
     },
     {
@@ -198,6 +198,11 @@
       "word": "STOCKS",
       "count": 34,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 31,
+      "category": "ETF"
     },
     {
       "word": "TOKENIZED",
@@ -213,11 +218,6 @@
       "word": "LAUNCHES",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
     },
     {
       "word": "BILLION",
@@ -236,7 +236,7 @@
     },
     {
       "word": "JPMORGAN",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -256,11 +256,6 @@
     },
     {
       "word": "TREASURY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
       "count": 22,
       "category": null
     },
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "OCTOBER",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 17,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
