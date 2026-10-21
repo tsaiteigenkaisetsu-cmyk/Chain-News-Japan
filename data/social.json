@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:45:46.197Z",
+  "updated_at": "2026-10-21T13:55:00.899Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 13,
+      "news_count_24h": 90,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "TRADING",
       "count": 29,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 29,
+      "word": "TOKEN",
+      "count": 28,
       "category": null
     },
     {
@@ -240,9 +240,14 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "SOLANA",
       "count": 27,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
     },
     {
       "word": "NVIDIA",
@@ -265,11 +270,6 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
-    },
-    {
       "word": "WHY",
       "count": 23,
       "category": null
@@ -280,18 +280,13 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 21,
       "category": null
     },
     {
@@ -306,6 +301,11 @@
     },
     {
       "word": "ANTHROPIC",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 20,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "IPO",
       "count": 19,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "WARNS",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
