@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:49:36.259Z",
+  "updated_at": "2026-10-21T09:59:46.082Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 87,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 15,
+      "news_count_24h": 38,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -205,22 +205,22 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "LAUNCHES",
       "count": 30,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
+      "word": "BILLION",
       "count": 29,
       "category": null
     },
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "SOLANA",
       "count": 28,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
