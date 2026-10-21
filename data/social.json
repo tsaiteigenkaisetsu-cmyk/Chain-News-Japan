@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T05:55:35.362Z",
+  "updated_at": "2026-10-21T06:05:10.117Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 95,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -140,10 +140,10 @@
     {
       "coin_id": "tron",
       "symbol": "TRX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
-      "hype_score": 14,
+      "hype_score": 0,
       "buzz_rank": 7
     },
     {
@@ -196,12 +196,7 @@
     },
     {
       "word": "STOCKS",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 31,
+      "count": 33,
       "category": null
     },
     {
@@ -210,22 +205,27 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
+    },
+    {
       "word": "BILLION",
       "count": 30,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "LAUNCHES",
       "count": 29,
-      "category": "ETF"
-    },
-    {
-      "word": "STOCK",
-      "count": 28,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "STOCK",
       "count": 28,
       "category": null
     },
@@ -255,6 +255,11 @@
       "category": null
     },
     {
+      "word": "TREASURY",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "OCTOBER",
       "count": 22,
       "category": null
@@ -266,11 +271,6 @@
     },
     {
       "word": "STRATEGY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 21,
       "category": null
     },
@@ -325,14 +325,14 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 17,
       "category": "規制"
-    },
-    {
-      "word": "WHY",
-      "count": 17,
-      "category": null
     }
   ],
   "stats": {
