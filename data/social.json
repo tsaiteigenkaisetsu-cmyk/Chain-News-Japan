@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:29:28.956Z",
+  "updated_at": "2026-10-21T16:46:52.462Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
+      "news_count_24h": 89,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 18,
+      "news_count_24h": 31,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
-      "buzz_rank": 4
+      "news_count_24h": 17,
+      "hype_score": 29,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 71,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 117,
-      "buzz_rank": 10
+      "news_count_24h": 7,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "litecoin",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -195,14 +195,14 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 38,
       "category": "ETF"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 37,
-      "category": null
     },
     {
       "word": "PRICE",
@@ -212,6 +212,11 @@
     {
       "word": "STOCKS",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 31,
       "category": null
     },
     {
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "SPACEX",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 29,
+      "word": "DATA",
+      "count": 28,
       "category": null
     },
     {
@@ -240,8 +240,8 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 27,
+      "word": "BILLION",
+      "count": 28,
       "category": null
     },
     {
@@ -260,14 +260,14 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 24,
+      "category": "規制"
+    },
+    {
       "word": "WHY",
       "count": 24,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 23,
-      "category": "規制"
     },
     {
       "word": "TOKEN",
@@ -295,8 +295,18 @@
       "category": null
     },
     {
+      "word": "PLANS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "AMID",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -310,27 +320,17 @@
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "NEXT",
       "count": 19,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WALLET",
+      "word": "PREDICTION",
       "count": 18,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "PAYMENTS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
