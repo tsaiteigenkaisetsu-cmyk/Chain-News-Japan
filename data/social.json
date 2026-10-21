@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T16:46:52.462Z",
+  "updated_at": "2026-10-21T16:55:39.856Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 87,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
+      "news_count_24h": 16,
+      "hype_score": 31,
       "buzz_rank": 5
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
-      "buzz_rank": 8
+      "news_count_24h": 8,
+      "hype_score": 63,
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -231,7 +231,7 @@
     },
     {
       "word": "DATA",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
@@ -245,18 +245,23 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
     },
     {
+      "word": "STOCK",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "NVIDIA",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 24,
       "category": null
     },
     {
@@ -267,11 +272,6 @@
     {
       "word": "WHY",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
-      "count": 23,
       "category": null
     },
     {
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "PLANS",
       "count": 21,
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 20,
+      "word": "REVENUE",
+      "count": 21,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "DEFI",
       "count": 18,
-      "category": null
+      "category": "DeFi"
     },
     {
-      "word": "PAYMENTS",
+      "word": "RAISES",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
