@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-21T13:34:59.606Z",
+  "updated_at": "2026-10-21T13:45:46.197Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
-      "hype_score": 14,
+      "news_count_24h": 88,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
-      "hype_score": 12,
+      "news_count_24h": 44,
+      "hype_score": 11,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
@@ -196,18 +196,23 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 37,
+      "count": 38,
       "category": "ETF"
     },
     {
       "word": "PRICE",
       "count": 31,
       "category": "価格"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 30,
+      "category": null
     },
     {
       "word": "BILLION",
@@ -230,18 +235,18 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 28,
       "category": null
     },
     {
       "word": "TOKEN",
-      "count": 26,
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 25,
       "category": null
     },
     {
@@ -250,7 +255,7 @@
       "category": "規制"
     },
     {
-      "word": "NVIDIA",
+      "word": "DATA",
       "count": 24,
       "category": null
     },
@@ -260,12 +265,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "MARKET",
       "count": 23,
-      "category": null
+      "category": "相場"
     },
     {
-      "word": "TREASURY",
+      "word": "WHY",
       "count": 23,
       "category": null
     },
@@ -280,14 +285,14 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "TREASURY",
       "count": 22,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 22,
-      "category": "相場"
+      "word": "CEO",
+      "count": 21,
+      "category": null
     },
     {
       "word": "PAYMENTS",
@@ -295,12 +300,12 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "BLACKROCK",
       "count": 20,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "ANTHROPIC",
       "count": 20,
       "category": null
     },
@@ -320,18 +325,13 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "BLACKROCK",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "RAISES",
-      "count": 18,
       "category": null
     }
   ],
