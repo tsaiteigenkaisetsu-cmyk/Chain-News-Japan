@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T13:23:42.761Z",
+  "updated_at": "2026-10-21T13:34:59.606Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 125,
-      "buzz_rank": 10
+      "news_count_24h": 5,
+      "hype_score": 100,
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 20,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -201,18 +201,18 @@
     },
     {
       "word": "ETF",
-      "count": 36,
+      "count": 37,
       "category": "ETF"
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
     },
     {
       "word": "BILLION",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 30,
-      "category": "価格"
     },
     {
       "word": "STOCKS",
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 24,
+      "category": "規制"
+    },
+    {
       "word": "NVIDIA",
       "count": 24,
       "category": null
@@ -258,11 +263,6 @@
       "word": "DATA",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 23,
-      "category": "規制"
     },
     {
       "word": "TREASURY",
@@ -320,12 +320,12 @@
       "category": null
     },
     {
-      "word": "BLACKROCK",
-      "count": 20,
+      "word": "REVENUE",
+      "count": 19,
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "BLACKROCK",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
