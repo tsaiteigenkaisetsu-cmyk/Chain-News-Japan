@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T14:36:06.309Z",
+  "updated_at": "2026-10-21T14:47:28.373Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 87,
+      "news_count_24h": 88,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 28,
+      "word": "TRADING",
+      "count": 29,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "STOCK",
       "count": 28,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 22,
       "category": null
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 3,
+    "reddit_reused_previous": 17,
     "reddit_mode": "rss"
   }
 }
