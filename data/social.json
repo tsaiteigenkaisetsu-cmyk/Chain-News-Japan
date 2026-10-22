@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T21:59:49.817Z",
+  "updated_at": "2026-10-22T22:19:29.494Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 78,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -201,17 +201,12 @@
     },
     {
       "word": "BILLION",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 34,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
-      "count": 31,
       "category": null
     },
     {
@@ -222,6 +217,11 @@
     {
       "word": "DATA",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 29,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "TESLA",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 20,
       "category": null
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "OPENS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "OCC",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
