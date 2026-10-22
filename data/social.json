@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T02:02:45.351Z",
+  "updated_at": "2026-10-22T02:35:10.578Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 72,
-      "hype_score": 11,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 59,
+      "count": 58,
       "category": null
     },
     {
@@ -220,23 +220,23 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 31,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 30,
+      "word": "TRADING",
+      "count": 31,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 29,
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 30,
       "category": null
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -270,7 +270,7 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "CEO",
       "count": 23,
       "category": null
     },
@@ -280,7 +280,7 @@
       "category": "規制"
     },
     {
-      "word": "CEO",
+      "word": "BANK",
       "count": 22,
       "category": null
     },
@@ -325,13 +325,13 @@
       "category": "DeFi"
     },
     {
-      "word": "RISK",
+      "word": "ACT",
       "count": 19,
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 19,
+      "word": "HITS",
+      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
