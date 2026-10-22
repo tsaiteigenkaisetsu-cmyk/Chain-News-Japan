@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T07:29:54.609Z",
+  "updated_at": "2026-10-22T07:49:32.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 17,
+      "news_count_24h": 28,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 100,
       "buzz_rank": 14
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -260,14 +260,24 @@
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "RULES",
       "count": 25,
       "category": null
     },
     {
-      "word": "RULES",
+      "word": "SOLANA",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
     },
     {
       "word": "MARKET",
@@ -275,28 +285,28 @@
       "category": "相場"
     },
     {
+      "word": "GENIUS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 22,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
-      "word": "GENIUS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "PLANS",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "ACT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TESLA",
+      "count": 20,
       "category": null
     },
     {
@@ -320,17 +330,7 @@
       "category": null
     },
     {
-      "word": "ACT",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "PREDICTION",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TESLA",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
