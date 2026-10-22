@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T15:54:26.043Z",
+  "updated_at": "2026-10-22T16:00:48.141Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 77,
-      "hype_score": 0,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 89,
+      "news_count_24h": 8,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 29,
       "category": null
@@ -237,6 +232,11 @@
     {
       "word": "RULES",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 28,
       "category": null
     },
     {
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "OPENS",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "CHAIN",
       "count": 20,
       "category": null
@@ -333,6 +328,11 @@
       "word": "ETF",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "GENIUS",
+      "count": 20,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
