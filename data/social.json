@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:01:48.159Z",
+  "updated_at": "2026-10-22T04:25:15.381Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 13,
+      "news_count_24h": 73,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 30,
       "category": null
@@ -240,8 +235,13 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -260,13 +260,13 @@
       "category": null
     },
     {
-      "word": "RULES",
+      "word": "SOLANA",
       "count": 25,
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 25,
+      "word": "RULES",
+      "count": 24,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "GENIUS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TOKEN",
       "count": 21,
       "category": null
@@ -320,9 +315,9 @@
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "GENIUS",
       "count": 20,
-      "category": "DeFi"
+      "category": null
     },
     {
       "word": "TESLA",
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "ACT",
+      "word": "DEFI",
       "count": 19,
+      "category": "DeFi"
+    },
+    {
+      "word": "HITS",
+      "count": 18,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
