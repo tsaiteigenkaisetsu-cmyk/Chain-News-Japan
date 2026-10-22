@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:54:55.432Z",
+  "updated_at": "2026-10-22T13:04:05.729Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 27,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "DATA",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -242,11 +242,6 @@
     {
       "word": "AMID",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 25,
       "category": null
     },
     {
@@ -270,17 +265,17 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 24,
       "category": "規制"
     },
     {
       "word": "BANK",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 23,
       "category": null
     },
@@ -292,6 +287,11 @@
     {
       "word": "REVENUE",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 22,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": "ETF"
     },
     {
-      "word": "HITS",
+      "word": "TOKENS",
       "count": 18,
       "category": null
     },
     {
-      "word": "PHP",
+      "word": "HITS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
