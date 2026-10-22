@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:52:33.155Z",
+  "updated_at": "2026-10-22T20:59:49.369Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
-      "hype_score": 13,
+      "news_count_24h": 74,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -210,12 +210,12 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
+      "word": "DATA",
+      "count": 29,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCK",
       "count": 29,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 23,
-      "category": "ETF"
-    },
-    {
       "word": "TESLA",
       "count": 23,
       "category": null
@@ -288,6 +283,11 @@
       "word": "TOKEN",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
     },
     {
       "word": "OPENAI",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
