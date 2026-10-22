@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T19:59:48.904Z",
+  "updated_at": "2026-10-22T20:22:22.523Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 11,
+      "news_count_24h": 75,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 39,
       "category": "価格"
     },
     {
@@ -206,17 +206,17 @@
     },
     {
       "word": "SPACEX",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -235,22 +235,17 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 27,
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 26,
       "category": null
     },
@@ -270,14 +265,19 @@
       "category": "規制"
     },
     {
-      "word": "ETF",
+      "word": "TOKEN",
       "count": 24,
-      "category": "ETF"
+      "category": null
     },
     {
       "word": "TRADING",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
     },
     {
       "word": "TESLA",
@@ -291,7 +291,7 @@
     },
     {
       "word": "STOCKS",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
