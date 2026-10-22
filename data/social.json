@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:04:05.729Z",
+  "updated_at": "2026-10-22T13:25:48.755Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 76,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 21,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 53,
+      "news_count_24h": 16,
+      "hype_score": 56,
       "buzz_rank": 4
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 63,
+      "news_count_24h": 7,
+      "hype_score": 71,
       "buzz_rank": 9
     },
     {
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 7
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 16
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "DATA",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -225,13 +225,13 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "TOKENIZED",
       "count": 28,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 27,
+      "word": "NVIDIA",
+      "count": 28,
       "category": null
     },
     {
@@ -242,6 +242,11 @@
     {
       "word": "AMID",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 25,
       "category": null
     },
     {
@@ -260,24 +265,9 @@
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 24,
       "category": "規制"
-    },
-    {
-      "word": "BANK",
-      "count": 23,
-      "category": null
     },
     {
       "word": "SOLANA",
@@ -285,8 +275,18 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 22,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
+    },
+    {
       "word": "OPENS",
       "count": 19,
       "category": null
@@ -320,17 +325,12 @@
       "category": "DeFi"
     },
     {
-      "word": "ETF",
-      "count": 19,
-      "category": "ETF"
-    },
-    {
-      "word": "TOKENS",
+      "word": "PHP",
       "count": 18,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "REPORTS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
