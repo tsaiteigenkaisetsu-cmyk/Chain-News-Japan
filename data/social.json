@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T15:24:58.306Z",
+  "updated_at": "2026-10-22T15:36:43.845Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 79,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 19,
+      "news_count_24h": 33,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 80,
+      "news_count_24h": 9,
+      "hype_score": 89,
       "buzz_rank": 8
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "BILLION",
-      "count": 40,
+      "count": 41,
       "category": null
     },
     {
@@ -215,17 +215,17 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCK",
       "count": 31,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "DATA",
       "count": 30,
       "category": null
     },
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "TOKEN",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 23,
       "category": null
@@ -270,17 +275,17 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "PLANS",
       "count": 22,
       "category": null
     },
     {
       "word": "TESLA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TOKEN",
       "count": 22,
       "category": null
     },
@@ -295,13 +300,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "CHAIN",
       "count": 21,
       "category": null
     },
     {
-      "word": "CHAIN",
-      "count": 21,
+      "word": "UPGRADE",
+      "count": 20,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "ETF",
       "count": 20,
       "category": "ETF"
-    },
-    {
-      "word": "GENIUS",
-      "count": 20,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
