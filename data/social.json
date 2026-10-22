@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T20:59:49.369Z",
+  "updated_at": "2026-10-22T21:20:11.041Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 10,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
-      "hype_score": 14,
+      "news_count_24h": 73,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 38,
+      "news_count_24h": 14,
+      "hype_score": 36,
       "buzz_rank": 4
     },
     {
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 52,
+      "count": 54,
       "category": null
     },
     {
@@ -195,13 +195,13 @@
       "category": "価格"
     },
     {
-      "word": "BILLION",
+      "word": "LAUNCHES",
       "count": 38,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
+      "word": "BILLION",
+      "count": 38,
       "category": null
     },
     {
@@ -210,8 +210,13 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "DATA",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -230,18 +235,13 @@
       "category": null
     },
     {
-      "word": "RULES",
-      "count": 28,
+      "word": "TOKENIZED",
+      "count": 27,
       "category": null
     },
     {
       "word": "WHY",
       "count": 27,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 26,
       "category": null
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "TESLA",
       "count": 23,
       "category": null
     },
     {
-      "word": "TESLA",
-      "count": 23,
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
@@ -290,11 +290,6 @@
       "category": "ETF"
     },
     {
-      "word": "OPENAI",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TOKENS",
       "count": 21,
       "category": null
@@ -310,14 +305,14 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "OPENAI",
       "count": 20,
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "COINBASE",
       "count": 20,
-      "category": "相場"
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -330,6 +325,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 19,
+      "category": "相場"
+    },
+    {
       "word": "ACT",
       "count": 19,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
