@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T19:17:56.290Z",
+  "updated_at": "2026-10-22T19:28:26.720Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
+      "hype_score": 400,
       "buzz_rank": 14
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
+      "news_count_24h": 11,
+      "hype_score": 18,
       "buzz_rank": 6
     },
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 24,
-      "category": "規制"
-    },
-    {
       "word": "TESLA",
       "count": 23,
       "category": null
@@ -298,6 +293,11 @@
       "word": "REVENUE",
       "count": 23,
       "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 23,
+      "category": "規制"
     },
     {
       "word": "LABS",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
