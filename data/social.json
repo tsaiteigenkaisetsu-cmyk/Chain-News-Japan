@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T22:43:11.563Z",
+  "updated_at": "2026-10-22T22:50:22.304Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 80,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 23,
+      "news_count_24h": 33,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
-      "hype_score": 11,
+      "hype_score": 0,
       "buzz_rank": 7
     },
     {
@@ -190,14 +190,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 40,
+      "category": "価格"
+    },
+    {
       "word": "LAUNCHES",
       "count": 39,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 39,
-      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -230,17 +230,17 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 27,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
       "count": 27,
       "category": null
     },
@@ -280,22 +280,17 @@
       "category": null
     },
     {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
       "word": "ETF",
       "count": 22,
       "category": "ETF"
     },
     {
-      "word": "TOKEN",
+      "word": "SEC",
       "count": 21,
-      "category": null
+      "category": "規制"
     },
     {
-      "word": "TOKENS",
+      "word": "TOKEN",
       "count": 21,
       "category": null
     },
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "TOKENS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 20,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "OPENS",
+      "word": "ETFS",
       "count": 19,
       "category": null
     }
