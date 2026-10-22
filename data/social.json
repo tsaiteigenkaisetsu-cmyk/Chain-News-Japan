@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-22T10:00:11.802Z",
+  "updated_at": "2026-10-22T10:22:12.982Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
-      "hype_score": 9,
+      "news_count_24h": 81,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 30,
-      "hype_score": 17,
+      "news_count_24h": 31,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 56,
-      "buzz_rank": 6
+      "news_count_24h": 18,
+      "hype_score": 50,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -97,18 +97,18 @@
       "symbol": "UNI",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
-      "buzz_rank": 5
+      "news_count_24h": 18,
+      "hype_score": 11,
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 38,
+      "count": 39,
       "category": "価格"
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "RULES",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 26,
       "category": null
@@ -255,17 +260,12 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 25,
-      "category": "ETF"
-    },
-    {
-      "word": "RULES",
+      "word": "WHY",
       "count": 25,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "SOLANA",
       "count": 24,
       "category": null
     },
@@ -275,19 +275,19 @@
       "category": "規制"
     },
     {
-      "word": "MARKET",
-      "count": 22,
-      "category": "相場"
-    },
-    {
-      "word": "SOLANA",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "REVENUE",
-      "count": 22,
+      "count": 23,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
+    },
+    {
+      "word": "MARKET",
+      "count": 21,
+      "category": "相場"
     },
     {
       "word": "GENIUS",
@@ -300,18 +300,13 @@
       "category": null
     },
     {
-      "word": "DEFI",
-      "count": 20,
-      "category": "DeFi"
-    },
-    {
       "word": "BANK",
       "count": 20,
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 20,
+      "word": "HITS",
+      "count": 19,
       "category": null
     },
     {
@@ -323,6 +318,11 @@
       "word": "ACT",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 19,
+      "category": "DeFi"
     },
     {
       "word": "TOKEN",
