@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:35:55.695Z",
+  "updated_at": "2026-10-22T01:54:14.127Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": "価格"
     },
     {
-      "word": "ETF",
-      "count": 36,
-      "category": "ETF"
-    },
-    {
       "word": "LAUNCHES",
       "count": 35,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 35,
+      "category": "ETF"
     },
     {
       "word": "SPACEX",
@@ -225,12 +225,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
+      "word": "DATA",
+      "count": 30,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "TRADING",
       "count": 30,
       "category": null
     },
@@ -270,14 +270,14 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 23,
       "category": "規制"
-    },
-    {
-      "word": "BANK",
-      "count": 22,
-      "category": null
     },
     {
       "word": "CEO",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
