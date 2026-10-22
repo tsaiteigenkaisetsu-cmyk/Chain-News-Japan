@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T05:22:41.032Z",
+  "updated_at": "2026-10-22T05:36:25.928Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
-      "hype_score": 17,
+      "news_count_24h": 28,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 69,
+      "news_count_24h": 14,
+      "hype_score": 64,
       "buzz_rank": 6
     },
     {
@@ -200,14 +200,14 @@
       "category": "価格"
     },
     {
-      "word": "ETF",
-      "count": 35,
-      "category": "ETF"
-    },
-    {
       "word": "LAUNCHES",
       "count": 34,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 34,
+      "category": "ETF"
     },
     {
       "word": "SPACEX",
@@ -220,7 +220,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "DATA",
       "count": 31,
       "category": null
     },
@@ -230,7 +230,7 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCKS",
       "count": 30,
       "category": null
     },
@@ -240,13 +240,18 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 29,
+      "word": "WHY",
+      "count": 28,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "TRADING",
       "count": 28,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
       "category": null
     },
     {
@@ -257,11 +262,6 @@
     {
       "word": "NVIDIA",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 25,
       "category": null
     },
     {
@@ -295,11 +295,6 @@
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "BANK",
       "count": 21,
       "category": null
@@ -325,12 +320,17 @@
       "category": "DeFi"
     },
     {
-      "word": "ACT",
+      "word": "NEXT",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "USERS",
       "count": 19,
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "ACT",
       "count": 19,
       "category": null
     }
