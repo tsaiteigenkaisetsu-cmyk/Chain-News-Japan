@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T13:59:39.257Z",
+  "updated_at": "2026-10-22T14:23:45.098Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 79,
       "hype_score": 13,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 19,
+      "news_count_24h": 29,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 47,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -79,17 +79,17 @@
       "symbol": "DOT",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 350,
-      "buzz_rank": 14
+      "news_count_24h": 1,
+      "hype_score": 700,
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 15,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 6
     },
     {
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -191,17 +191,12 @@
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 41,
       "category": "価格"
     },
     {
       "word": "BILLION",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 36,
+      "count": 39,
       "category": null
     },
     {
@@ -210,8 +205,18 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "SPACEX",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 30,
       "category": null
     },
     {
@@ -226,11 +231,6 @@
     },
     {
       "word": "NVIDIA",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 29,
       "category": null
     },
@@ -255,17 +255,17 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "BANK",
       "count": 25,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 24,
       "category": null
     },
@@ -275,13 +275,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 23,
+      "word": "PLANS",
+      "count": 22,
       "category": null
     },
     {
@@ -290,12 +285,22 @@
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 21,
+      "word": "SOLANA",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 22,
       "category": null
     },
     {
       "word": "CHAIN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 20,
       "category": null
     },
@@ -305,33 +310,28 @@
       "category": "ETF"
     },
     {
-      "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "GENIUS",
       "count": 20,
       "category": null
     },
     {
-      "word": "DEFI",
+      "word": "OPENS",
       "count": 19,
-      "category": "DeFi"
-    },
-    {
-      "word": "LABS",
-      "count": 18,
       "category": null
     },
     {
-      "word": "OPENS",
-      "count": 18,
+      "word": "TOKENS",
+      "count": 19,
       "category": null
     },
     {
       "word": "PHP",
-      "count": 18,
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LABS",
+      "count": 19,
       "category": null
     }
   ],
