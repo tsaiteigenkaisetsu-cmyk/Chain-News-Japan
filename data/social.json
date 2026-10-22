@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T11:45:33.540Z",
+  "updated_at": "2026-10-22T11:53:57.186Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 80,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 18,
+      "news_count_24h": 27,
+      "hype_score": 19,
       "buzz_rank": 2
     },
     {
@@ -190,18 +190,23 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "PRICE",
       "count": 39,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "PRICE",
+      "word": "STABLECOIN",
       "count": 38,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "STOCK",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 34,
       "category": null
     },
     {
@@ -211,11 +216,6 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
       "count": 33,
       "category": null
     },
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 27,
+      "word": "WHY",
+      "count": 26,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "CEO",
       "count": 26,
       "category": null
     },
@@ -262,6 +262,11 @@
     {
       "word": "STOCKS",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
+      "count": 23,
       "category": null
     },
     {
@@ -281,11 +286,6 @@
     },
     {
       "word": "TESLA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
