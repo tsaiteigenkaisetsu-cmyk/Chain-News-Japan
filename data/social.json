@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:44:41.355Z",
+  "updated_at": "2026-10-23T10:52:56.018Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 75,
+      "news_count_24h": 74,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 34,
+      "news_count_24h": 33,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 56,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "STOCK",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -255,11 +255,6 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "ETFS",
       "count": 24,
       "category": null
@@ -281,6 +276,11 @@
     },
     {
       "word": "TRUMP",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 22,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "OCC",
       "count": 19,
       "category": null
     },
     {
-      "word": "OCC",
+      "word": "COINBASE",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
