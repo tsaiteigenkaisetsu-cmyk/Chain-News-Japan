@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T05:00:33.202Z",
+  "updated_at": "2026-10-23T05:22:05.882Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 23,
+      "news_count_24h": 38,
+      "hype_score": 21,
       "buzz_rank": 2
     },
     {
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 54,
+      "count": 55,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 41,
+      "category": "価格"
     },
     {
       "word": "LAUNCHES",
       "count": 41,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 39,
-      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 26,
+      "word": "CEO",
+      "count": 27,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "NVIDIA",
       "count": 26,
       "category": null
     },
@@ -246,7 +246,12 @@
     },
     {
       "word": "BANK",
-      "count": 26,
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
@@ -255,7 +260,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "UPGRADE",
       "count": 23,
       "category": null
     },
@@ -280,19 +285,14 @@
       "category": null
     },
     {
-      "word": "UPGRADE",
+      "word": "MARKET",
       "count": 22,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "SOLANA",
       "count": 22,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 21,
-      "category": "相場"
     },
     {
       "word": "TOKEN",
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "SECURITY",
       "count": 19,
-      "category": null
+      "category": "セキュリティ"
     }
   ],
   "stats": {
