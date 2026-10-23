@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:53:00.788Z",
+  "updated_at": "2026-10-23T11:59:54.172Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 32,
+      "news_count_24h": 35,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -190,13 +190,13 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "LAUNCHES",
       "count": 37,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
+      "word": "STABLECOIN",
+      "count": 36,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 19,
+      "category": "セキュリティ"
+    },
+    {
       "word": "OPENS",
       "count": 19,
       "category": null
@@ -325,11 +330,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 18,
-      "category": "セキュリティ"
-    },
-    {
       "word": "WALLET",
       "count": 18,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
