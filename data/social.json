@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T13:56:44.855Z",
+  "updated_at": "2026-10-23T14:09:30.789Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 80,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
-      "buzz_rank": 5
+      "news_count_24h": 14,
+      "hype_score": 7,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 40,
+      "news_count_24h": 17,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 15
     },
     {
@@ -90,14 +90,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,28 +186,28 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 56,
+      "count": 55,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
       "word": "PRICE",
       "count": 33,
       "category": "価格"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 32,
+      "category": null
     },
     {
       "word": "STOCK",
@@ -221,18 +221,18 @@
     },
     {
       "word": "RULES",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 26,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 25,
       "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 25,
-      "category": null
     },
     {
       "word": "ETFS",
@@ -246,21 +246,31 @@
     },
     {
       "word": "BANK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 21,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
+      "word": "FACES",
       "count": 21,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
       "count": 21,
       "category": null
     },
@@ -280,14 +290,14 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 21,
+      "word": "CEO",
+      "count": 20,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "SECURITY",
       "count": 20,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "COINBASE",
@@ -295,17 +305,7 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 19,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "DATA",
+      "word": "ROBINHOOD",
       "count": 19,
       "category": null
     },
@@ -315,7 +315,7 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
+      "word": "DATA",
       "count": 18,
       "category": null
     },
