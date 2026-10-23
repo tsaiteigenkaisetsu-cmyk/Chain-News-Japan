@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:59:54.172Z",
+  "updated_at": "2026-10-23T12:30:34.425Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 80,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
-      "hype_score": 31,
+      "news_count_24h": 33,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 14,
+      "hype_score": 43,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 133,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "uniswap",
@@ -133,18 +133,18 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -190,17 +190,12 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 37,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
+      "word": "BILLION",
       "count": 36,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "LAUNCHES",
       "count": 35,
       "category": null
     },
@@ -210,8 +205,13 @@
       "category": "価格"
     },
     {
-      "word": "RULES",
-      "count": 30,
+      "word": "STABLECOIN",
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 28,
       "category": null
     },
     {
@@ -220,9 +220,14 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 27,
+      "word": "RULES",
+      "count": 28,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 27,
+      "category": "相場"
     },
     {
       "word": "ETFS",
@@ -230,22 +235,7 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
-    },
-    {
-      "word": "DATA",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 23,
       "category": null
     },
@@ -260,8 +250,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 23,
+      "word": "DATA",
+      "count": 22,
       "category": null
     },
     {
@@ -271,6 +261,11 @@
     },
     {
       "word": "TESLA",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 22,
       "category": null
     },
@@ -285,7 +280,17 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "UPGRADE",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 21,
       "category": null
     },
@@ -295,24 +300,9 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "LABS",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "SECURITY",
       "count": 19,
       "category": "セキュリティ"
-    },
-    {
-      "word": "OPENS",
-      "count": 19,
-      "category": null
     },
     {
       "word": "FACES",
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "OPENS",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 18,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
