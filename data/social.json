@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T14:31:46.440Z",
+  "updated_at": "2026-10-23T14:48:37.922Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 31,
+      "news_count_24h": 31,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 6,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
-      "hype_score": 35,
+      "hype_score": 53,
       "buzz_rank": 3
     },
     {
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 55,
+      "count": 56,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -230,23 +230,28 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "ETFS",
       "count": 25,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "BANK",
       "count": 24,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 22,
+      "word": "AMID",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 21,
       "category": null
     },
     {
@@ -260,18 +265,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TESLA",
-      "count": 21,
+      "word": "COINBASE",
+      "count": 20,
       "category": null
     },
     {
@@ -281,6 +276,11 @@
     },
     {
       "word": "CEO",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TESLA",
       "count": 20,
       "category": null
     },
@@ -305,7 +305,7 @@
       "category": "セキュリティ"
     },
     {
-      "word": "COINBASE",
+      "word": "SPACEX",
       "count": 19,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
