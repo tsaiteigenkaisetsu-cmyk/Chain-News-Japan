@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:51:00.784Z",
+  "updated_at": "2026-10-23T17:59:51.805Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 28,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -196,12 +196,17 @@
     },
     {
       "word": "PRICE",
-      "count": 33,
+      "count": 34,
       "category": "価格"
     },
     {
+      "word": "STOCK",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
-      "count": 32,
+      "count": 30,
       "category": null
     },
     {
@@ -211,11 +216,6 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 29,
       "category": null
     },
@@ -230,12 +230,12 @@
       "category": "相場"
     },
     {
-      "word": "RULES",
-      "count": 27,
+      "word": "AMID",
+      "count": 25,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "RULES",
       "count": 24,
       "category": null
     },
@@ -245,13 +245,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 23,
+      "word": "TRUMP",
+      "count": 22,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 21,
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
