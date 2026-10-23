@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:27:57.372Z",
+  "updated_at": "2026-10-23T07:44:35.248Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 133,
+      "hype_score": 167,
       "buzz_rank": 11
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "STOCK",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "ETFS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 22,
       "category": "相場"
@@ -292,11 +297,6 @@
     {
       "word": "SOLANA",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
