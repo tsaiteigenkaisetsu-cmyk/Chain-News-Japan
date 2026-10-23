@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-23T08:01:42.650Z",
+  "updated_at": "2026-10-23T08:29:51.477Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 82,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 6,
-      "buzz_rank": 3
+      "news_count_24h": 15,
+      "hype_score": 7,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 31,
-      "buzz_rank": 4
+      "news_count_24h": 17,
+      "hype_score": 29,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 56,
+      "count": 58,
       "category": null
     },
     {
@@ -211,12 +211,22 @@
     },
     {
       "word": "STOCK",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
       "word": "RULES",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 27,
       "category": null
     },
     {
@@ -230,29 +240,24 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "SPACEX",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 25,
       "category": null
     },
     {
-      "word": "UPGRADE",
+      "word": "SPACEX",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "ETFS",
       "count": 24,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 24,
+      "category": "相場"
     },
     {
       "word": "BANK",
@@ -260,7 +265,7 @@
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "UPGRADE",
       "count": 23,
       "category": null
     },
@@ -270,22 +275,12 @@
       "category": null
     },
     {
-      "word": "TESLA",
-      "count": 23,
+      "word": "TRADING",
+      "count": 22,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 22,
-      "category": "ETF"
-    },
-    {
-      "word": "MARKET",
-      "count": 22,
-      "category": "相場"
-    },
-    {
-      "word": "TRADING",
+      "word": "TESLA",
       "count": 22,
       "category": null
     },
@@ -305,6 +300,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 20,
+      "category": "ETF"
+    },
+    {
       "word": "TOKEN",
       "count": 20,
       "category": null
@@ -320,19 +320,19 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 19,
-      "category": "セキュリティ"
-    },
-    {
       "word": "PLANS",
       "count": 19,
       "category": null
     },
     {
-      "word": "OCC",
+      "word": "STOCKS",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 19,
+      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
