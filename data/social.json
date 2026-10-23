@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T22:32:48.467Z",
+  "updated_at": "2026-10-23T22:42:11.913Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "SECURITY",
-      "count": 20,
+      "count": 19,
       "category": "セキュリティ"
     },
     {
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "UPGRADE",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 17,
       "category": "ETF"
@@ -306,6 +301,11 @@
     },
     {
       "word": "BANK",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "UPGRADE",
       "count": 17,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
