@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T08:29:51.477Z",
+  "updated_at": "2026-10-23T08:50:13.383Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 82,
+      "news_count_24h": 80,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
+      "news_count_24h": 2,
+      "hype_score": 250,
       "buzz_rank": 11
     },
     {
@@ -106,16 +106,16 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 58,
+      "count": 57,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 41,
+      "count": 42,
       "category": "価格"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "RULES",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "DATA",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -247,6 +247,16 @@
     {
       "word": "SPACEX",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "UPGRADE",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
@@ -262,16 +272,6 @@
     {
       "word": "BANK",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "UPGRADE",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 23,
       "category": null
     },
     {
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "LABS",
       "count": 21,
       "category": null
@@ -306,11 +311,6 @@
     },
     {
       "word": "TOKEN",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
       "count": 20,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
