@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T19:49:51.293Z",
+  "updated_at": "2026-10-23T19:59:35.115Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 60,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
@@ -310,6 +310,11 @@
       "category": null
     },
     {
+      "word": "RISKS",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "PAYMENTS",
       "count": 16,
       "category": null
@@ -328,11 +333,6 @@
       "word": "DATA",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "LABS",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
