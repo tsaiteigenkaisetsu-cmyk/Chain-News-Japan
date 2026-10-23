@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T09:25:10.534Z",
+  "updated_at": "2026-10-23T09:37:33.232Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 14,
       "buzz_rank": 1
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 38,
-      "buzz_rank": 3
+      "news_count_24h": 15,
+      "hype_score": 40,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 83,
+      "hype_score": 100,
       "buzz_rank": 8
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 56,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 41,
-      "category": "価格"
     },
     {
       "word": "LAUNCHES",
       "count": 40,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 40,
+      "category": "価格"
     },
     {
       "word": "STABLECOIN",
@@ -216,7 +216,7 @@
     },
     {
       "word": "RULES",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
@@ -230,8 +230,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "NVIDIA",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
@@ -255,23 +270,13 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 24,
-      "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SPACEX",
       "count": 24,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 23,
+      "word": "OPENAI",
+      "count": 22,
       "category": null
     },
     {
@@ -287,11 +292,6 @@
     {
       "word": "SOLANA",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 21,
       "category": null
     },
     {
