@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T10:22:12.009Z",
+  "updated_at": "2026-10-23T10:34:45.200Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 77,
+      "news_count_24h": 78,
       "hype_score": 14,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
       "news_count_24h": 32,
-      "hype_score": 25,
+      "hype_score": 34,
       "buzz_rank": 2
     },
     {
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 43,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
@@ -195,14 +195,14 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 39,
       "category": "価格"
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 38,
-      "category": null
     },
     {
       "word": "BILLION",
@@ -216,7 +216,7 @@
     },
     {
       "word": "STOCK",
-      "count": 30,
+      "count": 29,
       "category": null
     },
     {
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 23,
       "category": null
@@ -290,12 +285,17 @@
       "category": null
     },
     {
-      "word": "SPACEX",
+      "word": "TRUMP",
       "count": 22,
       "category": null
     },
     {
       "word": "TESLA",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
       "count": 21,
       "category": null
     },
@@ -315,12 +315,12 @@
       "category": "ETF"
     },
     {
-      "word": "PHP",
+      "word": "SECURITY",
       "count": 19,
-      "category": null
+      "category": "セキュリティ"
     },
     {
-      "word": "STOCKS",
+      "word": "PHP",
       "count": 19,
       "category": null
     },
