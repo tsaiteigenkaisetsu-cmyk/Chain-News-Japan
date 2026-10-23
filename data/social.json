@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:54:54.498Z",
+  "updated_at": "2026-10-23T04:01:27.002Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 3
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "STOCK",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -226,7 +226,12 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 26,
       "category": null
     },
     {
@@ -240,13 +245,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "NVIDIA",
       "count": 25,
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 25,
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
@@ -258,16 +263,6 @@
       "word": "ETF",
       "count": 24,
       "category": "ETF"
-    },
-    {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 23,
-      "category": null
     },
     {
       "word": "TESLA",
@@ -285,9 +280,19 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "UPGRADE",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 21,
+      "category": "相場"
     },
     {
       "word": "TOKEN",
@@ -298,11 +303,6 @@
       "word": "LABS",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 20,
-      "category": "相場"
     },
     {
       "word": "PHP",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
