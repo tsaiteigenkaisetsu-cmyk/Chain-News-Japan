@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T08:38:48.831Z",
+  "updated_at": "2026-10-24T08:52:03.346Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -195,11 +195,6 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 30,
       "category": "価格"
@@ -208,6 +203,11 @@
       "word": "LAUNCHES",
       "count": 30,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 29,
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -231,12 +231,12 @@
     },
     {
       "word": "AMID",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 20,
+      "count": 19,
       "category": "ETF"
     },
     {
@@ -270,11 +270,6 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "UPGRADE",
       "count": 17,
       "category": null
@@ -301,6 +296,11 @@
     },
     {
       "word": "BANK",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "FACES",
       "count": 16,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
