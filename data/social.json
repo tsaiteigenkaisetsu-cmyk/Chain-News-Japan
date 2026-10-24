@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:43:59.172Z",
+  "updated_at": "2026-10-24T09:51:08.440Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -211,7 +211,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 17,
       "category": null
@@ -291,6 +286,11 @@
     },
     {
       "word": "TOKEN",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
       "count": 16,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
