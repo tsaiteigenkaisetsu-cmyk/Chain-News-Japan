@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-24T19:59:50.165Z",
+  "updated_at": "2026-10-24T20:20:00.827Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 24,
+      "hype_score": 30,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 2
     },
     {
@@ -206,18 +206,13 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
       "word": "SECURITY",
       "count": 19,
       "category": "セキュリティ"
-    },
-    {
-      "word": "WHY",
-      "count": 18,
-      "category": null
     },
     {
       "word": "STOCK",
@@ -235,13 +230,18 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "FACES",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 16,
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 17,
       "category": null
     },
     {
@@ -250,13 +250,13 @@
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "LAUNCHES",
       "count": 16,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 16,
+      "word": "TOKENIZED",
+      "count": 15,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "AGAINST",
+      "word": "CIRCLE",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
