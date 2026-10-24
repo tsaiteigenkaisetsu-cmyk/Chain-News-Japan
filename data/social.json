@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T06:54:31.545Z",
+  "updated_at": "2026-10-24T07:02:52.178Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
+      "news_count_24h": 23,
+      "hype_score": 30,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 8,
+      "news_count_24h": 14,
+      "hype_score": 7,
       "buzz_rank": 4
     },
     {
@@ -195,14 +195,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 30,
+      "category": "価格"
+    },
+    {
       "word": "LAUNCHES",
       "count": 30,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 29,
-      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 19,
       "category": "セキュリティ"
@@ -265,13 +270,13 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "COINBASE",
       "count": 18,
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 18,
+      "word": "FACES",
+      "count": 17,
       "category": null
     },
     {
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "OPENAI",
       "count": 17,
       "category": null
     },
@@ -315,11 +320,6 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 16,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
