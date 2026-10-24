@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:27:47.020Z",
+  "updated_at": "2026-10-24T11:37:45.404Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 54,
+      "news_count_24h": 55,
       "hype_score": 15,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
+      "news_count_24h": 23,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 32,
       "category": "価格"
     },
     {
@@ -221,12 +221,12 @@
     },
     {
       "word": "ETFS",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 18,
       "category": null
@@ -253,11 +258,6 @@
       "word": "SECURITY",
       "count": 18,
       "category": "セキュリティ"
-    },
-    {
-      "word": "CEO",
-      "count": 17,
-      "category": null
     },
     {
       "word": "FACES",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
