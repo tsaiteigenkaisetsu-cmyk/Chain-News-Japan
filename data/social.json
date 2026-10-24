@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T09:51:08.440Z",
+  "updated_at": "2026-10-24T09:59:47.096Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 13,
       "hype_score": 8,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 43,
-      "buzz_rank": 3
+      "news_count_24h": 13,
+      "hype_score": 46,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -52,8 +52,8 @@
       "symbol": "ADA",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
+      "news_count_24h": 1,
+      "hype_score": 500,
       "buzz_rank": 11
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "ETFS",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "AMID",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
