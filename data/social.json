@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-24T11:59:35.655Z",
+  "updated_at": "2026-10-24T12:27:20.254Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 53,
-      "hype_score": 15,
+      "news_count_24h": 52,
+      "hype_score": 17,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 23,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 13,
+      "news_count_24h": 14,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 46,
+      "news_count_24h": 10,
+      "hype_score": 60,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 300,
       "buzz_rank": 14
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 45,
+      "count": 43,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -205,18 +205,8 @@
       "category": "相場"
     },
     {
-      "word": "LAUNCHES",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 27,
+      "count": 25,
       "category": null
     },
     {
@@ -225,12 +215,22 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 20,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "CEO",
       "count": 19,
       "category": null
     },
@@ -240,17 +240,7 @@
       "category": "ETF"
     },
     {
-      "word": "FACES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
+      "word": "PAYMENTS",
       "count": 18,
       "category": null
     },
@@ -265,7 +255,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "PAYMENTS",
+      "word": "FACES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
@@ -275,37 +270,22 @@
       "category": null
     },
     {
+      "word": "TETHER",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 16,
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "PLANS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "TOKENS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
+      "word": "TRUMP",
       "count": 15,
       "category": null
     },
@@ -330,8 +310,28 @@
       "category": null
     },
     {
-      "word": "ADDS",
+      "word": "RULES",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "UPGRADE",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "NETWORK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PLANS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "ADDS",
+      "count": 13,
       "category": null
     }
   ],
