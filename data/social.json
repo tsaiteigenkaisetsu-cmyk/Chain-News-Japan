@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T13:32:24.404Z",
+  "updated_at": "2026-10-24T13:41:51.942Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -186,18 +186,18 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 31,
+      "count": 42,
       "category": null
     },
     {
       "word": "MARKET",
       "count": 31,
       "category": "相場"
+    },
+    {
+      "word": "BILLION",
+      "count": 30,
+      "category": null
     },
     {
       "word": "PRICE",
@@ -216,12 +216,12 @@
     },
     {
       "word": "ETFS",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
