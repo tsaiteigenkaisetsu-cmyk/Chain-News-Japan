@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-24T01:14:00.020Z",
+  "updated_at": "2026-10-24T01:35:38.426Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 73,
-      "hype_score": 12,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
-      "hype_score": 167,
+      "hype_score": 100,
       "buzz_rank": 10
     },
     {
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "ETFS",
       "count": 30,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 30,
+      "word": "LAUNCHES",
+      "count": 29,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 19,
-      "category": "セキュリティ"
-    },
-    {
       "word": "OPENAI",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 18,
+      "category": "セキュリティ"
     },
     {
       "word": "TRUMP",
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "UPGRADE",
       "count": 16,
       "category": null
     },
     {
-      "word": "UPGRADE",
-      "count": 16,
+      "word": "A16Z",
+      "count": 15,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
