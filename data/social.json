@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T10:59:43.012Z",
+  "updated_at": "2026-10-24T11:17:53.262Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 55,
+      "news_count_24h": 54,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 22,
+      "hype_score": 32,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 43,
+      "news_count_24h": 13,
+      "hype_score": 46,
       "buzz_rank": 4
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 43,
+      "count": 44,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STOCK",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -255,7 +255,12 @@
       "category": "セキュリティ"
     },
     {
-      "word": "PLANS",
+      "word": "CEO",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
       "count": 17,
       "category": null
     },
@@ -265,37 +270,27 @@
       "category": null
     },
     {
+      "word": "FACES",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 16,
       "category": null
     },
     {
-      "word": "PAYMENTS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "TETHER",
       "count": 15,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "PLANS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 15,
       "category": null
     },
@@ -305,7 +300,17 @@
       "category": null
     },
     {
+      "word": "FUND",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "TOKENS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 15,
       "category": null
     },
@@ -328,11 +333,6 @@
       "word": "SEEKS",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 15,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
