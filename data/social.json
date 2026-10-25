@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:44:49.471Z",
+  "updated_at": "2026-10-25T07:52:27.990Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 32,
+      "news_count_24h": 36,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -190,14 +190,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 23,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
       "count": 22,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 22,
+      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -226,7 +226,7 @@
     },
     {
       "word": "STOCK",
-      "count": 15,
+      "count": 14,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
