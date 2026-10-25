@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T07:23:14.888Z",
+  "updated_at": "2026-10-25T07:34:50.367Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 38,
       "hype_score": 32,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
+      "news_count_24h": 14,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 21,
+      "count": 22,
       "category": "価格"
     },
     {
@@ -290,13 +290,13 @@
       "category": null
     },
     {
-      "word": "TAX",
+      "word": "LAUNCHES",
       "count": 11,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 11,
+      "word": "WARNS",
+      "count": 10,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": "規制"
     },
     {
+      "word": "TAX",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "TRUMP",
       "count": 9,
       "category": null
@@ -328,11 +333,6 @@
       "word": "GROUP",
       "count": 9,
       "category": null
-    },
-    {
-      "word": "SUPPORT",
-      "count": 9,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
