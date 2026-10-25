@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-25T09:59:42.533Z",
+  "updated_at": "2026-10-25T10:19:33.130Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
-      "hype_score": 39,
+      "hype_score": 42,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 17,
+      "news_count_24h": 7,
+      "hype_score": 14,
       "buzz_rank": 3
     },
     {
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 250,
+      "news_count_24h": 3,
+      "hype_score": 167,
       "buzz_rank": 7
     },
     {
@@ -191,13 +191,8 @@
     },
     {
       "word": "PRICE",
-      "count": 21,
+      "count": 22,
       "category": "価格"
-    },
-    {
-      "word": "BILLION",
-      "count": 20,
-      "category": null
     },
     {
       "word": "MARKET",
@@ -205,13 +200,13 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
-      "count": 17,
+      "word": "BILLION",
+      "count": 19,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 16,
+      "word": "AMID",
+      "count": 17,
       "category": null
     },
     {
@@ -225,14 +220,19 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 14,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "SECURITY",
       "count": 13,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "ADDS",
@@ -250,17 +250,12 @@
       "category": "ETF"
     },
     {
-      "word": "DATA",
+      "word": "FACES",
       "count": 12,
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 12,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "TOKENIZED",
+      "word": "DATA",
       "count": 12,
       "category": null
     },
@@ -275,7 +270,7 @@
       "category": "規制"
     },
     {
-      "word": "PAYMENTS",
+      "word": "TOKENIZED",
       "count": 11,
       "category": null
     },
@@ -285,22 +280,7 @@
       "category": null
     },
     {
-      "word": "PLANS",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "TOKENS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "SEEKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 10,
       "category": null
     },
@@ -315,7 +295,7 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "PLANS",
       "count": 9,
       "category": null
     },
@@ -327,6 +307,26 @@
     {
       "word": "REVENUE",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "SEEKS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PAYMENTS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WALLET",
+      "count": 8,
       "category": null
     },
     {
