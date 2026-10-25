@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-24T23:59:38.810Z",
+  "updated_at": "2026-10-25T00:56:37.755Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 25,
+      "news_count_24h": 34,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 12,
+      "news_count_24h": 16,
+      "hype_score": 13,
       "buzz_rank": 2
     },
     {
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 22,
-      "buzz_rank": 3
+      "news_count_24h": 8,
+      "hype_score": 25,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 56,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 200,
-      "buzz_rank": 9
+      "buzz_rank": 7
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "polkadot",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 33,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -191,12 +191,12 @@
     },
     {
       "word": "PRICE",
-      "count": 26,
+      "count": 25,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 24,
       "category": "相場"
     },
     {
@@ -205,22 +205,22 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 19,
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 18,
       "category": null
     },
@@ -231,17 +231,22 @@
     },
     {
       "word": "SECURITY",
-      "count": 17,
+      "count": 16,
       "category": "セキュリティ"
     },
     {
       "word": "FACES",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
       "word": "ETFS",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "ADDS",
+      "count": 14,
       "category": null
     },
     {
@@ -255,19 +260,9 @@
       "category": null
     },
     {
-      "word": "ADDS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 13,
-      "category": null
     },
     {
       "word": "PLANS",
@@ -275,12 +270,7 @@
       "category": null
     },
     {
-      "word": "OCTOBER",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "TAX",
+      "word": "LAUNCHES",
       "count": 12,
       "category": null
     },
@@ -295,8 +285,13 @@
       "category": null
     },
     {
-      "word": "SPOT",
-      "count": 12,
+      "word": "WARNS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RISKS",
+      "count": 11,
       "category": null
     },
     {
@@ -315,7 +310,17 @@
       "category": null
     },
     {
-      "word": "RISKS",
+      "word": "OCTOBER",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TAX",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SPOT",
       "count": 11,
       "category": null
     },
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WARNS",
+      "word": "AGAINST",
       "count": 10,
       "category": null
     }
