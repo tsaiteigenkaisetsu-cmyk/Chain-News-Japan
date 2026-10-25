@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T22:43:25.951Z",
+  "updated_at": "2026-10-25T22:50:54.992Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 125,
+      "news_count_24h": 5,
+      "hype_score": 100,
       "buzz_rank": 4
     },
     {
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "SUPPORT",
       "count": 8,
       "category": null
@@ -300,11 +295,6 @@
       "category": null
     },
     {
-      "word": "FACE",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "TOKENS",
       "count": 7,
       "category": null
@@ -316,6 +306,11 @@
     },
     {
       "word": "PUTS",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 7,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "WHAT",
       "count": 7,
       "category": null
+    },
+    {
+      "word": "WITHDRAWAL",
+      "count": 7,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
