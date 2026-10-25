@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:44:25.942Z",
+  "updated_at": "2026-10-25T16:51:38.081Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 39,
+      "news_count_24h": 27,
+      "hype_score": 41,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 40,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 9,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 125,
+      "hype_score": 150,
       "buzz_rank": 5
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 22,
+      "count": 21,
       "category": "価格"
     },
     {
@@ -220,11 +220,6 @@
       "category": "ETF"
     },
     {
-      "word": "ETFS",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 12,
       "category": "相場"
@@ -232,6 +227,11 @@
     {
       "word": "BILLION",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "ETFS",
+      "count": 11,
       "category": null
     },
     {
