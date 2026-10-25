@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:41:17.619Z",
+  "updated_at": "2026-10-25T19:50:25.799Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 36,
-      "buzz_rank": 2
+      "news_count_24h": 9,
+      "hype_score": 44,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 9,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 71,
+      "news_count_24h": 6,
+      "hype_score": 83,
       "buzz_rank": 4
     },
     {
@@ -86,10 +86,10 @@
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 14
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 9,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 9,
       "category": null
@@ -280,6 +275,11 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "SUPPORT",
       "count": 8,
       "category": null
@@ -290,17 +290,7 @@
       "category": null
     },
     {
-      "word": "AGAINST",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "PLAN",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "ADDS",
       "count": 8,
       "category": null
     },
@@ -331,6 +321,16 @@
     },
     {
       "word": "UPGRADE",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "BREACH",
+      "count": 7,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "HOW",
       "count": 7,
       "category": null
     }
