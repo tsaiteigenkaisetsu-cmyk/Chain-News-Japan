@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T10:33:13.721Z",
+  "updated_at": "2026-10-25T10:42:48.444Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 83,
+      "news_count_24h": 5,
+      "hype_score": 100,
       "buzz_rank": 4
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "PRICE",
-      "count": 22,
+      "count": 23,
       "category": "価格"
     },
     {
@@ -205,13 +205,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "CEO",
       "count": 17,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 16,
+      "word": "AMID",
+      "count": 17,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "SEC",
       "count": 11,
       "category": "規制"
@@ -275,13 +280,13 @@
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "TOKENS",
       "count": 10,
       "category": null
     },
     {
-      "word": "TOKENS",
-      "count": 10,
+      "word": "AGAINST",
+      "count": 9,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "SHARES",
       "count": 8,
       "category": null
-    },
-    {
-      "word": "OUTFLOWS",
-      "count": 8,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
