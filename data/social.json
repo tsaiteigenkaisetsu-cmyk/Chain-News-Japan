@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T19:59:48.073Z",
+  "updated_at": "2026-10-25T20:20:07.789Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 44,
+      "news_count_24h": 10,
+      "hype_score": 40,
       "buzz_rank": 3
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -81,16 +81,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
@@ -216,7 +216,7 @@
     },
     {
       "word": "WHY",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
@@ -270,8 +270,13 @@
       "category": null
     },
     {
-      "word": "SEES",
-      "count": 9,
+      "word": "AGAINST",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "UPGRADE",
+      "count": 8,
       "category": null
     },
     {
@@ -286,6 +291,11 @@
     },
     {
       "word": "REVENUE",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SEES",
       "count": 8,
       "category": null
     },
@@ -310,16 +320,6 @@
       "category": null
     },
     {
-      "word": "SENATE",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "UPGRADE",
-      "count": 7,
-      "category": null
-    },
-    {
       "word": "BREACH",
       "count": 7,
       "category": "セキュリティ"
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
