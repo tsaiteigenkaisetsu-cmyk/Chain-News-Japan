@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T11:17:59.140Z",
+  "updated_at": "2026-10-25T11:28:24.165Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 41,
+      "news_count_24h": 33,
+      "hype_score": 42,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 13,
+      "hype_score": 31,
       "buzz_rank": 2
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 167,
-      "buzz_rank": 7
+      "news_count_24h": 4,
+      "hype_score": 125,
+      "buzz_rank": 5
     },
     {
       "coin_id": "cardano",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "tron",
@@ -280,6 +280,11 @@
       "category": null
     },
     {
+      "word": "WALLET",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "OUTFLOWS",
       "count": 9,
       "category": null
@@ -291,11 +296,6 @@
     },
     {
       "word": "SUPPORT",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "TAX",
       "count": 9,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "SHARES",
       "count": 8,
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "HIT",
       "count": 8,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
