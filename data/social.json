@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T04:53:38.553Z",
+  "updated_at": "2026-10-25T04:59:52.350Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -191,12 +191,12 @@
     },
     {
       "word": "PRICE",
-      "count": 24,
+      "count": 23,
       "category": "価格"
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 23,
       "category": "相場"
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 15,
-      "category": "セキュリティ"
-    },
-    {
       "word": "STOCK",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 14,
+      "category": "セキュリティ"
     },
     {
       "word": "ADDS",
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "SEEKS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "DATA",
       "count": 12,
       "category": null
@@ -266,6 +261,11 @@
     },
     {
       "word": "FACES",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "SEEKS",
       "count": 12,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": "規制"
     },
     {
-      "word": "OCTOBER",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "GROUP",
       "count": 9,
       "category": null
@@ -333,6 +328,11 @@
       "word": "RISKS",
       "count": 9,
       "category": null
+    },
+    {
+      "word": "PLAN",
+      "count": 9,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
