@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:44:56.473Z",
+  "updated_at": "2026-10-25T12:55:07.666Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 15,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 47,
+      "news_count_24h": 31,
+      "hype_score": 48,
       "buzz_rank": 1
     },
     {
@@ -220,17 +220,17 @@
       "category": null
     },
     {
-      "word": "ADDS",
-      "count": 13,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 13,
       "category": "ETF"
     },
     {
       "word": "TETHER",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "ADDS",
       "count": 12,
       "category": null
     },
@@ -265,11 +265,6 @@
       "category": null
     },
     {
-      "word": "SUPPORT",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 10,
       "category": null
@@ -280,7 +275,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "SUPPORT",
       "count": 9,
       "category": null
     },
@@ -320,6 +315,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 8,
+      "category": null
+    },
+    {
       "word": "POTENTIAL",
       "count": 8,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
