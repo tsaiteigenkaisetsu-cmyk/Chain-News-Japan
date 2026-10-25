@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-25T13:42:22.667Z",
+  "updated_at": "2026-10-25T13:49:56.185Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
       "news_count_24h": 32,
-      "hype_score": 44,
+      "hype_score": 41,
       "buzz_rank": 1
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 23,
+      "count": 22,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "AMID",
-      "count": 15,
+      "count": 14,
       "category": null
     },
     {
@@ -228,11 +228,6 @@
       "word": "ETF",
       "count": 13,
       "category": "ETF"
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 12,
-      "category": null
     },
     {
       "word": "ADDS",
@@ -247,6 +242,11 @@
     {
       "word": "STOCK",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 11,
       "category": null
     },
     {
@@ -270,16 +270,6 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "HOURS",
       "count": 9,
       "category": null
@@ -290,9 +280,19 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "SECURITY",
       "count": 9,
       "category": "セキュリティ"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 9,
+      "category": null
     },
     {
       "word": "PLANS",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
