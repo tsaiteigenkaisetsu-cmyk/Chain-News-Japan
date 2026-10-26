@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-26T07:49:39.664Z",
+  "updated_at": "2026-10-26T08:06:08.917Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 21,
+      "news_count_24h": 35,
+      "hype_score": 26,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 29,
+      "news_count_24h": 18,
+      "hype_score": 28,
       "buzz_rank": 2
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 267,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 9
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "WALLET",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 13,
       "category": null
@@ -213,11 +218,6 @@
       "word": "WHY",
       "count": 13,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 13,
-      "category": "相場"
     },
     {
       "word": "HIT",
@@ -230,9 +230,9 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "MARKET",
       "count": 12,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -275,11 +275,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 9,
-      "category": "ETF"
-    },
-    {
       "word": "WHAT",
       "count": 8,
       "category": null
@@ -303,6 +298,11 @@
       "word": "TRADING",
       "count": 8,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 8,
+      "category": "ETF"
     },
     {
       "word": "FACE",
