@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:04:34.937Z",
+  "updated_at": "2026-10-26T10:26:48.509Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -205,12 +205,12 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 15,
+      "word": "HIT",
+      "count": 14,
       "category": null
     },
     {
-      "word": "HIT",
+      "word": "WALLET",
       "count": 14,
       "category": null
     },
@@ -230,6 +230,11 @@
       "category": null
     },
     {
+      "word": "ETFS",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 12,
       "category": null
@@ -240,17 +245,12 @@
       "category": "相場"
     },
     {
-      "word": "STABLECOIN",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "CENTER",
       "count": 11,
       "category": null
     },
     {
-      "word": "ETFS",
+      "word": "STABLECOIN",
       "count": 11,
       "category": null
     },
@@ -270,12 +270,17 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "NVIDIA",
       "count": 9,
       "category": null
     },
     {
-      "word": "SEES",
+      "word": "FACES",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 9,
       "category": null
     },
@@ -285,17 +290,12 @@
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 8,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "SEES",
       "count": 8,
       "category": null
     },
@@ -307,6 +307,11 @@
     {
       "word": "TOKENIZED",
       "count": 8,
+      "category": null
+    },
+    {
+      "word": "RACE",
+      "count": 7,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "UPGRADE",
       "count": 7,
       "category": null
-    },
-    {
-      "word": "PLAN",
-      "count": 7,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
