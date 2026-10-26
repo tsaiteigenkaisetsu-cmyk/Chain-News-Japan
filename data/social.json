@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T22:35:50.495Z",
+  "updated_at": "2026-10-26T22:46:41.388Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 13,
+      "news_count_24h": 89,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 5,
+      "news_count_24h": 23,
+      "hype_score": 4,
       "buzz_rank": 2
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
+      "news_count_24h": 21,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -206,18 +206,18 @@
     },
     {
       "word": "PRICE",
-      "count": 22,
+      "count": 23,
       "category": "価格"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 22,
+      "category": null
     },
     {
       "word": "MARKET",
       "count": 21,
       "category": "相場"
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 21,
-      "category": null
     },
     {
       "word": "WEEK",
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "HIT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 18,
       "category": null
@@ -247,11 +252,6 @@
     {
       "word": "DATA",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "HIT",
-      "count": 17,
       "category": null
     },
     {
@@ -272,6 +272,11 @@
     {
       "word": "FED",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 13,
       "category": null
     },
     {
@@ -296,11 +301,6 @@
     },
     {
       "word": "AMID",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 12,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
