@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T20:48:05.384Z",
+  "updated_at": "2026-10-26T20:55:51.311Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 23,
+      "news_count_24h": 23,
+      "hype_score": 22,
       "buzz_rank": 2
     },
     {
@@ -225,13 +225,13 @@
       "category": "価格"
     },
     {
-      "word": "STOCK",
+      "word": "DATA",
       "count": 19,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 18,
+      "word": "STOCK",
+      "count": 19,
       "category": null
     },
     {
@@ -250,6 +250,11 @@
       "category": null
     },
     {
+      "word": "WALLET",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "ETFS",
       "count": 14,
       "category": null
@@ -261,11 +266,6 @@
     },
     {
       "word": "FED",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WALLET",
       "count": 14,
       "category": null
     },
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "AHEAD",
       "count": 11,
       "category": null
@@ -325,14 +330,9 @@
       "category": null
     },
     {
-      "word": "CHAIN",
+      "word": "SECURITY",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "KEY",
-      "count": 10,
-      "category": null
+      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
