@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T21:03:47.614Z",
+  "updated_at": "2026-10-26T21:21:19.369Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 3
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 37,
+      "news_count_24h": 20,
+      "hype_score": 35,
       "buzz_rank": 4
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 160,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 30,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 20,
-      "buzz_rank": 10
+      "news_count_24h": 6,
+      "hype_score": 17,
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 20,
       "category": "相場"
@@ -225,18 +230,18 @@
       "category": "価格"
     },
     {
+      "word": "SOLANA",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 19,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 18,
+      "word": "WALLET",
+      "count": 17,
       "category": null
     },
     {
@@ -247,11 +252,6 @@
     {
       "word": "HIT",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 15,
       "category": null
     },
     {
@@ -272,6 +272,11 @@
     {
       "word": "FED",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "TOKEN",
+      "count": 13,
       "category": null
     },
     {
@@ -300,8 +305,8 @@
       "category": null
     },
     {
-      "word": "TOKEN",
-      "count": 12,
+      "word": "KEY",
+      "count": 11,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "BUYING",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 10,
-      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
