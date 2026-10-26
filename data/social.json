@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T09:02:19.827Z",
+  "updated_at": "2026-10-26T09:34:08.377Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 19,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -196,7 +196,12 @@
     },
     {
       "word": "DATA",
-      "count": 16,
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 15,
       "category": null
     },
     {
@@ -207,11 +212,6 @@
     {
       "word": "CEO",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 13,
       "category": null
     },
     {
@@ -245,27 +245,32 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 10,
+      "word": "CENTER",
+      "count": 11,
       "category": null
     },
     {
       "word": "ETFS",
-      "count": 10,
+      "count": 11,
       "category": null
     },
     {
-      "word": "CENTER",
+      "word": "BILLION",
       "count": 10,
       "category": null
     },
     {
       "word": "BREACH",
-      "count": 9,
+      "count": 10,
       "category": "セキュリティ"
     },
     {
-      "word": "BILLION",
+      "word": "WARNS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 9,
       "category": null
     },
@@ -285,7 +290,7 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "FACES",
       "count": 8,
       "category": null
     },
@@ -295,9 +300,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 8,
-      "category": "ETF"
+      "word": "FED",
+      "count": 7,
+      "category": null
+    },
+    {
+      "word": "MUSK",
+      "count": 7,
+      "category": null
     },
     {
       "word": "NVIDIA",
@@ -321,16 +331,6 @@
     },
     {
       "word": "UPGRADE",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "SUPPORT",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 7,
       "category": null
     }
