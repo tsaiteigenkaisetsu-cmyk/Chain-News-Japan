@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T11:24:56.988Z",
+  "updated_at": "2026-10-26T11:40:01.724Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 41,
       "hype_score": 20,
       "buzz_rank": 1
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 400,
-      "buzz_rank": 11
+      "news_count_24h": 1,
+      "hype_score": 800,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 60,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -215,6 +215,11 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 13,
       "category": null
@@ -230,12 +235,12 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 13,
+      "word": "BILLION",
+      "count": 12,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "CEO",
       "count": 12,
       "category": null
     },
@@ -243,11 +248,6 @@
       "word": "BREACH",
       "count": 11,
       "category": "セキュリティ"
-    },
-    {
-      "word": "BILLION",
-      "count": 11,
-      "category": null
     },
     {
       "word": "ETFS",
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "FED",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "SEES",
       "count": 9,
       "category": null
@@ -292,6 +297,11 @@
     {
       "word": "WHAT",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "NEXT",
+      "count": 8,
       "category": null
     },
     {
@@ -320,18 +330,8 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "HOURS",
       "count": 8,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 7,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
