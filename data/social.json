@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:47:46.023Z",
+  "updated_at": "2026-10-26T07:18:01.664Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
-      "hype_score": 19,
+      "news_count_24h": 34,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -191,13 +191,8 @@
     },
     {
       "word": "PRICE",
-      "count": 19,
+      "count": 18,
       "category": "価格"
-    },
-    {
-      "word": "WHY",
-      "count": 15,
-      "category": null
     },
     {
       "word": "DATA",
@@ -207,6 +202,16 @@
     {
       "word": "CEO",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 13,
       "category": null
     },
     {
@@ -230,8 +235,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 12,
+      "word": "STOCKS",
+      "count": 11,
       "category": null
     },
     {
@@ -241,11 +246,6 @@
     },
     {
       "word": "CENTER",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
       "count": 10,
       "category": null
     },
@@ -300,8 +300,8 @@
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 8,
+      "word": "FACE",
+      "count": 7,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
