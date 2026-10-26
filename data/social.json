@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:26:50.476Z",
+  "updated_at": "2026-10-26T19:39:03.313Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 86,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 47,
+      "news_count_24h": 16,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 39,
+      "count": 42,
       "category": null
     },
     {
@@ -195,22 +195,22 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 22,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "IPO",
+      "word": "WEEK",
       "count": 21,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "DATA",
       "count": 21,
       "category": null
     },
@@ -230,6 +230,11 @@
       "category": "相場"
     },
     {
+      "word": "SOLANA",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 17,
       "category": null
@@ -246,12 +251,7 @@
     },
     {
       "word": "WALLET",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
@@ -262,6 +262,11 @@
     {
       "word": "STOCKS",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
+      "count": 13,
       "category": null
     },
     {
@@ -286,11 +291,6 @@
     },
     {
       "word": "PLANS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
       "count": 12,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "PUTS",
       "count": 10,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 10,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
