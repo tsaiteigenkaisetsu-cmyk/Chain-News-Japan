@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T18:18:58.295Z",
+  "updated_at": "2026-10-27T18:32:02.926Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 32,
-      "buzz_rank": 4
+      "news_count_24h": 23,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 23,
       "hype_score": 48,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 17,
+      "news_count_24h": 13,
+      "hype_score": 15,
       "buzz_rank": 6
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 61,
+      "count": 63,
       "category": null
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 35,
+      "category": "相場"
+    },
+    {
       "word": "STABLECOIN",
       "count": 35,
       "category": null
@@ -218,11 +223,6 @@
       "word": "STOCK",
       "count": 34,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
     },
     {
       "word": "RIPPLE",
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 22,
+      "word": "DATA",
+      "count": 24,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WALLET",
       "count": 22,
       "category": null
     },
@@ -265,12 +265,17 @@
       "category": null
     },
     {
+      "word": "NEXT",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 18,
       "category": null
     },
     {
-      "word": "NEXT",
+      "word": "AMID",
       "count": 17,
       "category": null
     },
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
+      "word": "CFTC",
       "count": 15,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "OPENAI",
       "count": 15,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
