@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:57:08.898Z",
+  "updated_at": "2026-10-27T04:12:21.297Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 91,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 28,
+      "news_count_24h": 17,
+      "hype_score": 29,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 39,
+      "news_count_24h": 17,
+      "hype_score": 41,
       "buzz_rank": 4
     },
     {
@@ -72,24 +72,24 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 150,
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 9
     },
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 25,
       "category": "価格"
@@ -215,18 +220,13 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 24,
+      "word": "STOCK",
+      "count": 22,
       "category": null
     },
     {
       "word": "STABLECOIN",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 21,
       "category": null
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "DATA",
-      "count": 19,
+      "count": 18,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "STRIVE",
       "count": 11,
       "category": null
     },
     {
-      "word": "INVESTORS",
+      "word": "PLANS",
       "count": 11,
       "category": null
     }
