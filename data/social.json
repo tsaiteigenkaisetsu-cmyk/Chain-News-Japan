@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T21:49:38.606Z",
+  "updated_at": "2026-10-27T21:59:37.223Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
-      "hype_score": 8,
+      "news_count_24h": 95,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 51,
+      "news_count_24h": 52,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -41,10 +41,10 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 300,
+      "hype_score": 400,
       "buzz_rank": 14
     },
     {
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
@@ -211,17 +211,17 @@
     },
     {
       "word": "STOCK",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "RIPPLE",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -240,6 +240,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 27,
       "category": "価格"
@@ -251,11 +256,6 @@
     },
     {
       "word": "DATA",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 25,
       "category": null
     },
@@ -280,22 +280,22 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 20,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
       "count": 19,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "ORACLE",
       "count": 16,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "WARNS",
       "count": 16,
       "category": null
     }
