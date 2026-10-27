@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:53:11.590Z",
+  "updated_at": "2026-10-27T15:59:32.351Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 86,
+      "news_count_24h": 87,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -115,8 +115,8 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 10,
+      "hype_score": 10,
       "buzz_rank": 8
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
@@ -196,7 +196,12 @@
     },
     {
       "word": "IPO",
-      "count": 40,
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 31,
       "category": null
     },
     {
@@ -210,7 +215,7 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "STABLECOIN",
       "count": 30,
       "category": null
     },
@@ -222,11 +227,6 @@
     {
       "word": "BILLION",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 29,
       "category": null
     },
     {
@@ -245,17 +245,12 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "TREASURY",
       "count": 21,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WALLET",
       "count": 20,
       "category": null
     },
@@ -267,6 +262,16 @@
     {
       "word": "REVENUE",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 17,
       "category": null
     },
     {
@@ -286,11 +291,6 @@
     },
     {
       "word": "AMID",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 16,
       "category": null
     },
