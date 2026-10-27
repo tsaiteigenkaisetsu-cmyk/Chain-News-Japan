@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:10:01.900Z",
+  "updated_at": "2026-10-27T12:40:19.922Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 92,
+      "news_count_24h": 87,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
+      "news_count_24h": 39,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -43,8 +43,8 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 33,
+      "news_count_24h": 5,
+      "hype_score": 40,
       "buzz_rank": 10
     },
     {
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 150,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "chainlink",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 44,
+      "count": 45,
       "category": null
     },
     {
@@ -215,14 +215,19 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "PRICE",
       "count": 26,
-      "category": "相場"
+      "category": "価格"
     },
     {
       "word": "RIPPLE",
-      "count": 25,
+      "count": 26,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
     },
     {
       "word": "SOLANA",
@@ -233,11 +238,6 @@
       "word": "STOCK",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 25,
-      "category": "価格"
     },
     {
       "word": "DATA",
@@ -260,13 +260,13 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "HIT",
       "count": 18,
       "category": null
     },
     {
-      "word": "HIT",
-      "count": 17,
+      "word": "WALLET",
+      "count": 18,
       "category": null
     },
     {
@@ -285,11 +285,6 @@
       "category": null
     },
     {
-      "word": "KEY",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "HOLDERS",
       "count": 15,
       "category": null
@@ -297,6 +292,16 @@
     {
       "word": "REVENUE",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "KEY",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "BUYING",
+      "count": 14,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "ZCASH",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
       "count": 13,
       "category": null
     }
