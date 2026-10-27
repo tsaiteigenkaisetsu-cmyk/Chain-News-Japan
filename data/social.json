@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T15:24:53.780Z",
+  "updated_at": "2026-10-27T15:38:21.126Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 33,
+      "news_count_24h": 19,
+      "hype_score": 37,
       "buzz_rank": 4
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 43,
+      "news_count_24h": 42,
       "hype_score": 2,
       "buzz_rank": 2
     },
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 56,
+      "count": 57,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 29,
       "category": null
@@ -227,11 +232,6 @@
     {
       "word": "SOLANA",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 27,
       "category": null
     },
     {
@@ -261,12 +261,12 @@
     },
     {
       "word": "REVENUE",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "AHEAD",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
