@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T02:31:50.260Z",
+  "updated_at": "2026-10-27T02:52:04.310Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 93,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,16 +16,16 @@
       "symbol": "ETH",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 26,
-      "buzz_rank": 3
+      "news_count_24h": 17,
+      "hype_score": 29,
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 31,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -36,7 +36,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 19,
       "hype_score": 37,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 25,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
       "count": 25,
       "category": "価格"
@@ -213,11 +218,6 @@
       "word": "TOKENIZED",
       "count": 24,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 24,
-      "category": "相場"
     },
     {
       "word": "STABLECOIN",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 12,
+      "word": "PLANS",
+      "count": 11,
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "INVESTORS",
       "count": 11,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
