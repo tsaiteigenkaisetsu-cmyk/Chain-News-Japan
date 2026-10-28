@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:40:11.677Z",
+  "updated_at": "2026-10-28T13:50:04.730Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 27,
+      "news_count_24h": 23,
+      "hype_score": 26,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 50,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 25,
+      "news_count_24h": 15,
+      "hype_score": 27,
       "buzz_rank": 4
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -167,10 +167,10 @@
     {
       "coin_id": "staked-ether",
       "symbol": "STETH",
-      "reddit_posts_24h": 1,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 100,
+      "hype_score": 0,
       "buzz_rank": 19
     },
     {
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 66,
+      "count": 63,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 48,
+      "word": "STOCK",
+      "count": 47,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 46,
+      "word": "IPO",
+      "count": 47,
       "category": null
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "word": "REVENUE",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 29,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 29,
       "category": null
@@ -253,11 +258,6 @@
       "word": "PRICE",
       "count": 28,
       "category": "価格"
-    },
-    {
-      "word": "TRADING",
-      "count": 28,
-      "category": null
     },
     {
       "word": "COINBASE",
@@ -270,17 +270,17 @@
       "category": null
     },
     {
+      "word": "RLUSD",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 27,
       "category": null
     },
     {
       "word": "CFTC",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "RLUSD",
       "count": 26,
       "category": null
     },
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "PREDICTION",
       "count": 19,
       "category": null
     },
     {
-      "word": "PREDICTION",
-      "count": 19,
+      "word": "MARKETS",
+      "count": 18,
       "category": null
     }
   ],
