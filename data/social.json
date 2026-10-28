@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-28T04:59:59.727Z",
+  "updated_at": "2026-10-28T05:17:10.334Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
-      "hype_score": 9,
+      "news_count_24h": 95,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 7
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -265,17 +265,17 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 23,
       "category": null
     },
     {
       "word": "AHEAD",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WALLET",
       "count": 22,
       "category": null
     },
@@ -288,6 +288,11 @@
       "word": "TRADING",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "APPROVAL",
+      "count": 20,
+      "category": "ETF"
     },
     {
       "word": "SHARES",
@@ -305,9 +310,14 @@
       "category": null
     },
     {
-      "word": "APPROVAL",
-      "count": 19,
-      "category": "ETF"
+      "word": "RLUSD",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHAT",
+      "count": 18,
+      "category": null
     },
     {
       "word": "OPENAI",
@@ -323,16 +333,6 @@
       "word": "WHY",
       "count": 18,
       "category": null
-    },
-    {
-      "word": "RAISES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "NEXT",
-      "count": 18,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
