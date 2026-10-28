@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:15:54.187Z",
+  "updated_at": "2026-10-28T22:23:33.576Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
-      "hype_score": 50,
+      "hype_score": 75,
       "buzz_rank": 10
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -221,18 +221,18 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "PRICE",
       "count": 37,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "IPO",
       "count": 37,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
     },
     {
       "word": "ROBINHOOD",
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 21,
       "category": null
@@ -322,11 +327,6 @@
     {
       "word": "WHAT",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
-      "count": 20,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
