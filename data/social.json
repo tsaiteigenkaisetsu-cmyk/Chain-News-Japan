@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:31:01.455Z",
+  "updated_at": "2026-10-28T11:39:47.219Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 110,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
+      "news_count_24h": 19,
+      "hype_score": 26,
       "buzz_rank": 4
     },
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
+      "news_count_24h": 8,
+      "hype_score": 13,
       "buzz_rank": 6
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -191,12 +191,12 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 75,
+      "count": 73,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 50,
+      "count": 48,
       "category": null
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "word": "RIPPLE",
-      "count": 45,
+      "count": 43,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 43,
+      "count": 41,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 39,
+      "word": "STABLECOIN",
+      "count": 38,
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 38,
+      "word": "TOKENIZED",
+      "count": 37,
       "category": null
     },
     {
@@ -255,14 +255,14 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 28,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 28,
       "category": "価格"
+    },
+    {
+      "word": "BANK",
+      "count": 27,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -281,7 +281,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -295,13 +295,13 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "AGENTS",
       "count": 22,
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 22,
+      "word": "LAUNCHES",
+      "count": 21,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
