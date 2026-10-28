@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:50:11.927Z",
+  "updated_at": "2026-10-28T16:59:40.970Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
+      "news_count_24h": 98,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 30,
+      "news_count_24h": 19,
+      "hype_score": 32,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 45,
       "hype_score": 4,
       "buzz_rank": 2
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
-      "hype_score": 25,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 71,
+      "count": 70,
       "category": null
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "RIPPLE",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 47,
+      "count": 48,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -225,18 +225,23 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 34,
+      "category": "価格"
+    },
+    {
       "word": "TRADING",
       "count": 33,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 33,
-      "category": "価格"
+      "word": "ROBINHOOD",
+      "count": 32,
+      "category": null
     },
     {
       "word": "BILLION",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -245,13 +250,13 @@
       "category": null
     },
     {
-      "word": "ROBINHOOD",
-      "count": 31,
+      "word": "DATA",
+      "count": 30,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 30,
+      "word": "COINBASE",
+      "count": 28,
       "category": null
     },
     {
@@ -265,16 +270,6 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 26,
       "category": null
@@ -285,13 +280,13 @@
       "category": null
     },
     {
-      "word": "RAISES",
-      "count": 24,
+      "word": "TREASURY",
+      "count": 26,
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 22,
+      "word": "RAISES",
+      "count": 24,
       "category": null
     },
     {
@@ -315,22 +310,27 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "AHEAD",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "APPROVAL",
       "count": 20,
       "category": "ETF"
     },
     {
+      "word": "ADDS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STOCKS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ZCASH",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "AHEAD",
       "count": 19,
       "category": null
     }
