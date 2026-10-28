@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:14:39.876Z",
+  "updated_at": "2026-10-28T21:21:54.632Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 103,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 800,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 700,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 350,
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -201,16 +201,16 @@
     },
     {
       "word": "STOCK",
-      "count": 47,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 40,
+      "count": 46,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "REVENUE",
       "count": 39,
       "category": null
     },
@@ -261,7 +261,7 @@
     },
     {
       "word": "GOOGLE",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 27,
+      "count": 25,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
