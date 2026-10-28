@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:50:01.265Z",
+  "updated_at": "2026-10-28T14:59:40.610Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 94,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 30,
+      "news_count_24h": 21,
+      "hype_score": 29,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
+      "news_count_24h": 49,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 17,
+      "hype_score": 24,
       "buzz_rank": 4
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 14
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "MARKET",
-      "count": 39,
+      "count": 40,
       "category": "相場"
     },
     {
       "word": "TOKENIZED",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -245,6 +245,16 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 30,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 30,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 30,
       "category": "価格"
@@ -252,11 +262,6 @@
     {
       "word": "TREASURY",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 29,
       "category": null
     },
     {
@@ -275,18 +280,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "CFTC",
       "count": 26,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": "ETF"
     },
     {
+      "word": "WALLET",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "ORACLE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CUSTODY",
       "count": 18,
       "category": null
     }
