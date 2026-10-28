@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:29:56.576Z",
+  "updated_at": "2026-10-28T22:39:36.811Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
       "hype_score": 29,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "ripple",
@@ -34,17 +34,17 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 15,
-      "buzz_rank": 4
+      "news_count_24h": 22,
+      "hype_score": 14,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 800,
+      "hype_score": 700,
       "buzz_rank": 13
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 73,
+      "count": 74,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -225,17 +225,12 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 37,
+      "word": "ROBINHOOD",
+      "count": 36,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
-    },
-    {
-      "word": "ROBINHOOD",
+      "word": "IPO",
       "count": 36,
       "category": null
     },
@@ -243,6 +238,11 @@
       "word": "TRADING",
       "count": 36,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 35,
+      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -275,17 +275,17 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "SOLANA",
       "count": 26,
       "category": null
     },
     {
-      "word": "FED",
-      "count": 24,
+      "word": "LAUNCHES",
+      "count": 25,
       "category": null
     },
     {
-      "word": "SOLANA",
+      "word": "FED",
       "count": 24,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
