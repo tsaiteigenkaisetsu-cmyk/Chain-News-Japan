@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:59:40.610Z",
+  "updated_at": "2026-10-28T15:16:43.905Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 93,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 49,
+      "news_count_24h": 46,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 600,
-      "buzz_rank": 13
+      "news_count_24h": 2,
+      "hype_score": 300,
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 500,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 55,
+      "count": 54,
       "category": null
     },
     {
@@ -205,12 +205,17 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 42,
+      "word": "STABLECOIN",
+      "count": 41,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "IPO",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 40,
       "category": null
     },
@@ -220,13 +225,13 @@
       "category": "相場"
     },
     {
-      "word": "TOKENIZED",
-      "count": 38,
+      "word": "BILLION",
+      "count": 36,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 36,
+      "word": "TRADING",
+      "count": 32,
       "category": null
     },
     {
@@ -245,16 +250,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 30,
       "category": "価格"
@@ -262,6 +257,11 @@
     {
       "word": "TREASURY",
       "count": 30,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 29,
       "category": null
     },
     {
@@ -280,18 +280,18 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "CFTC",
       "count": 26,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "RAISES",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": "ETF"
     },
     {
+      "word": "OCC",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "WALLET",
       "count": 18,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ORACLE",
       "count": 18,
       "category": null
     }
