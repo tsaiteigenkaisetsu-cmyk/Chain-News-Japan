@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:22:54.129Z",
+  "updated_at": "2026-10-28T17:29:37.856Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 104,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -41,20 +41,20 @@
     {
       "coin_id": "dogecoin",
       "symbol": "DOGE",
-      "reddit_posts_24h": 7,
+      "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 700,
-      "buzz_rank": 13
+      "hype_score": 800,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 350,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 700,
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -190,18 +190,18 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 55,
-      "category": null
-    },
-    {
       "word": "RIPPLE",
       "count": 54,
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 54,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 35,
+      "category": "価格"
+    },
+    {
       "word": "MARKET",
       "count": 35,
       "category": "相場"
@@ -235,11 +240,6 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 34,
-      "category": "価格"
-    },
-    {
       "word": "REVENUE",
       "count": 33,
       "category": null
@@ -247,6 +247,11 @@
     {
       "word": "BILLION",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 30,
       "category": null
     },
     {
@@ -265,13 +270,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "SOLANA",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "word": "AHEAD",
-      "count": 22,
+      "count": 23,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": "ETF"
     },
     {
-      "word": "ADDS",
+      "word": "CUSTODY",
       "count": 19,
       "category": null
     },
     {
-      "word": "ZCASH",
+      "word": "ADDS",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
