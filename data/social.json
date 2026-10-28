@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T09:18:25.376Z",
+  "updated_at": "2026-10-28T09:30:59.316Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 103,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 46,
+      "news_count_24h": 47,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -196,7 +196,7 @@
     },
     {
       "word": "IPO",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -206,12 +206,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 42,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 40,
+      "count": 43,
       "category": null
     },
     {
@@ -220,13 +215,18 @@
       "category": "相場"
     },
     {
+      "word": "BILLION",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "TOKENIZED",
       "count": 38,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
