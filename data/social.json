@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:29:51.825Z",
+  "updated_at": "2026-10-28T19:39:42.831Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 600,
-      "buzz_rank": 16
+      "buzz_rank": 14
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
@@ -196,7 +196,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 53,
+      "count": 50,
       "category": null
     },
     {
@@ -210,18 +210,18 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 39,
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "TRADING",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "RLUSD",
       "count": 29,
       "category": null
@@ -280,18 +275,13 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "AHEAD",
       "count": 25,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TREASURY",
-      "count": 23,
       "category": null
     },
     {
@@ -301,6 +291,11 @@
     },
     {
       "word": "WHY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TREASURY",
       "count": 22,
       "category": null
     },
@@ -315,9 +310,19 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "APPROVAL",
       "count": 20,
       "category": "ETF"
+    },
+    {
+      "word": "WALLET",
+      "count": 19,
+      "category": null
     },
     {
       "word": "CFTC",
@@ -328,11 +333,6 @@
       "word": "FED",
       "count": 19,
       "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
