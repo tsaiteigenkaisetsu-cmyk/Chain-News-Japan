@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:39:59.056Z",
+  "updated_at": "2026-10-28T17:50:26.186Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 106,
+      "news_count_24h": 107,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -77,10 +77,10 @@
     {
       "coin_id": "polkadot",
       "symbol": "DOT",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 500,
+      "hype_score": 600,
       "buzz_rank": 16
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 72,
+      "count": 73,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 57,
       "category": null
     },
     {
       "word": "RIPPLE",
       "count": 55,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 54,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "IPO",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -220,6 +220,11 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 36,
+      "category": "相場"
+    },
+    {
       "word": "PRICE",
       "count": 36,
       "category": "価格"
@@ -230,9 +235,9 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 35,
-      "category": "相場"
+      "word": "REVENUE",
+      "count": 34,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -240,8 +245,8 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 33,
+      "word": "DATA",
+      "count": 31,
       "category": null
     },
     {
@@ -265,11 +270,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 29,
-      "category": null
-    },
-    {
       "word": "SOLANA",
       "count": 26,
       "category": null
@@ -280,12 +280,12 @@
       "category": null
     },
     {
-      "word": "RAISES",
+      "word": "AHEAD",
       "count": 25,
       "category": null
     },
     {
-      "word": "AHEAD",
+      "word": "RAISES",
       "count": 24,
       "category": null
     },
@@ -300,22 +300,22 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 22,
       "category": null
     },
     {
-      "word": "AGENTS",
-      "count": 21,
+      "word": "WHAT",
+      "count": 20,
       "category": null
     },
     {
       "word": "CFTC",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 20,
       "category": null
     },
@@ -325,12 +325,12 @@
       "category": "ETF"
     },
     {
-      "word": "CUSTODY",
+      "word": "SHARES",
       "count": 19,
       "category": null
     },
     {
-      "word": "ADDS",
+      "word": "CUSTODY",
       "count": 19,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
