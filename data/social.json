@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T17:29:37.856Z",
+  "updated_at": "2026-10-28T17:39:59.056Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
-      "hype_score": 11,
+      "news_count_24h": 106,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 45,
+      "news_count_24h": 46,
       "hype_score": 4,
       "buzz_rank": 2
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -220,14 +220,14 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
+    },
+    {
       "word": "ROBINHOOD",
       "count": 35,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
     },
     {
       "word": "MARKET",
@@ -255,17 +255,17 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "COINBASE",
       "count": 29,
       "category": null
     },
     {
       "word": "RLUSD",
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 29,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "AHEAD",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "TREASURY",
       "count": 24,
       "category": null
@@ -295,22 +300,17 @@
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 22,
       "category": null
     },
     {
       "word": "AGENTS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "CFTC",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
