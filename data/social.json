@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T21:50:02.527Z",
+  "updated_at": "2026-10-28T21:59:45.856Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 103,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
+      "news_count_24h": 42,
       "hype_score": 2,
       "buzz_rank": 2
     },
@@ -220,24 +220,24 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 38,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 38,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "PRICE",
       "count": 37,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "ROBINHOOD",
       "count": 36,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 20,
       "category": null
@@ -328,11 +333,6 @@
       "word": "STOCKS",
       "count": 20,
       "category": null
-    },
-    {
-      "word": "AGENTS",
-      "count": 19,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
