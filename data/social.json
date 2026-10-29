@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:59:33.686Z",
+  "updated_at": "2026-10-29T10:16:48.807Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 99,
+      "news_count_24h": 101,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
+      "news_count_24h": 37,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 67,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tron",
@@ -191,7 +191,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 51,
+      "count": 48,
       "category": null
     },
     {
@@ -210,18 +210,18 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 42,
+      "category": null
+    },
+    {
       "word": "REVENUE",
       "count": 41,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 38,
+      "word": "TRADING",
+      "count": 39,
       "category": null
     },
     {
@@ -230,13 +230,13 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 38,
+      "word": "STABLECOIN",
+      "count": 37,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "RLUSD",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -281,11 +281,6 @@
     },
     {
       "word": "STOCKS",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 24,
       "category": null
     },
@@ -325,6 +320,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 21,
       "category": null
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
