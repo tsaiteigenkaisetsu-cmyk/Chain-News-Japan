@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T09:39:57.127Z",
+  "updated_at": "2026-10-29T09:50:04.175Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "RIPPLE",
-      "count": 52,
+      "count": 51,
       "category": null
     },
     {
@@ -200,23 +200,23 @@
       "category": null
     },
     {
+      "word": "BILLION",
+      "count": 46,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 46,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 45,
+      "word": "REVENUE",
+      "count": 41,
       "category": null
     },
     {
       "word": "TOKENIZED",
       "count": 41,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
-      "count": 40,
       "category": null
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "word": "PRICE",
-      "count": 34,
+      "count": 33,
       "category": "価格"
     },
     {
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "LAUNCHES",
       "count": 25,
       "category": null
@@ -306,6 +301,11 @@
     },
     {
       "word": "AMID",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "WHY",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
