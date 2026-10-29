@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T14:41:49.267Z",
+  "updated_at": "2026-10-29T14:50:29.591Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 17,
+      "news_count_24h": 22,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 16,
+      "news_count_24h": 24,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 150,
-      "buzz_rank": 13
+      "news_count_24h": 1,
+      "hype_score": 300,
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 68,
+      "count": 67,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 49,
+      "count": 50,
       "category": null
     },
     {
@@ -200,12 +200,12 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 46,
+      "word": "BILLION",
+      "count": 45,
       "category": null
     },
     {
-      "word": "BILLION",
+      "word": "ANTHROPIC",
       "count": 45,
       "category": null
     },
@@ -285,6 +285,11 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 24,
       "category": null
@@ -296,11 +301,6 @@
     },
     {
       "word": "TREASURY",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 23,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
