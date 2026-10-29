@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:17:18.854Z",
+  "updated_at": "2026-10-29T13:26:39.876Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 104,
+      "news_count_24h": 103,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 20,
+      "news_count_24h": 21,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 73,
+      "count": 75,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 47,
       "category": null
     },
     {
@@ -197,11 +202,6 @@
     {
       "word": "RIPPLE",
       "count": 46,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 45,
       "category": null
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "GOOGLE",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "COINBASE",
       "count": 34,
       "category": null
@@ -245,19 +250,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 32,
-      "category": "相場"
-    },
-    {
       "word": "PRICE",
-      "count": 32,
+      "count": 33,
       "category": "価格"
     },
     {
-      "word": "GOOGLE",
+      "word": "MARKET",
       "count": 32,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "LAUNCHES",
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 23,
       "category": null
@@ -316,6 +311,11 @@
     },
     {
       "word": "BANK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 22,
       "category": null
     },
