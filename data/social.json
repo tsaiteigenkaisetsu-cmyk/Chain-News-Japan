@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T16:49:53.392Z",
+  "updated_at": "2026-10-29T16:59:38.411Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 14,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
-      "hype_score": 14,
+      "news_count_24h": 96,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -32,10 +32,10 @@
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 4,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
-      "hype_score": 16,
+      "news_count_24h": 26,
+      "hype_score": 35,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 66,
+      "count": 64,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "BILLION",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
       "word": "RIPPLE",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 36,
+      "word": "STABLECOIN",
+      "count": 35,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "GOOGLE",
       "count": 35,
       "category": null
     },
@@ -270,32 +270,27 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 28,
       "category": "相場"
     },
     {
-      "word": "STOCKS",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "RAISES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 25,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "BANK",
       "count": 24,
       "category": null
     },
     {
-      "word": "RLUSD",
+      "word": "WHAT",
       "count": 24,
       "category": null
     },
@@ -305,12 +300,12 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "ADDS",
       "count": 23,
       "category": null
     },
     {
-      "word": "ADDS",
+      "word": "RLUSD",
       "count": 23,
       "category": null
     },
@@ -320,12 +315,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 21,
+      "word": "IPO",
+      "count": 22,
       "category": null
     },
     {
-      "word": "AGENTS",
+      "word": "AMID",
       "count": 21,
       "category": null
     },
@@ -333,6 +328,11 @@
       "word": "WHY",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "SECURITY",
+      "count": 20,
+      "category": "セキュリティ"
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
