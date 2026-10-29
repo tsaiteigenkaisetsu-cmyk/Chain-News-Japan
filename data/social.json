@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T22:30:48.223Z",
+  "updated_at": "2026-10-29T22:39:32.835Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 33,
+      "news_count_24h": 22,
+      "hype_score": 36,
       "buzz_rank": 5
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 200,
+      "hype_score": 700,
       "buzz_rank": 15
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -221,8 +221,13 @@
     },
     {
       "word": "GOOGLE",
-      "count": 37,
+      "count": 38,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 36,
+      "category": "価格"
     },
     {
       "word": "ANTHROPIC",
@@ -235,18 +240,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 35,
-      "category": "価格"
-    },
-    {
       "word": "RIPPLE",
       "count": 35,
       "category": null
     },
     {
       "word": "BINANCE",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -300,6 +300,11 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
       "count": 24,
       "category": null
@@ -307,11 +312,6 @@
     {
       "word": "RAISES",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 23,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
