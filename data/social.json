@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T20:25:55.369Z",
+  "updated_at": "2026-10-29T20:32:23.039Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -95,10 +95,10 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
-      "hype_score": 0,
+      "hype_score": 33,
       "buzz_rank": 9
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 13,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 62,
+      "count": 60,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 50,
+      "count": 49,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
@@ -220,13 +220,13 @@
       "category": null
     },
     {
-      "word": "REVENUE",
+      "word": "DATA",
       "count": 39,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 39,
+      "word": "REVENUE",
+      "count": 37,
       "category": null
     },
     {
@@ -250,14 +250,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
       "word": "SOLANA",
       "count": 30,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 28,
+      "category": "相場"
     },
     {
       "word": "STOCKS",
@@ -290,18 +290,13 @@
       "category": null
     },
     {
+      "word": "USERS",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "ROBINHOOD",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "USERS",
-      "count": 23,
       "category": null
     },
     {
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "ADDS",
+      "word": "WHAT",
       "count": 22,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "IPO",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "ROBINHOOD",
       "count": 22,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
