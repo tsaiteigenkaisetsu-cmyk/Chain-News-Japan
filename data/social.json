@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:39:41.002Z",
+  "updated_at": "2026-10-30T11:49:56.055Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 88,
-      "hype_score": 13,
+      "news_count_24h": 90,
+      "hype_score": 12,
       "buzz_rank": 2
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 25,
       "hype_score": 8,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
-      "hype_score": 19,
-      "buzz_rank": 4
+      "news_count_24h": 25,
+      "hype_score": 20,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
+      "news_count_24h": 11,
+      "hype_score": 27,
       "buzz_rank": 8
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 93,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 92,
+      "count": 94,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 79,
+      "count": 81,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "HACK",
-      "count": 56,
+      "count": 57,
       "category": "セキュリティ"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -285,13 +285,13 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "RAISES",
       "count": 25,
       "category": null
     },
     {
-      "word": "RAISES",
-      "count": 25,
+      "word": "PLANS",
+      "count": 24,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
