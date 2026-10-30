@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T23:19:55.723Z",
+  "updated_at": "2026-10-30T23:29:40.097Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 71,
-      "hype_score": 15,
+      "news_count_24h": 69,
+      "hype_score": 16,
       "buzz_rank": 2
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
-      "hype_score": 14,
+      "news_count_24h": 27,
+      "hype_score": 15,
       "buzz_rank": 3
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 117,
+      "news_count_24h": 115,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -201,7 +201,7 @@
     },
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -260,11 +260,6 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 23,
       "category": null
@@ -273,6 +268,11 @@
       "word": "SECURITY",
       "count": 23,
       "category": "セキュリティ"
+    },
+    {
+      "word": "AMID",
+      "count": 23,
+      "category": null
     },
     {
       "word": "STOCKS",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
