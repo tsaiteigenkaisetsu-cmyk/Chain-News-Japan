@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T16:17:43.222Z",
+  "updated_at": "2026-10-30T16:26:54.147Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 79,
+      "news_count_24h": 81,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -270,6 +270,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "USERS",
       "count": 23,
       "category": null
@@ -310,11 +315,6 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 22,
       "category": null
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "FUNDS",
+      "word": "LAUNCHES",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
