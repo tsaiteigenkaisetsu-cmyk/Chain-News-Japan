@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:59:33.924Z",
+  "updated_at": "2026-10-30T13:16:43.130Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 82,
       "hype_score": 13,
       "buzz_rank": 2
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
-      "hype_score": 19,
+      "news_count_24h": 30,
+      "hype_score": 20,
       "buzz_rank": 3
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 8,
-      "buzz_rank": 5
+      "news_count_24h": 22,
+      "hype_score": 9,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 20,
       "hype_score": 20,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -88,8 +88,8 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
+      "news_count_24h": 18,
+      "hype_score": 6,
       "buzz_rank": 6
     },
     {
@@ -97,22 +97,31 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 8
+      "news_count_24h": 13,
+      "hype_score": 23,
+      "buzz_rank": 7
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
+      "reddit_posts_24h": 0,
+      "reddit_engagement_24h": 0,
+      "news_count_24h": 11,
+      "hype_score": 0,
+      "buzz_rank": 8
+    },
+    {
+      "coin_id": "matic-network",
+      "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
@@ -120,20 +129,11 @@
       "buzz_rank": 9
     },
     {
-      "coin_id": "matic-network",
-      "symbol": "MATIC",
-      "reddit_posts_24h": 0,
-      "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 0,
-      "buzz_rank": 7
-    },
-    {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 99,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -186,47 +186,47 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 99,
+      "count": 100,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 82,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 64,
+      "count": 83,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 63,
+      "count": 65,
       "category": "セキュリティ"
     },
     {
-      "word": "TOKENIZED",
-      "count": 56,
+      "word": "MILLION",
+      "count": 61,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 42,
+      "word": "TOKENIZED",
+      "count": 55,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 41,
       "category": "価格"
     },
     {
-      "word": "STOCK",
-      "count": 40,
+      "word": "TRADING",
+      "count": 41,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 37,
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 38,
       "category": null
     },
     {
@@ -240,22 +240,22 @@
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 32,
-      "category": "相場"
-    },
-    {
       "word": "DATA",
       "count": 32,
       "category": null
     },
     {
       "word": "COINBASE",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
+    },
+    {
+      "word": "REVENUE",
       "count": 31,
       "category": null
     },
@@ -271,16 +271,6 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
       "count": 25,
       "category": null
     },
@@ -290,18 +280,13 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
     {
       "word": "USERS",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "RAISES",
-      "count": 23,
       "category": null
     },
     {
@@ -320,8 +305,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "PLANS",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "RAISES",
+      "count": 22,
       "category": null
     },
     {
@@ -330,7 +320,17 @@
       "category": null
     },
     {
+      "word": "MARKETS",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "STRATEGY",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
       "count": 21,
       "category": null
     }
