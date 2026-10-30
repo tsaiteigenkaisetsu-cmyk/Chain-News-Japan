@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T04:00:02.050Z",
+  "updated_at": "2026-10-30T04:19:04.702Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 96,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 22,
+      "news_count_24h": 28,
+      "hype_score": 21,
       "buzz_rank": 3
     },
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 24,
       "hype_score": 8,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
-      "hype_score": 33,
-      "buzz_rank": 5
+      "news_count_24h": 25,
+      "hype_score": 32,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 42,
+      "news_count_24h": 44,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -185,28 +185,28 @@
   ],
   "trend_words": [
     {
-      "word": "MILLION",
+      "word": "BILLION",
       "count": 66,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 64,
+      "word": "MILLION",
+      "count": 65,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 60,
+      "count": 61,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 45,
+      "count": 46,
       "category": null
     },
     {
       "word": "BINANCE",
-      "count": 43,
+      "count": 45,
       "category": null
     },
     {
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
       "word": "ANTHROPIC",
       "count": 37,
       "category": null
@@ -240,29 +245,24 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
-    },
-    {
       "word": "RIPPLE",
       "count": 36,
       "category": null
     },
     {
       "word": "STABLECOIN",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
+      "word": "MARKET",
       "count": 29,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "PLANS",
@@ -270,9 +270,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
+      "word": "HYPERLIQUID",
       "count": 28,
-      "category": "相場"
+      "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 27,
+      "category": "セキュリティ"
     },
     {
       "word": "LAUNCHES",
@@ -290,17 +295,12 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 26,
+      "word": "STOCKS",
+      "count": 25,
       "category": null
     },
     {
-      "word": "HACK",
-      "count": 25,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "STOCKS",
+      "word": "FED",
       "count": 25,
       "category": null
     },
