@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T07:40:48.784Z",
+  "updated_at": "2026-10-30T07:49:44.596Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,17 +7,17 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
+      "news_count_24h": 93,
       "hype_score": 12,
       "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 7,
       "reddit_engagement_24h": 0,
       "news_count_24h": 29,
-      "hype_score": 28,
+      "hype_score": 24,
       "buzz_rank": 3
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 58,
+      "news_count_24h": 59,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -201,7 +201,7 @@
     },
     {
       "word": "BINANCE",
-      "count": 59,
+      "count": 60,
       "category": null
     },
     {
@@ -225,11 +225,6 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 37,
-      "category": null
-    },
-    {
       "word": "REVENUE",
       "count": 36,
       "category": null
@@ -240,14 +235,19 @@
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "DATA",
       "count": 36,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 34,
+      "count": 35,
       "category": "セキュリティ"
+    },
+    {
+      "word": "COINBASE",
+      "count": 35,
+      "category": null
     },
     {
       "word": "RIPPLE",
@@ -260,18 +260,18 @@
       "category": null
     },
     {
+      "word": "HYPERLIQUID",
+      "count": 31,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 31,
       "category": null
     },
     {
-      "word": "HYPERLIQUID",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "MARKET",
-      "count": 29,
+      "count": 30,
       "category": "相場"
     },
     {
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 21,
+      "word": "MARKETS",
+      "count": 20,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
