@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:27:39.096Z",
+  "updated_at": "2026-10-30T09:35:24.225Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -95,11 +95,11 @@
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 9
+      "news_count_24h": 11,
+      "hype_score": 27,
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 70,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "BINANCE",
-      "count": 68,
+      "count": 71,
       "category": null
     },
     {
@@ -206,13 +206,18 @@
     },
     {
       "word": "TRADING",
-      "count": 48,
+      "count": 47,
       "category": null
     },
     {
       "word": "STOCK",
       "count": 43,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 41,
+      "category": "セキュリティ"
     },
     {
       "word": "GOOGLE",
@@ -225,11 +230,6 @@
       "category": "価格"
     },
     {
-      "word": "HACK",
-      "count": 39,
-      "category": "セキュリティ"
-    },
-    {
       "word": "ANTHROPIC",
       "count": 38,
       "category": null
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 35,
+      "word": "COINBASE",
+      "count": 34,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "DATA",
       "count": 34,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "AGENTS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "FUNDS",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 21,
       "category": null
     }
