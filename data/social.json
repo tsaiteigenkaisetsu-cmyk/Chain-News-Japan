@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T22:12:14.913Z",
+  "updated_at": "2026-10-30T22:19:51.385Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 141,
+      "count": 142,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
@@ -210,14 +210,19 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 33,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 33,
-      "category": null
+      "word": "MARKET",
+      "count": 32,
+      "category": "相場"
     },
     {
       "word": "ANTHROPIC",
@@ -225,13 +230,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 31,
-      "category": "相場"
-    },
-    {
       "word": "HYPERLIQUID",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
