@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-30T16:59:32.967Z",
+  "updated_at": "2026-10-30T17:12:54.445Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 80,
-      "hype_score": 14,
+      "news_count_24h": 79,
+      "hype_score": 15,
       "buzz_rank": 2
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 123,
+      "news_count_24h": 125,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 121,
+      "count": 123,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 90,
+      "count": 93,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 78,
+      "count": 77,
       "category": "セキュリティ"
     },
     {
       "word": "MILLION",
-      "count": 59,
+      "count": 57,
       "category": null
     },
     {
@@ -216,21 +216,21 @@
     },
     {
       "word": "TRADING",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "GOOGLE",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
       "word": "DATA",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
       "count": 32,
       "category": null
     },
@@ -240,17 +240,12 @@
       "category": "相場"
     },
     {
-      "word": "REVENUE",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "HYPERLIQUID",
       "count": 30,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "REVENUE",
       "count": 29,
       "category": null
     },
@@ -260,13 +255,18 @@
       "category": "価格"
     },
     {
-      "word": "SOLANA",
+      "word": "COINBASE",
       "count": 28,
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 27,
+      "category": null
+    },
+    {
       "word": "CEO",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
@@ -295,16 +295,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 22,
       "category": null
@@ -315,7 +305,22 @@
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "USERS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
       "count": 21,
       "category": null
     },
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "WHY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BANK",
+      "word": "HIT",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
