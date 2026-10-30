@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:17:59.022Z",
+  "updated_at": "2026-10-30T09:27:39.096Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 90,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
-      "hype_score": 10,
+      "news_count_24h": 22,
+      "hype_score": 9,
       "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
-      "reddit_posts_24h": 8,
+      "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
       "news_count_24h": 27,
-      "hype_score": 30,
+      "hype_score": 19,
       "buzz_rank": 4
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 65,
+      "news_count_24h": 67,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -190,18 +190,18 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 68,
+      "category": null
+    },
+    {
       "word": "MILLION",
       "count": 66,
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 66,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
-      "count": 62,
+      "count": 63,
       "category": null
     },
     {
@@ -211,28 +211,28 @@
     },
     {
       "word": "STOCK",
-      "count": 42,
+      "count": 43,
+      "category": null
+    },
+    {
+      "word": "GOOGLE",
+      "count": 40,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 40,
       "category": "価格"
     },
     {
-      "word": "GOOGLE",
+      "word": "HACK",
       "count": 39,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "ANTHROPIC",
-      "count": 37,
+      "count": 38,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 37,
-      "category": "セキュリティ"
     },
     {
       "word": "REVENUE",
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 21,
       "category": null
@@ -328,11 +333,6 @@
       "word": "BANK",
       "count": 21,
       "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 21,
-      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
