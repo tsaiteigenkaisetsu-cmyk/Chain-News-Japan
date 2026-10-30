@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T11:49:56.055Z",
+  "updated_at": "2026-10-30T11:59:32.992Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 92,
       "hype_score": 12,
       "buzz_rank": 2
     },
@@ -97,8 +97,8 @@
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 8
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 94,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 94,
+      "count": 95,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
+      "word": "HACK",
+      "count": 58,
+      "category": "セキュリティ"
+    },
+    {
       "word": "TOKENIZED",
       "count": 58,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 57,
-      "category": "セキュリティ"
     },
     {
       "word": "TRADING",
@@ -230,18 +230,23 @@
       "category": null
     },
     {
-      "word": "GOOGLE",
-      "count": 38,
-      "category": null
-    },
-    {
       "word": "REVENUE",
       "count": 37,
       "category": null
     },
     {
+      "word": "GOOGLE",
+      "count": 37,
+      "category": null
+    },
+    {
       "word": "COINBASE",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 32,
       "category": null
     },
     {
@@ -252,11 +257,6 @@
     {
       "word": "HYPERLIQUID",
       "count": 32,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 31,
       "category": null
     },
     {
@@ -271,12 +271,7 @@
     },
     {
       "word": "STABLECOIN",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -285,12 +280,17 @@
       "category": null
     },
     {
-      "word": "RAISES",
+      "word": "LAUNCHES",
       "count": 25,
       "category": null
     },
     {
       "word": "PLANS",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "RAISES",
       "count": 24,
       "category": null
     },
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 23,
-      "category": "セキュリティ"
-    },
-    {
       "word": "MARKETS",
       "count": 23,
       "category": null
@@ -320,12 +315,17 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 23,
-      "category": null
+      "word": "SECURITY",
+      "count": 22,
+      "category": "セキュリティ"
     },
     {
       "word": "WALLET",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 22,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
