@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:17:46.674Z",
+  "updated_at": "2026-10-30T14:27:30.893Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 81,
+      "news_count_24h": 80,
       "hype_score": 15,
       "buzz_rank": 2
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 29,
       "hype_score": 21,
       "buzz_rank": 3
     },
@@ -54,16 +54,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 700,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 6,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 109,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 108,
+      "count": 110,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 84,
+      "count": 85,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 70,
+      "count": 72,
       "category": "セキュリティ"
     },
     {
       "word": "MILLION",
-      "count": 63,
+      "count": 61,
       "category": null
     },
     {
@@ -211,7 +211,7 @@
     },
     {
       "word": "PRICE",
-      "count": 40,
+      "count": 39,
       "category": "価格"
     },
     {
@@ -246,7 +246,7 @@
     },
     {
       "word": "DATA",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -266,7 +266,7 @@
     },
     {
       "word": "STOCKS",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "POLYMARKET",
+      "word": "WHAT",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
