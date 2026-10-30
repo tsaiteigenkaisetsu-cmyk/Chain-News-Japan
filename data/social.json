@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T16:33:57.174Z",
+  "updated_at": "2026-10-30T16:40:14.681Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 22,
+      "news_count_24h": 17,
+      "hype_score": 24,
       "buzz_rank": 5
     },
     {
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 119,
+      "news_count_24h": 121,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 119,
+      "count": 121,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "HACK",
-      "count": 76,
+      "count": 77,
       "category": "セキュリティ"
     },
     {
@@ -270,12 +270,12 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 23,
-      "category": null
+      "word": "SECURITY",
+      "count": 24,
+      "category": "セキュリティ"
     },
     {
-      "word": "USERS",
+      "word": "STOCKS",
       "count": 23,
       "category": null
     },
@@ -290,19 +290,14 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 23,
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 23,
-      "category": "セキュリティ"
+      "word": "USERS",
+      "count": 22,
+      "category": null
     },
     {
       "word": "STABLECOIN",
@@ -311,6 +306,11 @@
     },
     {
       "word": "STRATEGY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "HIT",
       "count": 20,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
