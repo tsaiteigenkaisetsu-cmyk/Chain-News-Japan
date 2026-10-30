@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T10:31:47.428Z",
+  "updated_at": "2026-10-30T10:40:23.760Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 78,
+      "news_count_24h": 80,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 79,
+      "count": 80,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 76,
+      "count": 75,
       "category": null
     },
     {
@@ -205,14 +205,14 @@
       "category": null
     },
     {
+      "word": "HACK",
+      "count": 48,
+      "category": "セキュリティ"
+    },
+    {
       "word": "TRADING",
       "count": 47,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 46,
-      "category": "セキュリティ"
     },
     {
       "word": "STOCK",
@@ -226,7 +226,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "REVENUE",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 26,
+      "category": "セキュリティ"
+    },
+    {
       "word": "LAUNCHES",
       "count": 26,
       "category": null
@@ -298,11 +303,6 @@
       "word": "FED",
       "count": 25,
       "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 25,
-      "category": "セキュリティ"
     },
     {
       "word": "CEO",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
