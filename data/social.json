@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T21:39:33.105Z",
+  "updated_at": "2026-10-30T21:49:53.612Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -88,18 +88,18 @@
       "symbol": "LINK",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 6
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 8
+      "news_count_24h": 13,
+      "hype_score": 23,
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -124,7 +124,7 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 126,
+      "news_count_24h": 125,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -211,7 +211,7 @@
     },
     {
       "word": "STOCK",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -240,14 +240,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "DATA",
       "count": 28,
-      "category": "価格"
+      "category": null
     },
     {
-      "word": "DATA",
+      "word": "PRICE",
       "count": 27,
-      "category": null
+      "category": "価格"
     },
     {
       "word": "CEO",
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 23,
+      "category": "セキュリティ"
+    },
+    {
       "word": "STOCKS",
       "count": 23,
       "category": null
@@ -283,16 +288,6 @@
       "word": "PLANS",
       "count": 23,
       "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 22,
-      "category": "セキュリティ"
     },
     {
       "word": "POLYMARKET",
@@ -310,18 +305,23 @@
       "category": null
     },
     {
+      "word": "STABLECOIN",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
       "word": "STRATEGY",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 18,
       "category": null
     },
     {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
