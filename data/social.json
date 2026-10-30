@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T15:49:51.837Z",
+  "updated_at": "2026-10-30T15:59:28.749Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 115,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 115,
+      "count": 116,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 87,
+      "count": 86,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "MILLION",
-      "count": 60,
+      "count": 59,
       "category": null
     },
     {
@@ -215,13 +215,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "TRADING",
       "count": 38,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 38,
+      "word": "STOCK",
+      "count": 37,
       "category": null
     },
     {
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 30,
       "category": "相場"
+    },
+    {
+      "word": "COINBASE",
+      "count": 30,
+      "category": null
     },
     {
       "word": "HYPERLIQUID",
@@ -280,11 +280,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "MARKETS",
       "count": 23,
       "category": null
@@ -298,6 +293,11 @@
       "word": "SECURITY",
       "count": 23,
       "category": "セキュリティ"
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 22,
+      "category": null
     },
     {
       "word": "STRATEGY",
@@ -320,12 +320,12 @@
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "FUNDS",
       "count": 21,
       "category": null
     },
     {
-      "word": "RIPPLE",
+      "word": "BANK",
       "count": 21,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
