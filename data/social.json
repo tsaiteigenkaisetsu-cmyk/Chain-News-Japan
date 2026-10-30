@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:35:13.096Z",
+  "updated_at": "2026-10-30T14:41:53.439Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 110,
       "hype_score": 2,
       "buzz_rank": 1
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 110,
+      "count": 111,
       "category": null
     },
     {
@@ -196,12 +196,12 @@
     },
     {
       "word": "HACK",
-      "count": 72,
+      "count": 73,
       "category": "セキュリティ"
     },
     {
       "word": "MILLION",
-      "count": 61,
+      "count": 62,
       "category": null
     },
     {
@@ -210,22 +210,22 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 39,
+      "category": null
+    },
+    {
       "word": "PRICE",
       "count": 39,
       "category": "価格"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "STOCK",
-      "count": 38,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 38,
       "category": null
     },
@@ -241,7 +241,7 @@
     },
     {
       "word": "COINBASE",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -255,14 +255,14 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
       "word": "SOLANA",
       "count": 30,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 29,
+      "category": "相場"
     },
     {
       "word": "STOCKS",
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "SECURITY",
       "count": 24,
       "category": "セキュリティ"
@@ -305,12 +300,7 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "RIPPLE",
+      "word": "FED",
       "count": 23,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "LAUNCHES",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "RIPPLE",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 21,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
