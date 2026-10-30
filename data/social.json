@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:49:51.322Z",
+  "updated_at": "2026-10-30T09:59:31.593Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 90,
+      "news_count_24h": 89,
       "hype_score": 13,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 23,
       "hype_score": 9,
       "buzz_rank": 5
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
+      "news_count_24h": 75,
       "hype_score": 3,
       "buzz_rank": 2
     },
@@ -185,18 +185,18 @@
   ],
   "trend_words": [
     {
+      "word": "BINANCE",
+      "count": 76,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 75,
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 74,
-      "category": null
-    },
-    {
       "word": "MILLION",
-      "count": 67,
+      "count": 68,
       "category": null
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 44,
-      "category": null
+      "word": "HACK",
+      "count": 43,
+      "category": "セキュリティ"
     },
     {
-      "word": "HACK",
-      "count": 42,
-      "category": "セキュリティ"
+      "word": "STOCK",
+      "count": 43,
+      "category": null
     },
     {
       "word": "GOOGLE",
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 40,
-      "category": "価格"
-    },
-    {
       "word": "ANTHROPIC",
       "count": 38,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 38,
+      "category": "価格"
     },
     {
       "word": "REVENUE",
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
