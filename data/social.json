@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-31T15:00:32.514Z",
+  "updated_at": "2026-10-31T15:12:35.969Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 12,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 30,
+      "news_count_24h": 39,
+      "hype_score": 26,
       "buzz_rank": 2
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
-      "hype_score": 29,
+      "news_count_24h": 15,
+      "hype_score": 27,
       "buzz_rank": 3
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 300,
-      "buzz_rank": 8
+      "news_count_24h": 1,
+      "hype_score": 600,
+      "buzz_rank": 9
     },
     {
       "coin_id": "dogecoin",
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 3,
+      "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 300,
+      "hype_score": 200,
       "buzz_rank": 14
     },
     {
@@ -133,8 +133,8 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
-      "hype_score": 4,
+      "news_count_24h": 58,
+      "hype_score": 3,
       "buzz_rank": 1
     },
     {
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 163,
+      "count": 165,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 101,
+      "count": 102,
       "category": "セキュリティ"
     },
     {
@@ -210,39 +210,24 @@
       "category": "相場"
     },
     {
-      "word": "STOCK",
-      "count": 30,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
       "count": 29,
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "TRADING",
-      "count": 26,
+      "count": 25,
       "category": null
-    },
-    {
-      "word": "AMID",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SECURITY",
-      "count": 23,
-      "category": "セキュリティ"
     },
     {
       "word": "WHY",
@@ -250,7 +235,17 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "MARKETS",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "HYPERLIQUID",
       "count": 23,
       "category": null
     },
@@ -265,8 +260,13 @@
       "category": null
     },
     {
+      "word": "SECURITY",
+      "count": 21,
+      "category": "セキュリティ"
+    },
+    {
       "word": "DATA",
-      "count": 22,
+      "count": 21,
       "category": null
     },
     {
@@ -278,6 +278,11 @@
       "word": "HIT",
       "count": 21,
       "category": null
+    },
+    {
+      "word": "BREACH",
+      "count": 20,
+      "category": "セキュリティ"
     },
     {
       "word": "FUNDS",
@@ -295,27 +300,17 @@
       "category": null
     },
     {
-      "word": "BREACH",
+      "word": "WALLET",
       "count": 19,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "LOSSES",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "PLANS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "SENATE",
       "count": 17,
       "category": null
     },
@@ -331,6 +326,11 @@
     },
     {
       "word": "RECORD",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SENATE",
       "count": 16,
       "category": null
     }
