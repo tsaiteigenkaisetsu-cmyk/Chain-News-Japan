@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-31T19:20:42.248Z",
+  "updated_at": "2026-10-31T19:29:54.379Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 9,
+      "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
       "news_count_24h": 35,
-      "hype_score": 26,
+      "hype_score": 29,
       "buzz_rank": 2
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "MILLION",
-      "count": 46,
+      "count": 47,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 29,
+      "count": 28,
       "category": "相場"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "FUNDS",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -265,13 +265,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "STOCK",
       "count": 18,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 18,
+      "word": "AMID",
+      "count": 17,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": "セキュリティ"
     },
     {
-      "word": "TRADING",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 15,
       "category": null
@@ -333,6 +328,11 @@
       "word": "TECH",
       "count": 14,
       "category": null
+    },
+    {
+      "word": "TETHER",
+      "count": 14,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
