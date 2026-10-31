@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:20:10.078Z",
+  "updated_at": "2026-10-31T21:30:19.921Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -104,10 +104,10 @@
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 13
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 35,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 163,
+      "count": 160,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 104,
+      "count": 102,
       "category": "セキュリティ"
     },
     {
       "word": "BILLION",
-      "count": 70,
+      "count": 69,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "BREACH",
-      "count": 19,
-      "category": "セキュリティ"
-    },
-    {
       "word": "AMID",
       "count": 18,
       "category": null
@@ -265,14 +260,14 @@
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 16,
+      "word": "BREACH",
+      "count": 18,
       "category": "セキュリティ"
     },
     {
-      "word": "DATA",
+      "word": "SECURITY",
       "count": 16,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "CEO",
@@ -280,12 +275,17 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 16,
+      "word": "DATA",
+      "count": 15,
       "category": null
     },
     {
       "word": "IPO",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WALLET",
       "count": 15,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "TETHER",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 14,
       "category": null
@@ -322,6 +317,11 @@
     {
       "word": "HOW",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "STOLEN",
+      "count": 12,
       "category": null
     },
     {
