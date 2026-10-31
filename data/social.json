@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:29:54.379Z",
+  "updated_at": "2026-10-31T19:40:05.584Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -158,10 +158,10 @@
     {
       "coin_id": "usd-coin",
       "symbol": "USDC",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 18
     },
     {
@@ -210,12 +210,12 @@
       "category": "相場"
     },
     {
-      "word": "ANTHROPIC",
-      "count": 26,
+      "word": "WHY",
+      "count": 25,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ANTHROPIC",
       "count": 25,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
