@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:00:24.453Z",
+  "updated_at": "2026-10-31T23:12:50.150Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 57,
+      "news_count_24h": 9,
+      "hype_score": 44,
       "buzz_rank": 4
     },
     {
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 148,
+      "count": 147,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 98,
+      "count": 97,
       "category": "セキュリティ"
     },
     {
       "word": "BILLION",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -216,23 +216,23 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "HIT",
       "count": 21,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "HIT",
       "count": 20,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "STOCK",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
     },
     {
       "word": "LOSSES",
@@ -271,13 +271,8 @@
     },
     {
       "word": "SECURITY",
-      "count": 15,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "COINBASE",
       "count": 14,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "DATA",
@@ -291,6 +286,11 @@
     },
     {
       "word": "CEO",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 13,
       "category": null
     },
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
