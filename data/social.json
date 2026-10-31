@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:50:26.285Z",
+  "updated_at": "2026-10-31T17:00:33.697Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 10,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 38,
-      "hype_score": 26,
+      "news_count_24h": 37,
+      "hype_score": 27,
       "buzz_rank": 2
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
-      "hype_score": 31,
+      "news_count_24h": 12,
+      "hype_score": 33,
       "buzz_rank": 3
     },
     {
@@ -50,10 +50,10 @@
     {
       "coin_id": "cardano",
       "symbol": "ADA",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 200,
+      "hype_score": 0,
       "buzz_rank": 14
     },
     {
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 52,
+      "news_count_24h": 51,
       "hype_score": 4,
       "buzz_rank": 1
     },
@@ -196,12 +196,12 @@
     },
     {
       "word": "BILLION",
-      "count": 84,
+      "count": 83,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
@@ -220,11 +220,6 @@
       "category": null
     },
     {
-      "word": "MARKETS",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "BREACH",
       "count": 22,
       "category": "セキュリティ"
@@ -236,6 +231,11 @@
     },
     {
       "word": "STOCK",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 16,
       "category": null
@@ -325,14 +320,19 @@
       "category": null
     },
     {
-      "word": "PLANS",
+      "word": "WHAT",
       "count": 15,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "TOKENIZED",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "EXCHANGE",
+      "count": 14,
+      "category": "取引所"
     }
   ],
   "stats": {
