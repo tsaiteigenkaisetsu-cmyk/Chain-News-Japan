@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-31T12:00:22.680Z",
+  "updated_at": "2026-10-31T12:18:49.944Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 35,
+      "news_count_24h": 39,
+      "hype_score": 33,
       "buzz_rank": 2
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 22,
+      "news_count_24h": 17,
+      "hype_score": 24,
       "buzz_rank": 3
     },
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 5
+      "news_count_24h": 11,
+      "hype_score": 18,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 6,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
-      "hype_score": 120,
+      "news_count_24h": 4,
+      "hype_score": 150,
       "buzz_rank": 7
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -117,23 +117,23 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 13
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 67,
+      "news_count_24h": 66,
       "hype_score": 3,
       "buzz_rank": 1
     },
@@ -191,17 +191,17 @@
     },
     {
       "word": "HACK",
-      "count": 96,
+      "count": 98,
       "category": "セキュリティ"
     },
     {
       "word": "BILLION",
-      "count": 86,
+      "count": 87,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "PRICE",
       "count": 25,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "COINBASE",
+      "word": "DATA",
       "count": 25,
       "category": null
     },
@@ -245,14 +245,14 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "COINBASE",
       "count": 24,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 24,
-      "category": "価格"
+      "word": "WHY",
+      "count": 23,
+      "category": null
     },
     {
       "word": "AMID",
@@ -275,13 +275,13 @@
       "category": "セキュリティ"
     },
     {
-      "word": "PLANS",
+      "word": "POLYMARKET",
       "count": 21,
       "category": null
     },
     {
-      "word": "POLYMARKET",
-      "count": 21,
+      "word": "PLANS",
+      "count": 20,
       "category": null
     },
     {
@@ -296,21 +296,6 @@
     },
     {
       "word": "REVENUE",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BANK",
       "count": 18,
       "category": null
     },
@@ -325,13 +310,28 @@
       "category": "セキュリティ"
     },
     {
-      "word": "STOCKS",
+      "word": "WALLET",
       "count": 18,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "SOLANA",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BANK",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 16,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
