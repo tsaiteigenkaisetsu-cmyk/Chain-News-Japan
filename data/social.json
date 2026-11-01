@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T12:00:42.430Z",
+  "updated_at": "2026-11-01T17:54:14.623Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 37,
-      "hype_score": 30,
+      "news_count_24h": 29,
+      "hype_score": 38,
       "buzz_rank": 2
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 20,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 3
     },
     {
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 18,
+      "news_count_24h": 10,
+      "hype_score": 20,
       "buzz_rank": 4
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 8,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 100,
+      "news_count_24h": 9,
+      "hype_score": 89,
       "buzz_rank": 5
     },
     {
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 4,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 200,
-      "buzz_rank": 10
+      "news_count_24h": 0,
+      "hype_score": 400,
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -124,17 +124,17 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
-      "reddit_posts_24h": 2,
+      "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 41,
-      "hype_score": 5,
+      "news_count_24h": 34,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,22 +186,22 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 102,
+      "count": 82,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 66,
+      "count": 50,
       "category": "セキュリティ"
     },
     {
       "word": "BILLION",
-      "count": 44,
+      "count": 35,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 28,
       "category": null
     },
     {
@@ -210,62 +210,47 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 18,
-      "category": "相場"
-    },
-    {
-      "word": "STOCK",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "WHAT",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "HOW",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 16,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "LOSSES",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "HIT",
-      "count": 14,
+      "count": 16,
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 14,
+      "word": "HOW",
+      "count": 16,
       "category": null
     },
     {
-      "word": "BREACH",
-      "count": 13,
-      "category": "セキュリティ"
+      "word": "MARKET",
+      "count": 14,
+      "category": "相場"
     },
     {
       "word": "WITHDRAWALS",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "NEXT",
       "count": 12,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "LOSSES",
       "count": 12,
       "category": null
     },
@@ -280,27 +265,17 @@
       "category": null
     },
     {
+      "word": "AMID",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "NORTH",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "STOLEN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "ASSETS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "FUNDS",
       "count": 10,
       "category": null
     },
@@ -310,28 +285,53 @@
       "category": null
     },
     {
-      "word": "PROFIT",
-      "count": 10,
+      "word": "ANTHROPIC",
+      "count": 9,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 10,
+      "word": "REVENUE",
+      "count": 9,
       "category": null
     },
     {
-      "word": "YEARS",
-      "count": 10,
+      "word": "TURNS",
+      "count": 9,
       "category": null
     },
     {
-      "word": "SECURITY",
-      "count": 10,
+      "word": "FUNDS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "BREACH",
+      "count": 9,
       "category": "セキュリティ"
     },
     {
-      "word": "TECH",
-      "count": 10,
+      "word": "DATA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PUTS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SPENDING",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 8,
+      "category": "ETF"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 8,
       "category": null
     }
   ],
