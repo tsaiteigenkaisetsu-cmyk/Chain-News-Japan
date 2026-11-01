@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-01T00:00:19.154Z",
+  "updated_at": "2026-11-01T00:42:06.528Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 32,
+      "news_count_24h": 33,
+      "hype_score": 36,
       "buzz_rank": 2
     },
     {
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 36,
+      "news_count_24h": 35,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 143,
+      "count": 141,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 94,
+      "count": 92,
       "category": "セキュリティ"
     },
     {
@@ -230,14 +230,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 19,
-      "category": "価格"
-    },
-    {
       "word": "LOSSES",
       "count": 19,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 18,
+      "category": "価格"
     },
     {
       "word": "AMID",
@@ -266,22 +266,12 @@
     },
     {
       "word": "MARKETS",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 14,
       "category": null
     },
     {
       "word": "TECH",
       "count": 14,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 13,
       "category": null
     },
     {
@@ -300,6 +290,11 @@
       "category": "セキュリティ"
     },
     {
+      "word": "DATA",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "HOW",
       "count": 13,
       "category": null
@@ -310,17 +305,12 @@
       "category": null
     },
     {
-      "word": "ASSETS",
+      "word": "CEO",
       "count": 12,
       "category": null
     },
     {
       "word": "TRUMP",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
       "count": 12,
       "category": null
     },
@@ -332,6 +322,16 @@
     {
       "word": "SHARES",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "PROFIT",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SPACEX",
+      "count": 11,
       "category": null
     }
   ],
