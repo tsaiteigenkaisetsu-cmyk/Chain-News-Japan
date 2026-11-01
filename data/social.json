@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T01:30:30.082Z",
+  "updated_at": "2026-11-01T01:42:47.611Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,9 +7,9 @@
       "symbol": "BTC",
       "reddit_posts_24h": 12,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 38,
-      "buzz_rank": 1
+      "news_count_24h": 31,
+      "hype_score": 39,
+      "buzz_rank": 2
     },
     {
       "coin_id": "ethereum",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 32,
       "hype_score": 6,
-      "buzz_rank": 2
+      "buzz_rank": 1
     },
     {
       "coin_id": "tron",
@@ -310,11 +310,6 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "REPORT",
       "count": 12,
       "category": null
@@ -333,6 +328,11 @@
       "word": "SPACEX",
       "count": 11,
       "category": null
+    },
+    {
+      "word": "STOLEN",
+      "count": 11,
+      "category": null
     }
   ],
   "stats": {
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
