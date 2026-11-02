@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-02T00:55:47.583Z",
+  "updated_at": "2026-11-02T06:59:59.847Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 13,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 41,
-      "buzz_rank": 2
+      "news_count_24h": 43,
+      "hype_score": 26,
+      "buzz_rank": 1
     },
     {
       "coin_id": "ethereum",
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 3
     },
     {
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 20,
-      "buzz_rank": 5
+      "news_count_24h": 12,
+      "hype_score": 17,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 45,
-      "buzz_rank": 4
+      "news_count_24h": 9,
+      "hype_score": 56,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 400,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -90,16 +90,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 9
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "litecoin",
@@ -115,27 +115,27 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 16
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
-      "hype_score": 8,
-      "buzz_rank": 1
+      "news_count_24h": 41,
+      "hype_score": 7,
+      "buzz_rank": 2
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,22 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 41,
+      "count": 42,
       "category": "セキュリティ"
     },
     {
       "word": "BILLION",
-      "count": 31,
+      "count": 35,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "WHAT",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "WITHDRAWALS",
-      "count": 17,
+      "count": 22,
       "category": null
     },
     {
@@ -220,33 +210,73 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 16,
-      "category": "相場"
+      "word": "WITHDRAWALS",
+      "count": 17,
+      "category": null
     },
     {
-      "word": "HOW",
-      "count": 15,
+      "word": "WHAT",
+      "count": 17,
       "category": null
     },
     {
       "word": "RECORD",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "HOW",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "MARKET",
       "count": 13,
+      "category": "相場"
+    },
+    {
+      "word": "FBI",
+      "count": 12,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 13,
+      "count": 12,
       "category": null
     },
     {
       "word": "HIT",
-      "count": 13,
+      "count": 11,
       "category": null
     },
     {
-      "word": "NEXT",
-      "count": 11,
+      "word": "ETFS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 10,
+      "category": "DeFi"
+    },
+    {
+      "word": "PRICE",
+      "count": 10,
+      "category": "価格"
+    },
+    {
+      "word": "KOREA",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 10,
       "category": null
     },
     {
@@ -255,12 +285,7 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 10,
-      "category": "価格"
-    },
-    {
-      "word": "FBI",
+      "word": "NEXT",
       "count": 10,
       "category": null
     },
@@ -275,17 +300,7 @@
       "category": null
     },
     {
-      "word": "LOSSES",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ELECTION",
+      "word": "OUTFLOWS",
       "count": 9,
       "category": null
     },
@@ -295,43 +310,28 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "MONEY",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 8,
-      "category": "ETF"
-    },
-    {
-      "word": "DEFI",
-      "count": 8,
-      "category": "DeFi"
-    },
-    {
       "word": "TURNS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "ELECTION",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "LOSSES",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "SUPPORT",
       "count": 8,
       "category": null
     },
     {
-      "word": "FUNDS",
+      "word": "WEEK",
       "count": 8,
-      "category": null
-    },
-    {
-      "word": "BREACH",
-      "count": 8,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "TRADERS",
-      "count": 7,
       "category": null
     }
   ],
