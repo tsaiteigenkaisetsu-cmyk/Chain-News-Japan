@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-04T23:57:22.978Z",
+  "updated_at": "2026-11-05T04:43:52.214Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 11,
+      "reddit_posts_24h": 13,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
-      "hype_score": 12,
+      "news_count_24h": 98,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,8 +16,8 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
-      "hype_score": 11,
+      "news_count_24h": 32,
+      "hype_score": 9,
       "buzz_rank": 2
     },
     {
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 50,
-      "buzz_rank": 11
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -186,42 +186,42 @@
   "trend_words": [
     {
       "word": "BINANCE",
-      "count": 73,
+      "count": 70,
+      "category": null
+    },
+    {
+      "word": "MILLION",
+      "count": 58,
       "category": null
     },
     {
       "word": "HACK",
-      "count": 62,
+      "count": 58,
       "category": "セキュリティ"
     },
     {
-      "word": "MILLION",
-      "count": 54,
+      "word": "STOCK",
+      "count": 45,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 39,
+      "count": 42,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 38,
+      "count": 37,
       "category": "価格"
+    },
+    {
+      "word": "DATA",
+      "count": 31,
+      "category": null
     },
     {
       "word": "DEMOCRATS",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 29,
       "category": null
     },
     {
@@ -230,18 +230,28 @@
       "category": "相場"
     },
     {
-      "word": "MIDTERM",
+      "word": "TOKENIZED",
       "count": 27,
       "category": null
     },
     {
       "word": "SWEEP",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 26,
+      "word": "MIDTERM",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "MIDTERMS",
+      "count": 22,
       "category": null
     },
     {
@@ -250,62 +260,47 @@
       "category": null
     },
     {
-      "word": "MIDTERMS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "SEC",
       "count": 20,
       "category": "規制"
     },
     {
-      "word": "TRADING",
+      "word": "ELECTION",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "KOREA",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 19,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ADDS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "DEMOCRATIC",
-      "count": 17,
+      "count": 19,
       "category": null
     },
     {
-      "word": "ELECTION",
-      "count": 17,
+      "word": "TRADING",
+      "count": 19,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "COINBASE",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "KOREA",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "HIT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
@@ -315,22 +310,27 @@
       "category": null
     },
     {
-      "word": "RECOVERY",
+      "word": "WHY",
       "count": 17,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "LAUNCHES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "ADDS",
       "count": 16,
       "category": null
     },
     {
-      "word": "FACES",
+      "word": "REVENUE",
       "count": 16,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "RIPPLE",
       "count": 16,
       "category": null
     }
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 2,
-    "reddit_reused_previous": 18,
+    "reddit_rss_success": 1,
+    "reddit_reused_previous": 19,
     "reddit_mode": "rss"
   }
 }
