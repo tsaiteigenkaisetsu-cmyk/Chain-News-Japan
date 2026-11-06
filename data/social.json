@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T20:18:48.463Z",
+  "updated_at": "2026-11-06T00:59:58.229Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 14,
+      "reddit_posts_24h": 11,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 94,
-      "hype_score": 15,
+      "news_count_24h": 92,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,27 +16,27 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
-      "hype_score": 13,
-      "buzz_rank": 3
+      "news_count_24h": 19,
+      "hype_score": 16,
+      "buzz_rank": 5
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 21,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 31,
-      "buzz_rank": 5
+      "news_count_24h": 20,
+      "hype_score": 25,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 12
+      "news_count_24h": 4,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 25,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,27 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 57,
       "category": null
     },
     {
       "word": "BINANCE",
-      "count": 46,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 40,
+      "count": 44,
       "category": null
     },
     {
       "word": "DEMOCRATS",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
-      "word": "HACK",
+      "word": "STOCK",
       "count": 35,
-      "category": "セキュリティ"
+      "category": null
     },
     {
       "word": "TRUMP",
-      "count": 34,
+      "count": 35,
       "category": null
     },
     {
@@ -220,38 +215,38 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
-      "word": "SWEEP",
+      "word": "DATA",
       "count": 30,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "HACK",
+      "count": 30,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "PRICE",
       "count": 29,
+      "category": "価格"
+    },
+    {
+      "word": "SWEEP",
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
+    },
+    {
+      "word": "STOCKS",
+      "count": 26,
       "category": null
     },
     {
       "word": "ELECTION",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 28,
-      "category": "価格"
-    },
-    {
-      "word": "TAX",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -260,49 +255,49 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 22,
-      "category": "規制"
-    },
-    {
-      "word": "AMID",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MIDTERMS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 20,
+      "word": "TAX",
+      "count": 24,
       "category": null
     },
     {
       "word": "REVENUE",
-      "count": 20,
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 21,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 19,
+      "count": 21,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "CENTER",
       "count": 19,
       "category": null
     },
     {
       "word": "HITS",
-      "count": 18,
+      "count": 19,
       "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 19,
+      "category": "規制"
     },
     {
       "word": "BLOCK",
@@ -310,27 +305,32 @@
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "DEMOCRATIC",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CENTER",
+      "word": "ANTHROPIC",
       "count": 17,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "PROFIT",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 17,
+      "category": "相場"
+    },
+    {
+      "word": "MIDTERMS",
       "count": 17,
       "category": null
     }
