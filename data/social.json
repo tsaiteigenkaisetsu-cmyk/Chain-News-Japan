@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:59:58.229Z",
+  "updated_at": "2026-11-06T07:52:31.575Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,27 +16,27 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
-      "buzz_rank": 5
+      "news_count_24h": 23,
+      "hype_score": 13,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 5,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 25,
-      "buzz_rank": 4
+      "news_count_24h": 19,
+      "hype_score": 26,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -59,10 +59,10 @@
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
-      "reddit_posts_24h": 0,
+      "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
-      "hype_score": 0,
+      "hype_score": 100,
       "buzz_rank": 15
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 50,
-      "buzz_rank": 9
+      "news_count_24h": 3,
+      "hype_score": 67,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 25,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -142,8 +142,8 @@
       "symbol": "TRX",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
+      "news_count_24h": 3,
+      "hype_score": 33,
       "buzz_rank": 11
     },
     {
@@ -191,38 +191,28 @@
     },
     {
       "word": "BINANCE",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "DEMOCRATS",
-      "count": 36,
+      "count": 43,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 35,
+      "count": 37,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 33,
+      "count": 34,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 32,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 30,
+      "count": 31,
       "category": null
-    },
-    {
-      "word": "HACK",
-      "count": 30,
-      "category": "セキュリティ"
     },
     {
       "word": "PRICE",
@@ -230,92 +220,97 @@
       "category": "価格"
     },
     {
-      "word": "SWEEP",
-      "count": 28,
+      "word": "REVENUE",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 27,
+      "category": "セキュリティ"
+    },
+    {
+      "word": "DEMOCRATS",
+      "count": 26,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 26,
+      "count": 25,
       "category": "相場"
     },
     {
-      "word": "STOCKS",
-      "count": 26,
+      "word": "AMID",
+      "count": 24,
       "category": null
     },
     {
       "word": "ELECTION",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "MIDTERM",
       "count": 24,
       "category": null
     },
     {
-      "word": "TAX",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "REVENUE",
+      "word": "SWEEP",
       "count": 23,
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "CENTER",
       "count": 22,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "TRADING",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "MIDTERM",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TAX",
+      "count": 20,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "CENTER",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "SEC",
-      "count": 19,
-      "category": "規制"
-    },
-    {
-      "word": "BLOCK",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 17,
       "category": null
     },
     {
       "word": "PROFIT",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 18,
+      "category": "規制"
+    },
+    {
+      "word": "WHY",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BLOCK",
       "count": 17,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "GAINS",
       "count": 17,
       "category": null
     },
@@ -325,13 +320,18 @@
       "category": null
     },
     {
+      "word": "HITS",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "RALLY",
       "count": 17,
       "category": "相場"
     },
     {
-      "word": "MIDTERMS",
-      "count": 17,
+      "word": "ZCASH",
+      "count": 16,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
