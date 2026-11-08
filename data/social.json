@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-08T06:55:57.208Z",
+  "updated_at": "2026-11-08T13:59:25.117Z",
   "reddit_enabled": true,
   "coins": [
     {
       "coin_id": "bitcoin",
       "symbol": "BTC",
-      "reddit_posts_24h": 5,
+      "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
-      "hype_score": 15,
+      "news_count_24h": 27,
+      "hype_score": 33,
       "buzz_rank": 1
     },
     {
@@ -16,17 +16,17 @@
       "symbol": "ETH",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
-      "buzz_rank": 2
+      "news_count_24h": 10,
+      "hype_score": 30,
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 25,
+      "news_count_24h": 7,
+      "hype_score": 29,
       "buzz_rank": 4
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 400,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "avalanche-2",
@@ -63,16 +63,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 7
     },
     {
       "coin_id": "polkadot",
@@ -88,27 +88,27 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 8
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 9
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "tron",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 24,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 27,
+      "word": "DATA",
+      "count": 23,
       "category": null
     },
     {
@@ -200,12 +200,7 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 22,
-      "category": "相場"
-    },
-    {
-      "word": "STOCK",
+      "word": "BILLION",
       "count": 22,
       "category": null
     },
@@ -216,18 +211,23 @@
     },
     {
       "word": "TREASURY",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 20,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 19,
+      "word": "STOCK",
+      "count": 17,
       "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 15,
+      "category": "相場"
     },
     {
       "word": "MEXC",
@@ -235,43 +235,8 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "OCTOBER",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "ETFS",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "WHAT",
+      "word": "ANTHROPIC",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "OFF",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "REPORT",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "GAINS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "ZCASH",
-      "count": 12,
       "category": null
     },
     {
@@ -280,58 +245,93 @@
       "category": "取引所"
     },
     {
-      "word": "TRADING",
+      "word": "CENTER",
       "count": 12,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "OFF",
       "count": 12,
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "WHAT",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "WALLET",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "WALLETS",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
       "count": 11,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 11,
+      "count": 10,
       "category": null
     },
     {
-      "word": "JOBS",
-      "count": 11,
+      "word": "IPO",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "REPORT",
+      "count": 10,
       "category": null
     },
     {
       "word": "REVENUE",
-      "count": 11,
+      "count": 10,
       "category": null
     },
     {
-      "word": "WALL",
-      "count": 11,
+      "word": "WEEK",
+      "count": 9,
       "category": null
     },
     {
-      "word": "ELECTION",
-      "count": 11,
+      "word": "TOKENIZED",
+      "count": 9,
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 11,
+      "word": "MARKETS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "ALLEGED",
+      "count": 9,
       "category": null
     },
     {
       "word": "CUTS",
-      "count": 11,
+      "count": 9,
       "category": null
     },
     {
-      "word": "HACKERS",
-      "count": 11,
+      "word": "USERS",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "OCTOBER",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "FINANCIAL",
+      "count": 8,
       "category": null
     }
   ],
@@ -340,8 +340,8 @@
     "reddit_failed": 0,
     "news_analyzed": 2000,
     "reddit_json_success": 0,
-    "reddit_rss_success": 1,
-    "reddit_reused_previous": 19,
+    "reddit_rss_success": 2,
+    "reddit_reused_previous": 18,
     "reddit_mode": "rss"
   }
 }
