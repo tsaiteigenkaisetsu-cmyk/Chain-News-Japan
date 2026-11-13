@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:08:28.697Z",
+  "updated_at": "2026-11-13T21:57:39.518Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 11,
+      "news_count_24h": 87,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 20,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 6,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -43,27 +43,27 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 67,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -97,18 +97,18 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
-      "hype_score": 33,
-      "buzz_rank": 12
+      "news_count_24h": 1,
+      "hype_score": 100,
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,7 +142,7 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 78,
+      "count": 81,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 50,
+      "count": 53,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "MILLION",
+      "word": "BILLION",
       "count": 43,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 39,
+      "word": "MILLION",
+      "count": 41,
       "category": null
     },
     {
@@ -216,16 +216,11 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 39,
       "category": "相場"
     },
     {
       "word": "STOCK",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 28,
       "category": null
     },
@@ -236,12 +231,22 @@
     },
     {
       "word": "PRICE",
-      "count": 24,
+      "count": 26,
       "category": "価格"
     },
     {
+      "word": "FALLS",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "AMID",
-      "count": 23,
+      "count": 25,
       "category": null
     },
     {
@@ -250,27 +255,17 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "FALLS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "STABLECOIN",
       "count": 22,
       "category": null
     },
     {
-      "word": "MSCI",
+      "word": "SOLANA",
       "count": 21,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "ANTHROPIC",
       "count": 19,
       "category": null
     },
@@ -280,57 +275,62 @@
       "category": "ETF"
     },
     {
-      "word": "FACES",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "DROPS",
-      "count": 17,
+      "word": "MSCI",
+      "count": 19,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 16,
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 18,
       "category": null
     },
     {
       "word": "BELOW",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 16,
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "FACES",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "SEC",
+      "count": 16,
+      "category": "規制"
+    },
+    {
+      "word": "BINANCE",
       "count": 16,
       "category": null
     },
     {
       "word": "QUANTUM",
-      "count": 16,
+      "count": 15,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SHARES",
+      "word": "WHY",
       "count": 15,
       "category": null
     }
