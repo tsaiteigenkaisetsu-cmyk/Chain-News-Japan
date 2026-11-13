@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/11/13 20:25 JST
-- ソーシャル更新: 2026/11/13 16:59 JST
+- 生成時刻: 2026/11/14 03:43 JST
+- ソーシャル更新: 2026/11/14 01:08 JST
 - 総ニュース件数: 2000件
 - Reddit モード: cached
 
@@ -12,9 +12,9 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース91件 / SNS0
-2位 ETH ニュース48件 / SNS0
-3位 XRP ニュース19件 / SNS0
+1位 BTC ニュース85件 / SNS0
+2位 ETH ニュース28件 / SNS0
+3位 XRP ニュース18件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
 市場の温度感をざっと確認したいときにどうぞ。
@@ -28,10 +28,10 @@ https://chain-news-japan-webappjp.vercel.app
 
 ```text
 【昼の市場テーマ】
-いま強いテーマは NVIDIA / CEO / STOCK。
+いま強いテーマは NVIDIA / CEO / HUANG。
 注目通貨は BTC / ETH / XRP。
 
-現時点では BTC が先頭で、ニュース91件 / SNS0です。
+現時点では BTC が先頭で、ニュース85件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
