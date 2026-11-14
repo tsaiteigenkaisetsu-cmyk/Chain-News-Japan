@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T08:35:07.270Z",
+  "updated_at": "2026-11-14T15:19:37.192Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 11,
+      "news_count_24h": 61,
+      "hype_score": 15,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
-      "hype_score": 10,
+      "news_count_24h": 11,
+      "hype_score": 9,
       "buzz_rank": 3
     },
     {
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 5
+      "news_count_24h": 4,
+      "hype_score": 75,
+      "buzz_rank": 7
     },
     {
       "coin_id": "dogecoin",
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -70,7 +70,7 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 9
     },
@@ -88,16 +88,16 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "uniswap",
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
       "buzz_rank": 10
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,111 +186,86 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 74,
+      "count": 62,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "HUANG",
-      "count": 46,
+      "count": 41,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 41,
+      "count": 38,
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 41,
+      "word": "HUANG",
+      "count": 36,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 33,
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 33,
+      "category": null
+    },
+    {
       "word": "JENSEN",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "FALLS",
-      "count": 24,
+      "count": 28,
       "category": null
     },
     {
       "word": "REVENUE",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
-    },
-    {
-      "word": "BELOW",
-      "count": 22,
       "category": null
     },
     {
       "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BELOW",
       "count": 21,
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "AMID",
       "count": 21,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 21,
+      "word": "FALLS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 19,
+      "category": "価格"
+    },
+    {
+      "word": "IPO",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 17,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 17,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "IPO",
+      "word": "HITS",
       "count": 16,
       "category": null
     },
@@ -300,38 +275,63 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "CFTC",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 15,
       "category": null
     },
     {
-      "word": "DROP",
+      "word": "FACES",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
       "count": 14,
       "category": null
     },
     {
-      "word": "COINBASE",
+      "word": "DOJ",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "CFTC",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WALLET",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STRATEGY",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "KRAKEN",
+      "count": 12,
       "category": null
     }
   ],
