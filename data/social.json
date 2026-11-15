@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T23:14:27.814Z",
+  "updated_at": "2026-11-15T23:24:34.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 47,
+      "news_count_24h": 48,
       "hype_score": 19,
       "buzz_rank": 1
     },
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "avalanche-2",
@@ -196,7 +196,7 @@
     },
     {
       "word": "CEO",
-      "count": 20,
+      "count": 21,
       "category": null
     },
     {
@@ -245,6 +245,11 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 12,
+      "category": "価格"
+    },
+    {
       "word": "MONTH",
       "count": 12,
       "category": null
@@ -253,11 +258,6 @@
       "word": "ETFS",
       "count": 12,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 12,
-      "category": "価格"
     },
     {
       "word": "ANTHROPIC",
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "DROP",
+      "word": "WEEK",
       "count": 7,
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "WITHOUT",
       "count": 7,
       "category": null
     }
