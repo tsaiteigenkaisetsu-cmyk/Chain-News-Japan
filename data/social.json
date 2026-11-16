@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:01:27.407Z",
+  "updated_at": "2026-11-16T08:32:32.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 8,
       "buzz_rank": 3
     },
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "uniswap",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -191,16 +191,16 @@
     },
     {
       "word": "CEO",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 21,
+      "count": 24,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MILLION",
       "count": 21,
       "category": null
     },
@@ -210,27 +210,17 @@
       "category": "相場"
     },
     {
+      "word": "PRICE",
+      "count": 15,
+      "category": "価格"
+    },
+    {
       "word": "BELOW",
       "count": 15,
       "category": null
     },
     {
       "word": "AMID",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 14,
-      "category": "価格"
-    },
-    {
-      "word": "JENSEN",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "HUANG",
       "count": 14,
       "category": null
     },
@@ -240,12 +230,22 @@
       "category": null
     },
     {
+      "word": "FALLS",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "JENSEN",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "BINANCE",
       "count": 13,
       "category": null
     },
     {
-      "word": "FALLS",
+      "word": "HUANG",
       "count": 12,
       "category": null
     },
@@ -256,8 +256,18 @@
     },
     {
       "word": "ANTHROPIC",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 10,
+      "category": "ETF"
     },
     {
       "word": "DATA",
@@ -275,11 +285,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 9,
-      "category": "ETF"
-    },
-    {
       "word": "PREDICTION",
       "count": 9,
       "category": null
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "ETFS",
       "count": 9,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 9,
+      "word": "POWER",
+      "count": 8,
       "category": null
     },
     {
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "WITHOUT",
+      "word": "NEARLY",
       "count": 7,
       "category": null
     },
     {
-      "word": "TOKEN",
+      "word": "CARDANO",
       "count": 7,
       "category": null
     },
     {
       "word": "WALL",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "POWER",
       "count": 7,
       "category": null
     }
