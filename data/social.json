@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:14:43.503Z",
+  "updated_at": "2026-11-16T17:22:48.821Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 100,
+      "news_count_24h": 101,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 31,
+      "news_count_24h": 32,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -210,23 +210,18 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
+    },
+    {
       "word": "BILLION",
       "count": 26,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 25,
-      "category": "相場"
-    },
-    {
       "word": "HUANG",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 20,
       "category": null
     },
     {
@@ -241,6 +236,11 @@
     },
     {
       "word": "AMID",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
       "count": 19,
       "category": null
     },
@@ -270,17 +270,32 @@
       "category": null
     },
     {
+      "word": "VITALIK",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "DROP",
       "count": 13,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "KAVA",
       "count": 12,
       "category": null
     },
     {
-      "word": "VITALIK",
+      "word": "BANK",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "BUTERIN",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 12,
       "category": null
     },
@@ -300,37 +315,22 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "ANTHROPIC",
       "count": 11,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "STABLECOIN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "BUTERIN",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "KAVA",
       "count": 11,
       "category": null
     }
