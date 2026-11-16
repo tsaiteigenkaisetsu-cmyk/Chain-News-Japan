@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T13:04:54.496Z",
+  "updated_at": "2026-11-16T13:35:21.208Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 73,
-      "hype_score": 12,
+      "news_count_24h": 80,
+      "hype_score": 11,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -27,15 +27,15 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 8,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 15,
+      "news_count_24h": 23,
+      "hype_score": 13,
       "buzz_rank": 3
     },
     {
@@ -124,18 +124,18 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 13,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,22 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 26,
       "category": null
     },
     {
@@ -200,23 +210,18 @@
       "category": "価格"
     },
     {
-      "word": "BILLION",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 25,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 23,
+      "count": 22,
       "category": "相場"
     },
     {
-      "word": "SOLANA",
-      "count": 22,
+      "word": "BINANCE",
+      "count": 18,
       "category": null
     },
     {
@@ -225,13 +230,13 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "HUANG",
       "count": 17,
       "category": null
     },
     {
-      "word": "HUANG",
-      "count": 17,
+      "word": "AMID",
+      "count": 16,
       "category": null
     },
     {
@@ -250,13 +255,13 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 15,
+      "word": "WARNS",
+      "count": 14,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 14,
+      "word": "TOKENIZED",
+      "count": 13,
       "category": null
     },
     {
@@ -265,18 +270,13 @@
       "category": null
     },
     {
-      "word": "PREDICTION",
+      "word": "EARNINGS",
       "count": 12,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
-      "count": 11,
+      "word": "PREDICTION",
+      "count": 12,
       "category": null
     },
     {
@@ -300,6 +300,26 @@
       "category": null
     },
     {
+      "word": "LAUNCHES",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "TEST",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "DOWN",
       "count": 10,
       "category": null
@@ -312,26 +332,6 @@
     {
       "word": "BUTERIN",
       "count": 10,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 10,
-      "category": "ETF"
-    },
-    {
-      "word": "MONTH",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 9,
       "category": null
     }
   ],
