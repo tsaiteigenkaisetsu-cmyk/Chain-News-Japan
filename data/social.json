@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:00:32.691Z",
+  "updated_at": "2026-11-16T07:25:10.007Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 56,
+      "news_count_24h": 55,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 16,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
+      "news_count_24h": 12,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 28,
+      "count": 26,
       "category": null
     },
     {
@@ -205,18 +205,13 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 16,
-      "category": null
-    },
-    {
       "word": "MARKET",
       "count": 16,
       "category": "相場"
     },
     {
-      "word": "HUANG",
-      "count": 16,
+      "word": "BELOW",
+      "count": 15,
       "category": null
     },
     {
@@ -235,17 +230,12 @@
       "category": null
     },
     {
+      "word": "HUANG",
+      "count": 14,
+      "category": null
+    },
+    {
       "word": "WARNS",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "FALLS",
       "count": 13,
       "category": null
     },
@@ -255,7 +245,12 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "ANTHROPIC",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "FALLS",
       "count": 12,
       "category": null
     },
@@ -265,19 +260,29 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "IPO",
       "count": 11,
-      "category": null
-    },
-    {
-      "word": "DOWN",
-      "count": 10,
       "category": null
     },
     {
       "word": "DATA",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "HITS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 9,
+      "category": "ETF"
     },
     {
       "word": "PREDICTION",
@@ -290,13 +295,13 @@
       "category": null
     },
     {
-      "word": "MICROSOFT",
+      "word": "ETFS",
       "count": 9,
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 9,
+      "word": "MICROSOFT",
+      "count": 8,
       "category": null
     },
     {
@@ -308,11 +313,6 @@
       "word": "WEEK",
       "count": 8,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 8,
-      "category": "ETF"
     },
     {
       "word": "THREE",
