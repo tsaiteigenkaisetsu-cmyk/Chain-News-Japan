@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T14:18:03.791Z",
+  "updated_at": "2026-11-16T14:43:43.967Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 85,
-      "hype_score": 11,
+      "news_count_24h": 86,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 24,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 16
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "chainlink",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,38 +186,43 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 39,
+      "count": 41,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
       "word": "CEO",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 27,
+      "count": 28,
       "category": "価格"
     },
     {
       "word": "SOLANA",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 22,
+      "count": 23,
       "category": "相場"
+    },
+    {
+      "word": "JENSEN",
+      "count": 20,
+      "category": null
     },
     {
       "word": "HUANG",
@@ -230,7 +235,7 @@
       "category": null
     },
     {
-      "word": "JENSEN",
+      "word": "AMID",
       "count": 18,
       "category": null
     },
@@ -240,13 +245,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "FALLS",
-      "count": 16,
+      "count": 17,
       "category": null
     },
     {
@@ -280,17 +280,17 @@
       "category": null
     },
     {
+      "word": "TEST",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 11,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "KAVA",
       "count": 11,
       "category": null
     },
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "TEST",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "DOWN",
       "count": 10,
       "category": null
@@ -333,6 +328,11 @@
       "word": "BUTERIN",
       "count": 10,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 10,
+      "category": "ETF"
     }
   ],
   "stats": {
