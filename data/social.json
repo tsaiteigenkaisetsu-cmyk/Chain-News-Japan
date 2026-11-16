@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T10:57:44.894Z",
+  "updated_at": "2026-11-16T11:09:09.347Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 66,
-      "hype_score": 14,
+      "news_count_24h": 69,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 4
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 30,
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "BILLION",
+      "count": 26,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 24,
+      "count": 25,
       "category": null
     },
     {
@@ -200,13 +205,8 @@
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 22,
+      "count": 23,
       "category": "価格"
     },
     {
@@ -216,11 +216,16 @@
     },
     {
       "word": "BINANCE",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
       "word": "FALLS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WEEK",
       "count": 15,
       "category": null
     },
@@ -245,18 +250,13 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "SOLANA",
       "count": 13,
       "category": null
     },
     {
       "word": "HUANG",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 12,
       "category": null
     },
     {
@@ -290,7 +290,17 @@
       "category": null
     },
     {
+      "word": "DOWN",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "IPO",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "THREE",
       "count": 10,
       "category": null
     },
@@ -310,7 +320,7 @@
       "category": null
     },
     {
-      "word": "THREE",
+      "word": "KAVA",
       "count": 9,
       "category": null
     },
@@ -321,16 +331,6 @@
     },
     {
       "word": "POWER",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
       "count": 9,
       "category": null
     }
