@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:46:10.992Z",
+  "updated_at": "2026-11-16T13:04:54.496Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 72,
-      "hype_score": 13,
+      "news_count_24h": 73,
+      "hype_score": 12,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 26,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 8,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
+      "news_count_24h": 20,
+      "hype_score": 15,
       "buzz_rank": 3
     },
     {
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "PRICE",
-      "count": 26,
+      "count": 25,
       "category": "価格"
     },
     {
@@ -211,12 +211,17 @@
     },
     {
       "word": "MARKET",
-      "count": 21,
+      "count": 23,
       "category": "相場"
     },
     {
       "word": "SOLANA",
-      "count": 19,
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 17,
       "category": null
     },
     {
@@ -226,22 +231,17 @@
     },
     {
       "word": "HUANG",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "JENSEN",
       "count": 16,
       "category": null
     },
     {
       "word": "BELOW",
       "count": 16,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "JENSEN",
-      "count": 15,
       "category": null
     },
     {
@@ -267,6 +267,11 @@
     {
       "word": "PREDICTION",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 11,
       "category": null
     },
     {
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "TEST",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "MINING",
+      "word": "WHY",
       "count": 9,
       "category": null
     }
