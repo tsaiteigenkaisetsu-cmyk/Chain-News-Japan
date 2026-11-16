@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T06:00:20.875Z",
+  "updated_at": "2026-11-16T06:37:43.427Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 57,
+      "news_count_24h": 56,
       "hype_score": 16,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
-      "buzz_rank": 4
+      "news_count_24h": 8,
+      "hype_score": 38,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -205,6 +205,11 @@
       "category": null
     },
     {
+      "word": "BELOW",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "MARKET",
       "count": 16,
       "category": "相場"
@@ -215,22 +220,12 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 15,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "FALLS",
       "count": 14,
       "category": null
     },
@@ -245,12 +240,12 @@
       "category": null
     },
     {
-      "word": "HITS",
-      "count": 14,
+      "word": "WARNS",
+      "count": 13,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "FALLS",
       "count": 13,
       "category": null
     },
@@ -270,12 +265,12 @@
       "category": null
     },
     {
-      "word": "ETFS",
-      "count": 12,
+      "word": "HITS",
+      "count": 11,
       "category": null
     },
     {
-      "word": "SINCE",
+      "word": "DOWN",
       "count": 10,
       "category": null
     },
@@ -285,18 +280,23 @@
       "category": null
     },
     {
+      "word": "PREDICTION",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "MICROSOFT",
       "count": 9,
       "category": null
     },
     {
-      "word": "DOWN",
+      "word": "ETFS",
       "count": 9,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
-      "count": 8,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 7,
+      "category": null
+    },
+    {
       "word": "TOKEN",
       "count": 7,
       "category": null
     },
     {
       "word": "WALL",
-      "count": 7,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 7,
       "category": null
     }
