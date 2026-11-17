@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T22:00:15.607Z",
+  "updated_at": "2026-11-17T22:14:23.410Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 90,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 40,
-      "hype_score": 8,
+      "news_count_24h": 41,
+      "hype_score": 7,
       "buzz_rank": 2
     },
     {
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -196,8 +196,13 @@
     },
     {
       "word": "SOLANA",
-      "count": 65,
+      "count": 66,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 49,
+      "category": "価格"
     },
     {
       "word": "BILLION",
@@ -205,13 +210,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 48,
-      "category": "価格"
-    },
-    {
       "word": "CEO",
-      "count": 42,
+      "count": 44,
       "category": null
     },
     {
@@ -225,6 +225,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 33,
+      "category": "ETF"
+    },
+    {
       "word": "STOCK",
       "count": 33,
       "category": null
@@ -235,17 +240,12 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "TRADING",
       "count": 32,
-      "category": "ETF"
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 31,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "ANTHROPIC",
       "count": 31,
       "category": null
     },
@@ -276,12 +276,17 @@
     },
     {
       "word": "BINANCE",
-      "count": 24,
+      "count": 23,
       "category": null
     },
     {
       "word": "DATA",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 22,
       "category": null
     },
     {
@@ -305,13 +310,13 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "STOCKS",
       "count": 21,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 21,
+      "word": "LIGHTER",
+      "count": 20,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "AMID",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
       "count": 20,
       "category": null
     }
