@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:40:13.643Z",
+  "updated_at": "2026-11-17T15:50:45.972Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 97,
-      "hype_score": 9,
+      "news_count_24h": 94,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 33,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 34,
       "hype_score": 9,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 86,
+      "count": 85,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
@@ -235,23 +235,18 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 25,
       "category": "ETF"
     },
     {
-      "word": "TRADING",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "JENSEN",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 23,
       "category": null
     },
     {
@@ -260,8 +255,13 @@
       "category": null
     },
     {
-      "word": "WEEK",
+      "word": "BINANCE",
       "count": 21,
+      "category": null
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 20,
       "category": null
     },
     {
@@ -275,17 +275,22 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "WEEK",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 19,
       "category": null
     },
     {
       "word": "EARNINGS",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
       "count": 19,
       "category": null
     },
@@ -305,11 +310,6 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 18,
       "category": null
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "FALLS",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TEST",
       "count": 17,
       "category": null
     },
     {
       "word": "WALLET",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 17,
       "category": null
     }
