@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T13:00:14.734Z",
+  "updated_at": "2026-11-17T13:15:20.699Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 35,
+      "news_count_24h": 34,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -27,14 +27,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 15,
       "hype_score": 7,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 36,
       "hype_score": 8,
       "buzz_rank": 2
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
+      "news_count_24h": 16,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -191,12 +191,12 @@
     },
     {
       "word": "MILLION",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "word": "BILLION",
-      "count": 32,
+      "count": 33,
       "category": null
     },
     {
@@ -235,6 +235,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
       "word": "TOKENIZED",
       "count": 23,
       "category": null
@@ -245,9 +250,9 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 22,
-      "category": "ETF"
+      "word": "TRADING",
+      "count": 21,
+      "category": null
     },
     {
       "word": "AMID",
@@ -260,18 +265,18 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "WEEK",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 19,
       "category": null
     },
     {
       "word": "WHY",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "WEEK",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 17,
       "category": null
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "LIGHTER",
+      "word": "STABLECOIN",
       "count": 16,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "LIGHTER",
       "count": 16,
       "category": null
     }
