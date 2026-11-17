@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:00:22.354Z",
+  "updated_at": "2026-11-17T17:14:48.401Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 96,
+      "news_count_24h": 98,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
-      "hype_score": 9,
+      "news_count_24h": 36,
+      "hype_score": 8,
       "buzz_rank": 2
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "chainlink",
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 18,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 13
     },
     {
       "coin_id": "tether",
@@ -186,32 +186,32 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 93,
+      "count": 96,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 63,
+      "count": 65,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 54,
+      "count": 56,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 44,
       "category": "価格"
     },
     {
       "word": "CEO",
-      "count": 36,
+      "count": 37,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 37,
       "category": "相場"
     },
     {
@@ -220,14 +220,19 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 29,
+      "word": "HUANG",
+      "count": 30,
       "category": null
     },
     {
-      "word": "HUANG",
-      "count": 29,
+      "word": "STOCK",
+      "count": 30,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
     },
     {
       "word": "TOKENIZED",
@@ -235,9 +240,14 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 28,
-      "category": "ETF"
+      "word": "JENSEN",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "EARNINGS",
+      "count": 27,
+      "category": null
     },
     {
       "word": "TRADING",
@@ -245,18 +255,18 @@
       "category": null
     },
     {
-      "word": "JENSEN",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "EARNINGS",
+      "word": "LAUNCHES",
       "count": 25,
       "category": null
     },
     {
-      "word": "LAUNCHES",
-      "count": 24,
+      "word": "DATA",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 22,
       "category": null
     },
     {
@@ -271,16 +281,6 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "DATA",
       "count": 21,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
+      "word": "BELOW",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 18,
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FALLS",
+      "word": "FED",
       "count": 17,
       "category": null
     }
