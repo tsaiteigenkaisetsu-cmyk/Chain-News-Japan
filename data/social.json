@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:30:17.361Z",
+  "updated_at": "2026-11-18T13:40:23.256Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 101,
+      "news_count_24h": 99,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -61,7 +61,7 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
       "buzz_rank": 14
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 128,
+      "count": 131,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
@@ -205,14 +205,14 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 42,
-      "category": "価格"
+      "word": "CEO",
+      "count": 44,
+      "category": null
     },
     {
-      "word": "CEO",
-      "count": 42,
-      "category": null
+      "word": "PRICE",
+      "count": 43,
+      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -231,12 +231,22 @@
     },
     {
       "word": "MARKET",
-      "count": 33,
+      "count": 34,
       "category": "相場"
+    },
+    {
+      "word": "TRADING",
+      "count": 33,
+      "category": null
     },
     {
       "word": "HUANG",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "JENSEN",
+      "count": 31,
       "category": null
     },
     {
@@ -250,11 +260,6 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 31,
-      "category": null
-    },
-    {
       "word": "ETF",
       "count": 31,
       "category": "ETF"
@@ -262,11 +267,6 @@
     {
       "word": "LAUNCHES",
       "count": 30,
-      "category": null
-    },
-    {
-      "word": "JENSEN",
-      "count": 29,
       "category": null
     },
     {
@@ -290,8 +290,8 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 24,
+      "word": "AMID",
+      "count": 23,
       "category": null
     },
     {
@@ -300,8 +300,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 22,
+      "word": "BINANCE",
+      "count": 23,
       "category": null
     },
     {
@@ -320,13 +320,13 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "REVENUE",
       "count": 20,
       "category": null
     },
     {
-      "word": "REVENUE",
-      "count": 19,
+      "word": "WHY",
+      "count": 20,
       "category": null
     },
     {
