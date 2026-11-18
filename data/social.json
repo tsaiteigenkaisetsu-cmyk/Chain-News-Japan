@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:00:10.015Z",
+  "updated_at": "2026-11-18T16:15:40.689Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 33,
+      "news_count_24h": 35,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -61,9 +61,9 @@
       "symbol": "AVAX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "shiba-inu",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 131,
+      "count": 129,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 80,
+      "count": 77,
       "category": null
     },
     {
@@ -201,17 +201,12 @@
     },
     {
       "word": "SOLANA",
-      "count": 50,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 42,
+      "count": 49,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 42,
+      "count": 43,
       "category": null
     },
     {
@@ -220,23 +215,28 @@
       "category": "価格"
     },
     {
+      "word": "STOCK",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 40,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 37,
+      "count": 39,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
     },
     {
       "word": "BANK",
       "count": 34,
+      "category": null
+    },
+    {
+      "word": "IPO",
+      "count": 33,
       "category": null
     },
     {
@@ -245,9 +245,9 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "MARKET",
       "count": 33,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "ETF",
@@ -261,7 +261,7 @@
     },
     {
       "word": "HUANG",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -271,12 +271,12 @@
     },
     {
       "word": "JENSEN",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
       "word": "STOCKS",
-      "count": 27,
+      "count": 26,
       "category": null
     },
     {
@@ -285,27 +285,17 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "BINANCE",
-      "count": 25,
+      "count": 24,
       "category": null
     },
     {
       "word": "OPENAI",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "DATA",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "WARNS",
       "count": 23,
       "category": null
     },
@@ -315,8 +305,23 @@
       "category": null
     },
     {
+      "word": "DATA",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "CHIP",
-      "count": 21,
+      "count": 20,
       "category": null
     },
     {
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 19,
-      "category": null
-    },
-    {
-      "word": "LAUNCH",
+      "word": "RAISES",
       "count": 19,
       "category": null
     }
