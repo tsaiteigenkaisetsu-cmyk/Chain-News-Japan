@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T08:50:30.014Z",
+  "updated_at": "2026-11-19T09:00:33.864Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -226,12 +226,17 @@
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 35,
       "category": "価格"
     },
     {
       "word": "TRADING",
       "count": 35,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 33,
       "category": null
     },
     {
@@ -242,11 +247,6 @@
     {
       "word": "BINANCE",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 32,
       "category": null
     },
     {
@@ -320,11 +320,6 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "WHY",
       "count": 20,
       "category": null
@@ -332,6 +327,11 @@
     {
       "word": "RATE",
       "count": 20,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
+      "count": 19,
       "category": null
     }
   ],
