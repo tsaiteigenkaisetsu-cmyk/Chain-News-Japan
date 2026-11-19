@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T00:00:10.712Z",
+  "updated_at": "2026-11-19T00:36:16.485Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -25,17 +25,17 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
-      "buzz_rank": 3
+      "news_count_24h": 18,
+      "hype_score": 6,
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
-      "hype_score": 19,
+      "news_count_24h": 15,
+      "hype_score": 20,
       "buzz_rank": 5
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 19,
       "hype_score": 0,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 100,
+      "count": 101,
       "category": null
     },
     {
@@ -206,26 +206,26 @@
     },
     {
       "word": "SOLANA",
-      "count": 44,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 41,
+      "count": 43,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 41,
+      "count": 42,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 37,
+      "word": "CEO",
+      "count": 42,
       "category": null
     },
     {
       "word": "TRADING",
+      "count": 38,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 37,
       "category": null
     },
@@ -240,9 +240,9 @@
       "category": "ETF"
     },
     {
-      "word": "MARKET",
-      "count": 31,
-      "category": "相場"
+      "word": "BINANCE",
+      "count": 30,
+      "category": null
     },
     {
       "word": "LAUNCHES",
@@ -250,9 +250,9 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "MARKET",
       "count": 29,
-      "category": null
+      "category": "相場"
     },
     {
       "word": "BANK",
@@ -260,13 +260,18 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "HUANG",
       "count": 28,
       "category": null
     },
     {
-      "word": "HUANG",
+      "word": "OPENAI",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "JENSEN",
+      "count": 26,
       "category": null
     },
     {
@@ -277,11 +282,6 @@
     {
       "word": "EARNINGS",
       "count": 26,
-      "category": null
-    },
-    {
-      "word": "JENSEN",
-      "count": 25,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "RAISES",
       "count": 20,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "BELOW",
       "count": 20,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 19,
       "category": null
     }
   ],
