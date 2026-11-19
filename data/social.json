@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T12:00:25.630Z",
+  "updated_at": "2026-11-19T12:21:00.026Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 13
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 95,
+      "count": 96,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 73,
+      "count": 72,
       "category": null
     },
     {
@@ -201,17 +201,17 @@
     },
     {
       "word": "BILLION",
-      "count": 55,
+      "count": 54,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 47,
       "category": null
     },
     {
       "word": "IPO",
       "count": 47,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 46,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 37,
       "category": "価格"
     },
     {
@@ -245,9 +245,9 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
+      "word": "BANK",
+      "count": 29,
+      "category": null
     },
     {
       "word": "BINANCE",
@@ -255,13 +255,18 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 27,
-      "category": null
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
     },
     {
       "word": "HUANG",
-      "count": 27,
+      "count": 28,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 26,
       "category": null
     },
     {
@@ -270,17 +275,12 @@
       "category": "相場"
     },
     {
-      "word": "AMID",
+      "word": "FED",
       "count": 25,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
+      "word": "JENSEN",
       "count": 25,
       "category": null
     },
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "FED",
+      "word": "WARNS",
       "count": 24,
       "category": null
     },
@@ -305,7 +305,7 @@
       "category": null
     },
     {
-      "word": "JENSEN",
+      "word": "OPENAI",
       "count": 24,
       "category": null
     },
@@ -316,7 +316,7 @@
     },
     {
       "word": "RATE",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -325,12 +325,12 @@
       "category": null
     },
     {
-      "word": "TREASURY",
+      "word": "BELOW",
       "count": 20,
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "TREASURY",
       "count": 20,
       "category": null
     }
