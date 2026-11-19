@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T07:00:23.853Z",
+  "updated_at": "2026-11-19T07:17:04.112Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
-      "hype_score": 8,
+      "news_count_24h": 105,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
+      "news_count_24h": 30,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 15
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 100,
+      "count": 99,
       "category": null
     },
     {
@@ -225,14 +225,14 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 35,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 35,
       "category": "価格"
+    },
+    {
+      "word": "TRADING",
+      "count": 35,
+      "category": null
     },
     {
       "word": "BINANCE",
@@ -270,11 +270,6 @@
       "category": "相場"
     },
     {
-      "word": "EARNINGS",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "OPENAI",
       "count": 27,
       "category": null
@@ -286,6 +281,11 @@
     },
     {
       "word": "DATA",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "EARNINGS",
       "count": 26,
       "category": null
     },
@@ -325,13 +325,13 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "LEDGER",
       "count": 20,
       "category": null
     },
     {
-      "word": "LEDGER",
-      "count": 20,
+      "word": "STABLECOIN",
+      "count": 19,
       "category": null
     }
   ],
