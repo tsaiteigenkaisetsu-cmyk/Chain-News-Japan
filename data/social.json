@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:00:18.510Z",
+  "updated_at": "2026-11-19T13:15:26.654Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 115,
+      "news_count_24h": 112,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 16,
-      "buzz_rank": 4
+      "news_count_24h": 20,
+      "hype_score": 15,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 96,
+      "count": 95,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 74,
+      "count": 73,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 61,
+      "count": 63,
       "category": null
     },
     {
@@ -205,13 +205,13 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 47,
+      "word": "IPO",
+      "count": 49,
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 47,
+      "word": "STOCK",
+      "count": 46,
       "category": null
     },
     {
@@ -225,12 +225,12 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 37,
+      "word": "TOKENIZED",
+      "count": 38,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "TRADING",
       "count": 37,
       "category": null
     },
@@ -241,7 +241,12 @@
     },
     {
       "word": "LAUNCHES",
-      "count": 34,
+      "count": 33,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 30,
       "category": null
     },
     {
@@ -251,11 +256,6 @@
     },
     {
       "word": "BANK",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
       "count": 29,
       "category": null
     },
@@ -270,17 +270,22 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "AMID",
       "count": 26,
       "category": null
     },
     {
+      "word": "HYPERLIQUID",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "AHEAD",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 25,
       "category": null
     },
@@ -295,6 +300,11 @@
       "category": null
     },
     {
+      "word": "EARNINGS",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "DATA",
       "count": 24,
       "category": null
@@ -305,17 +315,7 @@
       "category": null
     },
     {
-      "word": "EARNINGS",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "OPENAI",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
       "count": 23,
       "category": null
     },
@@ -330,7 +330,7 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "MARKETS",
       "count": 21,
       "category": null
     }
