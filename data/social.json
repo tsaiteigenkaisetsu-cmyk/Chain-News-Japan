@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:30:02.232Z",
+  "updated_at": "2026-11-19T19:40:20.162Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 102,
+      "news_count_24h": 103,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,37 +186,37 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 101,
+      "count": 99,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 80,
+      "count": 82,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 69,
+      "count": 70,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "STOCK",
-      "count": 49,
+      "count": 48,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 45,
       "category": "価格"
     },
     {
@@ -251,12 +251,17 @@
     },
     {
       "word": "AMID",
-      "count": 28,
+      "count": 29,
+      "category": null
+    },
+    {
+      "word": "WARNS",
+      "count": 27,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -270,12 +275,12 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "ETF",
       "count": 25,
-      "category": null
+      "category": "ETF"
     },
     {
-      "word": "WARNS",
+      "word": "STABLECOIN",
       "count": 25,
       "category": null
     },
@@ -285,17 +290,22 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 24,
-      "category": "ETF"
-    },
-    {
       "word": "FED",
       "count": 24,
       "category": null
     },
     {
+      "word": "SHARES",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "MARKETS",
       "count": 22,
       "category": null
     },
@@ -305,22 +315,7 @@
       "category": null
     },
     {
-      "word": "AHEAD",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "SHARES",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "WALLET",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "MARKETS",
       "count": 21,
       "category": null
     },
@@ -331,6 +326,11 @@
     },
     {
       "word": "BELOW",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
       "count": 20,
       "category": null
     }
