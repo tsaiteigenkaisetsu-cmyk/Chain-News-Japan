@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:31:39.954Z",
+  "updated_at": "2026-11-19T16:40:25.897Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
-      "hype_score": 8,
+      "news_count_24h": 103,
+      "hype_score": 9,
       "buzz_rank": 1
     },
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "polkadot",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 9
     },
     {
       "coin_id": "litecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 93,
+      "count": 89,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 83,
+      "count": 82,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 69,
+      "count": 68,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "BILLION",
-      "count": 53,
+      "count": 52,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "STOCK",
-      "count": 48,
+      "count": 46,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -235,18 +235,23 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "LAUNCHES",
       "count": 34,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TOKENIZED",
       "count": 33,
       "category": null
     },
     {
       "word": "BINANCE",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "BANK",
+      "count": 31,
       "category": null
     },
     {
@@ -260,18 +265,8 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "WARNS",
       "count": 29,
-      "category": null
-    },
-    {
-      "word": "HUANG",
-      "count": 27,
       "category": null
     },
     {
@@ -281,6 +276,11 @@
     },
     {
       "word": "FED",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "HUANG",
       "count": 26,
       "category": null
     },
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "EARNINGS",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "RATE",
       "count": 21,
       "category": null
     },
     {
       "word": "MARKETS",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 20,
       "category": null
     }
