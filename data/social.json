@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T15:22:51.542Z",
+  "updated_at": "2026-11-19T15:30:28.080Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "polkadot",
@@ -88,9 +88,9 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "uniswap",
@@ -99,16 +99,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "litecoin",
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 14
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "matic-network",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -191,7 +191,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 76,
+      "count": 77,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "IPO",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
@@ -210,24 +210,24 @@
       "category": null
     },
     {
+      "word": "CEO",
+      "count": 49,
+      "category": null
+    },
+    {
       "word": "STOCK",
       "count": 49,
       "category": null
     },
     {
-      "word": "CEO",
-      "count": 48,
-      "category": null
+      "word": "PRICE",
+      "count": 39,
+      "category": "価格"
     },
     {
       "word": "SOLANA",
-      "count": 40,
+      "count": 39,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 38,
-      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -245,12 +245,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 31,
+      "word": "BANK",
+      "count": 32,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "BINANCE",
       "count": 31,
       "category": null
     },
@@ -300,12 +300,17 @@
       "category": null
     },
     {
+      "word": "OPENAI",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
       "count": 24,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "STOCKS",
       "count": 23,
       "category": null
     },
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "OPENAI",
-      "count": 23,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 22,
-      "category": null
-    },
-    {
       "word": "TRUMP",
       "count": 22,
       "category": null
     },
     {
       "word": "WHY",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "DATA",
       "count": 22,
       "category": null
     }
