@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T09:00:10.940Z",
+  "updated_at": "2026-11-20T09:16:38.259Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 89,
+      "news_count_24h": 88,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -25,7 +25,7 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 5,
       "buzz_rank": 4
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 32,
-      "hype_score": 9,
+      "news_count_24h": 31,
+      "hype_score": 10,
       "buzz_rank": 2
     },
     {
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 119,
+      "count": 120,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "NVIDIA",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
@@ -216,12 +216,12 @@
     },
     {
       "word": "PRICE",
-      "count": 43,
+      "count": 42,
       "category": "価格"
     },
     {
       "word": "TRADING",
-      "count": 37,
+      "count": 38,
       "category": null
     },
     {
@@ -235,8 +235,23 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 32,
+      "category": "相場"
+    },
+    {
       "word": "BINANCE",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 30,
+      "category": "ETF"
+    },
+    {
+      "word": "AMID",
+      "count": 30,
       "category": null
     },
     {
@@ -245,28 +260,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
-      "word": "AMID",
-      "count": 29,
-      "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 29,
-      "category": "ETF"
-    },
-    {
       "word": "SOLANA",
       "count": 28,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 26,
       "category": null
     },
     {
@@ -275,17 +270,22 @@
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 25,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 25,
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "HYPERLIQUID",
+      "count": 24,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
       "count": 24,
       "category": null
     },
@@ -297,6 +297,11 @@
     {
       "word": "LAUNCHES",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 21,
       "category": null
     },
     {
@@ -326,11 +331,6 @@
     },
     {
       "word": "WALLET",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "ANTHROPICS",
       "count": 20,
       "category": null
     }
