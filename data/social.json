@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T22:00:12.161Z",
+  "updated_at": "2026-11-20T22:13:23.910Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 28,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 132,
+      "count": 133,
       "category": null
     },
     {
@@ -200,14 +200,14 @@
       "category": null
     },
     {
-      "word": "MILLION",
-      "count": 56,
-      "category": null
-    },
-    {
       "word": "PRICE",
       "count": 55,
       "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 55,
+      "category": null
     },
     {
       "word": "MARKET",
@@ -215,13 +215,18 @@
       "category": "相場"
     },
     {
+      "word": "STOCK",
+      "count": 46,
+      "category": null
+    },
+    {
       "word": "NVIDIA",
       "count": 45,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 44,
+      "word": "TOKENIZED",
+      "count": 41,
       "category": null
     },
     {
@@ -230,13 +235,8 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 39,
-      "category": null
-    },
-    {
       "word": "TRADING",
-      "count": 35,
+      "count": 36,
       "category": null
     },
     {
@@ -250,12 +250,12 @@
       "category": "ETF"
     },
     {
-      "word": "STABLECOIN",
-      "count": 33,
+      "word": "CEO",
+      "count": 32,
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "STABLECOIN",
       "count": 32,
       "category": null
     },
@@ -265,12 +265,12 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 30,
+      "word": "BELOW",
+      "count": 29,
       "category": null
     },
     {
-      "word": "BELOW",
+      "word": "COINBASE",
       "count": 29,
       "category": null
     },
@@ -280,13 +280,13 @@
       "category": null
     },
     {
-      "word": "MARKETS",
+      "word": "WARNS",
       "count": 27,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 27,
+      "word": "MARKETS",
+      "count": 26,
       "category": null
     },
     {
@@ -305,6 +305,11 @@
       "category": null
     },
     {
+      "word": "NASDAQ",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "FALLS",
       "count": 25,
       "category": null
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "PLANS",
       "count": 24,
       "category": null
     },
     {
-      "word": "NASDAQ",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "HYPERLIQUID",
+      "word": "WHY",
       "count": 24,
       "category": null
     }
