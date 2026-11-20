@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T13:39:58.159Z",
+  "updated_at": "2026-11-20T13:50:22.753Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 92,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 16,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 16,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "ANTHROPIC",
-      "count": 124,
+      "count": 126,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 87,
+      "count": 89,
       "category": null
     },
     {
@@ -201,8 +201,13 @@
     },
     {
       "word": "BILLION",
-      "count": 52,
+      "count": 54,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 44,
+      "category": "価格"
     },
     {
       "word": "STOCK",
@@ -210,13 +215,8 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 42,
-      "category": "価格"
-    },
-    {
       "word": "NVIDIA",
-      "count": 39,
+      "count": 38,
       "category": null
     },
     {
@@ -225,12 +225,12 @@
       "category": "相場"
     },
     {
-      "word": "TRADING",
-      "count": 36,
+      "word": "TOKENIZED",
+      "count": 35,
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "TRADING",
       "count": 35,
       "category": null
     },
@@ -251,12 +251,12 @@
     },
     {
       "word": "AMID",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "HYPERLIQUID",
-      "count": 29,
+      "count": 28,
       "category": null
     },
     {
@@ -320,6 +320,11 @@
       "category": null
     },
     {
+      "word": "BELOW",
+      "count": 21,
+      "category": null
+    },
+    {
       "word": "NASDAQ",
       "count": 21,
       "category": null
@@ -327,11 +332,6 @@
     {
       "word": "ANTHROPICS",
       "count": 21,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 20,
       "category": null
     }
   ],
