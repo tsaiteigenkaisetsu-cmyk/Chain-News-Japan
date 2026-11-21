@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:00:19.566Z",
+  "updated_at": "2026-11-21T00:34:52.233Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 107,
+      "news_count_24h": 108,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 17,
       "hype_score": 6,
-      "buzz_rank": 4
+      "buzz_rank": 5
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
-      "buzz_rank": 5
+      "news_count_24h": 18,
+      "hype_score": 17,
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -106,7 +106,7 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 100,
       "buzz_rank": 15
     },
@@ -196,8 +196,13 @@
     },
     {
       "word": "BILLION",
-      "count": 68,
+      "count": 67,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 55,
+      "category": "価格"
     },
     {
       "word": "MILLION",
@@ -205,18 +210,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 54,
-      "category": "価格"
-    },
-    {
       "word": "MARKET",
-      "count": 52,
+      "count": 53,
       "category": "相場"
     },
     {
       "word": "NVIDIA",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "STOCK",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "TRADING",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -270,17 +270,12 @@
       "category": null
     },
     {
-      "word": "BINANCE",
-      "count": 27,
+      "word": "SOLANA",
+      "count": 28,
       "category": null
     },
     {
       "word": "USERS",
-      "count": 27,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 27,
       "category": null
     },
@@ -290,8 +285,18 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 26,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "TECH",
+      "count": 25,
       "category": null
     },
     {
@@ -302,6 +307,11 @@
     {
       "word": "WARNS",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "WHY",
+      "count": 24,
       "category": null
     },
     {
@@ -316,16 +326,6 @@
     },
     {
       "word": "NASDAQ",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "TECH",
       "count": 24,
       "category": null
     },
