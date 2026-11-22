@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:40:11.674Z",
+  "updated_at": "2026-11-22T14:50:05.090Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 11
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "uniswap",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "matic-network",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 42,
+      "count": 40,
       "category": "相場"
     },
     {
@@ -210,23 +210,18 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 28,
+      "category": "価格"
+    },
+    {
       "word": "USERS",
       "count": 27,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 27,
-      "category": "価格"
-    },
-    {
       "word": "BELOW",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 20,
       "category": null
     },
     {
@@ -235,8 +230,8 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 19,
+      "word": "STOCK",
+      "count": 20,
       "category": null
     },
     {
@@ -245,7 +240,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "AMID",
       "count": 18,
       "category": null
     },
@@ -255,13 +250,13 @@
       "category": "規制"
     },
     {
-      "word": "FALLS",
+      "word": "TRADING",
       "count": 17,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 16,
+      "word": "FALLS",
+      "count": 17,
       "category": null
     },
     {
@@ -275,17 +270,17 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "WHAT",
       "count": 15,
       "category": null
     },
     {
       "word": "HITS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 15,
       "category": null
     },
@@ -297,6 +292,11 @@
     {
       "word": "SINCE",
       "count": 15,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
+      "count": 14,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 13,
+      "category": null
+    },
+    {
       "word": "WHY",
       "count": 13,
       "category": null
@@ -325,14 +330,9 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 13,
-      "category": null
-    },
-    {
-      "word": "RECORD",
+      "word": "EXCHANGE",
       "count": 12,
-      "category": null
+      "category": "取引所"
     }
   ],
   "stats": {
