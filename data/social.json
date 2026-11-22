@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T18:00:20.633Z",
+  "updated_at": "2026-11-22T18:16:23.367Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 34,
+      "news_count_24h": 35,
       "hype_score": 26,
       "buzz_rank": 1
     },
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BILLION",
-      "count": 33,
+      "count": 32,
       "category": null
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "word": "MARKET",
-      "count": 29,
+      "count": 27,
       "category": "相場"
     },
     {
@@ -205,23 +205,18 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 23,
-      "category": "価格"
-    },
-    {
       "word": "ANTHROPIC",
       "count": 22,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 18,
-      "category": null
+      "word": "PRICE",
+      "count": 21,
+      "category": "価格"
     },
     {
-      "word": "BELOW",
-      "count": 17,
+      "word": "STOCK",
+      "count": 18,
       "category": null
     },
     {
@@ -235,13 +230,28 @@
       "category": "規制"
     },
     {
+      "word": "BELOW",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "IPO",
       "count": 14,
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 13,
+      "word": "AMID",
+      "count": 12,
+      "category": null
+    },
+    {
+      "word": "SINCE",
+      "count": 12,
       "category": null
     },
     {
@@ -256,16 +266,6 @@
     },
     {
       "word": "NASDAQ",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "FACES",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "COINBASE",
       "count": 11,
       "category": null
     },
@@ -285,27 +285,7 @@
       "category": "取引所"
     },
     {
-      "word": "AMID",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "SINCE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "FED",
+      "word": "WHY",
       "count": 10,
       "category": null
     },
@@ -315,7 +295,12 @@
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "FACES",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 10,
       "category": null
     },
@@ -325,12 +310,27 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "CEO",
       "count": 10,
-      "category": "ETF"
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "TECH",
+      "count": 9,
+      "category": null
     },
     {
       "word": "SOLANA",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "FED",
       "count": 9,
       "category": null
     }
