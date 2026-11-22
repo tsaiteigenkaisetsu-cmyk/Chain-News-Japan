@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T12:00:19.488Z",
+  "updated_at": "2026-11-22T12:18:48.972Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 40,
       "hype_score": 23,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 14,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
-      "buzz_rank": 4
+      "news_count_24h": 8,
+      "hype_score": 38,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "uniswap",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 100,
-      "buzz_rank": 11
+      "news_count_24h": 2,
+      "hype_score": 50,
+      "buzz_rank": 10
     },
     {
       "coin_id": "near",
@@ -196,12 +196,12 @@
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 40,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 37,
+      "count": 36,
       "category": null
     },
     {
@@ -250,18 +250,8 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "USDD",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "THEIR",
-      "count": 18,
       "category": null
     },
     {
@@ -273,6 +263,16 @@
       "word": "SEC",
       "count": 18,
       "category": "規制"
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 18,
+      "category": null
+    },
+    {
+      "word": "THEIR",
+      "count": 17,
+      "category": null
     },
     {
       "word": "CEO",
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 15,
-      "category": "ETF"
-    },
-    {
       "word": "ACCESS",
       "count": 15,
       "category": null
@@ -330,8 +325,13 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "ETF",
       "count": 14,
+      "category": "ETF"
+    },
+    {
+      "word": "BINANCE",
+      "count": 13,
       "category": null
     }
   ],
