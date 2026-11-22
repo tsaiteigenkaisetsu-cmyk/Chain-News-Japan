@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:00:10.509Z",
+  "updated_at": "2026-11-22T10:13:30.329Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 44,
-      "hype_score": 20,
+      "news_count_24h": 43,
+      "hype_score": 21,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 33,
+      "news_count_24h": 8,
+      "hype_score": 38,
       "buzz_rank": 3
     },
     {
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 10
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "uniswap",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "BILLION",
-      "count": 52,
+      "count": 53,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 45,
+      "count": 44,
       "category": "相場"
     },
     {
@@ -240,22 +240,17 @@
       "category": null
     },
     {
+      "word": "DROPS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "STOCK",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
       "word": "TRADING",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "DROPS",
       "count": 19,
       "category": null
     },
@@ -265,9 +260,9 @@
       "category": null
     },
     {
-      "word": "SEC",
+      "word": "TOKENIZED",
       "count": 19,
-      "category": "規制"
+      "category": null
     },
     {
       "word": "USDD",
@@ -280,22 +275,17 @@
       "category": null
     },
     {
+      "word": "SEC",
+      "count": 18,
+      "category": "規制"
+    },
+    {
       "word": "CEO",
       "count": 17,
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 17,
-      "category": "ETF"
-    },
-    {
       "word": "THEIR",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "PREDICTION",
       "count": 17,
       "category": null
     },
@@ -305,12 +295,22 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 16,
+      "category": "ETF"
+    },
+    {
       "word": "WHAT",
       "count": 16,
       "category": null
     },
     {
       "word": "FALLS",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "PREDICTION",
       "count": 16,
       "category": null
     },
