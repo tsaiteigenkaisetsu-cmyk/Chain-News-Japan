@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T13:40:20.047Z",
+  "updated_at": "2026-11-22T13:50:08.570Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 17,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
-      "hype_score": 50,
-      "buzz_rank": 4
+      "news_count_24h": 7,
+      "hype_score": 43,
+      "buzz_rank": 3
     },
     {
       "coin_id": "dogecoin",
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 4,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "BILLION",
-      "count": 46,
+      "count": 44,
       "category": null
     },
     {
@@ -201,12 +201,12 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 32,
+      "count": 30,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 31,
+      "count": 30,
       "category": "価格"
     },
     {
@@ -225,13 +225,18 @@
       "category": null
     },
     {
-      "word": "IPO",
-      "count": 23,
+      "word": "STOCK",
+      "count": 21,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 21,
+      "word": "IPO",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 19,
       "category": null
     },
     {
@@ -242,11 +247,6 @@
     {
       "word": "USDD",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 18,
       "category": null
     },
     {
@@ -305,11 +305,6 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "ACCESS",
       "count": 14,
       "category": null
@@ -327,6 +322,11 @@
     {
       "word": "FINANCIAL",
       "count": 14,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 13,
       "category": null
     },
     {
