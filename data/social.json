@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T13:00:12.529Z",
+  "updated_at": "2026-11-23T13:17:05.196Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 77,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 1,
       "hype_score": 300,
-      "buzz_rank": 16
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 40,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
-      "count": 25,
+      "count": 44,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
+      "count": 26,
       "category": null
     },
     {
@@ -220,8 +220,23 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 15,
       "category": null
     },
     {
@@ -230,33 +245,13 @@
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "WEEKLY",
       "count": 14,
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 14,
-      "category": null
-    },
-    {
       "word": "AMID",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 12,
+      "count": 13,
       "category": null
     },
     {
@@ -268,6 +263,11 @@
       "word": "EXCHANGE",
       "count": 12,
       "category": "取引所"
+    },
+    {
+      "word": "SOLANA",
+      "count": 11,
+      "category": null
     },
     {
       "word": "WHAT",
@@ -290,7 +290,7 @@
       "category": null
     },
     {
-      "word": "KRAKEN",
+      "word": "ETFS",
       "count": 10,
       "category": null
     },
@@ -300,37 +300,37 @@
       "category": null
     },
     {
+      "word": "WARNS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "CRASH",
+      "count": 10,
+      "category": "相場"
+    },
+    {
+      "word": "HITS",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "KRAKEN",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "EXCHANGES",
       "count": 10,
       "category": null
     },
     {
+      "word": "WHY",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "TOP",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "WALLETS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "TRADES",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "HITS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "USERS",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "RISK",
       "count": 9,
       "category": null
     }
