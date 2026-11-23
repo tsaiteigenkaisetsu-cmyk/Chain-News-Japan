@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T12:22:03.190Z",
+  "updated_at": "2026-11-23T12:35:18.722Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 74,
+      "news_count_24h": 75,
       "hype_score": 12,
       "buzz_rank": 1
     },
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 7,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,16 +186,16 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 41,
-      "category": null
-    },
-    {
-      "word": "NVIDIA",
-      "count": 24,
+      "count": 40,
       "category": null
     },
     {
       "word": "BILLION",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "NVIDIA",
       "count": 24,
       "category": null
     },
@@ -250,11 +250,6 @@
       "category": null
     },
     {
-      "word": "KRAKEN",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "EXCHANGE",
       "count": 12,
       "category": "取引所"
@@ -265,12 +260,12 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 12,
+      "word": "WHAT",
+      "count": 11,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "KRAKEN",
       "count": 11,
       "category": null
     },
@@ -300,17 +295,17 @@
       "category": null
     },
     {
-      "word": "USERS",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "RISK",
       "count": 10,
       "category": null
     },
     {
       "word": "IPO",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "WARNS",
       "count": 10,
       "category": null
     },
@@ -330,7 +325,12 @@
       "category": null
     },
     {
-      "word": "PRICES",
+      "word": "USERS",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "COINBASE",
       "count": 9,
       "category": null
     }
