@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:32:56.256Z",
+  "updated_at": "2026-11-23T06:54:51.853Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 13,
+      "news_count_24h": 9,
+      "hype_score": 11,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
-      "hype_score": 43,
+      "news_count_24h": 8,
+      "hype_score": 38,
       "buzz_rank": 4
     },
     {
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -230,14 +230,24 @@
       "category": null
     },
     {
+      "word": "KRAKEN",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "WEEK",
       "count": 11,
       "category": null
     },
     {
-      "word": "KRAKEN",
+      "word": "EXPLOIT",
       "count": 10,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "EXCHANGES",
@@ -251,11 +261,6 @@
     },
     {
       "word": "IPO",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 10,
       "category": null
     },
@@ -290,11 +295,6 @@
       "category": null
     },
     {
-      "word": "EXPLOIT",
-      "count": 9,
-      "category": "セキュリティ"
-    },
-    {
       "word": "CHAINFLIP",
       "count": 9,
       "category": null
@@ -302,6 +302,21 @@
     {
       "word": "DATA",
       "count": 9,
+      "category": null
+    },
+    {
+      "word": "BRIDGE",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 8,
+      "category": null
+    },
+    {
+      "word": "WEEKLY",
+      "count": 8,
       "category": null
     },
     {
@@ -316,21 +331,6 @@
     },
     {
       "word": "USERS",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "CHIP",
-      "count": 8,
-      "category": null
-    },
-    {
-      "word": "CYBER",
       "count": 8,
       "category": null
     }
