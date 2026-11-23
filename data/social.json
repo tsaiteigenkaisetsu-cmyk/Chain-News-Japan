@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:20:44.558Z",
+  "updated_at": "2026-11-23T11:30:12.123Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 61,
-      "hype_score": 15,
+      "news_count_24h": 64,
+      "hype_score": 14,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "cardano",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 10
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -133,9 +133,9 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 9
     },
     {
       "coin_id": "tron",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
@@ -206,13 +206,18 @@
     },
     {
       "word": "MARKET",
-      "count": 21,
+      "count": 20,
       "category": "相場"
     },
     {
       "word": "WEEK",
-      "count": 16,
+      "count": 17,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 16,
+      "category": "価格"
     },
     {
       "word": "TRADING",
@@ -223,11 +228,6 @@
       "word": "ANTHROPIC",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "PRICE",
-      "count": 15,
-      "category": "価格"
     },
     {
       "word": "TRUMP",
@@ -245,17 +245,17 @@
       "category": null
     },
     {
+      "word": "WALLET",
+      "count": 12,
+      "category": null
+    },
+    {
       "word": "WEEKLY",
       "count": 12,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "AMID",
       "count": 12,
       "category": null
     },
@@ -270,11 +270,6 @@
       "category": "取引所"
     },
     {
-      "word": "WALLET",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 11,
       "category": null
@@ -282,6 +277,16 @@
     {
       "word": "KRAKEN",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "AMID",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "USERS",
+      "count": 10,
       "category": null
     },
     {
@@ -328,11 +333,6 @@
       "word": "CRASH",
       "count": 9,
       "category": "相場"
-    },
-    {
-      "word": "WHY",
-      "count": 9,
-      "category": null
     }
   ],
   "stats": {
