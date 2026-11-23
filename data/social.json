@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:00:11.860Z",
+  "updated_at": "2026-11-23T08:22:09.688Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 48,
+      "news_count_24h": 47,
       "hype_score": 19,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
-      "hype_score": 11,
-      "buzz_rank": 3
+      "news_count_24h": 11,
+      "hype_score": 9,
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -191,7 +191,7 @@
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 23,
       "category": "相場"
     },
     {
@@ -230,12 +230,12 @@
       "category": null
     },
     {
-      "word": "AMID",
-      "count": 13,
+      "word": "TRADING",
+      "count": 12,
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "AMID",
       "count": 12,
       "category": null
     },
@@ -275,6 +275,11 @@
       "category": null
     },
     {
+      "word": "WEEKLY",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "DROPS",
       "count": 9,
       "category": null
@@ -291,11 +296,6 @@
     },
     {
       "word": "FED",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "DOWN",
       "count": 9,
       "category": null
     },
@@ -330,9 +330,9 @@
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "ETFS",
       "count": 8,
-      "category": "ETF"
+      "category": null
     }
   ],
   "stats": {
