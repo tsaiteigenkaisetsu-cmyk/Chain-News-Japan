@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T17:50:06.951Z",
+  "updated_at": "2026-11-23T18:00:02.089Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 26,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 66,
+      "count": 67,
       "category": null
     },
     {
@@ -201,6 +201,11 @@
     },
     {
       "word": "JENSEN",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "STOCK",
       "count": 31,
       "category": null
     },
@@ -210,13 +215,8 @@
       "category": "相場"
     },
     {
-      "word": "STOCK",
-      "count": 30,
-      "category": null
-    },
-    {
       "word": "HUANG",
-      "count": 28,
+      "count": 30,
       "category": null
     },
     {
@@ -230,18 +230,23 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 25,
+      "category": "価格"
+    },
+    {
       "word": "TRADING",
       "count": 24,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 24,
-      "category": "価格"
-    },
-    {
       "word": "WEEK",
       "count": 22,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 19,
       "category": null
     },
     {
@@ -255,11 +260,6 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "RECORD",
       "count": 17,
       "category": null
@@ -270,14 +270,19 @@
       "category": "相場"
     },
     {
+      "word": "STOCKS",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "SOLANA",
       "count": 15,
       "category": null
     },
     {
-      "word": "STOCKS",
-      "count": 14,
-      "category": null
+      "word": "EXCHANGE",
+      "count": 13,
+      "category": "取引所"
     },
     {
       "word": "REBOUND",
@@ -310,9 +315,9 @@
       "category": null
     },
     {
-      "word": "EXCHANGE",
+      "word": "ETF",
       "count": 12,
-      "category": "取引所"
+      "category": "ETF"
     },
     {
       "word": "REINSTATES",
@@ -328,11 +333,6 @@
       "word": "SHORT",
       "count": 11,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 11,
-      "category": "ETF"
     }
   ],
   "stats": {
