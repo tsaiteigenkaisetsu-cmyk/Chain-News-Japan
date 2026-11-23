@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T16:30:18.130Z",
+  "updated_at": "2026-11-23T16:40:37.235Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 108,
+      "news_count_24h": 110,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
-      "hype_score": 18,
+      "news_count_24h": 18,
+      "hype_score": 17,
       "buzz_rank": 3
     },
     {
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 57,
+      "count": 60,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 52,
+      "count": 51,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 30,
       "category": null
     },
     {
@@ -201,11 +206,11 @@
     },
     {
       "word": "JENSEN",
-      "count": 28,
+      "count": 29,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "BILLION",
       "count": 28,
       "category": null
     },
@@ -216,12 +221,7 @@
     },
     {
       "word": "HUANG",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -246,22 +246,22 @@
     },
     {
       "word": "AMID",
-      "count": 18,
+      "count": 19,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 16,
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 15,
       "category": null
     },
     {
       "word": "TOKENIZED",
       "count": 15,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 14,
       "category": null
     },
     {
@@ -275,8 +275,13 @@
       "category": null
     },
     {
-      "word": "SOLANA",
-      "count": 14,
+      "word": "STRATEGY",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 13,
       "category": null
     },
     {
@@ -285,17 +290,7 @@
       "category": null
     },
     {
-      "word": "RISK",
-      "count": 12,
-      "category": null
-    },
-    {
       "word": "HITS",
-      "count": 12,
-      "category": null
-    },
-    {
-      "word": "STRATEGY",
       "count": 12,
       "category": null
     },
@@ -317,6 +312,11 @@
     {
       "word": "WHAT",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "RISK",
+      "count": 11,
       "category": null
     },
     {
