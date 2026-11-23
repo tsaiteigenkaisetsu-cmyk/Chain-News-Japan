@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T11:13:53.259Z",
+  "updated_at": "2026-11-23T11:20:44.558Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
+      "news_count_24h": 61,
       "hype_score": 15,
       "buzz_rank": 1
     },
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 5,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 6
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -190,6 +190,11 @@
       "category": null
     },
     {
+      "word": "STOCK",
+      "count": 23,
+      "category": null
+    },
+    {
       "word": "BILLION",
       "count": 22,
       "category": null
@@ -197,11 +202,6 @@
     {
       "word": "NVIDIA",
       "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 21,
       "category": null
     },
     {
@@ -215,14 +215,19 @@
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "TRADING",
       "count": 15,
-      "category": "価格"
+      "category": null
     },
     {
       "word": "ANTHROPIC",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 15,
+      "category": "価格"
     },
     {
       "word": "TRUMP",
@@ -231,11 +236,6 @@
     },
     {
       "word": "RECORD",
-      "count": 14,
-      "category": null
-    },
-    {
-      "word": "TRADING",
       "count": 14,
       "category": null
     },
@@ -257,6 +257,11 @@
     {
       "word": "AMID",
       "count": 12,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 11,
       "category": null
     },
     {
@@ -285,11 +290,6 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 10,
-      "category": null
-    },
-    {
       "word": "IPO",
       "count": 10,
       "category": null
@@ -301,6 +301,11 @@
     },
     {
       "word": "SPACEX",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "PRICES",
       "count": 9,
       "category": null
     },
@@ -326,11 +331,6 @@
     },
     {
       "word": "WHY",
-      "count": 9,
-      "category": null
-    },
-    {
-      "word": "ETFS",
       "count": 9,
       "category": null
     }
