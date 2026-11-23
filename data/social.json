@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T15:23:22.034Z",
+  "updated_at": "2026-11-23T15:30:22.871Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 6,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "avalanche-2",
@@ -133,16 +133,16 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 3,
       "hype_score": 0,
       "buzz_rank": 11
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 51,
+      "count": 52,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -205,8 +205,13 @@
       "category": null
     },
     {
+      "word": "JENSEN",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "BILLION",
-      "count": 27,
+      "count": 25,
       "category": null
     },
     {
@@ -215,18 +220,13 @@
       "category": null
     },
     {
-      "word": "JENSEN",
-      "count": 23,
+      "word": "TRUMP",
+      "count": 22,
       "category": null
     },
     {
       "word": "HUANG",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "TRUMP",
-      "count": 20,
+      "count": 22,
       "category": null
     },
     {
@@ -235,18 +235,18 @@
       "category": "価格"
     },
     {
+      "word": "WEEK",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "TRADING",
       "count": 19,
       "category": null
     },
     {
-      "word": "WEEK",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "ANTHROPIC",
-      "count": 18,
+      "count": 17,
       "category": null
     },
     {
@@ -255,12 +255,17 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 14,
+      "word": "TOKENIZED",
+      "count": 13,
       "category": null
     },
     {
       "word": "WALLET",
+      "count": 13,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 13,
       "category": null
     },
@@ -275,7 +280,7 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
+      "word": "WHAT",
       "count": 12,
       "category": null
     },
@@ -288,11 +293,6 @@
       "word": "EXCHANGE",
       "count": 12,
       "category": "取引所"
-    },
-    {
-      "word": "IPO",
-      "count": 11,
-      "category": null
     },
     {
       "word": "WARNS",
@@ -315,11 +315,6 @@
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "EXCHANGES",
       "count": 11,
       "category": null
@@ -332,6 +327,11 @@
     {
       "word": "SPACEX",
       "count": 11,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 10,
       "category": null
     }
   ],
