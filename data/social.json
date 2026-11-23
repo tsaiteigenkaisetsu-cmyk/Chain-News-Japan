@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:12:14.903Z",
+  "updated_at": "2026-11-23T19:20:51.278Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 120,
-      "hype_score": 8,
+      "news_count_24h": 121,
+      "hype_score": 7,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 28,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 14,
       "buzz_rank": 3
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 14,
+      "news_count_24h": 15,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,23 +186,23 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 70,
+      "count": 71,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 48,
+      "count": 49,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 36,
+      "category": "相場"
     },
     {
       "word": "JENSEN",
       "count": 35,
       "category": null
-    },
-    {
-      "word": "MARKET",
-      "count": 34,
-      "category": "相場"
     },
     {
       "word": "BILLION",
@@ -245,18 +245,23 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "AMID",
       "count": 20,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 20,
+      "count": 19,
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 19,
+      "word": "RECORD",
+      "count": 18,
       "category": null
     },
     {
@@ -265,22 +270,22 @@
       "category": null
     },
     {
-      "word": "RECORD",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 16,
-      "category": "相場"
-    },
-    {
       "word": "STOCKS",
-      "count": 15,
+      "count": 16,
       "category": null
     },
     {
       "word": "BINANCE",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 15,
+      "category": "相場"
+    },
+    {
+      "word": "HITS",
       "count": 14,
       "category": null
     },
@@ -290,13 +295,13 @@
       "category": "取引所"
     },
     {
-      "word": "WHAT",
+      "word": "WEEKLY",
       "count": 14,
       "category": null
     },
     {
-      "word": "WEEKLY",
-      "count": 14,
+      "word": "WARNS",
+      "count": 13,
       "category": null
     },
     {
@@ -310,12 +315,12 @@
       "category": null
     },
     {
-      "word": "REBOUND",
+      "word": "WHAT",
       "count": 13,
       "category": null
     },
     {
-      "word": "HITS",
+      "word": "REBOUND",
       "count": 13,
       "category": null
     },
@@ -327,11 +332,6 @@
     {
       "word": "WALLET",
       "count": 13,
-      "category": null
-    },
-    {
-      "word": "WARNS",
-      "count": 12,
       "category": null
     }
   ],
