@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T14:59:58.944Z",
+  "updated_at": "2026-11-23T15:15:44.140Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 91,
+      "news_count_24h": 94,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 49,
+      "count": 51,
       "category": null
     },
     {
       "word": "NVIDIA",
-      "count": 42,
+      "count": 46,
+      "category": null
+    },
+    {
+      "word": "CEO",
+      "count": 28,
       "category": null
     },
     {
@@ -205,18 +210,23 @@
       "category": "相場"
     },
     {
-      "word": "CEO",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "STOCK",
       "count": 25,
       "category": null
     },
     {
+      "word": "JENSEN",
+      "count": 22,
+      "category": null
+    },
+    {
+      "word": "HUANG",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "PRICE",
-      "count": 19,
+      "count": 20,
       "category": "価格"
     },
     {
@@ -230,23 +240,13 @@
       "category": null
     },
     {
-      "word": "JENSEN",
-      "count": 18,
-      "category": null
-    },
-    {
       "word": "TRUMP",
-      "count": 17,
+      "count": 18,
       "category": null
     },
     {
       "word": "ANTHROPIC",
       "count": 17,
-      "category": null
-    },
-    {
-      "word": "HUANG",
-      "count": 16,
       "category": null
     },
     {
@@ -262,6 +262,11 @@
     {
       "word": "WALLET",
       "count": 13,
+      "category": null
+    },
+    {
+      "word": "STOCKS",
+      "count": 12,
       "category": null
     },
     {
@@ -285,6 +290,21 @@
       "category": "取引所"
     },
     {
+      "word": "REINSTATES",
+      "count": 11,
+      "category": null
+    },
+    {
+      "word": "RALLY",
+      "count": 11,
+      "category": "相場"
+    },
+    {
+      "word": "WHY",
+      "count": 11,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 11,
       "category": null
@@ -305,32 +325,12 @@
       "category": null
     },
     {
+      "word": "TECH",
+      "count": 10,
+      "category": null
+    },
+    {
       "word": "FED",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 10,
-      "category": "相場"
-    },
-    {
-      "word": "STOCKS",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "RISK",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "CHAINFLIP",
-      "count": 10,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 10,
       "category": null
     }
