@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T06:00:06.667Z",
+  "updated_at": "2026-11-23T06:32:56.256Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 8,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "ripple",
@@ -27,7 +27,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 8,
       "hype_score": 13,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 100,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 5
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "polkadot",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -186,31 +186,31 @@
   "trend_words": [
     {
       "word": "MILLION",
-      "count": 29,
+      "count": 30,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 24,
+      "count": 25,
       "category": "相場"
     },
     {
-      "word": "BILLION",
+      "word": "NVIDIA",
       "count": 20,
       "category": null
     },
     {
-      "word": "NVIDIA",
+      "word": "BILLION",
       "count": 19,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 15,
+      "word": "STOCK",
+      "count": 16,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "ANTHROPIC",
       "count": 15,
       "category": null
     },
@@ -221,7 +221,7 @@
     },
     {
       "word": "AMID",
-      "count": 12,
+      "count": 14,
       "category": null
     },
     {
@@ -230,18 +230,8 @@
       "category": null
     },
     {
-      "word": "COINBASE",
-      "count": 11,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 11,
-      "category": null
-    },
-    {
       "word": "WEEK",
-      "count": 10,
+      "count": 11,
       "category": null
     },
     {
@@ -265,9 +255,29 @@
       "category": null
     },
     {
+      "word": "TRADING",
+      "count": 10,
+      "category": null
+    },
+    {
+      "word": "FED",
+      "count": 9,
+      "category": null
+    },
+    {
+      "word": "DOWN",
+      "count": 9,
+      "category": null
+    },
+    {
       "word": "CRASH",
       "count": 9,
       "category": "相場"
+    },
+    {
+      "word": "COINBASE",
+      "count": 9,
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -283,11 +293,6 @@
       "word": "EXPLOIT",
       "count": 9,
       "category": "セキュリティ"
-    },
-    {
-      "word": "DOWN",
-      "count": 9,
-      "category": null
     },
     {
       "word": "CHAINFLIP",
@@ -315,22 +320,17 @@
       "category": null
     },
     {
-      "word": "FED",
-      "count": 8,
-      "category": null
-    },
-    {
       "word": "RECORD",
       "count": 8,
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "CHIP",
       "count": 8,
       "category": null
     },
     {
-      "word": "CHIP",
+      "word": "CYBER",
       "count": 8,
       "category": null
     }
