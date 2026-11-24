@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/11/24 08:39 JST
-- ソーシャル更新: 2026/11/24 08:30 JST
+- 生成時刻: 2026/11/24 12:38 JST
+- ソーシャル更新: 2026/11/24 12:32 JST
 - 総ニュース件数: 2000件
 - Reddit モード: cached
 
@@ -12,8 +12,8 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース133件 / SNS0
-2位 ETH ニュース32件 / SNS0
+1位 BTC ニュース136件 / SNS0
+2位 ETH ニュース37件 / SNS0
 3位 SOL ニュース24件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
@@ -28,10 +28,10 @@ https://chain-news-japan-webappjp.vercel.app
 
 ```text
 【昼の市場テーマ】
-いま強いテーマは NVIDIA / MILLION / JENSEN。
+いま強いテーマは NVIDIA / MILLION / MARKET。
 注目通貨は BTC / ETH / SOL。
 
-現時点では BTC が先頭で、ニュース133件 / SNS0です。
+現時点では BTC が先頭で、ニュース136件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
