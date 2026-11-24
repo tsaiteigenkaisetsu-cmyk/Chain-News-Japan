@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:14:55.414Z",
+  "updated_at": "2026-11-24T11:22:32.206Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 148,
+      "news_count_24h": 143,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
+      "news_count_24h": 19,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 95,
+      "count": 96,
       "category": null
     },
     {
@@ -226,8 +226,13 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 31,
+      "count": 33,
       "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
+      "category": "価格"
     },
     {
       "word": "TRUMP",
@@ -235,13 +240,13 @@
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 28,
-      "category": "価格"
-    },
-    {
       "word": "AMID",
       "count": 25,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 24,
       "category": null
     },
     {
@@ -260,8 +265,8 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 23,
+      "word": "SHARES",
+      "count": 22,
       "category": null
     },
     {
@@ -278,11 +283,6 @@
       "word": "RALLY",
       "count": 21,
       "category": "相場"
-    },
-    {
-      "word": "SHARES",
-      "count": 20,
-      "category": null
     },
     {
       "word": "WHY",
