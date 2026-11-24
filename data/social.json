@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T06:00:12.549Z",
+  "updated_at": "2026-11-24T06:24:45.065Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 139,
+      "news_count_24h": 143,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 39,
+      "news_count_24h": 38,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -52,7 +52,7 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 6,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -186,12 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 84,
+      "count": 85,
       "category": null
     },
     {
       "word": "MILLION",
       "count": 51,
+      "category": null
+    },
+    {
+      "word": "JENSEN",
+      "count": 42,
       "category": null
     },
     {
@@ -205,18 +210,13 @@
       "category": "相場"
     },
     {
-      "word": "JENSEN",
+      "word": "HUANG",
       "count": 41,
       "category": null
     },
     {
-      "word": "HUANG",
-      "count": 40,
-      "category": null
-    },
-    {
       "word": "BILLION",
-      "count": 39,
+      "count": 40,
       "category": null
     },
     {
@@ -250,17 +250,17 @@
       "category": null
     },
     {
+      "word": "BINANCE",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 22,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
       "count": 21,
       "category": null
     },
@@ -280,12 +280,17 @@
       "category": null
     },
     {
-      "word": "WHAT",
+      "word": "RALLY",
+      "count": 17,
+      "category": "相場"
+    },
+    {
+      "word": "STRATEGY",
       "count": 17,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
@@ -300,11 +305,6 @@
       "category": null
     },
     {
-      "word": "RALLY",
-      "count": 16,
-      "category": "相場"
-    },
-    {
       "word": "LAUNCHES",
       "count": 16,
       "category": null
@@ -315,9 +315,14 @@
       "category": null
     },
     {
-      "word": "STRATEGY",
-      "count": 16,
+      "word": "RETURN",
+      "count": 15,
       "category": null
+    },
+    {
+      "word": "HACK",
+      "count": 15,
+      "category": "セキュリティ"
     },
     {
       "word": "WEEKLY",
@@ -325,12 +330,7 @@
       "category": null
     },
     {
-      "word": "WALLET",
-      "count": 15,
-      "category": null
-    },
-    {
-      "word": "REBOUND",
+      "word": "DATA",
       "count": 15,
       "category": null
     }
