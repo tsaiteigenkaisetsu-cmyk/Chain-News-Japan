@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T12:34:43.372Z",
+  "updated_at": "2026-11-24T12:42:36.806Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 141,
+      "news_count_24h": 143,
       "hype_score": 6,
       "buzz_rank": 1
     },
@@ -43,18 +43,18 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
-      "hype_score": 200,
-      "buzz_rank": 15
+      "news_count_24h": 2,
+      "hype_score": 100,
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 11
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 104,
+      "count": 105,
       "category": null
     },
     {
@@ -200,13 +200,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "BILLION",
       "count": 48,
       "category": null
     },
     {
-      "word": "BILLION",
-      "count": 47,
+      "word": "CEO",
+      "count": 48,
       "category": null
     },
     {
@@ -220,19 +220,19 @@
       "category": "相場"
     },
     {
-      "word": "STOCK",
+      "word": "ANTHROPIC",
       "count": 35,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
+      "word": "PRICE",
       "count": 34,
-      "category": null
+      "category": "価格"
     },
     {
-      "word": "PRICE",
-      "count": 33,
-      "category": "価格"
+      "word": "STOCK",
+      "count": 34,
+      "category": null
     },
     {
       "word": "TRUMP",
@@ -241,12 +241,17 @@
     },
     {
       "word": "AMID",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
       "word": "RECORD",
-      "count": 25,
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "SHARES",
+      "count": 24,
       "category": null
     },
     {
@@ -270,11 +275,6 @@
       "category": null
     },
     {
-      "word": "SHARES",
-      "count": 23,
-      "category": null
-    },
-    {
       "word": "STOCKS",
       "count": 22,
       "category": null
@@ -293,6 +293,11 @@
       "word": "HACK",
       "count": 20,
       "category": "セキュリティ"
+    },
+    {
+      "word": "ETF",
+      "count": 19,
+      "category": "ETF"
     },
     {
       "word": "REBOUND",
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 18,
-      "category": "ETF"
-    },
-    {
       "word": "HITS",
       "count": 18,
       "category": null
     },
     {
-      "word": "DATA",
+      "word": "IPO",
       "count": 17,
       "category": null
     }
