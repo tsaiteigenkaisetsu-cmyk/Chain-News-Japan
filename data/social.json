@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:13:13.836Z",
+  "updated_at": "2026-11-25T17:20:38.980Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 113,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
-      "hype_score": 17,
+      "news_count_24h": 17,
+      "hype_score": 18,
       "buzz_rank": 4
     },
     {
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -79,9 +79,9 @@
       "symbol": "DOT",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 14,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "binancecoin",
@@ -196,17 +196,17 @@
     },
     {
       "word": "MARKET",
-      "count": 62,
+      "count": 63,
       "category": "相場"
     },
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 58,
       "category": null
     },
     {
       "word": "ANTHROPIC",
-      "count": 50,
+      "count": 51,
       "category": null
     },
     {
@@ -217,6 +217,11 @@
     {
       "word": "CEO",
       "count": 37,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 35,
       "category": null
     },
     {
@@ -231,12 +236,7 @@
     },
     {
       "word": "TOKENIZED",
-      "count": 34,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 34,
+      "count": 33,
       "category": null
     },
     {
@@ -266,7 +266,7 @@
     },
     {
       "word": "IPO",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -300,19 +300,24 @@
       "category": "セキュリティ"
     },
     {
-      "word": "ETF",
-      "count": 23,
-      "category": "ETF"
-    },
-    {
       "word": "WARNS",
       "count": 23,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 22,
       "category": null
     },
     {
       "word": "FALLS",
       "count": 22,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 22,
+      "category": "ETF"
     },
     {
       "word": "MOVES",
@@ -326,11 +331,6 @@
     },
     {
       "word": "TRUMP",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 21,
       "category": null
     }
