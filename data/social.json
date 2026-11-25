@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:00:22.446Z",
+  "updated_at": "2026-11-25T00:36:37.900Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 26,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 19,
-      "hype_score": 5,
+      "news_count_24h": 18,
+      "hype_score": 6,
       "buzz_rank": 4
     },
     {
@@ -34,7 +34,7 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 13,
       "buzz_rank": 3
     },
@@ -43,9 +43,9 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
-      "hype_score": 100,
-      "buzz_rank": 13
+      "news_count_24h": 1,
+      "hype_score": 200,
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "shiba-inu",
@@ -106,9 +106,9 @@
       "symbol": "LTC",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
-      "hype_score": 25,
-      "buzz_rank": 10
+      "news_count_24h": 3,
+      "hype_score": 33,
+      "buzz_rank": 11
     },
     {
       "coin_id": "near",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "tether",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 114,
+      "count": 117,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 72,
+      "count": 71,
       "category": null
     },
     {
@@ -210,13 +210,13 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "HUANG",
       "count": 51,
       "category": null
     },
     {
-      "word": "HUANG",
-      "count": 50,
+      "word": "CEO",
+      "count": 51,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "PRICE",
-      "count": 46,
+      "count": 45,
       "category": "価格"
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "AMID",
+      "word": "SHARES",
       "count": 36,
       "category": null
     },
     {
-      "word": "SHARES",
-      "count": 35,
+      "word": "AMID",
+      "count": 36,
       "category": null
     },
     {
@@ -261,7 +261,7 @@
     },
     {
       "word": "TRUMP",
-      "count": 31,
+      "count": 32,
       "category": null
     },
     {
@@ -270,19 +270,19 @@
       "category": null
     },
     {
+      "word": "RALLY",
+      "count": 27,
+      "category": "相場"
+    },
+    {
       "word": "LAUNCHES",
       "count": 27,
       "category": null
     },
     {
       "word": "IPO",
-      "count": 26,
+      "count": 25,
       "category": null
-    },
-    {
-      "word": "RALLY",
-      "count": 26,
-      "category": "相場"
     },
     {
       "word": "WALLET",
@@ -325,14 +325,14 @@
       "category": null
     },
     {
+      "word": "RETURN",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 22,
       "category": "ETF"
-    },
-    {
-      "word": "KOREA",
-      "count": 22,
-      "category": null
     }
   ],
   "stats": {
