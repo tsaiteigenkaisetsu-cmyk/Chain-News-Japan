@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:17:21.815Z",
+  "updated_at": "2026-11-25T09:26:48.931Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 134,
+      "news_count_24h": 131,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 20,
       "hype_score": 5,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 20,
-      "hype_score": 15,
-      "buzz_rank": 4
+      "news_count_24h": 21,
+      "hype_score": 14,
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 114,
+      "count": 113,
       "category": null
     },
     {
@@ -216,6 +216,11 @@
     },
     {
       "word": "ANTHROPIC",
+      "count": 49,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 48,
       "category": null
     },
@@ -223,11 +228,6 @@
       "word": "PRICE",
       "count": 47,
       "category": "価格"
-    },
-    {
-      "word": "CEO",
-      "count": 47,
-      "category": null
     },
     {
       "word": "STOCK",
@@ -295,18 +295,13 @@
       "category": null
     },
     {
+      "word": "SOLANA",
+      "count": 24,
+      "category": null
+    },
+    {
       "word": "STOCKS",
       "count": 24,
-      "category": null
-    },
-    {
-      "word": "IPO",
-      "count": 24,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
-      "count": 23,
       "category": null
     },
     {
@@ -321,6 +316,11 @@
     },
     {
       "word": "WALLET",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 23,
       "category": null
     },
