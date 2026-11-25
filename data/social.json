@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T16:19:44.131Z",
+  "updated_at": "2026-11-25T16:31:49.456Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 110,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 25,
+      "news_count_24h": 24,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 93,
+      "count": 92,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 79,
+      "count": 78,
       "category": null
     },
     {
@@ -206,7 +206,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 48,
+      "count": 49,
       "category": null
     },
     {
@@ -230,18 +230,13 @@
       "category": null
     },
     {
+      "word": "TOKENIZED",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "SHARES",
       "count": 33,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "HUANG",
-      "count": 32,
       "category": null
     },
     {
@@ -250,8 +245,13 @@
       "category": null
     },
     {
-      "word": "JENSEN",
+      "word": "HUANG",
       "count": 31,
+      "category": null
+    },
+    {
+      "word": "DATA",
+      "count": 30,
       "category": null
     },
     {
@@ -260,17 +260,12 @@
       "category": null
     },
     {
-      "word": "DATA",
-      "count": 29,
+      "word": "JENSEN",
+      "count": 30,
       "category": null
     },
     {
       "word": "LAUNCHES",
-      "count": 26,
-      "category": null
-    },
-    {
-      "word": "SOLANA",
       "count": 26,
       "category": null
     },
@@ -282,6 +277,11 @@
     {
       "word": "CFTC",
       "count": 26,
+      "category": null
+    },
+    {
+      "word": "SOLANA",
+      "count": 25,
       "category": null
     },
     {
@@ -305,13 +305,13 @@
       "category": null
     },
     {
-      "word": "TRUMP",
+      "word": "KOREA",
       "count": 22,
       "category": null
     },
     {
-      "word": "FACES",
-      "count": 22,
+      "word": "TRUMP",
+      "count": 21,
       "category": null
     },
     {
@@ -325,14 +325,14 @@
       "category": null
     },
     {
-      "word": "OPENAI",
+      "word": "FACES",
       "count": 21,
       "category": null
     },
     {
-      "word": "ETF",
+      "word": "OPENAI",
       "count": 21,
-      "category": "ETF"
+      "category": null
     }
   ],
   "stats": {
