@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T14:40:11.128Z",
+  "updated_at": "2026-11-25T14:50:25.114Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 118,
+      "news_count_24h": 116,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,18 +25,18 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 22,
       "hype_score": 5,
-      "buzz_rank": 4
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 14,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "dogecoin",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 12,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -186,47 +186,47 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 104,
+      "count": 102,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 74,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 59,
+      "count": 76,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 56,
+      "count": 58,
       "category": "相場"
     },
     {
+      "word": "MILLION",
+      "count": 58,
+      "category": null
+    },
+    {
       "word": "PRICE",
-      "count": 49,
+      "count": 50,
       "category": "価格"
     },
     {
       "word": "ANTHROPIC",
-      "count": 46,
+      "count": 48,
       "category": null
     },
     {
       "word": "HUANG",
-      "count": 43,
-      "category": null
-    },
-    {
-      "word": "JENSEN",
       "count": 42,
       "category": null
     },
     {
+      "word": "JENSEN",
+      "count": 41,
+      "category": null
+    },
+    {
       "word": "CEO",
-      "count": 40,
+      "count": 38,
       "category": null
     },
     {
@@ -236,12 +236,12 @@
     },
     {
       "word": "AMID",
-      "count": 36,
+      "count": 35,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 35,
+      "count": 34,
       "category": null
     },
     {
@@ -250,18 +250,18 @@
       "category": null
     },
     {
-      "word": "BINANCE",
+      "word": "RECORD",
       "count": 30,
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "BELOW",
       "count": 29,
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 28,
+      "word": "BINANCE",
+      "count": 29,
       "category": null
     },
     {
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "IPO",
+      "count": 25,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 25,
       "category": "ETF"
@@ -305,14 +310,14 @@
       "category": "セキュリティ"
     },
     {
-      "word": "IPO",
-      "count": 24,
-      "category": null
-    },
-    {
       "word": "RALLY",
       "count": 23,
       "category": "相場"
+    },
+    {
+      "word": "FACES",
+      "count": 22,
+      "category": null
     },
     {
       "word": "MOVES",
@@ -320,17 +325,12 @@
       "category": null
     },
     {
-      "word": "STOCKS",
+      "word": "WARNS",
       "count": 22,
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "FACES",
+      "word": "OPENAI",
       "count": 21,
       "category": null
     }
