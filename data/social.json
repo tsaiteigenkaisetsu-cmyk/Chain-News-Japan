@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:30:33.564Z",
+  "updated_at": "2026-11-25T15:40:14.392Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 114,
+      "news_count_24h": 113,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 9,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "litecoin",
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 98,
+      "count": 97,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 78,
+      "count": 79,
       "category": null
     },
     {
@@ -201,22 +201,17 @@
     },
     {
       "word": "MILLION",
-      "count": 57,
+      "count": 55,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 49,
+      "count": 47,
       "category": "価格"
     },
     {
       "word": "ANTHROPIC",
       "count": 47,
-      "category": null
-    },
-    {
-      "word": "STOCK",
-      "count": 38,
       "category": null
     },
     {
@@ -230,12 +225,17 @@
       "category": null
     },
     {
-      "word": "HUANG",
-      "count": 35,
+      "word": "STOCK",
+      "count": 37,
       "category": null
     },
     {
       "word": "TOKENIZED",
+      "count": 35,
+      "category": null
+    },
+    {
+      "word": "HUANG",
       "count": 34,
       "category": null
     },
@@ -246,17 +246,17 @@
     },
     {
       "word": "JENSEN",
-      "count": 33,
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "BELOW",
+      "count": 31,
       "category": null
     },
     {
       "word": "RECORD",
       "count": 31,
-      "category": null
-    },
-    {
-      "word": "BELOW",
-      "count": 30,
       "category": null
     },
     {
@@ -266,22 +266,22 @@
     },
     {
       "word": "SOLANA",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "BINANCE",
-      "count": 28,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
       "count": 27,
       "category": null
     },
     {
       "word": "TRADING",
       "count": 27,
+      "category": null
+    },
+    {
+      "word": "BINANCE",
+      "count": 27,
+      "category": null
+    },
+    {
+      "word": "LAUNCHES",
+      "count": 26,
       "category": null
     },
     {
@@ -300,17 +300,17 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 24,
-      "category": "ETF"
-    },
-    {
-      "word": "TRUMP",
+      "word": "WALLET",
       "count": 23,
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
+      "word": "TRUMP",
       "count": 22,
       "category": null
     },
