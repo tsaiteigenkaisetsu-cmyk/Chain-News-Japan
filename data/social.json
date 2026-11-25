@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:00:21.007Z",
+  "updated_at": "2026-11-25T12:22:21.910Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 130,
+      "news_count_24h": 132,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -18,7 +18,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 22,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -34,9 +34,9 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
-      "hype_score": 14,
-      "buzz_rank": 3
+      "news_count_24h": 23,
+      "hype_score": 13,
+      "buzz_rank": 2
     },
     {
       "coin_id": "dogecoin",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 13,
+      "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 5
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 14,
       "hype_score": 0,
-      "buzz_rank": 5
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -186,17 +186,17 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 112,
+      "count": 114,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 71,
+      "count": 72,
       "category": null
     },
     {
       "word": "MILLION",
-      "count": 64,
+      "count": 63,
       "category": null
     },
     {
@@ -205,24 +205,19 @@
       "category": "相場"
     },
     {
+      "word": "JENSEN",
+      "count": 51,
+      "category": null
+    },
+    {
       "word": "HUANG",
       "count": 51,
       "category": null
     },
     {
-      "word": "JENSEN",
-      "count": 50,
-      "category": null
-    },
-    {
       "word": "PRICE",
-      "count": 49,
+      "count": 48,
       "category": "価格"
-    },
-    {
-      "word": "CEO",
-      "count": 49,
-      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -230,12 +225,17 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 41,
+      "word": "CEO",
+      "count": 47,
       "category": null
     },
     {
       "word": "STOCK",
+      "count": 40,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 40,
       "category": null
     },
@@ -250,22 +250,17 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 32,
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 30,
+      "word": "TRADING",
+      "count": 31,
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "TRUMP",
       "count": 29,
       "category": null
     },
@@ -275,8 +270,13 @@
       "category": "相場"
     },
     {
+      "word": "LAUNCHES",
+      "count": 28,
+      "category": null
+    },
+    {
       "word": "RECORD",
-      "count": 27,
+      "count": 28,
       "category": null
     },
     {
@@ -285,18 +285,18 @@
       "category": "セキュリティ"
     },
     {
-      "word": "CFTC",
+      "word": "BELOW",
       "count": 26,
       "category": null
     },
     {
       "word": "SOLANA",
-      "count": 25,
+      "count": 26,
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 25,
+      "word": "CFTC",
+      "count": 26,
       "category": null
     },
     {
@@ -315,6 +315,11 @@
       "category": null
     },
     {
+      "word": "ETF",
+      "count": 23,
+      "category": "ETF"
+    },
+    {
       "word": "WALLET",
       "count": 23,
       "category": null
@@ -325,13 +330,8 @@
       "category": null
     },
     {
-      "word": "ETF",
-      "count": 23,
-      "category": "ETF"
-    },
-    {
-      "word": "KOREA",
-      "count": 21,
+      "word": "RETURN",
+      "count": 22,
       "category": null
     }
   ],
