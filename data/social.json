@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T14:00:05.640Z",
+  "updated_at": "2026-11-26T14:17:15.527Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 22,
+      "news_count_24h": 21,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,8 +25,8 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 15,
-      "hype_score": 7,
+      "news_count_24h": 13,
+      "hype_score": 8,
       "buzz_rank": 3
     },
     {
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
-      "hype_score": 38,
+      "news_count_24h": 9,
+      "hype_score": 33,
       "buzz_rank": 6
     },
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 200,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "avalanche-2",
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 15
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 15
+      "buzz_rank": 16
     },
     {
       "coin_id": "chainlink",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 100,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "near",
@@ -124,9 +124,9 @@
       "symbol": "MATIC",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 0,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 11
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "tether",
@@ -211,7 +211,7 @@
     },
     {
       "word": "DATA",
-      "count": 44,
+      "count": 43,
       "category": null
     },
     {
@@ -226,7 +226,7 @@
     },
     {
       "word": "ETF",
-      "count": 34,
+      "count": 35,
       "category": "ETF"
     },
     {
@@ -240,13 +240,13 @@
       "category": null
     },
     {
-      "word": "BELOW",
-      "count": 28,
+      "word": "TRADING",
+      "count": 26,
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 27,
+      "word": "BELOW",
+      "count": 26,
       "category": null
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "word": "SOLANA",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -266,12 +266,7 @@
     },
     {
       "word": "OPENAI",
-      "count": 21,
-      "category": null
-    },
-    {
-      "word": "LAUNCHES",
-      "count": 21,
+      "count": 22,
       "category": null
     },
     {
@@ -290,12 +285,17 @@
       "category": null
     },
     {
-      "word": "IPO",
+      "word": "LAUNCHES",
       "count": 20,
       "category": null
     },
     {
       "word": "STABLECOIN",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "IPO",
       "count": 19,
       "category": null
     },
@@ -310,21 +310,6 @@
       "category": null
     },
     {
-      "word": "FALLS",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "MOVES",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "FUND",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "ADDS",
       "count": 17,
       "category": null
@@ -332,6 +317,21 @@
     {
       "word": "THAN",
       "count": 17,
+      "category": null
+    },
+    {
+      "word": "FALLS",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "MOVES",
+      "count": 16,
+      "category": null
+    },
+    {
+      "word": "TRUMP",
+      "count": 16,
       "category": null
     }
   ],
