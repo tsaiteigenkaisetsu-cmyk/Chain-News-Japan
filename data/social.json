@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:00:08.310Z",
+  "updated_at": "2026-11-26T10:15:59.968Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 123,
+      "news_count_24h": 125,
       "hype_score": 7,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 29,
+      "news_count_24h": 30,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -186,28 +186,28 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 76,
+      "count": 72,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 70,
-      "category": null
-    },
-    {
-      "word": "MILLION",
-      "count": 54,
+      "count": 69,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 54,
+      "count": 55,
       "category": "相場"
     },
     {
       "word": "PRICE",
-      "count": 52,
+      "count": 53,
       "category": "価格"
+    },
+    {
+      "word": "MILLION",
+      "count": 53,
+      "category": null
     },
     {
       "word": "ANTHROPIC",
@@ -216,27 +216,22 @@
     },
     {
       "word": "AMID",
-      "count": 42,
+      "count": 41,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "ETF",
-      "count": 35,
+      "count": 38,
       "category": "ETF"
     },
     {
       "word": "BELOW",
-      "count": 35,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 33,
+      "count": 34,
       "category": null
     },
     {
@@ -245,7 +240,12 @@
       "category": null
     },
     {
-      "word": "CEO",
+      "word": "TOKENIZED",
+      "count": 32,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 25,
       "category": null
     },
@@ -255,7 +255,7 @@
       "category": null
     },
     {
-      "word": "TRADING",
+      "word": "LAUNCHES",
       "count": 24,
       "category": null
     },
@@ -265,8 +265,18 @@
       "category": null
     },
     {
-      "word": "FALLS",
+      "word": "CEO",
       "count": 24,
+      "category": null
+    },
+    {
+      "word": "OPENAI",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "RECORD",
+      "count": 23,
       "category": null
     },
     {
@@ -275,18 +285,8 @@
       "category": null
     },
     {
-      "word": "LAUNCHES",
+      "word": "FALLS",
       "count": 23,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "OPENAI",
-      "count": 22,
       "category": null
     },
     {
@@ -295,27 +295,12 @@
       "category": null
     },
     {
-      "word": "FUND",
-      "count": 21,
-      "category": null
-    },
-    {
       "word": "INFLATION",
       "count": 21,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BANK",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "HUANG",
+      "word": "FUND",
       "count": 20,
       "category": null
     },
@@ -325,12 +310,27 @@
       "category": null
     },
     {
+      "word": "DEMAND",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "BILL",
       "count": 19,
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "SOUTH",
+      "count": 19,
+      "category": null
+    },
+    {
+      "word": "KOREA",
       "count": 19,
       "category": null
     }
