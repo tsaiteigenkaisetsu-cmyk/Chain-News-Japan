@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T16:50:34.903Z",
+  "updated_at": "2026-11-26T17:00:05.728Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -115,9 +115,9 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 10,
+      "news_count_24h": 9,
       "hype_score": 0,
-      "buzz_rank": 6
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 10,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 6
     },
     {
       "coin_id": "tron",
@@ -201,8 +201,13 @@
     },
     {
       "word": "MILLION",
-      "count": 42,
+      "count": 41,
       "category": null
+    },
+    {
+      "word": "MARKET",
+      "count": 40,
+      "category": "相場"
     },
     {
       "word": "ANTHROPIC",
@@ -213,11 +218,6 @@
       "word": "PRICE",
       "count": 39,
       "category": "価格"
-    },
-    {
-      "word": "MARKET",
-      "count": 39,
-      "category": "相場"
     },
     {
       "word": "ETF",
@@ -231,7 +231,7 @@
     },
     {
       "word": "TRADING",
-      "count": 32,
+      "count": 31,
       "category": null
     },
     {
@@ -240,12 +240,12 @@
       "category": null
     },
     {
-      "word": "INFLATION",
-      "count": 24,
+      "word": "STOCK",
+      "count": 25,
       "category": null
     },
     {
-      "word": "STOCK",
+      "word": "INFLATION",
       "count": 24,
       "category": null
     },
@@ -295,6 +295,11 @@
       "category": null
     },
     {
+      "word": "SUPPLY",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "FALLS",
       "count": 17,
       "category": null
@@ -326,11 +331,6 @@
     },
     {
       "word": "TRUMP",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "WHY",
       "count": 16,
       "category": null
     }
