@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T18:00:22.469Z",
+  "updated_at": "2026-11-26T18:18:44.796Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 98,
+      "news_count_24h": 100,
       "hype_score": 9,
       "buzz_rank": 1
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 58,
+      "count": 59,
       "category": null
     },
     {
       "word": "BILLION",
-      "count": 54,
+      "count": 55,
       "category": null
     },
     {
@@ -201,28 +201,28 @@
     },
     {
       "word": "MILLION",
-      "count": 41,
+      "count": 39,
       "category": null
     },
     {
       "word": "MARKET",
-      "count": 40,
+      "count": 38,
       "category": "相場"
+    },
+    {
+      "word": "PRICE",
+      "count": 37,
+      "category": "価格"
+    },
+    {
+      "word": "ANTHROPIC",
+      "count": 37,
+      "category": null
     },
     {
       "word": "ETF",
       "count": 36,
       "category": "ETF"
-    },
-    {
-      "word": "PRICE",
-      "count": 36,
-      "category": "価格"
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 36,
-      "category": null
     },
     {
       "word": "TRADING",
@@ -245,13 +245,18 @@
       "category": null
     },
     {
-      "word": "TOKENIZED",
-      "count": 23,
+      "word": "CHIP",
+      "count": 22,
       "category": null
     },
     {
-      "word": "CHIP",
-      "count": 22,
+      "word": "WARNS",
+      "count": 21,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
+      "count": 21,
       "category": null
     },
     {
@@ -270,16 +275,6 @@
       "category": null
     },
     {
-      "word": "WARNS",
-      "count": 20,
-      "category": null
-    },
-    {
-      "word": "BILL",
-      "count": 19,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 18,
       "category": null
@@ -290,17 +285,22 @@
       "category": null
     },
     {
+      "word": "BILL",
+      "count": 18,
+      "category": null
+    },
+    {
       "word": "STABLECOIN",
       "count": 18,
       "category": null
     },
     {
-      "word": "WHAT",
-      "count": 18,
+      "word": "BANK",
+      "count": 17,
       "category": null
     },
     {
-      "word": "BANK",
+      "word": "WHAT",
       "count": 17,
       "category": null
     },
@@ -330,8 +330,8 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 16,
+      "word": "WHY",
+      "count": 15,
       "category": null
     }
   ],
