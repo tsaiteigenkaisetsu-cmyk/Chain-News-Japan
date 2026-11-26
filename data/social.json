@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T16:00:27.041Z",
+  "updated_at": "2026-11-26T16:17:02.162Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 109,
+      "news_count_24h": 106,
       "hype_score": 8,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -25,9 +25,9 @@
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 9,
-      "buzz_rank": 4
+      "news_count_24h": 12,
+      "hype_score": 8,
+      "buzz_rank": 3
     },
     {
       "coin_id": "solana",
@@ -90,7 +90,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 12,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 4
     },
     {
       "coin_id": "uniswap",
@@ -185,29 +185,29 @@
   ],
   "trend_words": [
     {
-      "word": "BILLION",
+      "word": "NVIDIA",
       "count": 58,
       "category": null
     },
     {
-      "word": "NVIDIA",
-      "count": 57,
+      "word": "BILLION",
+      "count": 56,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 47,
+      "count": 46,
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 46,
-      "category": "相場"
+      "word": "PRICE",
+      "count": 42,
+      "category": "価格"
     },
     {
-      "word": "PRICE",
-      "count": 43,
-      "category": "価格"
+      "word": "MARKET",
+      "count": 42,
+      "category": "相場"
     },
     {
       "word": "MILLION",
@@ -216,7 +216,7 @@
     },
     {
       "word": "ANTHROPIC",
-      "count": 40,
+      "count": 39,
       "category": null
     },
     {
@@ -235,22 +235,22 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 26,
-      "category": null
-    },
-    {
       "word": "BELOW",
       "count": 26,
       "category": null
     },
     {
       "word": "TOKENIZED",
-      "count": 26,
+      "count": 25,
       "category": null
     },
     {
-      "word": "WARNS",
+      "word": "STOCK",
+      "count": 25,
+      "category": null
+    },
+    {
+      "word": "INFLATION",
       "count": 24,
       "category": null
     },
@@ -260,7 +260,7 @@
       "category": null
     },
     {
-      "word": "INFLATION",
+      "word": "WARNS",
       "count": 23,
       "category": null
     },
@@ -270,18 +270,28 @@
       "category": null
     },
     {
-      "word": "BANK",
-      "count": 20,
-      "category": null
-    },
-    {
       "word": "CEO",
       "count": 20,
       "category": null
     },
     {
+      "word": "BANK",
+      "count": 20,
+      "category": null
+    },
+    {
+      "word": "CHIP",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "WHAT",
       "count": 19,
+      "category": null
+    },
+    {
+      "word": "FALLS",
+      "count": 18,
       "category": null
     },
     {
@@ -295,17 +305,7 @@
       "category": null
     },
     {
-      "word": "FALLS",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "IPO",
-      "count": 17,
-      "category": null
-    },
-    {
-      "word": "CHIP",
       "count": 17,
       "category": null
     },
@@ -315,23 +315,23 @@
       "category": null
     },
     {
+      "word": "TRUMP",
+      "count": 16,
+      "category": null
+    },
+    {
       "word": "WHY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "AGENTS",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "MOVES",
       "count": 16,
       "category": null
     },
     {
       "word": "FED",
       "count": 16,
+      "category": null
+    },
+    {
+      "word": "QUANTUM",
+      "count": 15,
       "category": null
     }
   ],
