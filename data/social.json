@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:14:25.206Z",
+  "updated_at": "2026-11-26T21:21:18.234Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 95,
-      "hype_score": 9,
+      "news_count_24h": 94,
+      "hype_score": 10,
       "buzz_rank": 1
     },
     {
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 10
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -88,7 +88,7 @@
       "symbol": "LINK",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
+      "news_count_24h": 10,
       "hype_score": 0,
       "buzz_rank": 4
     },
@@ -191,7 +191,7 @@
     },
     {
       "word": "BILLION",
-      "count": 52,
+      "count": 50,
       "category": null
     },
     {
@@ -221,7 +221,7 @@
     },
     {
       "word": "MARKET",
-      "count": 35,
+      "count": 36,
       "category": "相場"
     },
     {
@@ -232,6 +232,11 @@
     {
       "word": "TRADING",
       "count": 29,
+      "category": null
+    },
+    {
+      "word": "STOCK",
+      "count": 23,
       "category": null
     },
     {
@@ -251,11 +256,6 @@
     },
     {
       "word": "OPENAI",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "STOCK",
       "count": 22,
       "category": null
     },
@@ -290,11 +290,6 @@
       "category": null
     },
     {
-      "word": "SUPPLY",
-      "count": 17,
-      "category": null
-    },
-    {
       "word": "FED",
       "count": 17,
       "category": null
@@ -320,9 +315,14 @@
       "category": null
     },
     {
-      "word": "STABLECOIN",
+      "word": "SUPPLY",
       "count": 16,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 15,
+      "category": "DeFi"
     },
     {
       "word": "QUANTUM",
