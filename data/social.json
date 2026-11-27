@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:42:57.280Z",
+  "updated_at": "2026-11-27T12:50:36.200Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 12
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
@@ -54,7 +54,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 14
     },
     {
       "coin_id": "avalanche-2",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 14
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -99,7 +99,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 9
     },
     {
       "coin_id": "tether",
@@ -191,16 +191,16 @@
     },
     {
       "word": "DATA",
-      "count": 48,
-      "category": null
-    },
-    {
-      "word": "BILLION",
-      "count": 40,
+      "count": 49,
       "category": null
     },
     {
       "word": "MILLION",
+      "count": 41,
+      "category": null
+    },
+    {
+      "word": "BILLION",
       "count": 40,
       "category": null
     },
@@ -236,7 +236,7 @@
     },
     {
       "word": "STOCK",
-      "count": 26,
+      "count": 27,
       "category": null
     },
     {
@@ -300,11 +300,6 @@
       "category": null
     },
     {
-      "word": "DEFI",
-      "count": 17,
-      "category": "DeFi"
-    },
-    {
       "word": "OPENAI",
       "count": 17,
       "category": null
@@ -325,12 +320,17 @@
       "category": null
     },
     {
-      "word": "HOW",
+      "word": "DEFI",
+      "count": 16,
+      "category": "DeFi"
+    },
+    {
+      "word": "CENTER",
       "count": 15,
       "category": null
     },
     {
-      "word": "FED",
+      "word": "HOW",
       "count": 15,
       "category": null
     }
