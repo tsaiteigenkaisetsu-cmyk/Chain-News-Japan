@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T14:50:17.762Z",
+  "updated_at": "2026-11-27T15:00:09.517Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 83,
+      "news_count_24h": 84,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -133,7 +133,7 @@
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 23,
+      "news_count_24h": 22,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -186,12 +186,12 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 53,
+      "count": 54,
       "category": null
     },
     {
       "word": "DATA",
-      "count": 45,
+      "count": 44,
       "category": null
     },
     {
@@ -201,13 +201,18 @@
     },
     {
       "word": "BILLION",
-      "count": 38,
+      "count": 39,
       "category": null
     },
     {
       "word": "PRICE",
-      "count": 36,
+      "count": 35,
       "category": "価格"
+    },
+    {
+      "word": "MARKET",
+      "count": 34,
+      "category": "相場"
     },
     {
       "word": "ETF",
@@ -215,18 +220,13 @@
       "category": "ETF"
     },
     {
-      "word": "MARKET",
-      "count": 33,
-      "category": "相場"
-    },
-    {
-      "word": "TRADING",
+      "word": "STOCK",
       "count": 31,
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 30,
+      "word": "TRADING",
+      "count": 31,
       "category": null
     },
     {
@@ -256,11 +256,6 @@
     },
     {
       "word": "CHIP",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "WHAT",
       "count": 21,
       "category": null
     },
@@ -270,23 +265,13 @@
       "category": null
     },
     {
+      "word": "WHAT",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "WHY",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "CEO",
-      "count": 18,
-      "category": null
-    },
-    {
-      "word": "NASDAQ",
-      "count": 17,
       "category": null
     },
     {
@@ -295,7 +280,12 @@
       "category": null
     },
     {
-      "word": "CENTER",
+      "word": "WHY",
+      "count": 17,
+      "category": null
+    },
+    {
+      "word": "CEO",
       "count": 17,
       "category": null
     },
@@ -310,12 +300,12 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "JAPAN",
       "count": 16,
       "category": null
     },
     {
-      "word": "JAPAN",
+      "word": "CENTER",
       "count": 16,
       "category": null
     },
@@ -330,7 +320,17 @@
       "category": null
     },
     {
+      "word": "NASDAQ",
+      "count": 15,
+      "category": null
+    },
+    {
       "word": "STOCKS",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "RECORD",
       "count": 15,
       "category": null
     }
