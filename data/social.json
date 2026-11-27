@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T23:59:56.531Z",
+  "updated_at": "2026-11-27T00:35:58.459Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 93,
+      "news_count_24h": 91,
       "hype_score": 10,
       "buzz_rank": 1
     },
@@ -16,18 +16,18 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 18,
+      "news_count_24h": 17,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
       "symbol": "XRP",
       "reddit_posts_24h": 1,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 17,
+      "news_count_24h": 18,
       "hype_score": 6,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "solana",
@@ -52,9 +52,9 @@
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 3,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 9
+      "buzz_rank": 12
     },
     {
       "coin_id": "avalanche-2",
@@ -72,7 +72,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 10
+      "buzz_rank": 9
     },
     {
       "coin_id": "polkadot",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 6,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -126,7 +126,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 11
+      "buzz_rank": 10
     },
     {
       "coin_id": "binancecoin",
@@ -144,7 +144,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "tether",
@@ -186,7 +186,7 @@
   "trend_words": [
     {
       "word": "NVIDIA",
-      "count": 62,
+      "count": 60,
       "category": null
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "word": "PRICE",
-      "count": 39,
+      "count": 40,
       "category": "価格"
     },
     {
@@ -210,14 +210,14 @@
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 37,
+      "category": "相場"
+    },
+    {
       "word": "ETF",
       "count": 37,
       "category": "ETF"
-    },
-    {
-      "word": "MARKET",
-      "count": 36,
-      "category": "相場"
     },
     {
       "word": "ANTHROPIC",
@@ -260,6 +260,11 @@
       "category": null
     },
     {
+      "word": "RECORD",
+      "count": 20,
+      "category": null
+    },
+    {
       "word": "CEO",
       "count": 20,
       "category": null
@@ -277,11 +282,6 @@
     {
       "word": "SOLANA",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "RECORD",
-      "count": 18,
       "category": null
     },
     {
@@ -320,17 +320,17 @@
       "category": null
     },
     {
-      "word": "TRUMP",
-      "count": 15,
-      "category": null
-    },
-    {
       "word": "FALLS",
       "count": 15,
       "category": null
     },
     {
       "word": "POWER",
+      "count": 15,
+      "category": null
+    },
+    {
+      "word": "STABLECOIN",
       "count": 15,
       "category": null
     }
