@@ -1,7 +1,7 @@
 # X 投稿下書き
 
-- 生成時刻: 2026/11/27 20:39 JST
-- ソーシャル更新: 2026/11/27 20:30 JST
+- 生成時刻: 2026/11/28 08:39 JST
+- ソーシャル更新: 2026/11/28 08:30 JST
 - 総ニュース件数: 2000件
 - Reddit モード: cached
 
@@ -12,9 +12,9 @@
 ```text
 【朝の注目通貨】
 直近24時間で特に注目が集まっている通貨をまとめました。
-1位 BTC ニュース77件 / SNS0
-2位 BNB ニュース21件 / SNS0
-3位 ETH ニュース20件 / SNS0
+1位 BTC ニュース86件 / SNS0
+2位 ETH ニュース29件 / SNS0
+3位 BNB ニュース20件 / SNS0
 
 総収集件数は 2000件。サイトは10分ごとに更新しています。
 市場の温度感をざっと確認したいときにどうぞ。
@@ -24,14 +24,14 @@ https://chain-news-japan-webappjp.vercel.app
 
 ## 昼
 
-文字数目安: 155
+文字数目安: 156
 
 ```text
 【昼の市場テーマ】
-いま強いテーマは NVIDIA / DATA / BILLION。
-注目通貨は BTC / BNB / ETH。
+いま強いテーマは NVIDIA / MILLION / STOCK。
+注目通貨は BTC / ETH / BNB。
 
-現時点では BTC が先頭で、ニュース77件 / SNS0です。
+現時点では BTC が先頭で、ニュース86件 / SNS0です。
 https://chain-news-japan-webappjp.vercel.app
 #仮想通貨ニュース
 ```
@@ -43,7 +43,7 @@ https://chain-news-japan-webappjp.vercel.app
 ```text
 【夜のまとめ】
 きょう伸びた通貨を Hype スコア順で振り返ります。
-1位 DOT Hype 300 / ニュース1件
+1位 DOT Hype 300 / ニュース0件
 2位 DOGE Hype 200 / ニュース1件
 3位 USDC Hype 200 / ニュース0件
 
