@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T16:25:25.663Z",
+  "updated_at": "2026-11-27T16:31:34.873Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,7 +7,7 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 84,
+      "news_count_24h": 83,
       "hype_score": 11,
       "buzz_rank": 1
     },
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 27,
+      "news_count_24h": 26,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -215,14 +215,19 @@
       "category": "価格"
     },
     {
+      "word": "TOKENIZED",
+      "count": 34,
+      "category": null
+    },
+    {
       "word": "ETF",
       "count": 34,
       "category": "ETF"
     },
     {
-      "word": "TOKENIZED",
-      "count": 33,
-      "category": null
+      "word": "MARKET",
+      "count": 31,
+      "category": "相場"
     },
     {
       "word": "TRADING",
@@ -230,13 +235,8 @@
       "category": null
     },
     {
-      "word": "MARKET",
-      "count": 30,
-      "category": "相場"
-    },
-    {
       "word": "ANTHROPIC",
-      "count": 28,
+      "count": 27,
       "category": null
     },
     {
@@ -265,6 +265,11 @@
       "category": null
     },
     {
+      "word": "STOCKS",
+      "count": 19,
+      "category": null
+    },
+    {
       "word": "WARNS",
       "count": 19,
       "category": null
@@ -272,11 +277,6 @@
     {
       "word": "WHAT",
       "count": 19,
-      "category": null
-    },
-    {
-      "word": "STOCKS",
-      "count": 18,
       "category": null
     },
     {
@@ -293,6 +293,11 @@
       "word": "CEO",
       "count": 17,
       "category": null
+    },
+    {
+      "word": "DEFI",
+      "count": 16,
+      "category": "DeFi"
     },
     {
       "word": "RECORD",
@@ -328,11 +333,6 @@
       "word": "CENTER",
       "count": 15,
       "category": null
-    },
-    {
-      "word": "DEFI",
-      "count": 15,
-      "category": "DeFi"
     }
   ],
   "stats": {
