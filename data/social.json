@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T10:30:27.867Z",
+  "updated_at": "2026-11-27T10:40:27.870Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,16 +45,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "cardano",
       "symbol": "ADA",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 2,
+      "news_count_24h": 1,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 14
     },
     {
       "coin_id": "avalanche-2",
@@ -108,7 +108,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 2,
       "hype_score": 50,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "near",
@@ -211,8 +211,13 @@
     },
     {
       "word": "MARKET",
-      "count": 36,
+      "count": 37,
       "category": "相場"
+    },
+    {
+      "word": "AMID",
+      "count": 34,
+      "category": null
     },
     {
       "word": "ETF",
@@ -220,13 +225,13 @@
       "category": "ETF"
     },
     {
-      "word": "AMID",
-      "count": 33,
+      "word": "ANTHROPIC",
+      "count": 31,
       "category": null
     },
     {
-      "word": "ANTHROPIC",
-      "count": 31,
+      "word": "TRADING",
+      "count": 26,
       "category": null
     },
     {
@@ -235,12 +240,17 @@
       "category": null
     },
     {
-      "word": "TRADING",
-      "count": 25,
+      "word": "CHIP",
+      "count": 23,
       "category": null
     },
     {
       "word": "DECEMBER",
+      "count": 23,
+      "category": null
+    },
+    {
+      "word": "TOKENIZED",
       "count": 23,
       "category": null
     },
@@ -251,16 +261,6 @@
     },
     {
       "word": "CEO",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "TOKENIZED",
-      "count": 22,
-      "category": null
-    },
-    {
-      "word": "CHIP",
       "count": 22,
       "category": null
     },
@@ -295,6 +295,11 @@
       "category": "DeFi"
     },
     {
+      "word": "SPOT",
+      "count": 17,
+      "category": null
+    },
+    {
       "word": "BINANCE",
       "count": 17,
       "category": null
@@ -311,11 +316,6 @@
     },
     {
       "word": "WHY",
-      "count": 16,
-      "category": null
-    },
-    {
-      "word": "SPOT",
       "count": 16,
       "category": null
     },
