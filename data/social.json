@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T10:00:18.636Z",
+  "updated_at": "2026-11-28T10:13:58.518Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 76,
-      "hype_score": 12,
+      "news_count_24h": 71,
+      "hype_score": 13,
       "buzz_rank": 1
     },
     {
@@ -16,7 +16,7 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 28,
+      "news_count_24h": 27,
       "hype_score": 0,
       "buzz_rank": 2
     },
@@ -34,8 +34,8 @@
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 11,
-      "hype_score": 27,
+      "news_count_24h": 12,
+      "hype_score": 25,
       "buzz_rank": 5
     },
     {
@@ -43,7 +43,7 @@
       "symbol": "DOGE",
       "reddit_posts_24h": 2,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 200,
       "buzz_rank": 11
     },
@@ -63,7 +63,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 13
+      "buzz_rank": 12
     },
     {
       "coin_id": "shiba-inu",
@@ -81,7 +81,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 300,
-      "buzz_rank": 14
+      "buzz_rank": 13
     },
     {
       "coin_id": "chainlink",
@@ -97,7 +97,7 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 7,
+      "news_count_24h": 5,
       "hype_score": 0,
       "buzz_rank": 8
     },
@@ -108,14 +108,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 100,
-      "buzz_rank": 15
+      "buzz_rank": 14
     },
     {
       "coin_id": "near",
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 8,
+      "news_count_24h": 7,
       "hype_score": 0,
       "buzz_rank": 7
     },
@@ -126,14 +126,14 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 16
+      "buzz_rank": 15
     },
     {
       "coin_id": "binancecoin",
       "symbol": "BNB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 24,
+      "news_count_24h": 23,
       "hype_score": 0,
       "buzz_rank": 3
     },
@@ -142,9 +142,9 @@
       "symbol": "TRX",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 0,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 16
     },
     {
       "coin_id": "tether",
@@ -195,28 +195,28 @@
       "category": null
     },
     {
-      "word": "STOCK",
-      "count": 33,
-      "category": null
-    },
-    {
-      "word": "TRADING",
-      "count": 32,
-      "category": null
-    },
-    {
       "word": "BINANCE",
       "count": 32,
       "category": null
     },
     {
-      "word": "PRICE",
+      "word": "STOCK",
       "count": 32,
+      "category": null
+    },
+    {
+      "word": "TRADING",
+      "count": 31,
+      "category": null
+    },
+    {
+      "word": "PRICE",
+      "count": 31,
       "category": "価格"
     },
     {
       "word": "DATA",
-      "count": 31,
+      "count": 30,
       "category": null
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "word": "MARKET",
-      "count": 27,
+      "count": 26,
       "category": "相場"
     },
     {
@@ -255,12 +255,12 @@
       "category": null
     },
     {
-      "word": "RECORD",
+      "word": "WALLET",
       "count": 18,
       "category": null
     },
     {
-      "word": "CHIP",
+      "word": "RECORD",
       "count": 18,
       "category": null
     },
@@ -280,14 +280,9 @@
       "category": null
     },
     {
-      "word": "WALLET",
+      "word": "CHIP",
       "count": 17,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
     },
     {
       "word": "AMID",
@@ -295,9 +290,9 @@
       "category": null
     },
     {
-      "word": "WHY",
+      "word": "ETF",
       "count": 15,
-      "category": null
+      "category": "ETF"
     },
     {
       "word": "HACK",
@@ -315,8 +310,8 @@
       "category": null
     },
     {
-      "word": "HOW",
-      "count": 15,
+      "word": "WHY",
+      "count": 14,
       "category": null
     },
     {
@@ -326,6 +321,11 @@
     },
     {
       "word": "WHAT",
+      "count": 14,
+      "category": null
+    },
+    {
+      "word": "HOW",
       "count": 14,
       "category": null
     },
