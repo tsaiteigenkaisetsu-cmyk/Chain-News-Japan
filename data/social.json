@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T12:18:57.037Z",
+  "updated_at": "2026-11-28T12:32:44.576Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -27,16 +27,16 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 11,
       "hype_score": 9,
-      "buzz_rank": 5
+      "buzz_rank": 4
     },
     {
       "coin_id": "solana",
       "symbol": "SOL",
       "reddit_posts_24h": 3,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
-      "hype_score": 25,
-      "buzz_rank": 4
+      "news_count_24h": 11,
+      "hype_score": 27,
+      "buzz_rank": 5
     },
     {
       "coin_id": "dogecoin",
@@ -215,22 +215,22 @@
       "category": "価格"
     },
     {
-      "word": "MARKET",
-      "count": 27,
-      "category": "相場"
-    },
-    {
-      "word": "TRADING",
-      "count": 27,
-      "category": null
-    },
-    {
       "word": "TOKENIZED",
       "count": 27,
       "category": null
     },
     {
+      "word": "MARKET",
+      "count": 26,
+      "category": "相場"
+    },
+    {
       "word": "BANK",
+      "count": 26,
+      "category": null
+    },
+    {
+      "word": "TRADING",
       "count": 26,
       "category": null
     },
@@ -252,11 +252,6 @@
     {
       "word": "DECEMBER",
       "count": 18,
-      "category": null
-    },
-    {
-      "word": "WALLET",
-      "count": 17,
       "category": null
     },
     {
@@ -288,6 +283,11 @@
       "word": "ETF",
       "count": 16,
       "category": "ETF"
+    },
+    {
+      "word": "WALLET",
+      "count": 16,
+      "category": null
     },
     {
       "word": "STABLECOIN",
