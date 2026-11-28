@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T14:00:22.349Z",
+  "updated_at": "2026-11-28T14:13:54.842Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -7,8 +7,8 @@
       "symbol": "BTC",
       "reddit_posts_24h": 9,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 60,
-      "hype_score": 15,
+      "news_count_24h": 58,
+      "hype_score": 16,
       "buzz_rank": 1
     },
     {
@@ -16,9 +16,9 @@
       "symbol": "ETH",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 21,
+      "news_count_24h": 20,
       "hype_score": 0,
-      "buzz_rank": 2
+      "buzz_rank": 3
     },
     {
       "coin_id": "ripple",
@@ -97,9 +97,9 @@
       "symbol": "UNI",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 4,
+      "news_count_24h": 3,
       "hype_score": 0,
-      "buzz_rank": 7
+      "buzz_rank": 8
     },
     {
       "coin_id": "litecoin",
@@ -117,7 +117,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 4,
       "hype_score": 0,
-      "buzz_rank": 8
+      "buzz_rank": 7
     },
     {
       "coin_id": "matic-network",
@@ -135,7 +135,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 21,
       "hype_score": 0,
-      "buzz_rank": 3
+      "buzz_rank": 2
     },
     {
       "coin_id": "tron",
@@ -201,7 +201,7 @@
     },
     {
       "word": "BILLION",
-      "count": 30,
+      "count": 31,
       "category": null
     },
     {
@@ -231,12 +231,7 @@
     },
     {
       "word": "TRADING",
-      "count": 25,
-      "category": null
-    },
-    {
-      "word": "ANTHROPIC",
-      "count": 23,
+      "count": 24,
       "category": null
     },
     {
@@ -245,14 +240,19 @@
       "category": null
     },
     {
+      "word": "ANTHROPIC",
+      "count": 22,
+      "category": null
+    },
+    {
       "word": "RECORD",
       "count": 19,
       "category": null
     },
     {
-      "word": "DECEMBER",
+      "word": "HACK",
       "count": 18,
-      "category": null
+      "category": "セキュリティ"
     },
     {
       "word": "CHINA",
@@ -260,14 +260,9 @@
       "category": null
     },
     {
-      "word": "HACK",
-      "count": 16,
-      "category": "セキュリティ"
-    },
-    {
-      "word": "ETF",
-      "count": 16,
-      "category": "ETF"
+      "word": "DECEMBER",
+      "count": 17,
+      "category": null
     },
     {
       "word": "WALLET",
@@ -293,6 +288,11 @@
       "word": "AMID",
       "count": 15,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 15,
+      "category": "ETF"
     },
     {
       "word": "WHAT",
