@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:59:57.262Z",
+  "updated_at": "2026-11-28T03:17:10.572Z",
   "reddit_enabled": true,
   "coins": [
     {
@@ -45,7 +45,7 @@
       "reddit_engagement_24h": 0,
       "news_count_24h": 1,
       "hype_score": 200,
-      "buzz_rank": 11
+      "buzz_rank": 12
     },
     {
       "coin_id": "cardano",
@@ -70,9 +70,9 @@
       "symbol": "SHIB",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 1,
+      "news_count_24h": 2,
       "hype_score": 0,
-      "buzz_rank": 12
+      "buzz_rank": 11
     },
     {
       "coin_id": "polkadot",
@@ -115,7 +115,7 @@
       "symbol": "NEAR",
       "reddit_posts_24h": 0,
       "reddit_engagement_24h": 0,
-      "news_count_24h": 12,
+      "news_count_24h": 11,
       "hype_score": 0,
       "buzz_rank": 5
     },
@@ -195,24 +195,19 @@
       "category": null
     },
     {
+      "word": "PRICE",
+      "count": 35,
+      "category": "価格"
+    },
+    {
       "word": "STOCK",
       "count": 35,
       "category": null
     },
     {
-      "word": "PRICE",
-      "count": 34,
-      "category": "価格"
-    },
-    {
       "word": "TRADING",
       "count": 32,
       "category": null
-    },
-    {
-      "word": "ETF",
-      "count": 30,
-      "category": "ETF"
     },
     {
       "word": "DATA",
@@ -223,6 +218,11 @@
       "word": "TOKENIZED",
       "count": 30,
       "category": null
+    },
+    {
+      "word": "ETF",
+      "count": 29,
+      "category": "ETF"
     },
     {
       "word": "MARKET",
